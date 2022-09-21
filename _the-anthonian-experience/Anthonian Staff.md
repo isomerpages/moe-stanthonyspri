@@ -151,3 +151,23 @@ description: ""
 | 5 FAITH          | Mrs Karen Yip                  | teh_may_ching_karen@moe.edu.sg                         |
 |                  | Mdm Cheryl Nonis               | nonis_cheryl_dorothy@moe.edu.sg                        |
 |                  | Mdm Siti Raihana               | siti_raihana_husainni@moe.edu.sg                       |
+
+
+| P6 Form Teachers |                        |                                |
+|------------------|------------------------|--------------------------------|
+| 6 GRATITUDE      | Mr Edwin Ong           | ong_shaoxian_edwin@moe.edu.sg  |
+|                  | Mrs Michelle Yim       | au_lei_san_michelle@moe.edu.sg |
+| 6 RESPECT        | Mdm Wang Fangfang      | wang_fangfang_a@moe.edu.sg     |
+|                  | Mrs Khoo Hwei Fang     | song_hwei_fang@moe.edu.sg      |
+| 6 RESILIENCE     | Ms Lee Yuan Fan        | lee_yuan_fan@moe.edu.sg        |
+|                  | Mdm Santha D/O Suppiah | santha_suppiah@moe.edu.sg      |
+|                  | Mdm Nur Azura Bte Azmi | nur_azura_azmi@moe.edu.sg      |
+| 6 RESPONSIBILITY | Mrs Ho Poh Tip         | loh_poh_tip@moe.edu.sg         |
+|                  | Mr Koh Yen Chieh       | koh_yen_chieh@moe.edu.sg       |
+|                  | Mrs Clarice Tay        | nyeo_ling_ling@moe.edu.sg      |
+| 6 INTEGRITY      | Ms Baidah Bte Ahmad    | baidah_bte_ahmad@moe.edu.sg    |
+|                  | Mrs Angeline Wong      | tan_su_fern@moe.edu.sg         |
+|                  | Mr Muhammad Nazirul    | md_nazirul_mustapah@moe.edu.sg |
+| 6 FAITH          | Ms Wong Suet Kiew      | wong_suet_kiew@moe.edu.sg      |
+|                  | Mdm Liza Ahmad         | liza_ahmad@moe.edu.sg          |
+|                  | Mr Simon Lee           | lee_kee_khiang@moe.edu.sg      |
