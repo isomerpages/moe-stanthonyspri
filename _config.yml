@@ -3,7 +3,7 @@ url: https://stanthonyspri-moe-edu-sg-admin.cwp.sg
 favicon: /images/Homepage/logo.png
 colors:
   primary-color: "#e21414"
-  secondary-color: "#ebda08"
+  secondary-color: "#4a90e2"
   media-colors:
     - title: media-color-one
       color: "#4a9108"
