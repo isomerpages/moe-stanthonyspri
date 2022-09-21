@@ -62,3 +62,22 @@ description: ""
 | Senior Teachers                                    |                        |                                    |
 | Character and Citizenship Education (CCE)          | Mrs Karen Yip          |  teh_may_ching_karen@moe.edu.sg    |
 | Mathematics                                        | Mrs Josephine Lai      | tan_tzy_huey_josephine@moe.edu.sg  |
+
+#### Administration And Operation Team
+
+| Administration and Operation Team    |                                             |
+|--------------------------------------|---------------------------------------------|
+| Operation Manager                    |                                             |
+| Mr How Wan Kiat                      | how_wan_kiat@moe.edu.sg                     |
+| Administration Manager               |                                             |
+| Ms Ong Tian Nah                      | ong_tian_nah@moe.edu.sg                     |
+| Corporate Support Staff              |                                             |
+| Ms Kiliammal d/o Kathamuthu          | kiliammal_kathamuthu@moe.edu.sg             |
+| Mdm Florence Foo                     | foo_lee_gan_florence@moe.edu.sg             |
+| Mdm Nur Izza Binte Mohd Rasman       |  nur_izza_mohd_rasman@moe.edu.sg            |
+| Administrative Executive             |                                             |
+| Mrs Reneeta Victor                   | victor_vincent_reneeta_justine@moe.edu.sg   |
+| ICT Manager                          |                                             |
+| Ms Lim Suan Chu                      | lim_suan_chu@moe.edu.sg                     |
+| Teacher Assistant                    |                                             |
+| Ms Erma Marlini Binte Sani           |  erma_marlini_sani@moe.edu.sg               |
