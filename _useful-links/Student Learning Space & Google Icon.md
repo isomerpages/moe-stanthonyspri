@@ -76,3 +76,10 @@ Note: The URL in the email will expire within 20 minutes. If the URL has expired
 **Q6: What are the Operating System and Browser Requirements for SLS?**
 
 SLS is accessible through internet browsers on either Windows PC, Mac, iPad or Android tablets. For a good user experience, tablets should have a screen size of at least 7 inches. However, a small number of resources may not work on tablets due to missing plugins. Currently, SLS is not fully optimised to display on mobile phones even though users can access the system and resources. The recommended operating systems and browsers are:
+
+
+
+| Ope | Column 2 | 
+| -------- | -------- | 
+| Text     | Text     | 
+
