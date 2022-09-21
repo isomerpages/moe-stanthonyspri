@@ -2,7 +2,7 @@ collections:
   our-anthonian-family:
     output: true
     order:
-      - Alumni.md
       - Anthonian Staff.md
       - Board Members.md
       - Parents Support Group.md
+      - Alumni.md
