@@ -6,8 +6,9 @@ description: ""
 ## The Lasallian Family
 
 <img src="/images/About%20Us/john%20baptist.jpg" 
-     style="width:50%">
+     style="width:25%" align = "left">
 
+<br><br><br><br><br><br>
 **ST. JOHN BAPTIST DE LA SALLE**
 
 **Born in Reims, France** : 30th April 1651  
@@ -34,7 +35,3 @@ St. John Baptist de La Salle was a pioneer in founding training colleges for tea
 <br><br>
 
 <img src="/images/About%20Us/reims%20cathedral.jpg" style="width:200px;height:200px;margin-left:px;" align = "left">  Reims Cathedral, begun in 1211 and finished in the 14th century, is rich in history and artistic splendor. St. John Baptist de La Salle was named a canon of the cathedral at age sixteen.
-
-
-
-
