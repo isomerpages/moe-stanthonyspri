@@ -101,4 +101,58 @@ Student iCON is web-based. Students can use their web browser in their internet-
 
 You can refer to the following table for guidance on the Operating Systems/browsers which students can use to log in.
 
- 
+<table>
+<thead>
+	<tr>
+		<th class="tg-nbj5" colspan="2" rowspan="2"><span style="font-weight:400;color:#000">  </span><br><span style="font-weight:400;color:#000"> </span></th>
+		<th class="tg-fyfk" colspan="6">Operating System</th>
+	</tr>
+	<tr>
+		<th class="tg-fyfk">Windows 10</th>
+		<th class="tg-fyfk">Chrome OS</th>
+		<th class="tg-fyfk">Mac OS</th>
+		<th class="tg-fyfk">iOS</th>
+		<th class="tg-fyfk">iPadOS</th>
+		<th class="tg-fyfk">Android</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td class="tg-fyfk" rowspan="4">Browser</td>
+		<td class="tg-fyfk">Chrome</td>
+		<td class="tg-nbj5"><span style="font-weight:400;color:#000">Yes</span></td>
+		<td class="tg-nbj5"><span style="font-weight:400;color:#000">Yes</span></td>
+		<td class="tg-nbj5"><span style="font-weight:400;color:#000">Yes</span></td>
+		<td class="tg-nbj5"><span style="font-weight:400;color:#000">Yes</span></td>
+		<td class="tg-nbj5"><span style="font-weight:400;color:#000">Yes</span></td>
+		<td class="tg-fyfk">Not available until after mass rollout</td>
+	</tr>
+	<tr>
+		<td class="tg-fyfk">Firefox</td>
+		<td class="tg-nbj5"><span style="font-weight:400;color:#000">Yes</span></td>
+		<td class="tg-nbj5"><span style="font-weight:400;color:#000">Yes</span></td>
+		<td class="tg-nbj5"><span style="font-weight:400;color:#000">Yes</span></td>
+		<td class="tg-nbj5"><span style="font-weight:400;color:#000">Yes</span></td>
+		<td class="tg-nbj5"><span style="font-weight:400;color:#000">Yes</span></td>
+		<td class="tg-nbj5"><span style="font-weight:400;color:#000">Yes</span></td>
+	</tr>
+	<tr>
+		<td class="tg-fyfk">Microsoft Edge</td>
+		<td class="tg-nbj5"><span style="font-weight:400;color:#000">Yes</span></td>
+		<td class="tg-fyfk">Not supported</td>
+		<td class="tg-nbj5"><span style="font-weight:400;color:#000">Yes</span></td>
+		<td class="tg-nbj5"><span style="font-weight:400;color:#000">Yes</span></td>
+		<td class="tg-fyfk">Not supported</td>
+		<td class="tg-nbj5"><span style="font-weight:400;color:#000">Yes</span></td>
+	</tr>
+	<tr>
+		<td class="tg-fyfk">Safari</td>
+		<td class="tg-fyfk">Not supported</td>
+		<td class="tg-fyfk">Not supported</td>
+		<td class="tg-nbj5"><span style="font-weight:400;color:#000">Yes</span></td>
+		<td class="tg-nbj5"><span style="font-weight:400;color:#000">Yes</span></td>
+		<td class="tg-nbj5"><span style="font-weight:400;color:#000">Yes</span></td>
+		<td class="tg-fyfk">Not supported</td>
+	</tr>
+</tbody>
+</table>
