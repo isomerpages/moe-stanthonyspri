@@ -2,9 +2,9 @@ collections:
   useful-links:
     output: true
     order:
-      - LOA Application.md
       - Parents Gateway.md
       - Student Learning Space & Google Icon.md
       - Student Care Centre@SAPS.md
       - School Supplies and Bus Services.md
       - Dental Service.md
+      - LOA Application.md
