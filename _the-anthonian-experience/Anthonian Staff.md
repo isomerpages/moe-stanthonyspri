@@ -134,3 +134,20 @@ description: ""
 | 4 FAITH          | Mrs Grace Tan                     | ho_shuyi_grace@moe.edu.sg                       |
 |                  | Ms Grace Lee                      | grace_lee_ting@moe.edu.sg                       |
 
+| P5 Form Teachers |                                |                                                        |
+|------------------|--------------------------------|--------------------------------------------------------|
+| 5 GRATITUDE      | Mdm Perminder Kaur             | perminder_kaur_randhawa@moe.edu.sg                     |
+|                  | Mr Christopher Ms Tan Shu Tian | christopher_sagaram@moe.edu.sg tan_shu_tian@moe.edu.sg |
+| 5 RESPECT        | Mrs Jasmine Foo                | chan_pei_cheng_jasmine@moe.edu.sg                      |
+|                  | Mr Kelvin Koh                  | koh_hock_lai_kelvin@moe.edu.sg                         |
+|                  | Mdm Maryam                     | maryam_ismail@moe.edu.sg                               |
+| 5 RESILIENCE     | Mrs Janice Ong                 | janice_deng_cui_cui@moe.edu.sg                         |
+|                  | Mrs Ramesh                     | gowri_raman_jathu@moe.edu.sg                           |
+|                  | Mdm Zhang Huili                | zhang_huili@moe.edu.sg                                 |
+| 5 RESPONSIBILITY | Ms Vanitha                     | vanitha_maniam@moe.edu.sg                              |
+|                  | Mrs Lina Liow                  | sim_lu_ping_lina@moe.edu.sg                            |
+| 5 INTEGRITY      | Mrs Ang (Yeo Hwee Leng)        | yeo_hwee_leng@moe.edu.sg                               |
+|                  | Ms Loh Yang Keng               | loh_yang_keng@moe.edu.sg                               |
+| 5 FAITH          | Mrs Karen Yip                  | teh_may_ching_karen@moe.edu.sg                         |
+|                  | Mdm Cheryl Nonis               | nonis_cheryl_dorothy@moe.edu.sg                        |
+|                  | Mdm Siti Raihana               | siti_raihana_husainni@moe.edu.sg                       |
