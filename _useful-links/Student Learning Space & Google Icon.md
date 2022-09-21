@@ -156,3 +156,46 @@ You can refer to the following table for guidance on the Operating Systems/brows
 	</tr>
 </tbody>
 </table>
+
+
+**Q3. What is the password requirement?**  
+
+Please follow the password requirements below:    
+
+*   Password must be at least 8 character(s) long.
+*   Password must contain at least 1 lowercase letter(s).
+*   Password must contain at least 1 numeric character(s).
+*   Password must contain at least 1 uppercase letter(s).
+*   Password must contain at least 2 alphabetic character(s).
+*   Password must not be longer than 24 character(s).
+*   Password must not be one of 3 previous passwords.
+*   Password must not match or contain first name.
+*   Password must not match or contain last name.
+*   Password must not match or contain user ID.
+
+ 
+**Q4. I have encountered one of the following problems:**
+
+1.  1.  1.  **Error AADSTS900561 given by the Google website.**
+        2.  **Website does not load.**
+        3.  **Website keeps refreshing between two sites without loading any page.**
+        4.  **Website keeps refreshing itself without loading the page.**
+
+**What should I do?**
+
+a) Check that the browser is supported by Student iCON by referring to the Operating System / Browser table above. Close the browser and reopen it. Navigate to [**https://workspace.google.com/dashboard**](https://workspace.google.com/dashboard) and repeat the logging in procedure.
+
+  
+
+b) If the above does not work, use Incognito mode on your browser to login. Upon activating Incognito mode, proceed to [**https://workspace.google.com/dashboard**](https://workspace.google.com/dashboard) and repeat the logging in procedure.
+
+  
+
+**Q5. I receive the following message: Your account is temporarily locked to prevent unauthorized use. What should I do?**
+
+1.  Try again with correct password after 2 hours
+2.  Contact the school via form teacher
+
+  
+
+You will need to provide your name and your class in the email.
