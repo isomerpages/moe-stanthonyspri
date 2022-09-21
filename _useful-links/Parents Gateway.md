@@ -21,8 +21,7 @@ please contact the SingPass Helpdesk at 6643-0555.
 
 **b.** Search for the ‘Parents Gateway’ mobile app, or scan the QR code below.
 
-<img src="/images/parentsgateway.jpeg" 
-     style="height:50%">
+<img src="/images/parentsgateway.jpeg">
 
 **c.** Download and install the app on your phone.  
 
@@ -30,22 +29,17 @@ please contact the SingPass Helpdesk at 6643-0555.
 
 **Note:** Supported OS Versions - **Android 6.0 or later & iOS 11.0 or later**
 
-<img src="/images/parentsgateway1.jpeg" 
-     style="width:50%">
+<img src="/images/parentsgateway1.jpeg">
 		 
-<img src="/images/parentsgateway.jpeg" 
-     style="width:50%">
+<img src="/images/parentsgateway.jpeg">
 		 
 **Frequently Asked Questions (FAQs)**
 
-<img src="/images/faq1.jpeg" 
-     style="width:50%">
+<img src="/images/faq1.jpeg">
 		 
-<img src="/images/faq2.jpeg" 
-     style="width:50%">
+<img src="/images/faq2.jpeg">
 		 
-<img src="/images/faq3.jpeg" 
-     style="width:50%">
+<img src="/images/faq3.jpeg" >
 		 
 For the full list of FAQs, you may visit [https://pg.moe.edu.sg/faq](https://pg.moe.edu.sg/faq)
 
