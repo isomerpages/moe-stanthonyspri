@@ -6,7 +6,6 @@ description: ""
 ## School Supplies and Bus Services
 
 *   Book Supplier
-
   *   **Pacific Bookstores Pte Ltd**
    *   Website: [www.pacificbookstores.com](http://www.pacificbookstores.com/)
    * Contact Number:  6559 2269
