@@ -16,7 +16,7 @@ Click on the link & or scan the QR code for the Student Care Centre’s Registra
 QR Code as follows:
 
 <img src="/images/studentcareqr.jpg" 
-     style="width:50%" align = "left">
+     style="width:25%" align = "left">
 <br><br><br><br><br><br><br>
 **Important Dates**
 
