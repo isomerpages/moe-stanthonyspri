@@ -13,8 +13,6 @@ description: ""
 
 *   Mondays - Fridays (9:00 a.m. - 3:00 p.m.)
 
-  
-
 *   School Nametag
     *   Please approach the school bookstore for the school nametag order form.
 
