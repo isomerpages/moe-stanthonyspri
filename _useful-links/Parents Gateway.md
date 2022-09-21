@@ -20,4 +20,30 @@ please contact the SingPass Helpdesk at 6643-0555.
 **a.** Open the Apple App Store, Google Play Store or Huawei App Gallery on your mobile phone.
 
 **b.** Search for the ‘Parents Gateway’ mobile app, or scan the QR code below.
+
+<img src="/images/parentsgateway.jpeg" 
+     style="height:50%">
+
+**c.** Download and install the app on your phone.  
+
+**d.** Enable ‘**Allow Notifications**’ to receive push notifications.
+
+**Note:** Supported OS Versions - **Android 6.0 or later & iOS 11.0 or later**
+
+<img src="/images/parentsgateway1.jpeg" 
+     style="width:50%">
 		 
+<img src="/images/parentsgateway.jpeg" 
+     style="width:50%">
+		 
+**Frequently Asked Questions (FAQs)**
+
+<img src="/images/faq1.jpeg" 
+     style="width:50%">
+		 
+<img src="/images/faq2.jpeg" 
+     style="width:50%">
+		 
+<img src="/images/faq3.jpeg" 
+     style="width:50%">
+
