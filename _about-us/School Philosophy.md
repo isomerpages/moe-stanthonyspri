@@ -22,7 +22,6 @@ As Anthonians, we care for everyone as unique and infinitely valuable human pers
 
 #### **Mission**
 
-#### 
 
 #### **_Enabling our children to learn how to learn and to learn how to live,_** **_to become persons of integrity and persons for others in God's service_**
 
