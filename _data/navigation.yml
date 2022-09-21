@@ -3,7 +3,4 @@ links:
   - title: About Us
     collection: about-us
   - title: Useful Links
-    url: /permalink
-    sublinks:
-      - title: Submenu Title
-        url: /permalink
+    collection: useful-links
