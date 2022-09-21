@@ -44,14 +44,14 @@ Your account will be locked after  **10 consecutive**  attempts to log in wi
 
 You can either: 
 
-1)  Approach your  **form teacher/subject teacher**  to unlock your account
+1) Approach your  **form teacher/subject teacher**  to unlock your account
 
-2) Contact the  **School SLS Helpdesk**  between 7a.m. to 3p.m. as below:  
-      **Email Address:**   [lim\_suan\_chu@moe.edu.sg](mailto:lim_suan_chu@moe.edu.sg) **or**   [kiliammal\_kathamuthu@moe.edu.sg](mailto:kiliammal_kathamuthu@moe.edu.sg)  
+2)  Contact the  **School SLS Helpdesk**  between 7a.m. to 3p.m. as below:  
+**Email Address:**   [lim\_suan\_chu@moe.edu.sg](mailto:lim_suan_chu@moe.edu.sg) **or**   [kiliammal\_kathamuthu@moe.edu.sg](mailto:kiliammal_kathamuthu@moe.edu.sg)  
 
- **Telephone:**  65690822
+**Telephone:**  65690822
 
-     You will need to provide your name and your class in the email. 
+You will need to provide your name and your class in the email. 
 
 3) Call the  **SLS Helpdesk**  to unlock your account.
 
