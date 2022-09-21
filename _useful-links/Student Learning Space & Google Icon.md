@@ -12,11 +12,7 @@ description: ""
 		 
 An online platform that allows students to access curriculum-aligned resources.
 
-Click  [here](https://stanthonyspri.moe.edu.sg/qql/slot/u549/Revamp%202021/Useful%20Links/Student%20Learning%20Space/Step%20by%20Step%20Help%20Guide%20for%20SLS.pdf)  for instructions on how to activate the student's account.
-
-An online platform that allows students to access curriculum-aligned resources.
-
-Click  [here](https://stanthonyspri.moe.edu.sg/qql/slot/u549/Revamp%202021/Useful%20Links/Student%20Learning%20Space/Step%20by%20Step%20Help%20Guide%20for%20SLS.pdf)  for instructions on how to activate the student's account.
+Click  [here](/files/Step%20by%20Step%20Help%20Guide%20for%20SLS.pdf)  for instructions on how to activate the student's account.
 
 **FREQUENTLY ASKED QUESTIONS**
 
@@ -28,7 +24,7 @@ Click  [here](https://stanthonyspri.moe.edu.sg/qql/slot/u549/Revamp%202021/Use
 
   
 
-**Q2: I have forgotten my username. What should I do?**
+**Q2: I have forgotten my username. What should I do**
 
 The format of your  **user name**  is a combination of the first 5 characters of your Name, the last 4 digits and the letter of your  **NRIC/FIN/BC, e.g. (RACHE1234Z).**
 
@@ -87,3 +83,6 @@ SLS is accessible through internet browsers on either Windows PC, Mac, iPad or A
 | iOS 11 and later     |  Safari 11 and later     |
 | Android 5 and later    |  Google Chrome 64 and later     |
 | ChromeOS    |  Google Chrome 64 and later     |
+
+
+#### Tips to create a strong password
