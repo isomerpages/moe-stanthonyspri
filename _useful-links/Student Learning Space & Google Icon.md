@@ -79,7 +79,11 @@ SLS is accessible through internet browsers on either Windows PC, Mac, iPad or A
 
 
 
-| Ope | Column 2 | 
+| Operating System | Browser | 
 | -------- | -------- | 
-| Text     | Text     | 
-
+| Microsoft Windows 7 SP1 and Windows 8.1     |  Google Chrome 64 and later     |
+| Microsoft Windows 10    |  Google Chrome 64 and later<br><br> Microsoft Edge 17 and later    |
+| Mac OS X 10.9 and later     |  Safari 11 and later<br><br>Google Chrome 64 and later     |
+| iOS 11 and later     |  Safari 11 and later     |
+| Android 5 and later    |  Google Chrome 64 and later     |
+| ChromeOS    |  Google Chrome 64 and later     |
