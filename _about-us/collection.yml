@@ -2,5 +2,5 @@ collections:
   about-us:
     output: true
     order:
-      - The Lasallian Family.md
       - School Philosophy.md
+      - The Lasallian Family.md
