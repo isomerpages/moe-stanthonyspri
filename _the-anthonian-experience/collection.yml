@@ -1,5 +1,4 @@
 collections:
   the-anthonian-experience:
     output: true
-    order:
-      - Anthonian Staff.md
+    order: []
