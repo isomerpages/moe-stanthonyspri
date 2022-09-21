@@ -20,7 +20,7 @@ description: ""
   
 **Canonized** : 24th May 1900  
   
-**Proclaimed Patron of Christian Teachers** : 15th May 195
+**Proclaimed Patron of Christian Teachers** : 15th May 1950
 
 St. John Baptist de La Salle was born of a noble, well-to-do family in Reims, France, in 1651. As a young student, he felt the call to be a priest and became a Canon of Reims Cathedral at the age of sixteen. While studying for the priesthood in Paris, he suffered the loss of both his parents. Since he was the eldest in the family, he had to return home to look after his brothers and sisters. However, the call to priesthood was very strong and he later returned to the seminary and was ordained priest at the age of 27.
 
@@ -31,4 +31,10 @@ St. John Baptist de La Salle was a man of great vision and intellect, enriched w
 In this way, the Brothers of the Christian Schools, otherwise known as the De La Salle Brothers, came into being. Worn out by austerities and exhausting labours, he died at Saint Yon near Rouen early in 1719 on Good Friday, only weeks before his sixty-eighth birthday.
 
 St. John Baptist de La Salle was a pioneer in founding training colleges for teachers, reform schools for delinquents, technical schools, and secondary schools for modern languages, arts, and sciences. His work quickly spread through France and, after his death, continued to spread across the globe. In 1900, John Baptist de La Salle was declared a Saint. In 1950, because of his life and inspirational writings, he was made Patron Saint of all those who work in the field of education. St. John Baptist de La Salle inspired others to teach and care for young people, to meet failure and frailty with compassion, and to affirm, strengthen and heal. At present, there are De La Salle schools in more than 80 different countries around the globe.
+<br><br>
+
+<img src="/images/About%20Us/reims%20cathedral.jpg" style="width:200px;height:200px;margin-left:px;" align = "left">  Reims Cathedral, begun in 1211 and finished in the 14th century, is rich in history and artistic splendor. St. John Baptist de La Salle was named a canon of the cathedral at age sixteen.
+
+
+
 
