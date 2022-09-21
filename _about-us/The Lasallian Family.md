@@ -6,7 +6,7 @@ description: ""
 ## The Lasallian Family
 
 <img src="/images/About%20Us/john%20baptist.jpg" 
-     style="width:25%" align = "left">
+     style="width:15%" align = "left">
 
 <br><br><br><br><br><br>
 **ST. JOHN BAPTIST DE LA SALLE**
