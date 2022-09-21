@@ -3,38 +3,16 @@ title: Anthonian Staff
 permalink: /our-anthonian-family/Anthonian-Staff/
 description: ""
 ---
-
-
 ## Anthonian Staff
 
 #### St. Anthony's Primary School
 
-<table>
-<thead>
-	<tr>
-		<th>Principal</th>
-		<th><th>
-	</tr>
-</thead>
-<tbody>
-	<tr>
-		<td class="tg-0pky">Mrs Esther Choo</td>
-		<td class="tg-0pky">GOH_Lung_Eng@schools.gov.sg</span></a></td>
-	</tr>
-	<tr>
-		<td class="tg-0pky">Vice- Principal</td>
-		<td class="tg-0pky"></td>
-	</tr>
-	<tr>
-		<td class="tg-0pky">Mrs Christina Manuel</td>
-		<td class="tg-0pky">Christina_SEOW@schools.gov.sg</span></a></td>
-	</tr>
-	<tr>
-		<td class="tg-0pky">Ms Anna Mathew</td>
-		<td class="tg-0pky">Mathew_ANNA@schools.gov.sg</span></a> </td>
-	</tr>
-</tbody>
-</table>
+| Principal            |                               |
+|----------------------|-------------------------------|
+| Mrs Esther Choo      | GOH_Lung_Eng@schools.gov.sg   |
+| Vice- Principal      |                               |
+| Mrs Christina Manuel | Christina_SEOW@schools.gov.sg |
+| Ms Anna Mathew       | Mathew_ANNA@schools.gov.sg    |
 
 #### Key Personnel and Teacher Leaders
 
