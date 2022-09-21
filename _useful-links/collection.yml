@@ -2,5 +2,6 @@ collections:
   useful-links:
     output: true
     order:
+      - Student Care Centre@SAPS.md
       - Parents Gateway.md
       - Student Learning Space & Google Icon.md
