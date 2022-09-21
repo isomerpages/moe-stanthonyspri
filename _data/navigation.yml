@@ -2,5 +2,7 @@ logo: /images/Homepage/logo.png
 links:
   - title: About Us
     collection: about-us
+  - title: Our Anthonian Family
+    collection: our-anthonian-family
   - title: Useful Links
     collection: useful-links
