@@ -15,4 +15,16 @@ Click on the link & or scan the QR code for the Student Care Centre’s Registra
 
 QR Code as follows:
 
-![](/images/studentcareqr.jpg)
+<img src="/images/studentcareqr.jpg" 
+     style="width:50%" align = "left">
+<br><br><br><br><br><br><br>
+**Important Dates**
+
+Submission by 16 September 2022 (Friday), 5.00pm  
+
+Results announced via email on 7 October 2022 (Friday)
+
+**Contact Details**
+
+*   Website: [](http://www.ymca.org.sg/cdcscc/) [www.ymca.org.sg/education/ymca-education-services/](http://www.ymca.org.sg/education/ymca-education-services/)
+*   Email:      [sascc@ymca.edu.sg](mailto:sascc@ymca.edu.sg)
