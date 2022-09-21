@@ -2,6 +2,6 @@ collections:
   our-anthonian-family:
     output: true
     order:
-      - Parents Support Group.md
       - Anthonian Staff.md
       - Board Members.md
+      - Parents Support Group.md
