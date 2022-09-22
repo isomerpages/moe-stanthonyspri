@@ -8,7 +8,7 @@ description: ""
 <table class="tg">
 <thead>
 	<tr>
-		<th class="tg-c3ow" colspan="2">Faith<br>Lasallians believe in God, in others and in ourselves.</th>
+		<th class="tg-c3ow" colspan="2"><center>Faith<br>Lasallians believe in God, in others and in ourselves.</th></center>
 	</tr>
 </thead>
 <tbody>
