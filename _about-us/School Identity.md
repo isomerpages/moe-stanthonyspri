@@ -145,3 +145,5 @@ The school celebrated its 135th Anniversary on 4 July 2015 at the redeveloped p
 
 ### <center>St. Anthony's Boys' School - Victoria Street (1920s)</center>
 <img align="center" style="width:50%" src="/images/history_04.jpeg">
+
+### <center>St. Anthony's Boys' School - After adding a 4th level (1950s)</center>
