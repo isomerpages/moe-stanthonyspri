@@ -5,23 +5,22 @@ description: ""
 ---
 ## The Lasallian Family
 
-<img src="/images/About%20Us/john%20baptist.jpg" 
-     style="width:15%" align = "left">
+<img align="left" style="width:15%" src="/images/About%20Us/john%20baptist.jpg">
 
 <br><br><br><br><br><br>
 **ST. JOHN BAPTIST DE LA SALLE**
 
-**Born in Reims, France** : 30th April 1651  
+**Born in Reims, France**&nbsp;: 30th April 1651  
   
-**Ordained Priest** : 9th April 1678  
+**Ordained Priest**&nbsp;: 9th April 1678  
   
-**Died** : 7th April 1719  
+**Died**&nbsp;: 7th April 1719  
   
-**Beatified** : 19th February 1888  
+**Beatified**&nbsp;: 19th February 1888  
   
-**Canonized** : 24th May 1900  
+**Canonized**&nbsp;: 24th May 1900  
   
-**Proclaimed Patron of Christian Teachers** : 15th May 1950
+**Proclaimed Patron of Christian Teachers**&nbsp;: 15th May 1950
 
 St. John Baptist de La Salle was born of a noble, well-to-do family in Reims, France, in 1651. As a young student, he felt the call to be a priest and became a Canon of Reims Cathedral at the age of sixteen. While studying for the priesthood in Paris, he suffered the loss of both his parents. Since he was the eldest in the family, he had to return home to look after his brothers and sisters. However, the call to priesthood was very strong and he later returned to the seminary and was ordained priest at the age of 27.
 
@@ -34,7 +33,7 @@ In this way, the Brothers of the Christian Schools, otherwise known as the De La
 St. John Baptist de La Salle was a pioneer in founding training colleges for teachers, reform schools for delinquents, technical schools, and secondary schools for modern languages, arts, and sciences. His work quickly spread through France and, after his death, continued to spread across the globe. In 1900, John Baptist de La Salle was declared a Saint. In 1950, because of his life and inspirational writings, he was made Patron Saint of all those who work in the field of education. St. John Baptist de La Salle inspired others to teach and care for young people, to meet failure and frailty with compassion, and to affirm, strengthen and heal. At present, there are De La Salle schools in more than 80 different countries around the globe.
 <br><br>
 
-<img src="/images/About%20Us/reims%20cathedral.jpg" style="width:150px;height:300px;margin-left:px;" align = "left">  <center>Reims Cathedral, begun in 1211 and finished in the 14th century, is rich in history and artistic splendor. St. John Baptist de La Salle was named a canon of the cathedral at age sixteen.</center>
+<img align="left" style="width:150px;height:300px;margin-left:px;" src="/images/About%20Us/reims%20cathedral.jpg">  <center>Reims Cathedral, begun in 1211 and finished in the 14th century, is rich in history and artistic splendor. St. John Baptist de La Salle was named a canon of the cathedral at age sixteen.</center>
+<br><br><br><br><br>
 
-<img src="/images/About%20Us/hotel%20de%20la%20cloche.jpg" style="width:150px;height:300px;margin-left:px;" align = "left">
-
+<img align="left" style="width:150px;height:300px;margin-left:px;" src="/images/About%20Us/hotel%20de%20la%20cloche.jpg"> Facade of the birthplace of St. John Baptist de La Salle, the Hotel de la Cloche. His family lived there till June 24, 1665, which was when they moved to the Rue Sainte-Marguerite. It is now known as the Hotel De La Salle and is owned by the Institute of the Brothers of the Christian Schools. It contains a very interesting collection of materials concerning the Saint.
