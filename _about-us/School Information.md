@@ -15,7 +15,7 @@ Above the centre is a Phoenix with outstretched wings. According to mythology, t
 
 Our motto 'CRESCIT EUNDO' (Growing as We Advance) sums up the ideals of the symbols of the school crest. Anthonians are called to grow from strength to strength, and to continually renew our lives. The five-pointed star, or the Signum Fidei, signifies that we are part of the Lasallian Family of schools.
 
-### The School Rally
+#### The School Rally
 
 Attention Anthonians, your motto still bearing
 
