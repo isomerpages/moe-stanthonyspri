@@ -57,3 +57,9 @@ _Art Elective Programme_
 
 Our Art Elective Programme is for P2 to P6 Anthonians who have a greater interest in or aptitude for visual arts.  These students enjoy exposure and support through customised activities and specialised training sessions. The programme strengthens pupils’ artistic skills by allowing them to explore art elements and harness their creativity to create unique works of art.
 
+![](/images/image%20(5).png)
+
+_ArtsReach Programme_
+
+The ArtsReach programme enables Anthonians to use the artistic skills they have learnt to be a blessing to the community, in alignment with our Lasallian values of Faith, Service and Community. ArtsReach includes school-based activities as well as collaborations with external partners. Our Anthonians enjoy these meaningful opportunities to interact with and serve others.
+
