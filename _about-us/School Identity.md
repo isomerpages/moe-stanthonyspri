@@ -25,3 +25,67 @@ So simple and resounding was his teaching of the Catholic Faith, with even the m
 
 He is typically depicted with a book and the Infant Child Jesus, who famously appeared to St. Anthony in a mystical experience, and is commonly referred to today as the "finder of lost articles." Upon exhumation, some 336 years after his death, his body was found to be corrupted, yet his tongue was totally incorrupt, so perfect were the teachings that had been formed upon it.
 
+<img align="center" style="width:40%" src="/images/Statue.jpg">
+
+
+### THE BEGINNINGS
+
+St. Anthony’s School was established on 1 August 1879 by the Catholic Portuguese Mission of Singapore. It was then called St. Anna’s School and had a mixture of boys and girls. Fr. Jose Pedro Sta. Anna de Cunha, a native of Goa, Assistant to Fr. Nicolau Inacio Pinto, had started the school to cater to the poor children who could not afford an education, even though the school fees then were very low. St. Anna’s School, which was located in a small rented house in Middle Road, did not charge any fees. The six pupils of the first enrolment thus enjoyed free tuition. C.M.E. Buccanam was the 1st principal of St. Anna’s School and was aided by two teachers, Margaret Dias and Mary Anna Ruggelly.
+
+  
+
+### ST. ANTHONY'S BOYS' AND GIRLS' SCHOOL
+
+On 23 February 1886, in conjunction with the shift to the new school building, and with the consent of the Archbishop Primate, Canon Pinto changed the name of the school to St. Anthony’s Boys' and Girls' School.
+
+  
+
+### ST. ANTHONY'S BOYS' SCHOOL
+
+The government did not consent to the existence of a mixed school, so Fr. Pinto, on December 1887, compromised by separating the boys and the girls in the school.
+
+  
+
+In November 1893, under the suggestion of the school inspector that the boys’ school be physically separated from the girls’ school, St. Anthony’s became St. Anthony’s Boys’ School and St. Anthony’s Girls’ School. The boys’ school was transferred to two old shophouses behind the Parochial House.
+
+  
+
+### NEW BUILDING FOR ST. ANTHONY'S BOYS' SCHOOL
+
+Fr. Antonio Abilio Sapage had petitioned for the erection of a modern and spacious new building for the school. On 21st October 1924, the Bishop of Macao, Dom Jose da Costa Nunes, agreed to build such a building. The Portuguese Mission and the government shared equally the cost of building the new school. The two old shophouses were demolished. By June 1926, there stood a reinforced concrete, three-storied building for the school in their places. A bronze statue of St. Anthony was placed on the top of it. This building is still standing today and is gazetted for conservation.
+
+  
+
+### ST. ANTHONY'S UNDER THE DE LA SALLE CHRISTIAN BROTHERS
+
+On 11th October 1938, an agreement was signed between the Vicar General of the Portuguese Mission and the Visitor of the Christian Brothers in Malaya for the school to be taken over by the Christian Brothers. In January 1939, the school was 
+
+formally taken over and managed and controlled by the Christian Brothers of St. John Baptist de La Salle. The first Director of the school was Rev. Brother Canice. 
+
+  
+
+### JAPANESE OCCUPATION
+
+During the Japanese Occupation the school continued to function as part of the Japanese Educational System. As a result, the building was not taken over by the Japanese Army. When Liberation Day came, St. Anthony’s was able to resume at once. Brother Christopher took over from Brother Canice as the Director in November 1945.
+
+  
+
+### AFTER THE WAR
+
+In 1954, it was felt that the present location could not provide adequate laboratory and other specialist facilities. Thus, some of St. Anthony’s secondary classes were transferred to St. Joseph’s Institution. In 1961, all the secondary classes were transferred to St. Joseph’s Institution. St. Anthony’s Boys’ School then became purely a primary school.
+
+  
+
+### THE SHIFT TO BUKIT BATOK
+
+The School was relocated in May 1992 to Bukit Batok and became a co-ed school. It was thus renamed St. Anthony's Primary School.
+
+  
+
+### GROWING AS WE ADVANCE
+
+The School continued to undergo several upgrading programmes to improve, enhance and add-on to its infrastructure in order to provide Anthonians with more facilities to enhance their learning experiences.
+
+In 2013, the school was temporarily relocated to Jurong East to enable the Bukit Batok campus to undergo extensive redevelopment works which included the building of an Indoor Sports Hall and the addition of two levels of classrooms at its existing blocks. This enabled us to operate as a single-session school from 2015 when we returned to our Bukit Batok campus.
+
+The school celebrated its 135th Anniversary on 4 July 2015 at the redeveloped premises with a Re-dedication Mass, celebrated by Archbishop William Goh, who also officially opened the school building, and an Anniversary Dinner which brought together many cohorts of Anthonians and former staff members.
