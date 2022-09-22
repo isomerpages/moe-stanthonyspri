@@ -63,3 +63,4 @@ _ArtsReach Programme_
 
 The ArtsReach programme enables Anthonians to use the artistic skills they have learnt to be a blessing to the community, in alignment with our Lasallian values of Faith, Service and Community. ArtsReach includes school-based activities as well as collaborations with external partners. Our Anthonians enjoy these meaningful opportunities to interact with and serve others.
 
+![](/images/image%20(1).png)
