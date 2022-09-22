@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Principal's Message.md
       - School Philosophy.md
       - The Lasallian Family.md
       - School Rules.md
