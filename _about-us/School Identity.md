@@ -144,9 +144,18 @@ The school celebrated its 135th Anniversary on 4 July 2015 at the redeveloped p
 | 2022         | Mrs. Esther Choo             |
 
 ### <center>St. Anthony's Boys' School - Victoria Street (1920s)</center>
-<img align="center" style="width:50%" src="/images/history_04.jpeg">
+<img align="center" style="width:50%" src="/images/history_01.jpeg">
 
 ### <center>St. Anthony's Boys' School - After adding a 4th level (1950s)</center>
 
 <img align="center" style="width:60%" src="/images/history_02.jpeg">
+
+### <center>School Photo, with St Joseph's Church in the background (1960s)</center>
+
+<img align="center" style="width:60%" src="/images/history_04.jpeg">
+
+### <center>St. Anthony's Boys' School - (until 1991)</center>
+
+<img align="center" style="width:40%" src="/images/oldschool.jpg">
+
 
