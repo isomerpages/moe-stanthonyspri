@@ -88,7 +88,7 @@ SLS is accessible through internet browsers on either Windows PC, Mac, iPad or A
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT7ig-oU28rrSEKZENklXgInyF8Ut1z9l2CWBl2ICAVY1b_qmuHJryHoh_8FrEU_k_yvLikw-PQgmwX/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-**#### Google Icon**
+#### Google Icon
 
 **FREQUENTLY ASKED QUESTIONS**
 
