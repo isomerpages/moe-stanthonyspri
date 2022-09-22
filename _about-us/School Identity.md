@@ -138,3 +138,6 @@ The school celebrated its 135th Anniversary on 4 July 2015 at the redeveloped p
 | 2017 - 2021  | Ms. Cecilia Lim              |
 | 2022         | Mrs. Esther Choo             |
 
+### <center>**St. Anthony's Boys' School - Victoria Street (1920s)**</center>
+<img align="center" style="width:50%" src="/images/history_04.jpeg">
+
