@@ -38,3 +38,11 @@ Our **Art Curriculum** allows pupils to:
 
 ![](/images/image%20(2).jpg)
 
+|   Level   |                                                                         Learning Areas                                                                         |   |   |   |
+|:---------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|---|---|---|
+| Primary 1 | Getting to Know Art (Artists: Georgette Chen, Lim Cheng Hoe and Kandinsky)                                                                                     |   |   |   |
+| Primary 2 | Exploring Art (Artists: Richard Long, Giuseppe Arcimboldo and Cheng Soo Peng)                                                                                  |   |   |   |
+| Primary 3 | Get Inspired by Picasso/ Get Inspired by the Occupations (Artists: Picasso and Chen Wen Hsi)                                                                   |   |   |   |
+| Primary 4 | Get Inspired by Jackson Pollock and Vincent Van Gogh; Museum Studies in Singapore Art Museum/ National Gallery (Artists: Jackson Pollock and Vincent Van Gogh) |   |   |   |
+| Primary 5 | Get Inspired by Dali (Artists: Salvador Dali and Vladimir Kush)                                                                                                |   |   |   |
+| Primary 6 | Get Inspired by our local artists (Artists: Han Sai Por, Liu Kang and Jaafar Latiff)                                                                           |   |   |   |
