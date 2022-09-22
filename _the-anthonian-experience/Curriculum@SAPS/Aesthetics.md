@@ -38,6 +38,8 @@ Our **Art Curriculum** allows pupils to:
 
 ![](/images/image%20(2).jpg)
 
+![](/images/image%20(3).jpg)
+
 |   Level   |                                                                         Learning Areas                                                                         |   |   |   |
 |:---------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|---|---|---|
 | Primary 1 | Getting to Know Art (Artists: Georgette Chen, Lim Cheng Hoe and Kandinsky)                                                                                     |   |   |   |
