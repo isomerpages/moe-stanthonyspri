@@ -5,7 +5,9 @@ description: ""
 ---
 ## Principal's Message 
 
-<img align="left" style="width:200px;height:300px;margin-left:px;" src="/images/Mrs%20Esther%20Choo%20-%20pic.jpeg"> Dear Parents and Guardians,  
+<img style="width: 35%;" src="/images/Mrs%20Esther%20Choo%20-%20pic.jpeg" align = "left" />
+
+<p>Dear Parents and Guardians,</p>
   
 I am humbled and privileged to be called to lead and serve in St Anthony's Primary School, alongside a team of dedicated staff and supportive parents. It is with a grateful heart that I continue to the good work of my predecessors who have brought the school to where it is today. I will do my utmost to bring out the best in the staff and children, to see to their growth and well-being, and to create meaningful and memorable experiences in their years in school.  
   
@@ -23,3 +25,4 @@ Crescit Eundo
 Yours in Partnership,  
 Mrs Esther Choo  
 Principal
+
