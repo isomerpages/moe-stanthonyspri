@@ -2,8 +2,8 @@ collections:
   the-anthonian-experience:
     output: true
     order:
-      - Curriculum@SAPS/Education Technology.md
       - Curriculum@SAPS/.keep
       - Curriculum@SAPS/Aesthetics.md
       - Curriculum@SAPS/Character and Citizenship Education.md
+      - Curriculum@SAPS/Education Technology.md
       - Curriculum@SAPS/English.md
