@@ -10,7 +10,7 @@ third_nav_title: Curriculum@SAPS
 
 <center>To enable our pupils to learn about the arts and to use their knowledge, skills and talents to contribute to society.</center>
 
-**<center>Vision**</center>
+**<center>Vision</center>**
 
 <center>A school with a lively arts atmosphere where pupils appreciate the arts and aspire to use their talents in service of God, family and nation.</center>
 
