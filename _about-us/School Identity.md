@@ -173,3 +173,10 @@ The school celebrated its 135th Anniversary on 4 July 2015 at the redeveloped p
 ### <center> SAPS@Bukit Batok (2015 till today) </center> 
 
 <img align="center" style="width:60%" src="/images/bukitbatoksaps.jpg">
+
+### <center> Some staff members (past and present) of SABS/SAPS </center>
+
+<img align="center" style="width:40%" src="/images/groupphoto.jpg">
+<br>
+<img align="center" style="width:40%" src="/images/groupphoto2.jpg">
+
