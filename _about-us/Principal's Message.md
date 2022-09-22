@@ -5,7 +5,7 @@ description: ""
 ---
 ## Principal's Message 
 
-<img style="width: 35%;" src="/images/Mrs%20Esther%20Choo%20-%20pic.jpeg" align = "left" />
+<img style="width: 20%;" src="/images/Mrs%20Esther%20Choo%20-%20pic.jpeg" align = "left" />
 
 <p>Dear Parents and Guardians,</p>
   
@@ -25,4 +25,3 @@ Crescit Eundo
 Yours in Partnership,  
 Mrs Esther Choo  
 Principal
-
