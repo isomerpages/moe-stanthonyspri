@@ -136,19 +136,6 @@ description: ""
 Note: Major rules are in **bold**.
 
 
-| <center>Consequences</center> | 
-| --------
-| Based on documentation and/or evidence from teachers and statements by pupils, the Case Management Team will decide on a plan of action to address any infraction of the school rules. These actions may include but are not limited to the following: 
-<ul>
-	<li>Informing Parents</li>
-	<li>Meeting with Parents</li>
-	<li>Counselling</li>
-	<li>Daily monitoring of Anthonian’s activities by the school and parents.</li>
-	<li>Awarding a ‘Fair’ or ‘Poor’ conduct grade</li>
-	<li>   Restorative Service(s)</li>
-	<li>Suspension</li>
-	<li>Caning</li>
-</ul>  
 
 	
 	
