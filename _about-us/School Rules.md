@@ -150,4 +150,4 @@ Note: Major rules are in **bold**.
 	
 ![](/images/PEattire.jpg)
 	
-<center> PE Attire</center> 
+<center> PE Attire</center>
