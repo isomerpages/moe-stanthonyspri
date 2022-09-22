@@ -62,10 +62,8 @@ You may also wish to email the form and come to the school to pay in cash.
  Anthonian Alumni Registration<br>
  [AA Ordinary Membership 2019.pdf](/files/AA%20Ordinary%20%20Membership%202019.pdf)<br>
  Anthonian Alumni Registration<br>
- [AA Junior Membership2019.pdf]((/files/AA%20Junior%20Membership2019.pdf))
+ [AA Junior Membership2019.pdf](/files/AA%20Junior%20Membership2019.pdf)
  
  Please contact [AnthonianAlumni2016@gmail.com](mailto:AnthonianAlumni2016@gmail.com) for more details.
 
 Join us on our facebook page: [https://www.facebook.com/stanthony.primary](https://www.facebook.com/stanthony.primary)
- 
- 
