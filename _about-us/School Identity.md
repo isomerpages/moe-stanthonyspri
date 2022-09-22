@@ -158,4 +158,7 @@ The school celebrated its 135th Anniversary on 4 July 2015 at the redeveloped p
 
 <img align="center" style="width:40%" src="/images/oldschool.jpg">
 
+### <center>St. Anthony's Primary School (SAPS) in Bukit Batok (1991 - 1999)</center>
+
+
 
