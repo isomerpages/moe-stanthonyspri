@@ -149,7 +149,7 @@ Note: Major rules are in **bold**.
 	<li>   Restorative Service(s)</li>
 	<li>Suspension</li>
 	<li>Caning</li>
-</ul> |
+</ul>
 	
 	
 ### Appropriate Attire and Grooming
