@@ -35,3 +35,6 @@ Our **Art Curriculum** allows pupils to:
 ·         Create digital art works using ICT tools (SAPS LLP - Digital Art Programme).
 
 ·         Create art works using clay as a medium (SAPS LLP - Ceramics Programme)
+
+![](/images/image%20(2).jpg)
+
