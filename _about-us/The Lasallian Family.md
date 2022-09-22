@@ -41,7 +41,7 @@ St. John Baptist de La Salle was a pioneer in founding training colleges for tea
 
 <img align="left" style="width:150px;height:300px;margin-left:px;" src="/images/About%20Us/hotel%20de%20la%20salle.jpg"><center><br><br>View of the Hotel de La Salle as it is today. The building was seriously damaged during the war of 1914-1918, but this courtyard has remained almost untouched, and gives us an idea of what the Hotel de la Cloche must have been like during the time when the Saint and his family were still living in it.</center>
 
-<p><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 ### Our Lasallian Heritage
 
