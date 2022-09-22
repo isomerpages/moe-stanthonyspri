@@ -85,5 +85,5 @@ WE BELIEVE that success in school means more than good examinations results. It 
 
 #### Signum Fidei
 <br>
-<img align="center" style="width:35%" src="/images/About%20Us/signum%20fidei.jpg ">
-
+<img align="center" style="width:20%" src="/images/About%20Us/signum%20fidei.jpg ">
+	
