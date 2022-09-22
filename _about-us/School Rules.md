@@ -143,3 +143,11 @@ Note: Major rules are in **bold**.
 	
 	
 ### Appropriate Attire and Grooming
+	
+![](/images/Uniform.jpg)
+
+<center> School Uniform</center>
+	
+![](/images/PEattire.jpg)
+	
+<center> PE Attire</center> 
