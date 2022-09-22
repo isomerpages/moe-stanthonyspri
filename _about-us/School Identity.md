@@ -8,7 +8,7 @@ description: ""
 ### St. Anthony of Padua
 
 <img align="left" style="width:20%" src="/images/padua.jpg">
-
+<br><br><br><br><br><br><br>
 The school is named after St. Anthony of Padua.
 
   
