@@ -35,3 +35,6 @@ St. John Baptist de La Salle was a pioneer in founding training colleges for tea
 <br><br>
 
 <img src="/images/About%20Us/reims%20cathedral.jpg" style="width:150px;height:300px;margin-left:px;" align = "left">  <center>Reims Cathedral, begun in 1211 and finished in the 14th century, is rich in history and artistic splendor. St. John Baptist de La Salle was named a canon of the cathedral at age sixteen.</center>
+
+<img src="/images/About%20Us/hotel%20de%20la%20cloche.jpg" style="width:150px;height:300px;margin-left:px;" align = "left">
+
