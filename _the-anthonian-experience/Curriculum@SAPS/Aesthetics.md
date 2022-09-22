@@ -108,6 +108,7 @@ With a sound foundation and opportunities to have fun in the process, Anthonians
 ![](/images/musicart2.jpg)
 
 **The Music Curriculum**
+
 |   Level   |                                                 Learning Areas                                                 |   |   |   |
 |:---------:|:--------------------------------------------------------------------------------------------------------------:|---|---|---|
 | Primary 1 | ·       Children’s folk songs ·       Introduction to classroom percussion instruments and Boomwhackers        |   |   |   |
