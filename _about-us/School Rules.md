@@ -134,10 +134,9 @@ description: ""
 </table>
 
 Note: Major rules are in **bold**.
-
-|                                                                                                                                                                                                                             <center>Consequences</center>                                                                                                                                                                                                                        |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Based on documentation and/or evidence from teachers and statements by pupils, the Case Management Team will decide on a plan of action to address any infraction of the school rules. These actions may include but are not limited to the following:
+<br>
+**<center>Consequences</center>** 
+Based on documentation and/or evidence from teachers and statements by pupils, the Case Management Team will decide on a plan of action to address any infraction of the school rules. These actions may include but are not limited to the following:
 <ul>
 <li>Informing parents Meeting with parents</li>
 	<li>Counselling</li>
