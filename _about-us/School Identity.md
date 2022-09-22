@@ -24,3 +24,4 @@ So simple and resounding was his teaching of the Catholic Faith, with even the m
   
 
 He is typically depicted with a book and the Infant Child Jesus, who famously appeared to St. Anthony in a mystical experience, and is commonly referred to today as the "finder of lost articles." Upon exhumation, some 336 years after his death, his body was found to be corrupted, yet his tongue was totally incorrupt, so perfect were the teachings that had been formed upon it.
+
