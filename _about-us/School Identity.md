@@ -103,6 +103,7 @@ The school celebrated its 135th Anniversary on 4 July 2015 at the redeveloped p
 | 1886 | C.M.E. Buccannam | F. Philip, J. Derric, M.Monis       |
 
 **ST. ANTHONY'S BOYS' AND GIRLS' SCHOOL**
+
 | Year | Principal        | Assistants                                |
 |------|------------------|-------------------------------------------|
 | 1888 | Miss J. Tolley   | Mary Richards, A. Rodrigues, V. Eber      |
@@ -110,6 +111,7 @@ The school celebrated its 135th Anniversary on 4 July 2015 at the redeveloped p
 | 1886 | C.M.E. Buccannam | F. Philip, J. Derric, M.Monis             |
 
 **DIRECTORS OF THE SCHOOL**
+
 | 1879 – 1881 | Fr. Jose Pedro Sta. Anna e Cunha             |
 |-------------|----------------------------------------------|
 | 1881 – 1891 | Fr. Inacio Teofilo Pinto & Fr. J.J. Baptista |
@@ -120,6 +122,7 @@ The school celebrated its 135th Anniversary on 4 July 2015 at the redeveloped p
 | 1927 – 1938 | Fr. Artur Goncalves                          |
 
 **DIRECTORS AND PRINCIPALS OF ST. ANTHONY'S BOYS’ AND GIRLS’ PRIMARY SCHOOL**
+
 | 1946 – 1948  | Bro. Christopher             |
 |--------------|------------------------------|
 | 1948 – 1951  | Bro. Philip                  |
