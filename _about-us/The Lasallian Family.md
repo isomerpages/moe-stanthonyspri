@@ -40,3 +40,52 @@ St. John Baptist de La Salle was a pioneer in founding training colleges for tea
 <br><br><br><br>
 
 <img align="left" style="width:150px;height:300px;margin-left:px;" src="/images/About%20Us/hotel%20de%20la%20salle.jpg"><center>View of the Hotel de La Salle as it is today. The building was seriously damaged during the war of 1914-1918, but this courtyard has remained almost untouched, and gives us an idea of what the Hotel de la Cloche must have been like during the time when the Saint and his family were still living in it.</center>
+
+### Our Lasallian Heritage
+
+
+#### Mission of Lasallian Schools
+
+The Mission of the School of the Christian Brothers of St. John Baptist De La Salle is to form a community where teachers and Anthonians can live their faith and become the persons that God wants them to be.
+
+#### The School Community
+
+WE BELIEVE that the love of Christ binds us together as children of God, for all are made in God’s image and members of His family. On this faith rests the mutual love and respect that is fostered between teachers and Anthonians in our school. WE BELIEVE that the Brothers and their lay colleagues give testimony to the Providence and Presence of God as they educate the young in the tradition of St. John Baptist De La Salle, giving attention to all and especially to pupils whose development is hindered by economic, personal and other problems.
+
+#### Learning and Living the Faith
+
+WE BELIEVE that the learning of religious truth is fundamental to education in our schools. WE BELIEVE that religious development is not isolated from development of the mind and conscience, nor from the development of the body. Logic and analysis, honesty and teamwork in games, all provide a sound foundation for understanding religion and living by one’s beliefs. WE BELIEVE that our schools must teach what is true, just, good and beautiful, guided by our Catholic philosophy which finds harmony, not a contradiction, in spirit and matter, in faith and reason.
+
+  
+
+#### Life-Long Growth
+
+WE BELIEVE that, like parents, teachers labour to form the minds and character of Anthonians and become transformed in the process, as teachers and Anthonians help each other grow as persons. WE BELIEVE that Anthonians must learn how to learn as they need to teach themselves after leaving school.
+
+#### Success
+
+WE BELIEVE that success in school means more than good examinations results. It means learning how to live as well as how to make a living.
+
+#### Our Mission Is Fulfilled When Our Antonians:  
+
+*   Understand and accept themselves and others,
+    
+*   Develop their talents in service to society,
+    
+*   Think logically and critically, and express themselves effectively,
+    
+*   Know clearly what they believe in and why they believe,
+    
+*   Believe and trust in Jesus Christ as their personal Saviour,
+    
+*   Maintain physical fitness and mental health, avoiding excesses and abuses,
+    
+*   Possess social awareness and a responsibility for the common goal.
+
+#### Signum Fidei
+<br>
+<img align="center" style="width:35%" src="/images/About%20Us/signum%20fidei.jpg">
+
+The Signum Fidei - official seal of the De La Salle Brothers
+
+
