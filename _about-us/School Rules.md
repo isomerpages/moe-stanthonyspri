@@ -131,3 +131,5 @@ description: ""
 	</tr>
 </tbody>
 </table>
+
+Note: Major rules are in **bold**.
