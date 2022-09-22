@@ -116,9 +116,7 @@ description: ""
 |                  | Mdm Nur Faizah Bte Mohd Alim         | nur_faizah_mohd_alim@moe.edu.sg                                |
 | 3 FAITH          | Ms Nicolette Ho                      | nicolette_ho_yi_ting@moe.edu.sg                                |
 |                  | Mr Lee Zhen Hui Willy                | lee_zhen_hui@moe.edu.sg                                        |
-|                  | Mrs Cherlyn Pang                     | koh_may_luang_cherlyn@moe.edu.sg                               |
-| 1 SERVICE        | Mdm Kader Meerah D/O Mohamed Maideen | kader_meerah_mohd_maideen@moe.edu.sg                           |
-|                  | Ms Thazin Soe                        | ma_thazin_soe@moe.edu.sg                                       |
+
 
 | P4 Form Teachers |                                   |                                                 |
 |------------------|-----------------------------------|-------------------------------------------------|
