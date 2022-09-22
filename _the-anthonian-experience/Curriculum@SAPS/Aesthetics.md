@@ -64,3 +64,23 @@ _ArtsReach Programme_
 The ArtsReach programme enables Anthonians to use the artistic skills they have learnt to be a blessing to the community, in alignment with our Lasallian values of Faith, Service and Community. ArtsReach includes school-based activities as well as collaborations with external partners. Our Anthonians enjoy these meaningful opportunities to interact with and serve others.
 
 ![](/images/image%20(1).png)
+
+**Our Partners**
+
+We work closely with the following partners so that our pupils learn to appreciate art, apply their skills and serve others in authentic contexts.
+
+_Hong Kah Day Care Centre and St Luke’s Elderly Care Centre_
+
+Over the years, Anthonians enjoyed visiting these centres to interact with residents and guide them through art activities. More recently, despite the constraints posed by COVID-19, our pupils have continued to bring cheer to the residents by making art works which were then brought to the centres by our teachers.  
+
+_Fei Yue Community Services_
+
+SAPS supports the Intergenerational Learning Programme, which encourages seniors to sign up for courses to learn new skills. In partnership with Fei Yue Community Services, Anthonians conduct art workshops where they guide participants through creative processes such as ceramics and Zentangle patterns.
+
+_Singapore Art Museum_
+
+SAPS collaborates with the Singapore Art Museum (SAM) to develop in our pupils skills and dispositions such as museum etiquette, art appreciation and 21st century competencies. The highlight of our partnership is _Think! Contemporary_, a museum-based programme organised for our P4 Anthonians in collaboration with SAM and four other primary schools. _Think! Contemporary_ incorporates artwork from SAM’s collection as primary resources for art lessons, and the programme includes school-based art trails and assembly programmes by SAM. The programme culminates in an online exhibition by SAM, where selected student works are featured.
+
+_Hong Kah North Community Centre and PAssionArts Singapore_
+
+Our Performing Arts groups (Band, Choir, Contemporary Dance, Chinese Dance) and Visual Arts groups participate in the annual PAssionArts Festival at Hong Kah North CC. This event is an opportunity for our pupils to showcase their art works and performances to the public.
