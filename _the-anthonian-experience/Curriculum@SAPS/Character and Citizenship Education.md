@@ -4,3 +4,4 @@ permalink: /the-anthonian-experience/CurriculumatSAPS/Character-and-Citizenship-
 description: ""
 third_nav_title: Curriculum@SAPS
 ---
+## Character and Citizenzhip Education 
