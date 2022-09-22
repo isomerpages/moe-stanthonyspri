@@ -90,3 +90,43 @@ Our Performing Arts groups (Band, Choir, Contemporary Dance, Chinese Dance) and 
 <center>**MUSIC**</center>
 
 The school’s **Music Curriculum** consists of three aspects - **_Learn it!_**, **_Play it!_** and **_Love it!_**.
+
+![](/images/Music%20Art%2021.jpeg)
+
+**Learn it!**
+
+In SAPS, all Anthonians enjoy a music curriculum which allows them to learn the basic elements of music such as rhythm, tempo and pitch.
+
+**Play it!**
+
+With the fundamentals right, Anthonians learn to play music through creative music-making processes using musical instruments, digital applications (e.g., Garageband) and everyday objects.
+
+**Love it!**
+
+With a sound foundation and opportunities to have fun in the process, Anthonians will grow to love and appreciate music with increasing sensitivity.
+
+![](/images/musicart2.jpg)
+
+**The Music Curriculum**
+|   Level   |                                                 Learning Areas                                                 |   |   |   |
+|:---------:|:--------------------------------------------------------------------------------------------------------------:|---|---|---|
+| Primary 1 | ·       Children’s folk songs ·       Introduction to classroom percussion instruments and Boomwhackers        |   |   |   |
+| Primary 2 | ·       Children’s folk songs ·       Introduction to hand bells and xylophones                                |   |   |   |
+| Primary 3 | ·       World Children’s folk songs ·       Introduction to keyboarding                                        |   |   |   |
+| Primary 4 | ·       World Children’s folk songs ·       Introduction to ukulele                                            |   |   |   |
+| Primary 5 | ·       Experiential Learning ·       Introduction to the Garageband application for music remix (using iPads) |   |   |   |
+| Primary 6 | ·       Experiential Learning ·       Introduction to drumming circles                                         |   |   |   |
+
+![](/images/Music%20Art%2026.jpeg)
+
+**Music Programmes**
+
+_Performing Arts Exposure Programme_
+
+This programme is extended to P1 and P2 Anthonians to expose them to the various Performing Arts CCAs (Choir, Brass Band, Chinese Dance and Contemporary Dance). Anthonians will be able to experience the activities that are carried out within the CCAs like dancing with cultural music, choral singing, understanding of percussion and brass instruments. During the exposure programme, Anthonians will also be introduced to musical concepts like beats, tempo, instrument identification, and singing with appropriate pitch and rhythm.
+
+_Programme for Active Learning (PAL) - Music_
+
+The PAL music module allows pupils to experience music activities, develop a range of skills, interact with their peers and build confidence. The module incorporates values education and provides multiple opportunities for pupils to apply and strengthen their social and emotional competencies.
+
+The module also offers a myriad of opportunities for pupils to listen, create and perform. Through this module, students learn fundamental music concepts such as beat and rhythm, pitch, tempo and dynamic changes. They will experience music through listening to different kinds of world music and sounds, creating rhythmic chants, representing what they hear using graphic notation, responding through body movement, and singing. By participating in individual and group music activities, our pupils learn to apply the fundamental music concepts they have learnt to different situations and engage in music learning through exploration and play.
