@@ -12,9 +12,9 @@ Department Vision and Mission
 
 To grow Anthonians into confident and effective communicators of the English Language</center>
 
-**Mission**
+**<center>Mission**
 
-To provide a rich environment for Anthonians to enjoy and apply their learning
+To provide a rich environment for Anthonians to enjoy and apply their learning</center>
 
 **Our teaching and learning approach**
 
