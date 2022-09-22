@@ -6,3 +6,6 @@ description: ""
 ## School Identity 
 
 ### St. Anthony of Padua
+
+![](/images/padua.jpg)
+
