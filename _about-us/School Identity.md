@@ -25,6 +25,8 @@ So simple and resounding was his teaching of the Catholic Faith, with even the m
 
 He is typically depicted with a book and the Infant Child Jesus, who famously appeared to St. Anthony in a mystical experience, and is commonly referred to today as the "finder of lost articles." Upon exhumation, some 336 years after his death, his body was found to be corrupted, yet his tongue was totally incorrupt, so perfect were the teachings that had been formed upon it.
 
+### HISTORY
+
 <img align="center" style="width:40%" src="/images/Statue.jpg">
 
 
@@ -140,4 +142,3 @@ The school celebrated its 135th Anniversary on 4 July 2015 at the redeveloped p
 
 ### <center>**St. Anthony's Boys' School - Victoria Street (1920s)**</center>
 <img align="center" style="width:50%" src="/images/history_04.jpeg">
-
