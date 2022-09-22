@@ -89,3 +89,52 @@ The School continued to undergo several upgrading programmes to improve, enhance
 In 2013, the school was temporarily relocated to Jurong East to enable the Bukit Batok campus to undergo extensive redevelopment works which included the building of an Indoor Sports Hall and the addition of two levels of classrooms at its existing blocks. This enabled us to operate as a single-session school from 2015 when we returned to our Bukit Batok campus.
 
 The school celebrated its 135th Anniversary on 4 July 2015 at the redeveloped premises with a Re-dedication Mass, celebrated by Archbishop William Goh, who also officially opened the school building, and an Anniversary Dinner which brought together many cohorts of Anthonians and former staff members.
+
+#### ADMINISTRATIVE SET-UP (1879 TO PRESENT)
+
+**ST. ANNA'S SCHOOL**
+
+| Year | Principal        | Assistants                          |
+|------|------------------|-------------------------------------|
+| 1884 | Miss J. McIntyre | E. McIntyre, J. Derric              |
+| 1885 | Miss J. McIntyre | E. McIntyre, J. Derric, P. McIntyre |
+| 1886 | C.M.E. Buccannam | F. Philip, J. Derric, M.Monis       |
+
+**ST. ANTHONY'S BOYS' AND GIRLS' SCHOOL**
+| Year | Principal        | Assistants                                |
+|------|------------------|-------------------------------------------|
+| 1888 | Miss J. Tolley   | Mary Richards, A. Rodrigues, V. Eber      |
+| 1889 | Miss J. Tolley   | Mary Richards, A. Rodrigues, Miss Cazalas |
+| 1886 | C.M.E. Buccannam | F. Philip, J. Derric, M.Monis             |
+
+**DIRECTORS OF THE SCHOOL**
+| 1879 – 1881 | Fr. Jose Pedro Sta. Anna e Cunha             |
+|-------------|----------------------------------------------|
+| 1881 – 1891 | Fr. Inacio Teofilo Pinto & Fr. J.J. Baptista |
+| 1891 – 1898 | Fr. Cesar Augusto dos Santos Vital           |
+| 1898 – 1906 | Fr. Adroaldo Maria dos Santos, (Acting)      |
+| 1906 – 1921 | Fr. Francisco Bonito Braganca                |
+| 1921 – 1927 | Fr. Antonio Abilio Sapage                    |
+| 1927 – 1938 | Fr. Artur Goncalves                          |
+
+**DIRECTORS AND PRINCIPALS OF ST. ANTHONY'S BOYS’ AND GIRLS’ PRIMARY SCHOOL**
+| 1946 – 1948  | Bro. Christopher             |
+|--------------|------------------------------|
+| 1948 – 1951  | Bro. Philip                  |
+| 1952         | Bro. Bernard                 |
+| 1953 – 1954  | Bro. William                 |
+| 1955 – 1956  | Bro. Thomas                  |
+| 1956 – 1957  | Bro. Finan                   |
+| 1958 – 1960  | Bro. Gabriel                 |
+| 1960         | Bro. Sebastian               |
+| 1960 – 1965  | Mr. Teo Kim Song             |
+| 1965 – 1968  | Mr. Leong Hong Hee           |
+| 1968 – 1976  | Mr. Kenneth D’Rozario        |
+| 1976 – 1992  | Mr. Tan Hye San              |
+| 1992 – 1999  | Mr. Michael Yong Shao Chih   |
+| 1999 – 2003  | Ms. Bernadette Lim Bee Hiong |
+| 2003 – 2010  | Mr. Thomas Koh               |
+| 2010 - 2016  | Ms. Christina Teo            |
+| 2017 - 2021  | Ms. Cecilia Lim              |
+| 2022         | Mrs. Esther Choo             |
+
