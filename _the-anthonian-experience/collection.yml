@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - Curriculum@SAPS/.keep
-      - English.md
