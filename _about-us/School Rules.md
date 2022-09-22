@@ -42,7 +42,7 @@ description: ""
 <table class="tg">
 <thead>
 	<tr>
-		<th class="tg-fyfk" colspan="3">Community<br>Lasallians work with others to achieve our vision to be caring, passionate and joyful learners in serving God, family and nation.</th>
+		<th class="tg-fyfk" colspan="3"><center>Community<br>Lasallians work with others to achieve our vision to be caring, passionate and joyful learners in serving God, family and nation.</center></th>
 	</tr>
 </thead>
 <tbody>
@@ -127,7 +127,8 @@ description: ""
 		<td class="tg-dgl5" colspan="2">Assault/Fighting: <span style="font-weight:400;color:#000">Anthonians do not use physical violence.</span></td>
 	</tr>
 	<tr>
-		<td class="tg-dgl5" colspan="2">Bullying: <span style="font-weight:400;color:#000">Anthonians do not engage in bullying (verbal, physical, emotional) or cyberbullying and report all bullying cases.</span></td>
+		<td class="tg-dgl5" colspan="2">Bullying: <span style="font-weight:400;color:#000">Anthonians do not engage in bullying (verbal, physical, emotional) or cyberbullying and report all bullying cases.
+</span></td>
 	</tr>
 </tbody>
 </table>
