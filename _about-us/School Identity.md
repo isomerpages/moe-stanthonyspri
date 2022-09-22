@@ -170,3 +170,6 @@ The school celebrated its 135th Anniversary on 4 July 2015 at the redeveloped p
 
 <img align="center" style="width:30%" src="/images/sapsjurong.jpg">
 
+### <center> SAPS@Bukit Batok (2015 till today) </center> 
+
+<img align="center" style="width:60%" src="/images/bukitbatoksaps.jpg">
