@@ -48,3 +48,5 @@ Our **Art Curriculum** allows pupils to:
 | Primary 4 | Get Inspired by Jackson Pollock and Vincent Van Gogh; Museum Studies in Singapore Art Museum/ National Gallery (Artists: Jackson Pollock and Vincent Van Gogh) |   |   |   |
 | Primary 5 | Get Inspired by Dali (Artists: Salvador Dali and Vladimir Kush)                                                                                                |   |   |   |
 | Primary 6 | Get Inspired by our local artists (Artists: Han Sai Por, Liu Kang and Jaafar Latiff)                                                                           |   |   |   |
+
+![](/images/visualart.png)
