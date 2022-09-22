@@ -2,7 +2,6 @@ collections:
   the-anthonian-experience:
     output: true
     order:
-      - Curriculum@SAPS/Malay Language.md
       - Curriculum@SAPS/.keep
       - Curriculum@SAPS/Aesthetics.md
       - Curriculum@SAPS/Character and Citizenship Education.md
@@ -11,3 +10,4 @@ collections:
       - Curriculum@SAPS/Mathematics.md
       - Curriculum@SAPS/Chinese Language.md
       - Curriculum@SAPS/Tamil Language.md
+      - Curriculum@SAPS/Malay Language.md
