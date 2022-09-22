@@ -37,7 +37,7 @@ St. John Baptist de La Salle was a pioneer in founding training colleges for tea
 <br><br><br>
 
 <img align="left" style="width:200px;height:200px;margin-left:px;" src="/images/About%20Us/hotel%20de%20la%20cloche.jpg"><center>Facade of the birthplace of St. John Baptist de La Salle, the Hotel de la Cloche. His family lived there till June 24, 1665, which was when they moved to the Rue Sainte-Marguerite. It is now known as the Hotel De La Salle and is owned by the Institute of the Brothers of the Christian Schools. It contains a very interesting collection of materials concerning the Saint.</center>
-<br><br><br><br>
+<br><br>
 
 <img align="left" style="width:150px;height:300px;margin-left:px;" src="/images/About%20Us/hotel%20de%20la%20salle.jpg"><center>View of the Hotel de La Salle as it is today. The building was seriously damaged during the war of 1914-1918, but this courtyard has remained almost untouched, and gives us an idea of what the Hotel de la Cloche must have been like during the time when the Saint and his family were still living in it.</center>
 
@@ -56,7 +56,6 @@ WE BELIEVE that the love of Christ binds us together as children of God, for all
 
 WE BELIEVE that the learning of religious truth is fundamental to education in our schools. WE BELIEVE that religious development is not isolated from development of the mind and conscience, nor from the development of the body. Logic and analysis, honesty and teamwork in games, all provide a sound foundation for understanding religion and living by one’s beliefs. WE BELIEVE that our schools must teach what is true, just, good and beautiful, guided by our Catholic philosophy which finds harmony, not a contradiction, in spirit and matter, in faith and reason.
 
-  
 
 #### Life-Long Growth
 
@@ -87,5 +86,3 @@ WE BELIEVE that success in school means more than good examinations results. It 
 <img align="center" style="width:35%" src="/images/About%20Us/signum%20fidei.jpg">
 
 The Signum Fidei - official seal of the De La Salle Brothers
-
-
