@@ -50,3 +50,10 @@ Our **Art Curriculum** allows pupils to:
 | Primary 6 | Get Inspired by our local artists (Artists: Han Sai Por, Liu Kang and Jaafar Latiff)                                                                           |   |   |   |
 
 ![](/images/visualart.png)
+**Art Enrichment Programmes**
+![](/images/image%20(3).png)
+
+_Art Elective Programme_
+
+Our Art Elective Programme is for P2 to P6 Anthonians who have a greater interest in or aptitude for visual arts.  These students enjoy exposure and support through customised activities and specialised training sessions. The programme strengthens pupils’ artistic skills by allowing them to explore art elements and harness their creativity to create unique works of art.
+
