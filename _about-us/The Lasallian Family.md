@@ -85,4 +85,36 @@ WE BELIEVE that success in school means more than good examinations results. It 
 
 #### Signum Fidei
 <br>
-<img align="center" style="width:20%" src="/images/About%20Us/signum%20fidei.jpg ">
+<img align="center" style="width:20%" src="/images/About%20Us/signum%20fidei.jpg "> 
+<center>The Signum Fidei - official seal of the De La Salle Brothers.</center>
+
+The present logo of the Brothers is a five-pointed and radiant star. This reminds us of the star of Bethlehem which led the Wise Men of the East to Christ. For these Magi, it was a sign of their faith. Thus, Signum Fidei, or Latin for “sign of faith”, is the motto of the Brothers. The Star is to the Brothers a symbol of their faith as Christians and their inspiration. It reminds them to reach always for the reachable star of their convictions and ideals. Through the centuries, the star of the Brothers has been depicted in various ways according to prevailing design trends.
+
+### Christian Brothers' Schools
+
+#### THE LASALLIAN FAMILY IN SINGAPORE
+
+  
+
+Primary Schools:
+
+*   St. Anthony’s Primary School
+*   De La Salle School
+*   St. Joseph’s Institution Junior
+*   St. Joseph’s Institution International
+*   St. Stephen’s School
+
+  
+
+Secondary Schools:
+
+*   St. Joseph’s Institution
+*   St. Patrick’s School
+*   St. Joseph’s Institution International
+
+Other Lasallian Organisations:
+
+*   St. Joseph’s Community
+*   St. Patrick’s Community
+*   La Salle Centre Singapore
+*   Lasalle College of the Arts
