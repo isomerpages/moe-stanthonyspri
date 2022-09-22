@@ -4,7 +4,8 @@ permalink: /about-us/school-rules/
 description: ""
 ---
 ## School Rules
-<table>
+
+<table class="tg">
 <thead>
 	<tr>
 		<th class="tg-c3ow" colspan="2">Faith<br>Lasallians believe in God, in others and in ourselves.</th>
