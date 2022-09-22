@@ -84,3 +84,5 @@ SAPS collaborates with the Singapore Art Museum (SAM) to develop in our pupils s
 _Hong Kah North Community Centre and PAssionArts Singapore_
 
 Our Performing Arts groups (Band, Choir, Contemporary Dance, Chinese Dance) and Visual Arts groups participate in the annual PAssionArts Festival at Hong Kah North CC. This event is an opportunity for our pupils to showcase their art works and performances to the public.
+
+![](/images/image.jpg)
