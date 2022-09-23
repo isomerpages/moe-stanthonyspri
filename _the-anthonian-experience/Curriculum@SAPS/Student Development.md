@@ -15,7 +15,7 @@ The Student Development Team is made up of the Year Heads, Subject Head (Student
 **<u>School Programmes</u>**<br>
 **Anthonian Positive Education Experience (APEX)**
 
-<img align="center" style="width:50%" src="/images/image4.png">
+<img align="center" style="width:25%" src="/images/image4.png">
 
 
 **Growth Mindset@SAPS**
@@ -44,3 +44,4 @@ This year, we embarked on our growth mindset journey as a school to learn how we
 <center>Growth Mindset@SAPS teaches Anthonians to:</center> 
 
 <center>Embrace Challenges, Learn from Mistakes, Enjoy Effort, Grow their Brains, Seek Feedback and Be Inspired by Others.</center>
+
