@@ -96,3 +96,11 @@ Together, we can fight dengue and keep our family members, neighbours and commun
 
 ![](/images/image%20(20).jpg)
 
+**Biodiversity Week** 
+
+  
+
+During Biodiversity Week, our P1 and P2 pupils learnt about flora and fauna native to Singapore. They explored an interactive activity book and viewed a short animated video that follows Bobby and Stella on their journey to find a place to grow a seed. Through this activity, our Anthonians gained a better appreciation of biodiversity and became more aware of the need to conserve nature. They developed a deeper understanding of the world around them and found out how things work through simple investigations. Overall, it was a fun and enriching learning experience for them.
+
+![](/images/image24.png)
+
