@@ -2,9 +2,9 @@ collections:
   the-anthonian-experience:
     output: true
     order:
-      - Sports & Games/Badminton.md
-      - Sports & Games/Football.md
       - Sports & Games/.keep
+      - Sports & Games/Football.md
+      - Sports & Games/Badminton.md
       - Curriculum@SAPS/.keep
       - Curriculum@SAPS/Aesthetics.md
       - Curriculum@SAPS/Character and Citizenship Education.md
