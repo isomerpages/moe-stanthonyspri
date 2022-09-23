@@ -164,3 +164,5 @@ Despite the challenges posed by COVID-19, Anthonians continue to hone their skil
 ![](/images/english9.jpeg)
 _<center>Anthonians attending the Raffles Institution Debating 101 Programme</center>_
 
+![](/images/image%20(6).jpg)
+_<center>Preparation time for a friendly debate spar with another school</center>_
