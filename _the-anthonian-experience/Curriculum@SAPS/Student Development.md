@@ -11,7 +11,6 @@ third_nav_title: Curriculum@SAPS
 The Student Development Team is made up of the Year Heads, Subject Head (Student Development) and Level Managers. We work closely with the CCE department and Pupil Discipline & Leadership team to oversee the holistic development of our Anthonians. 
 
   
-
 **<u>School Programmes</u>**<br>
 **Anthonian Positive Education Experience (APEX)**
 
@@ -45,3 +44,4 @@ This year, we embarked on our growth mindset journey as a school to learn how we
 
 <center>Embrace Challenges, Learn from Mistakes, Enjoy Effort, Grow their Brains, Seek Feedback and Be Inspired by Others.</center>
 
+<img align="center" style="width:25%" src="/images/image5.png">
