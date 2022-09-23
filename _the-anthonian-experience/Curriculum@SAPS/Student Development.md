@@ -62,3 +62,12 @@ Each class creates an environment where growth mindset messages are promoted and
 **<center>Mindset Studio</center>**
 
 ![](/images/ms1.jpg)
+
+![](/images/ms2.jpg)
+
+**<center>Teachers’ Training</center>**
+
+Besides Growth Mindset training for teachers, customised experiential and interactive training programmes were designed for segments of students so they do not just learn the content but experience it. For our P1 and P2 Anthonians, it was a highly interactive and hands-on session to create awareness and introduce them to the concept of Growth Mindset. Through activities such as  Stacko Challenge and Dominoes Fun, they learnt to use growth mindset language and positive self-talk to help them succeed in accomplishing difficult or new tasks. They also learnt to seek challenges, identify the difficulties they may face and reflect on the learning that can be drawn from their failures.
+
+![](/images/image9%20(1).png)
+
