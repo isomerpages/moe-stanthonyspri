@@ -48,25 +48,22 @@ The Tier 1 programme is incorporated in the school’s Visual Arts (VA) curricul
 				<p align="center">Letters of Appreciation</p>
 		</td>
 	</tr>
+</table>
+<table>
 	<tr>
-		<td></td>
 		<td colspan="2">
 				<img src="/images/image15.png"/>
 				<br>
-				<p align="center">P4 digital art work using Pixel art: No More Tears, Corona, 2020 (featured at the Think! Contemporary Exhibition 2020)</p>
+				<p align="center">A P1 student using shapes to create a drawing of an animal</p>
 		</td>
 		<td colspan="2">
 				<img src="/images/image14.jpeg">
 				<br>
-				<p align="center">P5 students working on their paper cutouts digital animation</p>
+				<p align="center">At P2: Exploring the use of typography</p>
 		</td>
 		<td colspan="2">
-				<img src="/images/image17.jpeg">
+				<img src="/images/image17.jpeg"/>
 				<br>
-				<p align="center">P6 students working on their claymation</p>
-		</td>
+				<p align="center">Letters of Appreciation</p>
 	</tr>
 </table>
-
-
-
