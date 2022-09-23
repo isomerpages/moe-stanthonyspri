@@ -58,4 +58,10 @@ Primary 4 Anthonians completed a marble maze game and used a micro:bit keep tab 
 ![](/images/als9.jpeg)
 Primary 4 Anthonians playing with the cardboard table football and the micro:bit recorded the scores
 
+![](/images/als8.jpeg)
+Primary 4 and Primary 5 Anthonians proudly displaying their micro:bit projects on CODE@SAPS Day
 
+![](/images/als10.jpeg)
+Anthonians from all levels get to try out the games created using micro:bits
+
+**Primary 3 Coding Programme**
