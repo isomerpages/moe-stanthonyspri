@@ -134,3 +134,38 @@ The world is producing more food than we can finish. Yet, it is unevenly distrib
 
 The world is producing more food than we can finish. Yet, it is unevenly distributed, with the poor going hungry while food is being thrown away elsewhere. The importance of reducing food wastage is taught and emphasised across all levels in SAPS. Through the Clean Plate Campaign, each Anthonian is strongly encouraged to order only what they can finish so as to reduce food waste. In SAPS, we also have Food Waste Ambassadors to help to monitor food wastage during recess.
 
+![](/images/science3.jpg)
+
+![](/images/science4.jpg)
+
+**Virtual Lessons @ Science Centre**
+
+The Singapore Science Centre organised online Science Demonstrations through their official YouTube channel. The sessions, which were aligned with the syllabus, were attended by our P4 to P6 Anthonians during the HBL period. The live demonstrations reinforced a range of Science concepts including Diversity, Cycles and Interactions.
+
+Through the engaging demonstrations by the staff of the Science Centre, P4 Anthonians learnt about how different states of matter can change when heat is applied. They also observed what happens when carbon dioxide frozen. P5 Anthonians explored microorganisms and cells and appreciated their significance as the building blocks of living things on earth. P6 Anthonians took a closer look at the different problems that the Earth is facing, and how they affect our lives. Through exciting demonstrations and a participative lecture, Anthonians discovered what they can do to protect the Earth and how Singapore is helping to tackle climate change issues. It was an eye-opening experience for our Anthonians!
+
+**Enrichment Programmes**
+
+
+The following programmes are organised to hone in students a keener interest in passion for learning Science: 
+
+*   Science Buskers 2021
+*   E2K Science Programme
+*   Nobel Summer Workshop and Mcurie Workshop organised by NUS High School
+
+**Science Buskers 2021**
+
+ 
+Interested P5 Anthonians participated in the Science Buskers competition organised by the Singapore Science Centre. The competition aims to promote learning of Science in an engaging way and to generate greater interest in creative science communications and expressions.
+
+![](/images/science5.jpg)
+
+**E2K Science Programme**
+  
+
+The E2K Science Programme offers opportunities for Anthonians to engage in scientific investigations to discover and deepen their understanding of advanced science concepts through inquiry. Every year, P4 to P6 Anthonians with an interest in and aptitude for Science are invited to participate in this programme. The rich learning experiences of the programmes help  Anthonians to:
+ 
+
+*   Develop the habits, attitudes and dispositions scientists possess; and.-
+*   Gain important 21st century competencies such as critical thinking, invention thinking and effective communication skills.
+
