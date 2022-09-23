@@ -6,7 +6,7 @@ third_nav_title: Curriculum@SAPS
 ---
 ## Character and Citizenship Education 
 
-**<center>Mission**</center>
+**<center>Mission</center>**
 
 <center>To help Anthonians thrive by enabling them to learn how to learn and to learn how to live to be a blessing to others.</center>
 
