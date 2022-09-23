@@ -2,10 +2,10 @@ collections:
   the-anthonian-experience:
     output: true
     order:
-      - Clubs & Societies/Robotics Club.md
       - Clubs & Societies/.keep
       - Clubs & Societies/English Club.md
       - Clubs & Societies/InfoComm Club.md
+      - Clubs & Societies/Robotics Club.md
       - Curriculum@SAPS/.keep
       - Curriculum@SAPS/Aesthetics.md
       - Curriculum@SAPS/Character and Citizenship Education.md
