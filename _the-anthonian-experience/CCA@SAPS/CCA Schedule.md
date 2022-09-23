@@ -11,4 +11,3 @@ third_nav_title: CCA@SAPS
 ![](/images/CCA%20schedule%20mid.jpeg)
 
 ![](/images/CCA%20last.jpeg)
-
