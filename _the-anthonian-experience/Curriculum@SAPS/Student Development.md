@@ -156,7 +156,43 @@ Our Care Buddy Programme begins with our Primary One Anthonians being paired up 
 
 As the P1s move on to P2, they will continue to be supported by a group of care buddies from the P5 level, who will look out for them. Care Buddy days are organised at least once every term so that the buddies can meet and grow their friendships. This takes place till the buddies reach P3 and P6.  Eventually, when the P3 pupils  move on to P4, they will have an opportunity to be Care Buddies to the new batch of P1s .
 
-_*<i>Due to the SMM put in place since March 2020 due to COVID-19, we have put this on hold as intermingling between levels is not yet permitted.<i>_
+*Due to the SMM put in place since March 2020 due to COVID-19, we have put this on hold as intermingling between levels is not yet permitted.
 	
 **P3-P6 CARE BUDDY GROUPS (from Jan 2020)**
+	![](/images/3Gratitude.jpeg)
+	<br>
+	![](/images/3Respect.jpeg)
+	<br>
+	![](/images/3Resilience.jpeg)
+	<br>
+![](/images/3Responsibility.jpeg)
+	<br>
+	![](/images/3Intergrity.jpeg)
+	<br>
+	![](/images/3Faith.jpeg)
 	
+**Anthonian School Affinity Programmes (ASAP)**
+
+*   Back to School Programme (BTS)
+*   Founder’s Day and Patron’s Day Celebrations
+*   Pre-Secondary Lasallian Experience (PSLE+)
+
+  
+
+As part of the school’s efforts to immerse our Anthonians in a uniquely Anthonian and Lasallian brand of education, special school programmes are carried out to enhance students’ affinity to SAPS. With more than 140 years of school history, Anthonians are taught to understand their identity as an Anthonian and also as a member of a worldwide Lasallian community. 
+
+  
+
+The Back-to-School Programme (BTS) introduces this to our newly enrolled Primary 1 Anthonians while the older Anthonians are reminded of the values adopted by the school which have been exemplified by both our Founder, St. John Baptist De La Salle, and our Patron Saint, St. Anthony of Padua, for whom our school was named. These values are further expounded during our annual Founder’s Day and Patron’s Day celebrations in April and July/August respectively. The BTS Programme also sets the direction of the school for the new academic year and provides opportunities for the Anthonians to rekindle friendships or create new ones in their new classes.  
+
+  
+
+The Pre-Secondary Lasallian Education (or PSLE+) is a post-PSLE programme for the graduating cohort. The “+” symbol represents the post-Primary School Leaving Examination (PSLE) period and also a reference to the extension of the Lasallian experience for our Anthonians.
+
+  
+
+The objective of PSLE+ is for P6 Anthonians to consolidate their Lasallian experience in SAPS by actively living out the values that they have been taught in their years at SAPS through \*Values-in-Action (VIA) activities, reflective tasks, skill-based workshops (e.g., Coding, Art and Music etc.) and learning journeys. The programme also aims to prepare P6 Anthonians for secondary school life through transition workshops and outreach talks by different secondary schools. This will culminate in the Graduation Ceremony to mark the end of our Anthonians’ primary school journey.
+
+  
+
+_\*Due to SMM, the PSLE+ programmes have been modified to align with the prevailing national posture at the given period._
