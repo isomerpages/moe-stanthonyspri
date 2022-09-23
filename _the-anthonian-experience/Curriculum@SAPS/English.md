@@ -97,7 +97,11 @@ To support our Anthonians with different needs in their effort to master languag
 
   
 
-**Learning Support Programme** 
+**<u>Learning Support Programme</u>** 
 
 The Learning Support Programme (LSP) is an early intervention programme that provides additional support for P1 and P2 Anthonians who have weak language and literacy skills. These Anthonians are identified at the start of P1 to attend daily 30-minute LSP lessons which are conducted by the school’s Learning Support Coordinator during curriculum time. In small groups of not more than ten pupils, they are taught the basic knowledge and skills to read and spell words, and to read texts with fluency and understanding.
+
+![](/images/english7.jpg)
+
+
 
