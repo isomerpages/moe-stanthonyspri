@@ -86,4 +86,7 @@ Our Primary 4 and 5 Anthonians had fun discovering the difference between a Grow
 <br>
 <img align="center" style="width:50%" src="/images/GMA2.jpeg">
 
+![](/images/GMA3.jpg)
+
 Click [here](https://www.youtube.com/watch?app=desktop&v=ELpfYCZa87g&feature=youtu.be) to learn more about Neuroplasticity
+
