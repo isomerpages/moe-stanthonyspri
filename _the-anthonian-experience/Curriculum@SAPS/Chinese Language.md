@@ -35,4 +35,24 @@ St. Anthony’s Primary School’s CL curriculum is anchored on MOE’s curricul
 | Primary 5 | √           |                                 | √                 |                                        | √                  | √                |
 | Primary 6 | √           |                                 | √                 |                                        | √                  | √                |
 
+At the lower primary levels, oracy paves the way for the acquisition of reading and writing skills. A significant portion of curriculum time is spent on the development of listening, speaking, spoken interaction, literacy and writing skills. At the middle primary levels, besides attaining a certain proficiency level in listening and speaking, students should be able to read fluently and write sentences or paragraphs to form a short story. At the upper primary levels, there will be an increased focus on the development of reading, writing and written interaction.  
+  
+
+Recognising that our students come from diverse language backgrounds, our CL classes incorporate the use of ICT as well as engaging and interactive pedagogy. In view of students’ diverse needs and interests, we also customise the curriculum and include varied means of assessment.  We aim to inspire our Anthonians to learn the Chinese language in an authentic, fun and conducive environment, so that they will appreciate and use the language effectively.
+
+**Key Programmes / Activities:**
+
+**<u>Reading Programme</u>**
+
+Reading is one of the ways to enhance the learning of CL. Extensive reading helps to spark students’ interest in CL, which will strengthen their confidence in using Mandarin to communicate with others. We strongly encourage our Anthonians to read a range of materials such as newspapers, magazines, storybooks of different genres, and e-books. We have termly library activities such as “Read with the Teacher”, “Design a Book Cover” and “Change the Ending of the Story” to cater to the different levels.
+
+**<u>P2 Speech and Drama</u>**
+
+Our Primary 2 Anthonians enjoy interactive and engaging Speech and Drama classes, where they learn to use their voice and body language effectively and develop their oracy skills. The smiles on their faces during the class performances reflect their enjoyment and increased confidence in using the Chinese Language.
+
+**<u>Mother Tongue Language Fortnight & Primary 4 Cultural Camp</u>**
+
+The objective of these cultural programmes is to create an immersive environment for our Anthonians to learn CL and appreciate Chinese culture. Besides the recess activities, every level goes through a different class activity where they learn about the origin of a traditional craft and eventually have fun making it under their teachers’ guidance. Some of the hands-on activities include opera mask painting, Chinese fan painting, Chinese brush painting, clay figurine making and Chinese knot making.
+
+During the Primary 4 Cultural Camp, Anthonians participate in an afternoon of fun-filled activities such as tea appreciation, paper cutting, and chapteh making. These culturally rich activities deepen our Anthonians’ understanding of their cultural roots and promote the learning of Chinese Language in a fun and engaging way.
 
