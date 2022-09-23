@@ -78,3 +78,13 @@ Our school collaborates with the National Library Board to carry out many of its
 
 We also invite NLB to conduct the Raising Readers workshop for parents of our P1 and P2 Anthonians. Through the workshop, parents learn about the Reading Virtuous Cycle and how to create a positive reading experience for their children.
 
+_<center>Blind Date with a Book - Pupils picking their book of choice</center>_
+![](/images/english4.png)
+
+![](/images/english5.jpeg)
+_<center>Silent Reading in the school library</center>_
+
+In addition, we provide opportunities for our Anthonians to serve the school as School Librarians. School Librarians volunteer their time to help out in the library after school and learn about the administration and operations of the library. They also assist in preparing materials for the monthly thematic activities and are advocates to promote reading among their peers.
+
+
+
