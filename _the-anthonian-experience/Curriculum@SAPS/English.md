@@ -147,3 +147,4 @@ In order to nurture confident and empathetic communicators, our school-based En
 
 Our P1 to P3 Anthonians engage in show-and-tell, poetry recitation and drama to build up their speaking skills in an interesting and interactive way. P4 Anthonians take part in discussions and debates on current affairs which encourages them to share various viewpoints on selected newspaper articles. P5 and P6 Anthonians read about current affairs in the Little Red Dot (LRD) and discuss and debate the issues in class weekly, further nurturing their oratorical skills. Through these undertakings, we aim to develop passionate learners and concerned citizens who are able to communicate their thoughts and opinions effectively.
 
+![](/images/english7.png)
