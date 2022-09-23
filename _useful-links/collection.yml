@@ -2,7 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - Annoucements & Highlights/ALP Coding Program.md
       - Annoucements & Highlights/.keep
       - Annoucements & Highlights/National Day.md
       - Annoucements & Highlights/Racial Harmony Day(RHD).md
@@ -12,6 +11,7 @@ collections:
       - Annoucements & Highlights/P1 BACK TO SCHOOL (BTS) PROGRAMME (4 to 6 Jan
         2022).md
       - Annoucements & Highlights/ALP Coding Program for P3 Students.md
+      - Annoucements & Highlights/ALP Coding Program.md
       - Parents Gateway.md
       - Student Learning Space & Google Icon.md
       - Student Care Centre@SAPS.md
