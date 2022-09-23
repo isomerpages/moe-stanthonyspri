@@ -169,3 +169,10 @@ The E2K Science Programme offers opportunities for Anthonians to engage in scien
 *   Develop the habits, attitudes and dispositions scientists possess; and.-
 *   Gain important 21st century competencies such as critical thinking, invention thinking and effective communication skills.
 
+**Useful links**
+
+*  [MOE Primary Science Syllabus](/files/science-primary-2014.pdf)
+
+  
+*   Science Environmental Education site
+[https://qrgo.page.link/cwfZ9](https://qrgo.page.link/cwfZ9)
