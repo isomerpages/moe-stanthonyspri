@@ -18,6 +18,7 @@ The Student Development Team is made up of the Year Heads, Subject Head (Student
 
 
 
+
 **Growth Mindset@SAPS**
 
 
@@ -89,4 +90,3 @@ Our Primary 4 and 5 Anthonians had fun discovering the difference between a Grow
 ![](/images/GMA3.jpg)
 
 Click [here](https://www.youtube.com/watch?app=desktop&v=ELpfYCZa87g&feature=youtu.be) to learn more about Neuroplasticity
-
