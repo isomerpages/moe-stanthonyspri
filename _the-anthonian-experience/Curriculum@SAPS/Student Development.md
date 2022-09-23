@@ -141,5 +141,12 @@ ASCEND provides an enhanced After-School Care programme for selected pupils. Pup
 
 <img align="center" style="width:75%" src="/images/ceramic.jpeg">
 <br>
-<img align="center" style="width:75%" src="/images/image13.jpeg"> <center>Pupils working in pairs to build structures with strawbees.</center>
+<img align="center" style="width:75%" src="/images/image13.jpeg"><center>Pupils working in pairs to build structures with strawbees.</center>
+<br>
+<img align="center" style="width:75%" src="/images/cny.jpeg"><center>Chinese New Year Craft-Making Session</center>
+<br>
+<img align="center" style="width:75%" src="/images/cny2.jpeg"><center>Chinese New Year Craft-Making Session</center>
+
+
+
 
