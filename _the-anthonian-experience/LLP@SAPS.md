@@ -61,5 +61,10 @@ The Tier 1 programme is incorporated in the school’s Visual Arts (VA) curricul
 				<br>
 				<p align="center">P5 students working on their paper cutouts digital animation</p>
 		</td>
+		<td colspan="2">
+				<img src="/images/image17.jpeg">
+				<br>
+				<p align="center">P6 students working on their claymation</p>
+		</td>
 	</tr>
 </table>
