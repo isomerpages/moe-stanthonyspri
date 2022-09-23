@@ -2,11 +2,6 @@ collections:
   the-anthonian-experience:
     output: true
     order:
-      - CCA@SAPS/Awards & Recognition.md
-      - CCA@SAPS/.keep
-      - CCA@SAPS/CCA@SAPS.md
-      - CCA@SAPS/CCA Schedule.md
-      - CCA@SAPS/CCA Policy.md
       - Curriculum@SAPS/.keep
       - Curriculum@SAPS/Aesthetics.md
       - Curriculum@SAPS/Character and Citizenship Education.md
@@ -21,5 +16,10 @@ collections:
       - Curriculum@SAPS/Pupils Discipline & Leadership.md
       - Curriculum@SAPS/Science.md
       - Curriculum@SAPS/Student Development.md
+      - CCA@SAPS/.keep
+      - CCA@SAPS/Awards & Recognition.md
+      - CCA@SAPS/CCA@SAPS.md
+      - CCA@SAPS/CCA Schedule.md
+      - CCA@SAPS/CCA Policy.md
       - ALP@SAPS.md
       - LLP@SAPS.md
