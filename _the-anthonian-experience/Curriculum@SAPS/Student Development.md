@@ -107,8 +107,5 @@ Click [here](https://www.youtube.com/watch?v=aHmmA3SCXVo) to learn more about 
 <img align="center" style="width:50%" src="/images/yetpledge.png">
 <center>Power of YET pledges in the classroom</center>
 
-
-
-
-
+<img align="center" style="width:75%" src="/images/GMA4.jpg"><center>**Magical Mistakes with our GM Superheroes!**</center>
 
