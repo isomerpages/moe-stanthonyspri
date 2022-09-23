@@ -2,6 +2,7 @@ collections:
   the-anthonian-experience:
     output: true
     order:
+      - Clubs & Societies/InfoComm Club.md
       - Clubs & Societies/English Club.md
       - Clubs & Societies/.keep
       - Curriculum@SAPS/.keep
