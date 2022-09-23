@@ -103,5 +103,47 @@ The Learning Support Programme (LSP) is an early intervention programme that pro
 
 ![](/images/english7.jpg)
 
+**<u>Reading Remediation Programme</u>** 
 
+The Reading Remediation Programme (RRP) is an additional literacy support programme implemented at P3 and P4 to support Anthonians who still face difficulty in reading despite having completed the LSP in P1 and P2. The programme is carried out twice a week after school by our English teachers. The objectives of this programme are to expose these Anthonians to a range of coping strategies for reading comprehension, close the reading gap so that they read at their grade level, and enable them to better manage their learning in the regular classroom.
+
+  
+
+**<u>School-based Dyslexia Remediation Programme</u>** 
+
+The School-based Dyslexia Remediation (SDR) programme is a two-year intervention programme for P3 and P4 Anthonians. These Anthonians are identified for support through a systematic screening process for dyslexia conducted at the end of P2. The programme is conducted in small groups by trained school personnel using a remediation curriculum designed by MOE Reading Specialists. Anthonians in the programme attend after-school lessons four times a week to help build their reading, spelling and comprehension skills so that they are better able to cope with their learning in the regular classroom.
+
+  
+
+**<u>kidsREAD</u>**
+
+The kidsREAD programme is a collaborative effort by the school, our Parent Support Group (PSG) and the National Library Board (NLB). It aims to cultivate the love of reading and to promote good reading habits in P1 and P2 Anthonians who are from financially disadvantaged families. It also provides an avenue for children from diverse backgrounds to interact with one another at an early age. This weekly one-hour session after school is led by a Parent Volunteer trained in basic storytelling.
+
+  
+
+Our Anthonians have benefitted from spending their Friday afternoons with the PSG members who read stories to them and carry out many interesting and structured activities including word searches and art and craft. To enhance their learning experience, they have also been brought on learning journeys during the school holidays, including a pottery factory in 2019, a vegetable farm in 2018, and The Singapore Zoo in 2017. Every year, Anthonians in the programme also receive attractive goody bags from NLB containing storybooks, t-shirts and stationery. 
+
+  
+
+**<u>Buddy Reading</u>** 
+
+Buddy Reading is a critical extension of the Learning Support Programme (LSP) for identified P1 and P2 Anthonians. These Anthonians attend morning reading sessions twice a week before assembly. P3 and P4 Anthonians recommended by their teachers are trained to be Buddy Readers. The Buddy Readers coach and monitor the younger Anthonians in their reading using selected graded readers and/or decodable readers. 
+
+  
+
+**<u>Little Red Dot (LRD)</u>** 
+
+To introduce the habit of reading newspapers, all upper primary Anthonians (P5 & P6) subscribe to the LRD (Little Red Dot), a Straits Times supplement for primary school pupils. Through LRD, Anthonians get to read and learn about current affairs, both local and global, with elements of social emotional learning, values education and National Education. Its accompanying lesson activities are aligned with the MOE EL Syllabus and pegged to the learning of specific skills such as comprehension, writing, grammar and even critical thinking. This is incorporated into the English lessons weekly.
+
+#### Our Speaking Programmes
+
+  
+
+**<u>English Language Speech Arts (E.L.S.A.)</u>** 
+
+In order to nurture confident and empathetic communicators, our school-based English Language Speech Arts (E.L.S.A.) programme aims to cultivate Anthonians’ interest in speech arts and provides them with opportunities to practise their oratorical skills.   
+
+  
+
+Our P1 to P3 Anthonians engage in show-and-tell, poetry recitation and drama to build up their speaking skills in an interesting and interactive way. P4 Anthonians take part in discussions and debates on current affairs which encourages them to share various viewpoints on selected newspaper articles. P5 and P6 Anthonians read about current affairs in the Little Red Dot (LRD) and discuss and debate the issues in class weekly, further nurturing their oratorical skills. Through these undertakings, we aim to develop passionate learners and concerned citizens who are able to communicate their thoughts and opinions effectively.
 
