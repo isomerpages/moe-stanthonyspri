@@ -104,3 +104,15 @@ During Biodiversity Week, our P1 and P2 pupils learnt about flora and fauna nati
 
 ![](/images/image24.png)
 
+![](/images/image%20(23).jpg)
+
+**Recycling Right! @ SAPS**
+
+  
+
+Teaching children to care for the environment develops in them the values of respect, empathy, patience and responsibility; and allows them to reflect on how their actions may affect the environment. 
+
+To reinforce the message of recycling right, the Environmental Education committee came up with lessons catered to the different levels. These lessons aim to teach Anthonians the importance of recycling right. While P1 and P2 Anthonians learnt how to sort trash into the correct recycling bins, P3 and P4 Anthonians created posters to encourage everyone to recycle right. P5 and P6 Anthonians learnt about the importance of recycling through the See-Think-Wonder thinking routine and brainstormed for ways to involve more Anthonians in recycling right. 
+
+Through these activities, we hope that Anthonians will understand the importance of recycling right from a young age and translate it to their everyday living.
+
