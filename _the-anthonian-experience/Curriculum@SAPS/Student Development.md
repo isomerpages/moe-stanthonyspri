@@ -71,3 +71,13 @@ Besides Growth Mindset training for teachers, customised experiential and intera
 
 ![](/images/image9%20(1).png)
 
+**<center>Embracing Challenges Workshop for Lower Primary Pupils**</center>
+
+![](/images/image7%20(1).png)
+
+**<center>Pupils having fun and learning through the Mindset Board Game</center>**
+
+![](/images/image6%20(1).png)
+
+Our Primary 4 and 5 Anthonians had fun discovering the difference between a Growth and Fixed mindset through the Mindset Board Game Workshop. Self-discovery definitely makes the learning deeper and more engaging.
+
