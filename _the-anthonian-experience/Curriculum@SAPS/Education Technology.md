@@ -45,4 +45,12 @@ Through sharing sessions by the school’s Cyber-Smart ICT (CSI) ambassadors and
 
 Cyber wellness messages are included in the morning assembly slides to serve as daily reminders to our Anthonians as they engage in activities online.
 
+![](/images/image5.jpeg)
+Class presentation on Cyberbullying by P5 Class CSI Monitors
+
+![](/images/ict.jpeg)
+Class Presentation on cyberbullying by P6 Class CSI Monitors.
+
+![](/images/image7.jpeg)
+A writing lesson in which Anthonians respectfully provided constructive feedback on one another’s work.
 
