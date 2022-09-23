@@ -2,6 +2,7 @@ collections:
   the-anthonian-experience:
     output: true
     order:
+      - Sports & Games/Football.md
       - Sports & Games/.keep
       - Curriculum@SAPS/.keep
       - Curriculum@SAPS/Aesthetics.md
