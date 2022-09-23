@@ -47,3 +47,21 @@ STELLAR 2.0 from Primary 1 to Primary 3 uses the following strategies:
 *   Extensive Reading Activities, Word Recognition Skills
 
 ![](/images/English.jpg)
+
+_<center>Children engaging in Group Writing(MLEA)</center>_
+
+![](/images/english.png)
+
+<center> Children working on activities in a Differentiated Focused Lesson (DFL) </center>
+
+STELLAR from Primary 4 to Primary 6 involves:  
+
+*   Sustained Silent Reading (SSR)
+*   Reading Comprehension Strategies
+
+*   Annotation
+*   Supported Reading (SR)
+*   Know - Want to Know - Learnt (KWL)
+*   Retelling (RT)
+
+*   Writing Process Cycle (WPC)
