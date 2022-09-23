@@ -14,7 +14,8 @@ The Student Development Team is made up of the Year Heads, Subject Head (Student
 **<u>School Programmes</u>**<br>
 **Anthonian Positive Education Experience (APEX)**
 
-<img align="center" style="width:25%" src="/images/image4.png">
+<img align="center" style="width:25%" src="/images/image4.png"> 
+
 
 
 
@@ -140,8 +141,5 @@ ASCEND provides an enhanced After-School Care programme for selected pupils. Pup
 
 <img align="center" style="width:75%" src="/images/ceramic.jpeg">
 <br>
-<img align="center" style="width:75%" src="/images/image13.jpeg">
-
-
-
+<img align="center" style="width:75%" src="/images/image13.jpeg"> <center>Pupils working in pairs to build structures with strawbees.</center>
 
