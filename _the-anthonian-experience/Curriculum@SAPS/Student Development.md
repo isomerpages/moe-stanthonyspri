@@ -21,6 +21,7 @@ The Student Development Team is made up of the Year Heads, Subject Head (Student
 
 
 
+
 **Growth Mindset@SAPS**
 
 
@@ -133,3 +134,6 @@ We believe that the increasingly competent executive functioning of children and
 
 **Table 1: An Overview of Executive Function Skills** **in SAPS**
 
+**ASCEND (After-School Care – Engage, Nurture, Discover)**
+
+ASCEND provides an enhanced After-School Care programme for selected pupils. Pupils are given time and guidance daily to complete homework assignments and learn EF skills such as planning and prioritising, organisation and time management. Pupils meaningfully engage in activities that develop greater self-esteem and self-awareness, and learn to work together as a community.
