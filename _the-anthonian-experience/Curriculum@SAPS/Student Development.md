@@ -59,3 +59,6 @@ Each class creates an environment where growth mindset messages are promoted and
 
 ![](/images/image11%20(1).png)
 
+**<center>Mindset Studio</center>**
+
+![](/images/ms1.jpg)
