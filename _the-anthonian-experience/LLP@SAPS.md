@@ -41,7 +41,6 @@ The Tier 1 programme is incorporated in the school’s Visual Arts (VA) curricul
 				<img src="/images/llp13.jpeg">
 				<br>
 				<p align="center">At P2: Exploring the use of typography</p>
-			</a>
 		</td>
 		<td colspan="2">
 				<img src="/images/image12.jpeg"/>
