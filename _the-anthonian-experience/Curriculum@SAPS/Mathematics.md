@@ -74,3 +74,38 @@ The muffin project allows pupils to apply skills taught at Primary 3 and 4. For 
 
 To prepare our Primary 4 pupils for the Primary 5 syllabus, all Primary 4 pupils will be given the opportunity within curriculum to try out a range of activities involving the use of an SEAB-approved calculator.
 
+![](/images/image%20(13).jpg)
+
+**Primary 5 and 6**
+
+<u>Primary 5 and 6 Peer Support Programme (PSP)</u>
+
+The Peer Support Programme (PSP) aims to support Primary 5 and 6 pupils who need more time to do better in Mathematics. Selected pupils will be paired up and together, they revisit concepts that have been taught in class or in the middle primary levels. It nurtures our high-progress pupils to render service by providing support and encouragement to their schoolmates in the learning of Mathematics. 
+
+**<u>Special Programmes</u>**
+
+  
+
+**Primary 3 and 4**
+
+The “Practice And Command Excellence” (PACE) programme provides further support for selected Primary 3 and 4 pupils in the morning thrice a week. Through this programme, they revisit their Primary 2 and 3 concepts and work on building a strong foundation in the subject and closing learning gaps. 
+
+  
+
+**Primary 4 to 6**
+
+Our Talent Development Programme (TDP) for Math involving selected pupils from Primary 4 to 6. It includes teacher-led e2k sessions (from GE Branch) and vendor-led Math Olympiad lessons. These sessions are conducted above curriculum on Mondays, Wednesdays and Thursdays.
+
+![](/images/image%20(14).jpg)
+
+**Working Hand in Hand:**
+
+Parents
+
+Every year, our teachers from the lower, middle and upper primary levels conduct face-to-face or online workshops for parents. The workshops focus on sharing key teaching strategies in the teaching and learning of Mathematics and address common areas of weakness at the various levels. Through the sessions, teachers also share useful tips and strategies on how to help pupils experience success in the learning of Mathematics. 
+
+  
+
+Alumni
+
+The Math Games Day is usually conducted towards the end of the year as a post-exam activity. Games are prepared for Primary 1 to 4 pupils to consolidate their learning for the entire year. Ex-Anthonians render their service to this programme as game masters.
