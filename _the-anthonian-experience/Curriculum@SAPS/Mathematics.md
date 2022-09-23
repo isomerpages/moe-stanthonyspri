@@ -34,4 +34,43 @@ One of our key teaching strategies in Mathematics is the use of POLYA’s 4-step
 *   Understanding the problem 
 *   Devising a plan <img align="right" style="width:30%" src="/images/mathsteps.png">
 *   Carrying out the plan
-*   Looking back (Checking) 
+*   Looking back (Checking)
+
+Pupils are taught different heuristics at the various levels and given opportunities to use concrete manipulatives to enhance their conceptual understanding. Teachers also use Assessment for Learning (AfL) strategies in the Math classroom to identify gaps in pupils’ learning.
+
+#### Key Programmes:
+
+The programmes featured here focus on authentic learning, aimed at helping pupils understand why they are learning Math and how Math is related to real-life. It gives them a sense of purpose and desire to explore and discover more beyond the syllabus. As they worked collaboratively in groups to figure out the questions posed in the trail, it ties in with our fundamental social belief that “Together, we are strong”. 
+
+**<u>Level Programmes</u>**
+
+**Primary 1 and 2**
+
+Pupils at the lower primary levels participate in Math trails, which emphasises to pupils that math learning is authentic and can be applied in our daily lives. In view of SMM, the department has developed digital trails within school. These trails include some of the topics that pupils had learnt in the year. Besides consolidating their learning, the trails continue to provide rich learning experiences for the pupils. 
+
+  
+
+<u>Primary 1 Math Learning Trail: Jurong Bird Park</u>
+![](/images/image%20(8).jpg)
+
+<u>Primary 2 Math Learning Trail: Changi Airport</u>
+![](/images/image%20(9).jpg)
+
+**Primary 3 and 4**
+
+At the middle primary levels, there are more opportunities for pupils to apply what they have learnt daily and reinforce their foundation to prepare them adequately for the upper primary levels. 
+
+  
+
+<u>Primary 3 Muffin Project (Including Supermarket Trail)</u>
+
+The muffin project allows pupils to apply skills taught at Primary 3 and 4. For example, pupils are able to use bar graphs to chart responses of their peers’ preferred flavours of muffins. They can also apply their knowledge of reading off weighing scales by measuring the mass of the ingredients needed to bake muffins.
+
+![](/images/image%20(11).jpg)
+
+![](/images/image%20(12).jpg)
+
+<u>Primary 4 Calculator Workshop</u>
+
+To prepare our Primary 4 pupils for the Primary 5 syllabus, all Primary 4 pupils will be given the opportunity within curriculum to try out a range of activities involving the use of an SEAB-approved calculator.
+
