@@ -32,7 +32,6 @@ With the introduction of Themes and Big Ideas in 2019, teachers are also trained
 One of our key teaching strategies in Mathematics is the use of POLYA’s 4-step approach in problem-solving. It is a systematic process to solve problems which include four basic principles.  This process by Geroge Polya helps pupils develop an action plan for problem solving. The four principles are as follows:
 
 *   Understanding the problem 
-*   Devising a plan
+*   Devising a plan <img align="right" style="width:30%" src="/images/mathsteps.png">
 *   Carrying out the plan
-*   Looking back (Checking)
-
+*   Looking back (Checking) 
