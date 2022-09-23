@@ -64,3 +64,5 @@ The Environmental Science Club aims to promote greater interest and engagement i
 **_Venue:_**
 
 *   Science Lab
+
+![](/images/Environmental%20Science%202.jpeg)
