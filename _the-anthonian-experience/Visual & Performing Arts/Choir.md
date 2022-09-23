@@ -40,3 +40,5 @@ _**Day(s) & Time of Practice:**_
 
 *   Tuesdays: 2 p.m. to 4 p.m. 
 *   Fridays: 2 p.m. to 4 p.m.
+
+![](/images/Choir.jpeg)
