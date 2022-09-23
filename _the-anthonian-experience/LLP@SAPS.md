@@ -36,7 +36,6 @@ The Tier 1 programme is incorporated in the school’s Visual Arts (VA) curricul
 				<img src="/images/image11.jpeg"/>
 				<br>
 				<p align="center">A P1 student using shapes to create a drawing of an animal</p>
-			</a>
 		</td>
 		<td colspan="2">
 				<img src="/images/llp13.jpeg">
@@ -48,7 +47,6 @@ The Tier 1 programme is incorporated in the school’s Visual Arts (VA) curricul
 				<img src="/images/image12.jpeg"/>
 				<br>
 				<p align="center">Letters of Appreciation</p>
-			</a>
 		</td>
 	</tr>
 	<tr>
