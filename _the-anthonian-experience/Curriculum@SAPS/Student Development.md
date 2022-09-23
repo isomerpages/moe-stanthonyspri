@@ -17,6 +17,8 @@ The Student Development Team is made up of the Year Heads, Subject Head (Student
 <img align="center" style="width:25%" src="/images/image4.png">
 
 
+
+
 **Growth Mindset@SAPS**
 
 
@@ -54,4 +56,6 @@ Each class creates an environment where growth mindset messages are promoted and
 ![](/images/image%20(7).jpg)
 
 **<center>Wall Murals</center>**<center>To promote positive thinking and a can-do attitude, attention-grabbing murals and informational posters adorn our school grounds.</center>
+
+![](/images/image11%20(1).png)
 
