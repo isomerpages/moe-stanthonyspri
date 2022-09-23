@@ -18,7 +18,6 @@ The Student Development Team is made up of the Year Heads, Subject Head (Student
 
 
 
-
 **Growth Mindset@SAPS**
 
 
@@ -79,5 +78,12 @@ Besides Growth Mindset training for teachers, customised experiential and intera
 
 ![](/images/image6%20(1).png)
 
-Our Primary 4 and 5 Anthonians had fun discovering the difference between a Growth and Fixed mindset through the Mindset Board Game Workshop. Self-discovery definitely makes the learning deeper and more engaging.
+Our Primary 4 and 5 Anthonians had fun discovering the difference between a Growth and Fixed mindset through the Mindset Board Game Workshop. Self-discovery definitely makes the learning deeper and more engaging!
 
+**<center>Growth Mindset Assembly Programmes</center>**
+
+<img align="center" style="width:50%" src="/images/GMA1.jpeg">
+<br>
+<img align="center" style="width:50%" src="/images/GMA2.jpeg">
+
+Click [here](https://www.youtube.com/watch?app=desktop&v=ELpfYCZa87g&feature=youtu.be) to learn more about Neuroplasticity
