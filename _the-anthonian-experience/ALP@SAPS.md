@@ -42,3 +42,15 @@ Primary 5 Anthonians were in the process of completing the codes for their proje
 ![](/images/als3.jpeg)
 Primary 5 Anthonians created an air guitar with micro:bit as light sensor
 
+![](/images/als4.jpeg)
+Primary 5 Anthonians using the step tracker that they created with micro:bi
+
+
+![](/images/als5.jpeg)
+Primary 5 Anthonians used the micro:bit and a moisture sensor to detect presence of water in their project set-up
+
+![](/images/als6.jpeg)
+Primary 4 Anthonians preparing to design the prototype of a game created with micro:bit
+
+
+
