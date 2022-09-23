@@ -24,3 +24,10 @@ In order to achieve our vision, teachers use the following strategies in lesson 
 
 
 Mathematics at the primary level is a stage where pupils acquire important basic numeracy as well as develop logical reasoning and problem solving skills that are required in many disciplines. In SAPS, we follow the Mathematics Curriculum Framework closely. The central focus of the Mathematics curriculum is the development of mathematical problem solving competency. Supporting this focus are five inter-related components- concepts, skills, processes, metacognition and attitudes.
+
+![](/images/math.png)
+
+With the introduction of Themes and Big Ideas in 2019, teachers are also trained to bring coherence and show connections within and across strands and levels in their daily teaching. 
+
+One of our key teaching strategies in Mathematics is the use of POLYA’s 4-step approach in problem-solving. It is a systematic process to solve problems which include four basic principles.  This process by Geroge Polya helps pupils develop an action plan for problem solving. The four principles are as follows:
+
