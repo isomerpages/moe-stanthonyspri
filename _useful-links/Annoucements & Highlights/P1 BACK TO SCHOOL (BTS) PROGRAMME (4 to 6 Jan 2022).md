@@ -18,3 +18,5 @@ The P1 BTS programme began with a welcome address by our principal, Mrs. Esther 
 ![](/images/BTS2a.jpeg)
 
 ![](/images/BTS2b.jpeg)
+
+We look forward to working together with all parents and guardians to develop our Anthonians to be caring, passionate and joyful learners serving God, family and nation.
