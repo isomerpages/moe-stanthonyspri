@@ -120,3 +120,17 @@ Through these activities, we hope that Anthonians will understand the importance
 
 ![](/images/science1.png)
 
+**Clean Plate Campaign**
+
+The world is producing more food than we can finish. Yet, it is unevenly distributed, with the poor going hungry while food is being thrown away elsewhere. The importance of reducing food wastage is taught and emphasised across all levels in SAPS. Through the Clean Plate Campaign, each Anthonian is strongly encouraged to order only what they can finish so as to reduce food waste. In SAPS, we also have Food Waste Ambassadors to help to monitor food wastage during recess.
+
+![](/images/clearplate.jpg)
+
+![](/images/clearplate2.jpg)
+
+
+**Clean Plate Campaign**
+
+
+The world is producing more food than we can finish. Yet, it is unevenly distributed, with the poor going hungry while food is being thrown away elsewhere. The importance of reducing food wastage is taught and emphasised across all levels in SAPS. Through the Clean Plate Campaign, each Anthonian is strongly encouraged to order only what they can finish so as to reduce food waste. In SAPS, we also have Food Waste Ambassadors to help to monitor food wastage during recess.
+
