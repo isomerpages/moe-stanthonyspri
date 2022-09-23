@@ -100,12 +100,15 @@ Our Talent Development Programme (TDP) for Math involving selected pupils from P
 
 **Working Hand in Hand:**
 
-Parents
+<u>Parents</u>
 
 Every year, our teachers from the lower, middle and upper primary levels conduct face-to-face or online workshops for parents. The workshops focus on sharing key teaching strategies in the teaching and learning of Mathematics and address common areas of weakness at the various levels. Through the sessions, teachers also share useful tips and strategies on how to help pupils experience success in the learning of Mathematics. 
 
   
 
-Alumni
+<u>Alumni</u>
 
 The Math Games Day is usually conducted towards the end of the year as a post-exam activity. Games are prepared for Primary 1 to 4 pupils to consolidate their learning for the entire year. Ex-Anthonians render their service to this programme as game masters.
+
+![](/images/math3.png)
+
