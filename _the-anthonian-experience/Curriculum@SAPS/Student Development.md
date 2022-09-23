@@ -51,3 +51,7 @@ Each class creates an environment where growth mindset messages are promoted and
 
 **<center>Classroom Posters</center>**<center>Each class creates an environment where growth mindset messages are promoted and where the differences between a fixed and growth mindset are evident and can be easily referred to.</center>
 
+![](/images/image%20(7).jpg)
+
+**<center>Wall Murals</center>**<center>To promote positive thinking and a can-do attitude, attention-grabbing murals and informational posters adorn our school grounds.</center>
+
