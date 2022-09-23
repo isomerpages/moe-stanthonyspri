@@ -30,3 +30,15 @@ Primary 4 and 5 students learn block coding with a Micro:bit, which is a pocket-
 
 *   creating a prototype using micro:bit to alert the residents and cleaners of stagnant water accumulating; and
 *   creating a fall detection alarm system with micro:bit to inform caregivers when seniors injure themselves at home.
+
+**<u>Primary 4 and Primary 5 Coding Programme</u>**
+
+![](/images/als.jpeg)
+Primary 5 Anthonians felt proud upon completion of a project with micro:bit
+
+![](/images/als2.jpeg)
+Primary 5 Anthonians were in the process of completing the codes for their project
+
+![](/images/als3.jpeg)
+Primary 5 Anthonians created an air guitar with micro:bit as light sensor
+
