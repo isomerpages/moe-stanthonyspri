@@ -67,3 +67,6 @@ The Tier 1 programme is incorporated in the school’s Visual Arts (VA) curricul
 		</td>
 	</tr>
 </table>
+
+
+
