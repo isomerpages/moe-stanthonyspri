@@ -39,9 +39,9 @@ The Tier 1 programme is incorporated in the school’s Visual Arts (VA) curricul
 			</a>
 		</td>
 		<td colspan="2">
-				<img src="/images/FTPPS%20News%20Flash%20234px.jpg">
+				<img src="/images/llp13.jpeg">
 				<br>
-				<p align="center">• FTTPS in the News •</p>
+				<p align="center">At P2: Exploring the use of typography</p>
 			</a>
 		</td>
 		<td colspan="2">
