@@ -85,9 +85,9 @@ Our Primary 4 and 5 Anthonians had fun discovering the difference between a Grow
 
 **<center>Growth Mindset Assembly Programmes</center>**
 
-<img align="center" style="width:50%" src="/images/GMA1.jpeg">
+<img align="center" style="width:75%" src="/images/GMA1.jpeg">
 <br>
-<img align="center" style="width:50%" src="/images/GMA2.jpeg">
+<img align="center" style="width:75%" src="/images/GMA2.jpeg">
 
 ![](/images/GMA3.jpg)
 
@@ -99,4 +99,16 @@ Click [here](https://www.youtube.com/watch?app=desktop&v=ELpfYCZa87g&feature=yo
 
 Click [here](https://www.youtube.com/watch?v=aHmmA3SCXVo) to learn more about 10 Celebrities Who Failed!
 
-<img align="center" style="width:50%" src="/images/Yeti%20Set%20Go.jpg">
+<img align="center" style="width:75%" src="/images/Yeti%20Set%20Go.jpg">
+<br>
+<img align="center" style="width:76%" src="/images/Yet.jpg">
+<center>I can’t sing, dance, draw, cycle or spell... YET but I can keep learning!</center>
+
+<img align="center" style="width:50%" src="/images/yetpledge.png">
+<center>Power of YET pledges in the classroom</center>
+
+
+
+
+
+
