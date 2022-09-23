@@ -49,8 +49,5 @@ This year, we embarked on our growth mindset journey as a school to learn how we
 
 Each class creates an environment where growth mindset messages are promoted and where the differences between a fixed and growth mindset are evident and can be easily referred to.
 
-
-
-
-
+**<center>Classroom Posters</center>**<center>Each class creates an environment where growth mindset messages are promoted and where the differences between a fixed and growth mindset are evident and can be easily referred to.</center>
 
