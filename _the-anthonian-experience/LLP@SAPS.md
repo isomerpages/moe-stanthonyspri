@@ -45,7 +45,7 @@ The Tier 1 programme is incorporated in the school’s Visual Arts (VA) curricul
 			</a>
 		</td>
 		<td colspan="2">
-				<img src="/images/Letter.jpg"/>
+				<img src="/images/image12.jpeg"/>
 				<br>
 				<p align="center">• Letters of Appreciation •</p>
 			</a>
