@@ -35,3 +35,4 @@ One of our key teaching strategies in Mathematics is the use of POLYA’s 4-step
 *   Devising a plan
 *   Carrying out the plan
 *   Looking back (Checking)
+
