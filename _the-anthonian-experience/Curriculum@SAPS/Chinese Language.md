@@ -68,10 +68,17 @@ CCM is an enrichment programme for Primary 3 to Primary 5 students who are inter
 
 **<u>Participation in External Competitions</u>**
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CBS Storytelling
+* CBS Storytelling
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Singapore-Malaysia Bilingual Olympiad
+* Singapore-Malaysia Bilingual Olympiad
 
-Online ICT Writing Competition
+* Online ICT Writing Competition
 
+**<u>Chinese New Year Celebration</u>**
+
+![](/images/Chinese%20fig%205.png)
+
+**<u>Recess Activities</u>**
+
+![](/images/recess%20activities.png)
 
