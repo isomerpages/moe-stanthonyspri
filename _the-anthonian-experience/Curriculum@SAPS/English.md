@@ -45,3 +45,5 @@ STELLAR 2.0 from Primary 1 to Primary 3 uses the following strategies:
 *   Modified Language Experience Approach (MLEA) and Guided Writing
 *   Differentiated Focused Lessons (DFLs) 
 *   Extensive Reading Activities, Word Recognition Skills
+
+![](/images/English.jpg)
