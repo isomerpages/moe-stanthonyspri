@@ -24,30 +24,27 @@ The Tier 1 programme is incorporated in the school’s Visual Arts (VA) curricul
 
 <table>
 	<tr>
-		<td width="16.6%">    </td>
-		<td width="16.6%">		</td>
-		<td width="16.6%">		</td>
-		<td width="16.6%">		</td>
-		<td width="16.6%">		</td>
-		<td width="16.6%">		</td>
+		<td width="20%">    </td>
+		<td width="20%">		</td>
+		<td width="20">		</td>
+		<td width="20%">		</td>
+		<td width="20">		</td>
+		<td width="20%">		</td>
 	</tr>
 	<tr>
 		<td colspan="2">
-			<a href="/connect-with-us/inspiring-moments">
-				<img src="/images/Inspiring%20Moments.jpg"/>
+				<img src="/images/image11.jpeg"/>
 				<br>
-				<p align="center">• Inspiring Moments •</p>
+				<p align="center">A P1 student using shapes to create a drawing of an animal</p>
 			</a>
 		</td>
 		<td colspan="2">
-			<a href="/connect-with-us/ftpps-in-the-news">
 				<img src="/images/FTPPS%20News%20Flash%20234px.jpg">
 				<br>
 				<p align="center">• FTTPS in the News •</p>
 			</a>
 		</td>
 		<td colspan="2">
-			<a href="/connect-with-us/letters-of-appreciation">
 				<img src="/images/Letter.jpg"/>
 				<br>
 				<p align="center">• Letters of Appreciation •</p>
