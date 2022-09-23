@@ -2,6 +2,7 @@ collections:
   the-anthonian-experience:
     output: true
     order:
+      - Visual & Performing Arts/Visual Arts.md
       - Visual & Performing Arts/.keep
       - Visual & Performing Arts/Choir.md
       - Visual & Performing Arts/Brass Band.md
