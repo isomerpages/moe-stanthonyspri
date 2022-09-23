@@ -2,12 +2,6 @@ collections:
   the-anthonian-experience:
     output: true
     order:
-      - Visual & Performing Arts/Visual Arts.md
-      - Visual & Performing Arts/.keep
-      - Visual & Performing Arts/Choir.md
-      - Visual & Performing Arts/Brass Band.md
-      - Visual & Performing Arts/Chinese Dance.md
-      - Visual & Performing Arts/Comtemporary Dance.md
       - Curriculum@SAPS/.keep
       - Curriculum@SAPS/Aesthetics.md
       - Curriculum@SAPS/Character and Citizenship Education.md
@@ -33,5 +27,11 @@ collections:
       - Sports & Games/Sports Club.md
       - Sports & Games/Floorball.md
       - Sports & Games/Tchoukball.md
+      - Visual & Performing Arts/.keep
+      - Visual & Performing Arts/Visual Arts.md
+      - Visual & Performing Arts/Choir.md
+      - Visual & Performing Arts/Brass Band.md
+      - Visual & Performing Arts/Chinese Dance.md
+      - Visual & Performing Arts/Comtemporary Dance.md
       - ALP@SAPS.md
       - LLP@SAPS.md
