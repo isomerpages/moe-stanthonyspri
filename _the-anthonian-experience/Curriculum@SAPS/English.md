@@ -86,5 +86,18 @@ _<center>Silent Reading in the school library</center>_
 
 In addition, we provide opportunities for our Anthonians to serve the school as School Librarians. School Librarians volunteer their time to help out in the library after school and learn about the administration and operations of the library. They also assist in preparing materials for the monthly thematic activities and are advocates to promote reading among their peers.
 
+![](/images/english6.png)
+_<center>School Librarians at work</center>_
 
+#### Our Reading Programmes
+
+  
+
+To support our Anthonians with different needs in their effort to master language and literacy skills, we have the following programmes:
+
+  
+
+**Learning Support Programme** 
+
+The Learning Support Programme (LSP) is an early intervention programme that provides additional support for P1 and P2 Anthonians who have weak language and literacy skills. These Anthonians are identified at the start of P1 to attend daily 30-minute LSP lessons which are conducted by the school’s Learning Support Coordinator during curriculum time. In small groups of not more than ten pupils, they are taught the basic knowledge and skills to read and spell words, and to read texts with fluency and understanding.
 
