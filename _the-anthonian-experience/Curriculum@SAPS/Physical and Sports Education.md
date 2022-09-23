@@ -36,3 +36,15 @@ The learning areas for each level are shown in the table below:
 In addition to the PE curriculum, the PSE Department engages and educates Anthonians about living a healthy and active lifestyle through our PAL, Outdoor Education and Healthy Meals programmes.
 
 ![](/images/image%20(16).jpg)
+
+**<u>P1 and P2 PAL Programme</u>**
+
+In Programme for Active Learning (PAL), students enjoy learning experiences in the four modules of Sports and Games, Outdoor Education, Performing Arts (Music, Dance and Drama) and Visual Arts. These learning experiences facilitate their holistic development in the physical, cognitive, social, aesthetics and moral domains. They develop in Anthonians a sense of curiosity, a positive attitude towards learning and confidence through group experiences and teamwork.
+
+  
+
+The programmes are aligned with the level Character and Citizenship (CCE) and Living Well curriculum outcomes of:
+
+*   A responsible and respectful Anthonian who cares for self, family and peers (Primary 1)
+*   A responsible and respectful Anthonian who cares and serves within the family and class (Primary 2)
+
