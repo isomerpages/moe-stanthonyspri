@@ -109,3 +109,26 @@ Click [here](https://www.youtube.com/watch?v=aHmmA3SCXVo) to learn more about 
 
 <img align="center" style="width:75%" src="/images/GMA4.jpg"><center>**Magical Mistakes with our GM Superheroes!**</center>
 
+<img align="center" style="width:75%" src="/images/webcall.png">
+<br>
+<img align="center" style="width:75%" src="/images/superhero.png">
+<br>
+<img align="center" style="width:75%" src="/images/professorm.png"> <center><figcaption>Professor M<br>Be a Growth Mindset Superhero!</figcaption></center>
+
+A growth mindset empowers students. It changes their reaction to failure, giving them the motivation and confidence to work hard to achieve their full potential.
+
+**Executive Function Skills (EFS)**  
+
+Executive function refers to a set of skills that underlies the capacity to plan ahead and meet goals, display self-control, follow multiple-step directions even when interrupted, and stay focused despite distractions, among others. They can be developed through experience and practice.
+
+In SAPS, teachers set up the framework for their students to learn and practise these skills over time by establishing routines, breaking big tasks into smaller chunks, and encouraging games that promote imagination, role-playing, following rules, and controlling impulses (see Table 1). 
+
+We believe that the increasingly competent executive functioning of children and adolescents will enable them to learn how to learn and learn how to live so that they will become persons of integrity and persons for others in God's service.
+
+| Levels    | Executive Function Skills                                                     |
+|-----------|-------------------------------------------------------------------------------|
+| P1 and P2 | Organisation <br><br>Ignoring Distractions|
+| P3 and P4 | Organisation <br><br> Ignoring Distractions  Goal Setting                             |
+| P5 and P6 | Organisation <br><br> Ignoring Distractions  Goal Setting Planning and Prioritization |
+
+
