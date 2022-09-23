@@ -65,3 +65,16 @@ Primary 4 and Primary 5 Anthonians proudly displaying their micro:bit projects o
 Anthonians from all levels get to try out the games created using micro:bits
 
 **Primary 3 Coding Programme**
+
+![](/images/coding.jpeg)
+Primary 3 Anthonians exploring Ozobot and OzoBlockly
+
+![](/images/coding2.jpeg)
+Primary 3 Anthonians exploring Ozobot and OzoBlockly
+
+![](/images/coding3.jpeg)
+Primary 3 Anthonians trying out the Ozobot after loading the codes in OzoBlockly
+
+**Maker@SAPS**
+
+Maker@SAPS was implemented as an avenue for students to come together and solve problems through free play. These making and tinkering practices encourage creative thinking amongst students as they construct, deconstruct, design, fix, create and refine solutions to various problems presented to them. Maker@SAPS is now incorporated into CCAs to encourage students to think out of the box to creatively solve problems.
