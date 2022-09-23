@@ -2,6 +2,7 @@ collections:
   the-anthonian-experience:
     output: true
     order:
+      - CCA@SAPS/Awards & Recognition.md
       - CCA@SAPS/.keep
       - CCA@SAPS/CCA@SAPS.md
       - CCA@SAPS/CCA Schedule.md
