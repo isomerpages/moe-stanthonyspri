@@ -22,3 +22,16 @@ The Physical Education (PE) curriculum seeks to develop in each Anthonian the ab
 Through the school’s PE programme, students learn the fundamental movement and motor skills and develop efficiency, effectiveness and versatility in their performance as they practise and transfer their skills across the seven learning areas of Athletics, Dance, Games and Sports, Gymnastics, Outdoor Education, Physical Health and Fitness, and Swimming to become competent movers.
 
 The learning areas for each level are shown in the table below:
+
+|        Learning Areas       |  Levels  |
+|:---------------------------:|:--------:|
+|            Dance            | P1 to P6 |
+|       Games and Sports      |          |
+|          Gymnastics         |          |
+|      Outdoor Education      |          |
+| Physical Health and Fitness |          |
+|           Swimming          |    P3    |
+|          Athletics          | P3 to P6 |
+
+In addition to the PE curriculum, the PSE Department engages and educates Anthonians about living a healthy and active lifestyle through our PAL, Outdoor Education and Healthy Meals programmes.
+
