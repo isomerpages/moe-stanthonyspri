@@ -52,5 +52,10 @@ Primary 5 Anthonians used the micro:bit and a moisture sensor to detect presence
 ![](/images/als6.jpeg)
 Primary 4 Anthonians preparing to design the prototype of a game created with micro:bit
 
+![](/images/als7.jpeg)
+Primary 4 Anthonians completed a marble maze game and used a micro:bit keep tab on the scores
+
+![](/images/als9.jpeg)
+Primary 4 Anthonians playing with the cardboard table football and the micro:bit recorded the scores
 
 
