@@ -137,3 +137,11 @@ We believe that the increasingly competent executive functioning of children and
 **ASCEND (After-School Care – Engage, Nurture, Discover)**
 
 ASCEND provides an enhanced After-School Care programme for selected pupils. Pupils are given time and guidance daily to complete homework assignments and learn EF skills such as planning and prioritising, organisation and time management. Pupils meaningfully engage in activities that develop greater self-esteem and self-awareness, and learn to work together as a community.
+
+<img align="center" style="width:75%" src="/images/ceramic.jpeg">
+<br>
+<img align="center" style="width:75%" src="/images/image13.jpeg">
+
+
+
+
