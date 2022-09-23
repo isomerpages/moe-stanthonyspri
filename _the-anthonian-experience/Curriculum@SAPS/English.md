@@ -60,8 +60,8 @@ STELLAR from Primary 4 to Primary 6 involves:
 *   Reading Comprehension Strategies
 
 *   Annotation
-*   Supported Reading (SR)
-*   Know - Want to Know - Learnt (KWL)
-*   Retelling (RT)
+  *   Supported Reading (SR)
+  *   Know - Want to Know - Learnt (KWL)
+  *   Retelling (RT)
 
 *   Writing Process Cycle (WPC)
