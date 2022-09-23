@@ -178,3 +178,35 @@ Through the use of storytelling and drama, members of the English Club CCA are i
 
 During the pandemic, eCCA sessions opened up new ways for students to pick up skills and express themselves creatively in virtual meetings.
 
+![](/images/english11.jpeg)
+_<center>Creating a Scene</center>_
+
+#### Our Writing Programme
+
+  
+
+**Writers on the Web (WoW)** 
+
+WoW provides upper primary Anthonians with opportunities to write and share their compositions on a secured online platform. Compositions are first posted online to be read by their peers who will then provide constructive feedback in order for improvements to be made. Through this approach, Anthonians learn to give feedback to their peers. It builds a greater sense of purpose in writing as it helps Anthonians to see that a reader’s perspective can be different from a writer’s perspective.
+
+![](/images/English12.jpg)
+
+![](/images/english13.png)
+
+#### Our Partners
+
+  
+
+We collaborate with the National Library Board (NLB) for the following programmes:
+
+  
+
+*   'Read, Swap and Share’ for P1 to P3 
+*   Story-telling Programme for Lower Primary
+*   Book Buzz for Upper Primary
+*   Librarian’s Challenge for Student Librarians 
+*   POSB-NLB Kids' Lit Quiz
+*   National Reading Day Challenge / Read for Charity
+*   Raising Readers (Parents' Workshop)
+*   ‘Books 2 Go’ (NLB Mass Borrowing) 
+*   kidsREAD
