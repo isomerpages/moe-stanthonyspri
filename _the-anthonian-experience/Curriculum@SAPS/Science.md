@@ -83,3 +83,16 @@ Our P5 Anthonians focused on advocating clean environment. Through brainstorming
 In light of the COVID 19 pandemic, the P5 Anthonians reached out to their peers in school this year instead of promoting their message to residents in the neighbourhood. They shared with their peers ways to encourage everyone to take responsibility for our actions and show more care for our environment by keeping it clean.
 
 ![](/images/image20.png)
+
+**Outreach Programme - Dengue Sharing**
+
+  
+
+Our Environmental Ambassadors attended an online course conducted by NEA during the June holidays on the prevention of dengue. During the course, the ambassadors explored creative ways to share their message with the rest of the school. 
+
+During a pre-assembly talk, the ambassadors shared with their peers what dengue is, its symptoms and ways how we can prevent the breeding of mosquitoes at home. Anthonians learned that everyone has a part to play in preventing the spread of dengue.
+
+Together, we can fight dengue and keep our family members, neighbours and community safe.
+
+![](/images/image%20(20).jpg)
+
