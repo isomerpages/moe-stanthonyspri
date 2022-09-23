@@ -161,3 +161,6 @@ This programme focuses on enhancing oratorical skills among our upper primary An
 
 Despite the challenges posed by COVID-19, Anthonians continue to hone their skills by meeting virtually, work in online breakout groups to do research and carry out discussions, and by engaging in online debates.
 
+![](/images/english9.jpeg)
+_<center>Anthonians attending the Raffles Institution Debating 101 Programme</center>_
+
