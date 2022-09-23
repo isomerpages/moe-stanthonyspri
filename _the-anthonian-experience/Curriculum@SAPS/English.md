@@ -148,3 +148,16 @@ In order to nurture confident and empathetic communicators, our school-based En
 Our P1 to P3 Anthonians engage in show-and-tell, poetry recitation and drama to build up their speaking skills in an interesting and interactive way. P4 Anthonians take part in discussions and debates on current affairs which encourages them to share various viewpoints on selected newspaper articles. P5 and P6 Anthonians read about current affairs in the Little Red Dot (LRD) and discuss and debate the issues in class weekly, further nurturing their oratorical skills. Through these undertakings, we aim to develop passionate learners and concerned citizens who are able to communicate their thoughts and opinions effectively.
 
 ![](/images/english7.png)
+_<center>Anthonians performing their poetry recitation in front of the class</center>_
+
+![](/images/english8.jpeg)
+_<center>Readers Theatre performance</center>_
+
+**<u>Talent Development Programme (TDP): Debating</u>** 
+
+This programme focuses on enhancing oratorical skills among our upper primary Anthonians. Anthonians who have an aptitude for or an interest in honing their oratorical skills are invited to join the programme. Under the guidance of a debate coach, they learn to carry out research to look for substantiated points of information, structure their arguments in a logical and coherent manner, and debate these points with their peers. Selected Anthonians participate in inter-school competitions 
+
+  
+
+Despite the challenges posed by COVID-19, Anthonians continue to hone their skills by meeting virtually, work in online breakout groups to do research and carry out discussions, and by engaging in online debates.
+
