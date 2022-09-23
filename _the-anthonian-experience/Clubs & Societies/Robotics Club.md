@@ -21,3 +21,21 @@ _**Activities:**_
 
 *   Basic training programme where students are introduced to the concept of Robotics to build and program robots to perform simple tasks. 
 *   Advanced training programme where students learn how to use sensors and other Lego components to carry out more complex tasks.
+
+_**Venue:**_
+
+*   Computer Lab 1
+
+  
+
+_**Day(s) & Time of Training Session:**_
+
+*   Tuesdays: 2 p.m. to 4 p.m. 
+*   Fridays: 2 p.m. to 4 p.m. 
+
+  
+Please note: 
+
+*   Students interested in joining this CCA need to undergo a selection test during the Primary 2 Robotics Appreciation Programme. Only students selected through the Robotics Appreciation Programme are eligible to be members of Infocomm (Robotics).
+
+![](/images/robotics.png)
