@@ -166,3 +166,15 @@ _<center>Anthonians attending the Raffles Institution Debating 101 Programme</ce
 
 ![](/images/image%20(6).jpg)
 _<center>Preparation time for a friendly debate spar with another school</center>_
+
+![](/images/english10.jpeg)
+_<center>Debate Activity among our debaters</center>_
+
+**<u>English Club</u>**   
+
+Through the use of storytelling and drama, members of the English Club CCA are immersed in a language-rich environment. They participate in activities that provide them with opportunities to develop teamwork and creativity. Through fun vocalisation activities and performances, they hone their language skills and build their confidence.  These fun and engaging activities help them to cultivate a love for the language and provide opportunities to use English purposefully. 
+
+  
+
+During the pandemic, eCCA sessions opened up new ways for students to pick up skills and express themselves creatively in virtual meetings.
+
