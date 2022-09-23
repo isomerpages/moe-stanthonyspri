@@ -2,6 +2,7 @@ collections:
   the-anthonian-experience:
     output: true
     order:
+      - Visual & Performing Arts/Choir.md
       - Visual & Performing Arts/.keep
       - Curriculum@SAPS/.keep
       - Curriculum@SAPS/Aesthetics.md
