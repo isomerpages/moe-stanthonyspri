@@ -2,11 +2,6 @@ collections:
   the-anthonian-experience:
     output: true
     order:
-      - Clubs & Societies/.keep
-      - Clubs & Societies/English Club.md
-      - Clubs & Societies/InfoComm Club.md
-      - Clubs & Societies/Robotics Club.md
-      - Clubs & Societies/Environmental Science.md
       - Curriculum@SAPS/.keep
       - Curriculum@SAPS/Aesthetics.md
       - Curriculum@SAPS/Character and Citizenship Education.md
@@ -38,5 +33,10 @@ collections:
       - Visual & Performing Arts/Brass Band.md
       - Visual & Performing Arts/Chinese Dance.md
       - Visual & Performing Arts/Comtemporary Dance.md
+      - Clubs & Societies/.keep
+      - Clubs & Societies/English Club.md
+      - Clubs & Societies/InfoComm Club.md
+      - Clubs & Societies/Robotics Club.md
+      - Clubs & Societies/Environmental Science.md
       - ALP@SAPS.md
       - LLP@SAPS.md
