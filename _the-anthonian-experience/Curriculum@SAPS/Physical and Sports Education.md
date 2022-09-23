@@ -35,3 +35,4 @@ The learning areas for each level are shown in the table below:
 
 In addition to the PE curriculum, the PSE Department engages and educates Anthonians about living a healthy and active lifestyle through our PAL, Outdoor Education and Healthy Meals programmes.
 
+![](/images/image%20(16).jpg)
