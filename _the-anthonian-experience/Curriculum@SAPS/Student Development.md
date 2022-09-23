@@ -113,7 +113,7 @@ Click [here](https://www.youtube.com/watch?v=aHmmA3SCXVo) to learn more about 
 <br>
 <img align="center" style="width:75%" src="/images/superhero.png">
 <br>
-<img align="center" style="width:75%" src="/images/professorm.png"> <center><figcaption>Professor M<br>Be a Growth Mindset Superhero!</figcaption></center>
+<img align="center" style="width:75%" src="/images/professorm.png"> <center>Professor M<br>Be a Growth Mindset Superhero!</center>
 
 A growth mindset empowers students. It changes their reaction to failure, giving them the motivation and confidence to work hard to achieve their full potential.
 
@@ -131,4 +131,5 @@ We believe that the increasingly competent executive functioning of children and
 | P3 and P4 | Organisation <br><br> Ignoring Distractions  Goal Setting                             |
 | P5 and P6 | Organisation <br><br> Ignoring Distractions  Goal Setting Planning and Prioritization |
 
+**Table 1: An Overview of Executive Function Skills** **in SAPS**
 
