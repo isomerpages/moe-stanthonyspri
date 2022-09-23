@@ -19,10 +19,6 @@ The Student Development Team is made up of the Year Heads, Subject Head (Student
 
 
 
-
-
-
-
 **Growth Mindset@SAPS**
 
 
@@ -147,6 +143,20 @@ ASCEND provides an enhanced After-School Care programme for selected pupils. Pup
 <br>
 <img align="center" style="width:75%" src="/images/cny2.jpeg"><center>Chinese New Year Craft-Making Session</center>
 
+**Peer Support Programme (PSP)**
 
+Our Care Buddy Programme begins with our Primary One Anthonians being paired up with a Primary Four buddy when they enter primary school. Our P4 Care buddies take care of their P1 buddies and help them settle into primary school life quickly. 
 
+ 
+**P1-P4 CARE BUDDY (Jan 2021)**
 
+<img align="center" style="width:75%" src="/images/carebuddy.jpeg"><center>Chinese New Year Craft-Making Session</center>
+
+<img align="center" style="width:75%" src="/images/carebuddy2.jpeg"><center>Chinese New Year Craft-Making Session</center>
+
+As the P1s move on to P2, they will continue to be supported by a group of care buddies from the P5 level, who will look out for them. Care Buddy days are organised at least once every term so that the buddies can meet and grow their friendships. This takes place till the buddies reach P3 and P6.  Eventually, when the P3 pupils  move on to P4, they will have an opportunity to be Care Buddies to the new batch of P1s .
+
+_*<i>Due to the SMM put in place since March 2020 due to COVID-19, we have put this on hold as intermingling between levels is not yet permitted.<i>_
+	
+**P3-P6 CARE BUDDY GROUPS (from Jan 2020)**
+	
