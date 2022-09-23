@@ -2,9 +2,9 @@ collections:
   useful-links:
     output: true
     order:
-      - Annoucements & Highlights/Racial Harmony Day(RHD).md
-      - Annoucements & Highlights/National Day.md
       - Annoucements & Highlights/.keep
+      - Annoucements & Highlights/National Day.md
+      - Annoucements & Highlights/Racial Harmony Day(RHD).md
       - Parents Gateway.md
       - Student Learning Space & Google Icon.md
       - Student Care Centre@SAPS.md
