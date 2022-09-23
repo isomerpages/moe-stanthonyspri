@@ -116,3 +116,7 @@ To reinforce the message of recycling right, the Environmental Education committ
 
 Through these activities, we hope that Anthonians will understand the importance of recycling right from a young age and translate it to their everyday living.
 
+![](/images/image%20(24).jpg)
+
+
+
