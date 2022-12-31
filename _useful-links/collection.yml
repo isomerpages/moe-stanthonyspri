@@ -2,7 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - Announcements/.keep
       - Parents Gateway.md
       - Student Learning Space & Google Icon.md
       - Student Care Centre@SAPS.md
