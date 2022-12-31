@@ -2,4 +2,5 @@ collections:
   2021-highlights:
     output: true
     order:
+      - National Day.md
       - MOE Sexuality Education.md
