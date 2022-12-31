@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: Annoucements
           description: ""
-          url: /useful-links/Annoucements-and-Highlights/National-Day/
+          url: /2023 Highlights/
         - title: Highlights
           description: ""
           url: ""
