@@ -18,12 +18,9 @@ As the use of ICT becomes more essential in learning, life and work, SAPS aims t
 
 ![](/images/educationtech.png)
 
-### Key Programmes
+**Key Programmes**
 
-
-Cyber Wellness
-
-  
+_Cyber Wellness_
 
 At SAPS, we believe that anyone can be the first line of defence against threats in the digital domain. In alignment with MOE Cyber Wellness principles of Respect for Self & Others, Safe & Responsible Use, and Positive Peer Influence, the school’s cyber wellness programme adopts an inquiry-based approach towards helping Anthonians become responsible and discerning digital users who advocate healthy cyberspace activities. 
 
