@@ -2,4 +2,5 @@ collections:
   cca-clubs-and-societies:
     output: true
     order:
+      - Robotics Club.md
       - Environmental Science.md
