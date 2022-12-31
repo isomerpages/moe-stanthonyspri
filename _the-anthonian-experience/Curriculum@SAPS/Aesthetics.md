@@ -78,7 +78,7 @@ Our Performing Arts groups (Band, Choir, Contemporary Dance, Chinese Dance) and 
 
 ![](/images/image.jpg)
 <br><br>
-**<center>Music</center>**
+#### **<center>Music</center>**
 
 The school’s **Music Curriculum** consists of three aspects - **_Learn it!_**, **_Play it!_** and **_Love it!_**.
 
