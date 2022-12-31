@@ -40,8 +40,8 @@ Our **Art Curriculum** allows pupils to:
 | Primary 5 | Get Inspired by Dali (Artists: Salvador Dali and Vladimir Kush)                                                                                                |   |   |   |
 | Primary 6 | Get Inspired by our local artists (Artists: Han Sai Por, Liu Kang and Jaafar Latiff)                                                                           |   |   |   |
 
-![](/images/visualart.png)
 **Art Enrichment Programmes**
+![](/images/visualart.png)
 ![](/images/image%20(3).png)
 
 _Art Elective Programme_
