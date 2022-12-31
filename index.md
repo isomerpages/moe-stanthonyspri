@@ -15,8 +15,4 @@ sections:
         - title: Annoucements & Highlights
           description: ""
           url: /useful-links/Annoucements-and-Highlights/National-Day/
-  - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
 ---
