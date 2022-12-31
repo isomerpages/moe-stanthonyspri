@@ -17,5 +17,5 @@ sections:
           url: ""
         - title: Highlights
           description: ""
-          url: /2023-Highlights/
+          url: ""
 ---
