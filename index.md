@@ -12,7 +12,10 @@ sections:
   - hero:
       background: /images/Homepage/homepagebanner.gif
       key_highlights:
-        - title: Annoucements & Highlights
+        - title: Annoucements
           description: ""
           url: /useful-links/Annoucements-and-Highlights/National-Day/
+        - title: Highlights
+          description: ""
+          url: ""
 ---
