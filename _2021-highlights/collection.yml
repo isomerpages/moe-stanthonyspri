@@ -2,5 +2,6 @@ collections:
   2021-highlights:
     output: true
     order:
+      - Racial Harmony Day(RHD).md
       - National Day.md
       - MOE Sexuality Education.md
