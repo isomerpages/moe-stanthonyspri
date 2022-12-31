@@ -2,4 +2,5 @@ collections:
   mother-tongue-department:
     output: true
     order:
+      - Malay Language.md
       - Chinese Language.md
