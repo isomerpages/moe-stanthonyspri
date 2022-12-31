@@ -3,6 +3,6 @@ title: The Anthonian Experience
 permalink: /the-anthonian-experience/Overview/
 description: ""
 ---
-## The Anthonian Experience
+## Overview
 
 ![](/images/phoenix-mindmapv4.jpg)
