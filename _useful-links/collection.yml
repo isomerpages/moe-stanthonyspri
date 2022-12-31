@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - Highlights/test2.md
       - Highlights/test.md
       - Highlights/.keep
       - Announcements/.keep
