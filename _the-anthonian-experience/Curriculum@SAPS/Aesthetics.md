@@ -77,7 +77,7 @@ _Hong Kah North Community Centre and PAssionArts Singapore_
 Our Performing Arts groups (Band, Choir, Contemporary Dance, Chinese Dance) and Visual Arts groups participate in the annual PAssionArts Festival at Hong Kah North CC. This event is an opportunity for our pupils to showcase their art works and performances to the public.
 
 ![](/images/image.jpg)
-<br><br>
+
 #### **<center>Music</center>**
 
 The school’s **Music Curriculum** consists of three aspects - **_Learn it!_**, **_Play it!_** and **_Love it!_**.
