@@ -54,4 +54,4 @@ Key messages and themes relating to student leadership are consistently reinforc
 
 **Tiered**
 
-To develop the leadership capacity of every Anthonian, all our students undergo baseline leadership development with opportunities for advanced development for students with greater interest and/or potential.r
+To develop the leadership capacity of every Anthonian, all our students undergo baseline leadership development with opportunities for advanced development for students with greater interest and/or potential.
