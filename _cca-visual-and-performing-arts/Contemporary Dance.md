@@ -3,9 +3,7 @@ title: Contemporary Dance
 permalink: /the-anthonian-experience/Visual-and-Performing-Arts/Contemporary-Dance/
 description: ""
 ---
-
-
-## Comtemporary Dance
+## Contemporary Dance
 
 Contemporary Dance aims to teach its members the skills and techniques of dancing as well as inculcate in them an appreciation for dance. Our members will also have opportunities to showcase their talent through internal and external performances. 
 
