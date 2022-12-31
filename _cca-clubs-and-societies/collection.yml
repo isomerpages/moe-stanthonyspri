@@ -1,4 +1,5 @@
 collections:
   cca-clubs-and-societies:
     output: true
-    order: []
+    order:
+      - Environmental Science.md
