@@ -12,10 +12,10 @@ sections:
   - hero:
       background: /images/Homepage/homepagebanner.gif
       key_highlights:
-        - title: Annoucements
+        - title: Announcements
           description: ""
-          url: /2023 Highlights/
+          url: ""
         - title: Highlights
           description: ""
-          url: /2023 Highlights/
+          url: /2023-Highlights/
 ---
