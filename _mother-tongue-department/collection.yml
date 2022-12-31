@@ -1,4 +1,5 @@
 collections:
   mother-tongue-department:
     output: true
-    order: []
+    order:
+      - Chinese Language.md
