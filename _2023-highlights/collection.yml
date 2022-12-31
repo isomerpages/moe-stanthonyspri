@@ -1,4 +1,5 @@
 collections:
   2023-highlights:
     output: true
-    order: []
+    order:
+      - test.md
