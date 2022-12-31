@@ -16,7 +16,7 @@ At SAPS, we aim to nurture Anthonians’ appreciation of the arts. For Visual Ar
 
 The Art and Music curricula emphasise active responses in music and art-making at all levels. Learning experiences are designed to develop Anthonians’ thinking skills and appreciation of a range of artistic and musical styles, forms and techniques.
 <br><br>
-**<center>Visual Arts</center>**
+#### **<center>Visual Arts</center>**
 
 Our **Art Curriculum** allows pupils to:
 * Explore the expressive possibilities of a variety of art forms including 2D art, 3D art, ceramics and digital art.
