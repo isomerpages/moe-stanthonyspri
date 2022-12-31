@@ -102,12 +102,12 @@ With a sound foundation and opportunities to have fun in the process, Anthonians
 
 |   Level   |                                                 Learning Areas                                                 |   |   |   |
 |:---------:|:--------------------------------------------------------------------------------------------------------------:|---|---|---|
-| Primary 1 | ·       Children’s folk songs ·       Introduction to classroom percussion instruments and Boomwhackers        |   |   |   |
-| Primary 2 | ·       Children’s folk songs ·       Introduction to hand bells and xylophones                                |   |   |   |
-| Primary 3 | ·       World Children’s folk songs ·       Introduction to keyboarding                                        |   |   |   |
-| Primary 4 | ·       World Children’s folk songs ·       Introduction to ukulele                                            |   |   |   |
-| Primary 5 | ·       Experiential Learning ·       Introduction to the Garageband application for music remix (using iPads) |   |   |   |
-| Primary 6 | ·       Experiential Learning ·       Introduction to drumming circles                                         |   |   |   |
+| Primary 1 | ·       Children’s folk songs <br>·       Introduction to classroom percussion instruments and Boomwhackers        |   |   |   |
+| Primary 2 | ·       Children’s folk songs <br>·       Introduction to hand bells and xylophones                                |   |   |   |
+| Primary 3 | ·       World Children’s folk songs<br> ·       Introduction to keyboarding                                        |   |   |   |
+| Primary 4 | ·       World Children’s folk songs <br>·       Introduction to ukulele                                            |   |   |   |
+| Primary 5 | ·       Experiential Learning<br> ·       Introduction to the Garageband application for music remix (using iPads) |   |   |   |
+| Primary 6 | ·       Experiential Learning<br> ·       Introduction to drumming circles                                         |   |   |   |
 
 ![](/images/Music%20Art%2026.jpeg)
 
