@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: St Anthonys Primary School
+title: St. Anthony's Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
@@ -13,3 +13,4 @@ sections:
           description: ""
           url: /useful-links/Annoucements-and-Highlights/National-Day/
 ---
+
