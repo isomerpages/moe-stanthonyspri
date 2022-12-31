@@ -27,5 +27,5 @@ CCAs provide many opportunities for authentic and experiential learning. Through
 *   knowledge, skills and values related to their chosen CCA, which allow students to experience accomplishment and success
 *   core values, social and emotional competencies and 21st century competencies
 
-The school offers the following CCAs
+The school offers the following CCAs:
 ![](/images/cca@saps.png)
