@@ -2,6 +2,7 @@ collections:
   cca-visual-and-performing-arts:
     output: true
     order:
+      - Brass Band.md
       - Chinese Dance.md
       - Comtemporary Dance.md
       - Visual Arts.md
