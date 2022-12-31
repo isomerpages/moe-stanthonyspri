@@ -33,12 +33,12 @@ Our **Art Curriculum** allows pupils to:
 
 |   Level   |                                                                         Learning Areas                                                                         |   |   |   |
 |:---------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|---|---|---|
-| Primary 1 | Getting to Know Art (Artists: Georgette Chen, Lim Cheng Hoe and Kandinsky)                                                                                     |   |   |   |
-| Primary 2 | Exploring Art (Artists: Richard Long, Giuseppe Arcimboldo and Cheng Soo Peng)                                                                                  |   |   |   |
-| Primary 3 | Get Inspired by Picasso/ Get Inspired by the Occupations (Artists: Picasso and Chen Wen Hsi)                                                                   |   |   |   |
-| Primary 4 | Get Inspired by Jackson Pollock and Vincent Van Gogh; Museum Studies in Singapore Art Museum/ National Gallery (Artists: Jackson Pollock and Vincent Van Gogh) |   |   |   |
-| Primary 5 | Get Inspired by Dali (Artists: Salvador Dali and Vladimir Kush)                                                                                                |   |   |   |
-| Primary 6 | Get Inspired by our local artists (Artists: Han Sai Por, Liu Kang and Jaafar Latiff)                                                                           |   |   |   |
+| Primary 1 | Getting to Know Art <br>(Artists: Georgette Chen, Lim Cheng Hoe and Kandinsky)                                                                                     |   |   |   |
+| Primary 2 | Exploring Art <br>(Artists: Richard Long, Giuseppe Arcimboldo and Cheng Soo Peng)                                                                                  |   |   |   |
+| Primary 3 | Get Inspired by Picasso/ Get Inspired by the Occupations <br>(Artists: Picasso and Chen Wen Hsi)                                                                   |   |   |   |
+| Primary 4 | Get Inspired by Jackson Pollock and Vincent Van Gogh; Museum Studies in Singapore Art Museum/ National Gallery <br>(Artists: Jackson Pollock and Vincent Van Gogh) |   |   |   |
+| Primary 5 | Get Inspired by Dali <br>(Artists: Salvador Dali and Vladimir Kush)                                                                                                |   |   |   |
+| Primary 6 | Get Inspired by our local artists <br>(Artists: Han Sai Por, Liu Kang and Jaafar Latiff)                                                                           |   |   |   |
 
 **Art Enrichment Programmes**
 ![](/images/visualart.png)
@@ -78,7 +78,7 @@ Our Performing Arts groups (Band, Choir, Contemporary Dance, Chinese Dance) and 
 
 ![](/images/image.jpg)
 
-**<center>MUSIC</center>**
+**<center>Music</center>**
 
 The school’s **Music Curriculum** consists of three aspects - **_Learn it!_**, **_Play it!_** and **_Love it!_**.
 
