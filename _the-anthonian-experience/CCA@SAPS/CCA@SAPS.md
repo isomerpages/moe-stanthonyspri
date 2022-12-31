@@ -20,12 +20,12 @@ Co-Curricular Activities focus on the development of specific knowledge, skills 
 
 CCAs provide many opportunities for authentic and experiential learning. Through CCA participation, Anthonians will develop and demonstrate: 
 
-*   passion,
+*   passion
 *   leadership and teamwork
 *   friendship and belonging
 *   a spirit of service to the community
 *   knowledge, skills and values related to their chosen CCA, which allow students to experience accomplishment and success
-*   core values, social and emotional competencies and 21st century competencies.
+*   core values, social and emotional competencies and 21st century competencies
 
 The school offers the following CCAs
 ![](/images/cca@saps.png)
