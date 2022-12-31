@@ -15,7 +15,4 @@ sections:
         - title: Annoucements & Highlights
           description: ""
           url: /useful-links/Annoucements-and-Highlights/National-Day/
-        - title: Highlights
-          description: ""
-          url: /useful-links/Annoucements-and-Highlights/
 ---
