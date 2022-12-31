@@ -2,4 +2,5 @@ collections:
   sports-and-games:
     output: true
     order:
+      - Floorball.md
       - Tchoukball.md
