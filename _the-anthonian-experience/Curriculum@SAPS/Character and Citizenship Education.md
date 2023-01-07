@@ -4,18 +4,15 @@ permalink: /the-anthonian-experience/CurriculumatSAPS/Character-and-Citizenship-
 description: ""
 third_nav_title: Curriculum@SAPS
 ---
-
 ## Character and Citizenship Education 
 
-**<center>Mission</center>**
+|  |  | 
+| -------- | -------- | 
+Mission |To help Anthonians thrive by enabling them to learn how to learn and to learn how to live to be a blessing to others. |
+Vision |As Concerned Citizens, Anthonians Care, Respect and Serve with Integrity and a Heart of Gratitude. |
+|  |  | 
 
-<center>To help Anthonians thrive by enabling them to learn how to learn and to learn how to live to be a blessing to others.</center>
-
-**<center>Vision</center>**
-
-<center>As Concerned Citizens, Anthonians Care, Respect and Serve with Integrity and a Heart of Gratitude.</center>
-
-The design of the school’s CCE Curriculum takes reference from MOE’s CCE 2021 Curriculum Frame (Figure 1) and is anchored on the school’s mission, vision and values.
+The design of the school’s CCE Curriculum takes reference from MOE’s CCE 2021 Curriculum Frame (Figure 1) and is anchored on the school’s mission, vision and values. 
 
 ![](/images/CCE%20Curriculum%20frame.png)
 
@@ -47,9 +44,8 @@ e) Consideration Approach – perspective-taking to develop caring dispositions 
 
 f) Values Clarification Approach – helping students to articulate their values through examining their personal feelings and behaviour patterns using rational thinking and emotional awareness.
 
-<u>Learning to Live Well (LW) Programme</u>
 
-  
+<u>Learning to Live Well (LW) Programme</u>
 
 At St. Anthony’s Primary School, we strive to make values learning the centre of all we do. All Anthonians undergo the Living Well programme, taught through weekly lessons. These lessons focus on helping Anthonians understand how to live a meaningful life, filled with faith in the community and faith in themselves. Through a range of activities such as discussions, reflections and role-play, students explore the meaning of the Lasallian and Anthonian values and develop their social and emotional competencies.  Additionally, they learn how they can conduct themselves responsibly, and show care for the community and love for their nation.  
 
@@ -107,7 +103,7 @@ Our External Partners in Education
 
 ### National Education Social Studies (NESS) 
 
-**Unable to add National Education Social Studies (NES) slide show photos as its not google slides**
+> Unable to add National Education Social Studies (NESS) slide show photos as it's not google slides
 
 National Education at SAPS seeks to develop in Anthonians an understanding and appreciation of citizenship, as well as the past, present and future of Singapore in a complex and ever-changing world. Programmes and activities are anchored on the following Citizenship Dispositions:
 
