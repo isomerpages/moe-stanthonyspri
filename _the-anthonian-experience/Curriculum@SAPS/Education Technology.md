@@ -4,16 +4,14 @@ permalink: /the-anthonian-experience/CurriculumatSAPS/EducationTechnology/
 description: ""
 third_nav_title: Curriculum@SAPS
 ---
-
 ## Education Technology 
 
-**<center>Mission</center>**
+|  |  | 
+| -------- | -------- | 
+Mission   | Cultivate a Safe Learning Environment where Anthonians are Empowered to Embrace ICT  in order to Enhance Learning, Encourage Collaboration and Support Self-Directed Learning.
+Vision     | Technologically Empowered to Live and Learn | 
+|  |  | 
 
-<center>Cultivate a Safe Learning Environment where Anthonians are Empowered to Embrace ICT  in order to Enhance Learning, Encourage Collaboration and Support Self-Directed Learning</center>
-
-**<center>Vision</center>**
-
-<center>Technologically Empowered to Live and Learn</center>
 
 As the use of ICT becomes more essential in learning, life and work, SAPS aims to equip students with the necessary skills, values and dispositions to navigate and optimise ICT affordances with confidence and discernment. The school incorporates MOE’s baseline ICT skills into our curriculum to better support students’ learning with and through technology. Through this, we hope to facilitate Anthonians’ acquisition of basic ICT skills to enhance the quality of their learning and increase their engagement and motivation to learn.
 
