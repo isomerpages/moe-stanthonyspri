@@ -4,12 +4,11 @@ permalink: /the-anthonian-experience/CurriculumatSAPS/Aesthetics/
 description: ""
 third_nav_title: Curriculum@SAPS
 ---
-
 ## Aesthetics 
 
 |  |  | 
 | -------- | -------- | 
-| Mission     | To enable our pupils to learn about the arts and to use their knowledge, skills and talents to contribute to society     | 
+| Mission     | To enable our pupils to learn about the arts and to use their knowledge, skills and talents to contribute to society.     | 
 | Vision     | A school with a lively arts atmosphere where pupils appreciate the arts and aspire to use their talents in service of God, family and nation.     | 
 |  |  | 
 
