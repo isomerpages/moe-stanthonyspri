@@ -96,8 +96,8 @@ description: ""
 
 | P1 Form Teachers |                                      |                                                  |
 |------------------|--------------------------------------|--------------------------------------------------|
-| 1 GRATITUDE      | Mrs Abdul Aziz (Mdm Mariya Kutty)    | mariya_kutty@moe.edu.sg                          |
-|                  | Mdm Song Wenzhe Mr Kok Boon Siang    | song_wenzhe@moe.edu.sg kok_boon_siang@moe.edu.sg |
+| 1 GE (GRATITUDE)      | Mrs Daphne Chia    | sim_hwee@moe.edu.sg                      |
+|                  |Mr Huang Zhengqiang    | huang_zhengqiang@moe.edu.sg|
 | 1 RESPECT        | Mrs Rajkumar                         | usharani_rajkumar@moe.edu.sg                     |
 |                  | Mrs Daphne Chia                      | sim_hwee@moe.edu.sg                              |
 | 1 RESILIENCE     | Mdm Asmidarwaty Abu Bakar            | asmidarwaty_abu_bakar@moe.edu.sg                 |
