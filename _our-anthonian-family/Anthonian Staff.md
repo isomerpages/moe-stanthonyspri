@@ -45,7 +45,7 @@ description: ""
 
 #### Administration And Operation Team
 
-| Administration and Operation Team    |                                             |
+|     |                                             |
 |--------------------------------------|---------------------------------------------|
 | Operation Manager                    |                                             |
 | Mr How Wan Kiat                      | how_wan_kiat@moe.edu.sg                     |
