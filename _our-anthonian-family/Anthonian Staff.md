@@ -10,7 +10,7 @@ description: ""
 | Principal            |                               |
 |----------------------|-------------------------------|
 | Mrs Esther Choo      | GOH_Lung_Eng@schools.gov.sg   |
-| Vice- Principal      |                               |
+| **Vice- Principal**      |                               |
 | Mrs Christina Manuel | Christina_SEOW@schools.gov.sg |
 | Ms Anna Mathew       | Mathew_ANNA@schools.gov.sg    |
 
