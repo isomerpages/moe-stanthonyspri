@@ -18,4 +18,8 @@ sections:
         - title: Highlights
           description: ""
           url: ""
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
