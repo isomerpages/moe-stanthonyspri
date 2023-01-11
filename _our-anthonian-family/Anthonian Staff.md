@@ -38,8 +38,9 @@ description: ""
 | HOD (Pupil Discipline & Leadership) (Covering)     | Mrs Cherlyn Pang       | koh_may_luang_cherlyn@moe.edu.sg   |
 | Subject Head (Pupil Discipline & Leadership)       | Mdm Liza Ahmad         | liza_ahmad@moe.edu.sg              |
 | HOD (Educational Technology)                       | Ms Tan Shu Tian        | tan_shu_tian@moe.edu.sg            |
+|   HOD (Student Development) | Ms Lim Peiwen    | lim_peiwen@moe.edu.sg     |
 | Subject Head (Student Development)                 | Mrs Betsy Wong         | wong_lai_fun_betsy@moe.edu.sg      |
-| Senior Teachers                                    |                        |                                    |
+| **Senior Teachers**                                    |                        |                                    |
 | Character and Citizenship Education (CCE)          | Mrs Karen Yip          |  teh_may_ching_karen@moe.edu.sg    |
 | Mathematics                                        | Mrs Josephine Lai      | tan_tzy_huey_josephine@moe.edu.sg  |
 
