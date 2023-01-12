@@ -105,10 +105,10 @@ description: ""
 | 1 RE (RESILIENCE)     | Ms Goh Jia Xuan            | goh_jia_xuan@moe.edu.sg                 |
 |                  | Mrs Noelle Sim                       | noelle_tan_ying_xiu@moe.edu.sg                    |
 ||Mdm Zoom Zakariah                       | zoom_zakariah@moe.edu.sg                    |
-| 1 RY (RESPONSIBILITY) | Mrs Toh Li Shan                      | chong_li_shan@moe.edu.sg                         |
-|                  | Ms Mardiana Radja                    | mardiana_radja_abdul_rani@moe.edu.sg             |
+| 1 RY (RESPONSIBILITY) | Ms Thazin Soe                      | ma_thazin_soe@moe.edu.sg                         |
+|                  | Mr Peter Goh               | goh_aik_seng_peter@moe.edu.sg           |
 |                  | Ms Aw Yong Xin Xin                   | aw_yong_xin_xin@moe.edu.sg                       |
-| 1 INTEGRITY      | Ms Zhang Peiqi                       | zhang_peiqi@moe.edu.sg                           |
+| 1 IY (INTEGRITY)      | Ms Zhang Peiqi                       | zhang_peiqi@moe.edu.sg                           |
 |                  | Mdm Teresa Heo                       | heo_mee_yoon_teresa@moe.edu.sg                   |
 | 1 FAITH          | Mdm Ong Wen Shin                     | ong_wen_shin@moe.edu.sg                          |
 |                  | Mrs Cherlyn Pang                     | koh_may_luang_cherlyn@moe.edu.sg                 |
