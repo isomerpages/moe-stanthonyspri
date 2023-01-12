@@ -101,6 +101,7 @@ description: ""
 |                  |Mr Huang Zhengqiang    | huang_zhengqiang@moe.edu.sg|
 | 1 RESPECT        | Mrs Joanne Hoe                        | ho_lai_yeng@moe.edu.sg                     |
 |                  | Mdm Nur Faizah                      | nur_faizah_mohd_alim@moe.edu.sg                              |
+|| Ms Lee Sok Hoon                      | lee_sok_hoon@moe.edu.sg                              |
 | 1 RESILIENCE     | Mdm Asmidarwaty Abu Bakar            | asmidarwaty_abu_bakar@moe.edu.sg                 |
 |                  | Mrs Betsy Wong                       | wong_lai_fun_betsy@moe.edu.sg                    |
 | 1 RESPONSIBILITY | Mrs Toh Li Shan                      | chong_li_shan@moe.edu.sg                         |
