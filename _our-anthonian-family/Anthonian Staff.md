@@ -107,13 +107,12 @@ description: ""
 ||Mdm Zoom Zakariah                       | zoom_zakariah@moe.edu.sg                    |
 | 1 RY (RESPONSIBILITY) | Ms Thazin Soe                      | ma_thazin_soe@moe.edu.sg                         |
 |                  | Mr Peter Goh               | goh_aik_seng_peter@moe.edu.sg           |
-|                  | Ms Aw Yong Xin Xin                   | aw_yong_xin_xin@moe.edu.sg                       |
-| 1 IY (INTEGRITY)      | Ms Zhang Peiqi                       | zhang_peiqi@moe.edu.sg                           |
-|                  | Mdm Teresa Heo                       | heo_mee_yoon_teresa@moe.edu.sg                   |
-| 1 FAITH          | Mdm Ong Wen Shin                     | ong_wen_shin@moe.edu.sg                          |
-|                  | Mrs Cherlyn Pang                     | koh_may_luang_cherlyn@moe.edu.sg                 |
-| 1 SERVICE        | Mdm Kader Meerah D/O Mohamed Maideen | kader_meerah_mohd_maideen@moe.edu.sg             |
-|                  | Ms Thazin Soe                        | ma_thazin_soe@moe.edu.sg                         |
+| 1 IY (INTEGRITY)      | Mdm Kader Meerah                      |kader_meerah_mohd_maideen@moe.edu.sg                          |
+|                  | Mdm Wang Fangfang                      | wang_fangfang_a@moe.edu.sg                  |
+| 1 FH (FAITH)          | Ms Esther Lam Siew Ying                     | lam_siew_ying@moe.edu.sg                          |
+|                  | Mdm Noorfizah                     | noorfizah_hasim@moe.edu.sg                 |
+| 1 SE (SERVICE)        |Mrs Koh Pek Yeong | toh_pek_yeong@moe.edu.sg             |
+|                  | Mrs Ruth Lim                        | ruth_lim@moe.edu.sg                         |
 
 | P2 Form Teachers |                                      |                                        |
 |------------------|--------------------------------------|----------------------------------------|
