@@ -121,19 +121,18 @@ description: ""
 ||Ms Lim Jiaqi                      | lim_jia_qi_a@moe.edu.sg                |
 | 2 RT (RESPECT)        | Mrs Rajkumer (Usharani) |usharani_rajkumar@moe.edu.sg          |
 |                  |Mdm Lau Kai Yen                         | lau_kai_yen@moe.edu.sg                   |
-|                  | Ms Goh Jia Xuan                      | goh_jia_xuan@moe.edu.sg                |
-| 2 RESILIENCE     | Ms Shamimah Begum D/O Mohd Ibrahim   | shamimah_begum_mohd_ibrahim@moe.edu.sg |
-|                  | Mrs Chang Li Ping                    | lek_li_ping@moe.edu.sg                 |
-| 2 RESPONSIBILITY | Ms Seet Qiu Yong                     | seet_qiu_yiong@moe.edu.sg              |
-|                  | Ms Gowthami D/O Kanakasabai          | gowthami_kanakasabai@moe.edu.sg        |
-| 2 INTEGRITY      | Mrs Noelle Sim                       | noelle_tan_ying_xiu@moe.edu.sg         |
-|                  | Mrs Ruth Lim                         | ruth_lim@moe.edu.sg                    |
-| 2 FAITH          | Ms Esther Lam Siew Ying              | lam_siew_ying@moe.edu.sg               |
-|                  | Mdm Zoom Zakariah                    | zoom_zakariah@moe.edu.sg               |
-|                  | Mrs Emily Chan                       | koh_hui_ping_emily@moe.edu.sg          |
-| 2 SERVICE        | Mrs Koh Pek Yeong                    | toh_pek_yeong@moe.edu.sg               |
-|                  | Mdm Zaleha Bte Torsirmia             | zaleha_tosirmia@moe.edu.sg             |
-|                  | Ms Siti Amirah                       | Siti_amirah_arman@moe.edu.sg           |
+| 2 RE (RESILIENCE)     | Mdm Asmidarwaty Abu Bakar   | asmidarwaty_abu_bakar@moe.edu.sg|
+|                  | Mrs Betsy Wong                    | wong_lai_fun_betsy@moe.edu.sg                 |
+| 2 RY (RESPONSIBILITY) | Mrs Toh Li Shan                     | chong_li_shan@moe.edu.sg             |
+|                  | Ms Aw Yong Xin Xin          | aw_yong_xin_xin@moe.edu.sg        |
+| 2 IY (INTEGRITY)      | Mdm Zhang Peiqi                       | zhang_peiqi@moe.edu.sg         |
+|                  | Mdm Teresa Heo Mee Yoon                         | heo_mee_yoon_teresa@moe.edu.sg                    |
+| 2 FH (FAITH)          | Mdm Ong Wen Shin              | ong_wen_shin@moe.edu.sg              |
+|                  | Mrs Cherlyn Pang                    | koh_may_luang_cherlyn@moe.edu.sg               |
+|                  | Mdm Nur Azura Bte Azmi                      | nur_azura_azmi@moe.edu.sg          |
+| 2 SE (SERVICE)        | Ms Mandy Chan                   |chan_min_yi_mandy@moe.edu.sg               |
+|                  | Ms Mardiana            | mardiana_radja_abdul_rani@moe.edu.sg            |
+
 
 | P3 Form Teachers |                                      |                                                                |
 |------------------|--------------------------------------|----------------------------------------------------------------|
