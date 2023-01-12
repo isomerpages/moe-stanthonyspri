@@ -145,10 +145,10 @@ description: ""
 |                  | Mrs Grace Tan (Ho Shuyi)                        | ho_shuyi_grace@moe.edu.sg                                |
 | 3 RY (RESPONSIBILITY) | Ms Ling Yi Chin                  | ling_yi_chin@moe.edu.sg                                     |
 |                  | Mdm Zaleha Bte Torsirmia          | zaleha_tosirmia@moe.edu.sg  |
-| 3 IY (INTEGRITY)      | Mdm Nur Farahiya                       | huang_kun@moe.edu.sg                                     |
-|                  | Mdm Huang Kun         | nur_faizah_mohd_alim@moe.edu.sg                                |
+| 3 IY (INTEGRITY)      | Mdm Nur Farahiya                       | huang_kun@moe.edu.sg                                     |                             |
 | 3 FH (FAITH)          | Mr Koh Yen Chieh                      | koh_yen_chieh@moe.edu.sg                               |
-|                  | Mr Lee Zhen Hui Willy                | lee_zhen_hui@moe.edu.sg                                        |
+|                  | Ms Josephine Tang               | josephine_limtang@moe.edu.sg                                  |
+||Mrs Emily Chan               | koh_hui_ping_emily@moe.edu.sg                                    |
 
 
 | P4 Form Teachers |                                   |                                                 |
