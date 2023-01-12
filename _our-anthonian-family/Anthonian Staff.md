@@ -116,9 +116,10 @@ description: ""
 
 | P2 Form Teachers |                                      |                                        |
 |------------------|--------------------------------------|----------------------------------------|
-| 2 GRATITUDE      | Mrs Joanne Hoe                       | ho_lai_yeng@moe.edu.sg                 |
-|                  | Ms Lee Sok Hoon                      | lee_sok_hoon@moe.edu.sg                |
-| 2 RESPECT        | Mrs Rifa'ie (Mdm Nur Rezeki Marzoki) | nur_rezeki_marzoki@moe.edu.sg          |
+| 2 GE (GRATITUDE)      | Mrs Abdul Aziz                      | mariya_kutty@moe.edu.sg                 |
+|                  | Ms Grace Lee Ting                      | grace_lee_ting@moe.edu.sg                |
+||Ms Lim Jiaqi                      | lim_jia_qi_a@moe.edu.sg                |
+| 2 RT (RESPECT)        | Mrs Rifa'ie (Mdm Nur Rezeki Marzoki) | nur_rezeki_marzoki@moe.edu.sg          |
 |                  | Ms Huang Kun                         | Huang_kun@moe.edu.sg                   |
 |                  | Ms Goh Jia Xuan                      | goh_jia_xuan@moe.edu.sg                |
 | 2 RESILIENCE     | Ms Shamimah Begum D/O Mohd Ibrahim   | shamimah_begum_mohd_ibrahim@moe.edu.sg |
