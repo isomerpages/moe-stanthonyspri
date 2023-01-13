@@ -158,13 +158,12 @@ description: ""
 |                  |  Ms Joanne Sam | sam_choi_yoke@moe.edu.sg |
 | 4 RT (RESPECT)        | Mdm Razifah                 | razifah_abdul_rahim@moe.edu.sg                       |
 |                  | Ms Liu Fen                 | liu_fen@moe.edu.sg                    |
-|                  | Mrs Josephine Lai                 | tan_tzy_huey_josephine@moe.edu.sg               |
-| 4 RESILIENCE     | Ms Sarina Sahari                  | sarina_sahari@moe.edu.sg                        |
-|                  | Mr Huang Zhengqiang               | huang_zhengqiang@moe.edu.sg                     |
-| 4 RESPONSIBILITY | Ms Grace D/O Stephen              | grace_stephen_louisesamy@moe.edu.sg             |
-|                  | Mr Andi Iryadi Bin Said           | andi_iryadi_said@moe.edu.sg                     |
-| 4 INTEGRITY      |           Ms Chua En Hui          | chua_enhui@moe.edu.sg                           |
-|                  | Mdm Noorfizah Bte Hasim           | noorfizah_hasim@moe.edu.sg                      |
+| 4 RE (RESILIENCE)     | Mr Alvin Low                  |low_jun_ting_alvin@moe.edu.sg                        |
+|                  | Mdm Song Wenzhe               | song_wenzhe@moe.edu.sg                     |
+| 4 RY (RESPONSIBILITY) | Mdm Wong Shyh Jiun              | wong_shyh_jiun@moe.edu.sg             |
+|                  | Mdm Siti Raihana           | siti_raihana_ismail@moe.edu.sg                     |
+| 4 IY (INTEGRITY)      |           Ms Angela Chia          | chia_angela@moe.edu.sg                           |
+|                  | Mrs Chang Li Ping           | lek_li_ping@moe.edu.sg                      |
 |                  | Mr Peter Goh                      | goh_aik_seng_peter@moe.edu.sg                   |
 | 4 FAITH          | Mrs Grace Tan                     | ho_shuyi_grace@moe.edu.sg                       |
 |                  | Ms Grace Lee                      | grace_lee_ting@moe.edu.sg                       |
