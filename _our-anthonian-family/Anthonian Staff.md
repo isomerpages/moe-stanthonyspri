@@ -173,9 +173,8 @@ description: ""
 |                  |Mdm Santha | santha_suppiah@moe.edu.sg |
 | 5 RT (RESPECT)        | Mr Ang Ben Yong                |ang_ben_yong@moe.edu.sg                    |
 |                  | Mdm Liza Bte Ahmad                  | liza_ahmad@moe.edu.sg                        |
-|                  | Mdm Maryam                     | maryam_ismail@moe.edu.sg                               |
-| 5 RESILIENCE     | Mrs Janice Ong                 | janice_deng_cui_cui@moe.edu.sg                         |
-|                  | Mrs Ramesh                     | gowri_raman_jathu@moe.edu.sg                           |
+| 5 RE (RESILIENCE)     | Mdm Lee Kai Ling                 |lee_kai_ling_a@moe.edu.sg                        |
+|                  | Mrs Clarice Tay                     | nyeo_ling_ling@moe.edu.sg                          |
 |                  | Mdm Zhang Huili                | zhang_huili@moe.edu.sg                                 |
 | 5 RESPONSIBILITY | Ms Vanitha                     | vanitha_maniam@moe.edu.sg                              |
 |                  | Mrs Lina Liow                  | sim_lu_ping_lina@moe.edu.sg                            |
