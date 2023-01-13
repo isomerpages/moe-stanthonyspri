@@ -195,9 +195,8 @@ description: ""
 |                  | Ms Vanitha | vanitha_maniam@moe.edu.sg      |
 | 6 RY (RESPONSIBILITY) | Ms Tan Shu Tian         | tan_shu_tian@moe.edu.sg       |
 |                  | Mrs Lina Liow       | sim_lu_ping_lina@moe.edu.sg       |
-|                  | Mrs Clarice Tay        | nyeo_ling_ling@moe.edu.sg      |
-| 6 INTEGRITY      | Ms Baidah Bte Ahmad    | baidah_bte_ahmad@moe.edu.sg    |
-|                  | Mrs Angeline Wong      | tan_su_fern@moe.edu.sg         |
+| 6 IY (INTEGRITY)      | Mrs Ang (Yeo Hwee Leng)    | yeo_hwee_leng@moe.edu.sg    |
+|                  | Ms Loh Yang Keng      | loh_yang_keng@moe.edu.sg         |
 |                  | Mr Muhammad Nazirul    | md_nazirul_mustapah@moe.edu.sg |
 | 6 FAITH          | Ms Wong Suet Kiew      | wong_suet_kiew@moe.edu.sg      |
 |                  | Mdm Liza Ahmad         | liza_ahmad@moe.edu.sg          |
