@@ -175,14 +175,14 @@ description: ""
 |                  | Mdm Liza Bte Ahmad                  | liza_ahmad@moe.edu.sg                        |
 | 5 RE (RESILIENCE)     | Mdm Lee Kai Ling                 |lee_kai_ling_a@moe.edu.sg                        |
 |                  | Mrs Clarice Tay                     | nyeo_ling_ling@moe.edu.sg                          |
-|                  | Mdm Zhang Huili                | zhang_huili@moe.edu.sg                                 |
-| 5 RESPONSIBILITY | Ms Vanitha                     | vanitha_maniam@moe.edu.sg                              |
-|                  | Mrs Lina Liow                  | sim_lu_ping_lina@moe.edu.sg                            |
-| 5 INTEGRITY      | Mrs Ang (Yeo Hwee Leng)        | yeo_hwee_leng@moe.edu.sg                               |
-|                  | Ms Loh Yang Keng               | loh_yang_keng@moe.edu.sg                               |
-| 5 FAITH          | Mrs Karen Yip                  | teh_may_ching_karen@moe.edu.sg                         |
-|                  | Mdm Cheryl Nonis               | nonis_cheryl_dorothy@moe.edu.sg                        |
-|                  | Mdm Siti Raihana               | siti_raihana_husainni@moe.edu.sg                       |
+| 5 RY (RESPONSIBILITY) | Mrs Ho Poh Tip                    | loh_poh_tip@moe.edu.sg                              |
+|                  | Mrs Khoo Hwei Fang               | song_hwei_fang@moe.edu.sg                            |
+| 5 IY (INTEGRITY)      | Ms Sarina Sahari        | sarina_sahari@moe.edu.sg                               |
+| | Mr Simon Lee        | lee_kee_khiang@moe.edu.sg                         |
+|                  | Mr Joseph Tan Hong Quan               |joseph_tan_hong_quan@moe.edu.sg                              |
+| 5 FH (FAITH)          | Ms Grace D/O Stephen                  | grace_stephen_louisesamy@moe.edu.sg                        |
+|                  | Ms Lim Peiwen               | lim_peiwen@moe.edu.sg                        |
+|                  | Mrs Michelle Yim               | au_lei_san_michelle@moe.edu.sg                      |
 
 | P6 Form Teachers |                        |                                |
 |------------------|------------------------|--------------------------------|
