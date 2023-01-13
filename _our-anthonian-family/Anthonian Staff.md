@@ -186,15 +186,15 @@ description: ""
 
 | P6 Form Teachers |                        |                                |
 |------------------|------------------------|--------------------------------|
-| 6 GRATITUDE      | Mr Edwin Ong           | ong_shaoxian_edwin@moe.edu.sg  |
-|                  | Mrs Michelle Yim       | au_lei_san_michelle@moe.edu.sg |
-| 6 RESPECT        | Mdm Wang Fangfang      | wang_fangfang_a@moe.edu.sg     |
-|                  | Mrs Khoo Hwei Fang     | song_hwei_fang@moe.edu.sg      |
-| 6 RESILIENCE     | Ms Lee Yuan Fan        | lee_yuan_fan@moe.edu.sg        |
-|                  | Mdm Santha D/O Suppiah | santha_suppiah@moe.edu.sg      |
-|                  | Mdm Nur Azura Bte Azmi | nur_azura_azmi@moe.edu.sg      |
-| 6 RESPONSIBILITY | Mrs Ho Poh Tip         | loh_poh_tip@moe.edu.sg         |
-|                  | Mr Koh Yen Chieh       | koh_yen_chieh@moe.edu.sg       |
+| 6 GE (GRATITUDE)      | Mdm Perminder Kaur           | perminder_kaur_randhawa@moe.edu.sg  |
+|                  | Mr Christopher       | christopher_sagaram@moe.edu.sg |
+| 6 RT (RESPECT)        | Mrs Jasmine Foo     | chan_pei_cheng_jasmine@moe.edu.sg     |
+|                  | Mdm Maryam     | maryam_ismail@moe.edu.sg     |
+| 6 RE (RESILIENCE)     | Mrs Ramesh        | gowri_raman_jathu@moe.edu.sg        |
+|                  | Mrs Angeline Wong | tan_su_fern@moe.edu.sg     |
+|                  | Ms Vanitha | vanitha_maniam@moe.edu.sg      |
+| 6 RY (RESPONSIBILITY) | Ms Tan Shu Tian         | tan_shu_tian@moe.edu.sg       |
+|                  | Mrs Lina Liow       | sim_lu_ping_lina@moe.edu.sg       |
 |                  | Mrs Clarice Tay        | nyeo_ling_ling@moe.edu.sg      |
 | 6 INTEGRITY      | Ms Baidah Bte Ahmad    | baidah_bte_ahmad@moe.edu.sg    |
 |                  | Mrs Angeline Wong      | tan_su_fern@moe.edu.sg         |
