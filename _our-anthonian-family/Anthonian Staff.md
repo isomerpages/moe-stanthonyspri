@@ -164,9 +164,8 @@ description: ""
 |                  | Mdm Siti Raihana           | siti_raihana_ismail@moe.edu.sg                     |
 | 4 IY (INTEGRITY)      |           Ms Angela Chia          | chia_angela@moe.edu.sg                           |
 |                  | Mrs Chang Li Ping           | lek_li_ping@moe.edu.sg                      |
-|                  | Mr Peter Goh                      | goh_aik_seng_peter@moe.edu.sg                   |
-| 4 FAITH          | Mrs Grace Tan                     | ho_shuyi_grace@moe.edu.sg                       |
-|                  | Ms Grace Lee                      | grace_lee_ting@moe.edu.sg                       |
+| 4 FH (FAITH)          | Ms Nicolette Ho                     | nicolette_ho_yi_ting@moe.edu.sg                      |
+|                  | Mr Lee Zhen Hui Willy                      | lee_zhen_hui@moe.edu.sg                       |
 
 | P5 Form Teachers |                                |                                                        |
 |------------------|--------------------------------|--------------------------------------------------------|
