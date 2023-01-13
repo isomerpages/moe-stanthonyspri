@@ -153,8 +153,9 @@ description: ""
 
 | P4 Form Teachers |                                   |                                                 |
 |------------------|-----------------------------------|-------------------------------------------------|
-| 4 GRATITUDE      | Mrs Mano (Kothai D/O Sellathurai) | kothai_sellathurai@moe.edu.sg                   |
-|                  |  Mrs Rosarita Teo Ms Ling Yi Chin | teo_rosarita@moe.edu.sg ling_yi_chin@moe.edu.sg |
+| 4 GE (GRATITUDE)      | Ms Loo Ling Ling | loo_ling_ling@moe.edu.sg                   |
+|                  |  Ms Gowthami | gowthami_kanakasabai@moe.edu.sg |
+|                  |  Ms Joanne Sam | sam_choi_yoke@moe.edu.sg |
 | 4 RESPECT        | Mdm Lee Kai Ling                  | lee_kai_ling_a@moe.edu.sg                       |
 |                  | Ms Josephine Tang                 | josephine_limtang@moe.edu.sg                    |
 |                  | Mrs Josephine Lai                 | tan_tzy_huey_josephine@moe.edu.sg               |
