@@ -169,10 +169,10 @@ description: ""
 
 | P5 Form Teachers |                                |                                                        |
 |------------------|--------------------------------|--------------------------------------------------------|
-| 5 GRATITUDE      | Mdm Perminder Kaur             | perminder_kaur_randhawa@moe.edu.sg                     |
-|                  | Mr Christopher Ms Tan Shu Tian | christopher_sagaram@moe.edu.sg tan_shu_tian@moe.edu.sg |
-| 5 RESPECT        | Mrs Jasmine Foo                | chan_pei_cheng_jasmine@moe.edu.sg                      |
-|                  | Mr Kelvin Koh                  | koh_hock_lai_kelvin@moe.edu.sg                         |
+| 5 GE (GRATITUDE)      | Mr Edwin Ong Shaoxian             | ong_shaoxian_edwin@moe.edu.sg                    |
+|                  |Mdm Santha | santha_suppiah@moe.edu.sg |
+| 5 RT (RESPECT)        | Mr Ang Ben Yong                |ang_ben_yong@moe.edu.sg                    |
+|                  | Mdm Liza Bte Ahmad                  | liza_ahmad@moe.edu.sg                        |
 |                  | Mdm Maryam                     | maryam_ismail@moe.edu.sg                               |
 | 5 RESILIENCE     | Mrs Janice Ong                 | janice_deng_cui_cui@moe.edu.sg                         |
 |                  | Mrs Ramesh                     | gowri_raman_jathu@moe.edu.sg                           |
