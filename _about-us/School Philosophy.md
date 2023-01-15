@@ -12,7 +12,6 @@ description: ""
 | Mission     | _**Enabling our children to learn how to learn and to learn how to live, to become persons of integrity and persons for others in God's service**_  <br><br>As members of the Lasallian community, we believe in solidarity and that together we are strong. We ‘work together and by association’ to bring out the best in the children confided to our care. We achieve this by providing a holistic education that instills the joy of learning and focuses on the intellectual, physical, aesthetic, spiritual and socio- emotional aspects of growth. Through our work, students aspire towards a higher purpose in their lives.   |
 |  |  |
   
-
 ### Motto
 
 |   |
