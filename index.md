@@ -11,5 +11,6 @@ notification: This website contains photographs taken both pre-COVID-19 and in
 sections:
   - hero:
       background: /images/Homepage/homepagebanner.gif
-  - resources: {}
+  - resources:
+      button: Announcements & Highlights
 ---
