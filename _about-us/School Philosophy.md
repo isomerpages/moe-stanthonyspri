@@ -4,7 +4,7 @@ permalink: /about-us/School-Philosophy/
 description: ""
 ---
 ## School Philosophy
-### Vision and Mission
+#### Vision and Mission
 
 |  |  | 
 | -------- | -------- | 
