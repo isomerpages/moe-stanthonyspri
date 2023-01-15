@@ -31,11 +31,8 @@ St. John Baptist de La Salle was a man of great vision and intellect, enriched w
 In this way, the Brothers of the Christian Schools, otherwise known as the De La Salle Brothers, came into being. Worn out by austerities and exhausting labours, he died at Saint Yon near Rouen early in 1719 on Good Friday, only weeks before his sixty-eighth birthday.
 
 St. John Baptist de La Salle was a pioneer in founding training colleges for teachers, reform schools for delinquents, technical schools, and secondary schools for modern languages, arts, and sciences. His work quickly spread through France and, after his death, continued to spread across the globe. In 1900, John Baptist de La Salle was declared a Saint. In 1950, because of his life and inspirational writings, he was made Patron Saint of all those who work in the field of education. St. John Baptist de La Salle inspired others to teach and care for young people, to meet failure and frailty with compassion, and to affirm, strengthen and heal. At present, there are De La Salle schools in more than 80 different countries around the globe.
-<br><br>
 
-
-
-|<table style="width:200px"></table>|  | 
+|<col style="width:200px"> |  | 
 | -------- | -------- | 
 | <img align="center" style="width:150px;height:300px;margin-center:px;" src="/images/About%20Us/reims%20cathedral.jpg">    | <center>Reims Cathedral, begun in 1211 and finished in the 14th century, is rich in history and artistic splendor. St. John Baptist de La Salle was named a canon of the cathedral at age sixteen.</center>    | 
 | <img align="center" style="width:200px;height:200px;margin-center:px;" src="/images/About%20Us/hotel%20de%20la%20cloche.jpg"> | <center>Facade of the birthplace of St. John Baptist de La Salle, the Hotel de la Cloche. His family lived there till June 24, 1665, which was when they moved to the Rue Sainte-Marguerite. It is now known as the Hotel De La Salle and is owned by the Institute of the Brothers of the Christian Schools. It contains a very interesting collection of materials concerning the Saint.</center> |
