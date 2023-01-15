@@ -14,6 +14,7 @@ description: ""
   
 
 ### Motto
+
 |   |
 |---|
 |**_Crescit Eundo (Growing as we advance)_**<br><br>Our motto "Crescit Eundo", meaning that we grow as we advance, is symbolised by the mythical Phoenix which is part of the school crest. According to mythology, the Phoenix is supposed to live for five hundred years and then die, but immediately afterwards, it rises from its ashes a new bird, endowed with new life and vigour. For Anthonians, it is a reminder to continually learn and re-invent ourselves regardless of obstacles or failures. |
