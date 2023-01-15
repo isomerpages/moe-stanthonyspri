@@ -10,6 +10,7 @@ description: ""
 | -------- | -------- | 
 | Vision     | _**Caring Hearts, Passionate and Joyful Learners; Lasallians in service of God, family and nation**_  <br><br>  As Anthonians, we care for everyone as unique and infinitely valuable human persons, regardless of race, language or religion, and we are passionate and joyful in learning, developing as many aspects of ourselves as possible. We believe that the world is created for the honour of God and we strive to be the best we can be, stepping forward to serve in love, by taking action through personal and societal commitment, to make the world around us a better place, especially for the Last, the Lost and the Least. |
 | Mission     | _**Enabling our children to learn how to learn and to learn how to live, to become persons of integrity and persons for others in God's service**_  <br><br>As members of the Lasallian community, we believe in solidarity and that together we are strong. We ‘work together and by association’ to bring out the best in the children confided to our care. We achieve this by providing a holistic education that instills the joy of learning and focuses on the intellectual, physical, aesthetic, spiritual and socio- emotional aspects of growth. Through our work, students aspire towards a higher purpose in their lives.   |
+|  |  |
   
 
 ### Motto
