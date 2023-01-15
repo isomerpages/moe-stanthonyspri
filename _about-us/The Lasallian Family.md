@@ -33,6 +33,14 @@ In this way, the Brothers of the Christian Schools, otherwise known as the De La
 St. John Baptist de La Salle was a pioneer in founding training colleges for teachers, reform schools for delinquents, technical schools, and secondary schools for modern languages, arts, and sciences. His work quickly spread through France and, after his death, continued to spread across the globe. In 1900, John Baptist de La Salle was declared a Saint. In 1950, because of his life and inspirational writings, he was made Patron Saint of all those who work in the field of education. St. John Baptist de La Salle inspired others to teach and care for young people, to meet failure and frailty with compassion, and to affirm, strengthen and heal. At present, there are De La Salle schools in more than 80 different countries around the globe.
 <br><br>
 
+
+
+|  <div style="width:200px"></div> |  | 
+| -------- | -------- | 
+| <img align="left" style="width:150px;height:300px;margin-left:px;" src="/images/About%20Us/reims%20cathedral.jpg">    | <center>Reims Cathedral, begun in 1211 and finished in the 14th century, is rich in history and artistic splendor. St. John Baptist de La Salle was named a canon of the cathedral at age sixteen.</center>    | 
+|  |  |
+
+
 <img align="left" style="width:150px;height:300px;margin-left:px;" src="/images/About%20Us/reims%20cathedral.jpg"> <br><br><center>Reims Cathedral, begun in 1211 and finished in the 14th century, is rich in history and artistic splendor. St. John Baptist de La Salle was named a canon of the cathedral at age sixteen.</center>
 <br><br><br>
 
