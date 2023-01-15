@@ -67,7 +67,7 @@ WE BELIEVE that, like parents, teachers labour to form the minds and character o
 
 WE BELIEVE that success in school means more than good examinations results. It means learning how to live as well as how to make a living.
 
-#### Our Mission Is Fulfilled When Our Antonians:  
+#### Our Mission Is Fulfilled When Our Anthonians:  
 
 *   Understand and accept themselves and others,
     
