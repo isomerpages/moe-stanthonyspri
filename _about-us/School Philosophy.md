@@ -21,40 +21,8 @@ Our motto "Crescit Eundo", meaning that we grow as we advance, is symbolised by 
 
 ### Values
 
-#### **Lasallian Values**
-
-**_Faith ~ Service ~ Community_**
-
-As Lasallians, we believe in serving in love by taking action through personal and societal commitment, solidarity and that together we are strong.
-
-  
-
-**Faith** – Lasallians believe in God, in others and in ourselves.
-
-**Service** – Lasallians seek to be a blessing to others and make the world a better place because they care.
-
-**Community** – Lasallians work with others to achieve our vision to be caring, passionate and joyful learners in serving God, family and nation.
-
-  
-
-  
-
-#### **Anthonian Values**
-
-**_Resilience ~ Integrity ~ Gratitude ~ Respect ~ Responsibility_**
-
-  
-
-As Anthonians, we believe that the human person is unique and infinitely valuable. We value the personhood of the individual and we work towards the common good.
-
-  
-
-Anthonians are **resilient** and persevere to overcome our challenges to be the best that we can be.
-
-Anthonians will become **persons of integrity** and always do the right thing even when no one is watching.
-
-Anthonians are **grateful** for the many blessings we have received and seek to be a blessing to others to make the world a better place.
-
-Anthonians **respect** each other through our words and actions at all times.
-
-Anthonians are **responsible** for all our actions at all times.
+|  |  |
+| -------- | -------- |
+| Lasallian Values    | _**Faith ~ Service ~ Community**_  <br><br>As Lasallians, we believe in serving in love by taking action through personal and societal commitment, solidarity and that together we are strong. <br><br>**Faith** – Lasallians believe in God, in others and in ourselves. <br><br> **Service** – Lasallians seek to be a blessing to others and make the world a better place because they care. <br><br>**Community** – Lasallians work with others to achieve our vision to be caring, passionate and joyful learners in serving God, family and nation.  | 
+|Anthonian Values| _**Resilience ~ Integrity ~ Gratitude ~ Respect ~ Responsibility**_ <br><br>As Anthonians, we believe that the human person is unique and infinitely valuable. We value the personhood of the individual and we work towards the common good. <br><br>Anthonians are **resilient** and persevere to overcome our challenges to be the best that we can be. <br><br>Anthonians will become **persons of integrity** and always do the right thing even when no one is watching.<br><br>Anthonians are **grateful** for the many blessings we have received and seek to be a blessing to others to make the world a better place. <br><br> Anthonians **respect** each other through our words and actions at all times. <br><br>Anthonians are **responsible** for all our actions at all times.|
+|  |  |
