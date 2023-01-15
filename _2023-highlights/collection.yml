@@ -1,5 +1,0 @@
-collections:
-  2023-highlights:
-    output: true
-    order:
-      - test.md
