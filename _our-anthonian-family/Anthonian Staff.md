@@ -131,7 +131,6 @@ description: ""
 |------------------|-----------------------------------|-------------------------------------------------|
 | 4 GE (GRATITUDE)      | Ms Loo Ling Ling | loo_ling_ling@moe.edu.sg                   |
 |                  |  Ms Gowthami | gowthami_kanakasabai@moe.edu.sg |
-|                  |  Ms Joanne Sam | sam_choi_yoke@moe.edu.sg |
 | 4 RT (RESPECT)        | Mdm Razifah                 | razifah_abdul_rahim@moe.edu.sg                       |
 |                  | Ms Liu Fen                 | liu_fen@moe.edu.sg                    |
 | 4 RE (RESILIENCE)     | Mr Alvin Low                  |low_jun_ting_alvin@moe.edu.sg                        |
