@@ -167,8 +167,8 @@ description: ""
 |                  | Mdm Maryam     | maryam_ismail@moe.edu.sg     |
 | 6 RE (RESILIENCE)     | Mrs Ramesh        | gowri_raman_jathu@moe.edu.sg        |
 |                  | Mrs Angeline Wong | tan_su_fern@moe.edu.sg     |
-|                  | Ms Vanitha | vanitha_maniam@moe.edu.sg      |
-| 6 RY (RESPONSIBILITY) | Ms Tan Shu Tian         | tan_shu_tian@moe.edu.sg       |
+| 6 RY (RESPONSIBILITY) |       Ms Vanitha           | vanitha_maniam@moe.edu.sg    | 
+|| Ms Tan Shu Tian         | tan_shu_tian@moe.edu.sg       |
 |                  | Mrs Lina Liow       | sim_lu_ping_lina@moe.edu.sg       |
 | 6 IY (INTEGRITY)      | Mrs Ang (Yeo Hwee Leng)    | yeo_hwee_leng@moe.edu.sg    |
 |                  | Ms Loh Yang Keng      | loh_yang_keng@moe.edu.sg         |
