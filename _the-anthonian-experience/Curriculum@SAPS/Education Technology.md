@@ -8,8 +8,8 @@ third_nav_title: Curriculum@SAPS
 
 |  |  | 
 | -------- | -------- | 
-Mission   | Cultivate a Safe Learning Environment where Anthonians are Empowered to Embrace ICT in order to Enhance Learning, Encourage Collaboration and Support Self-Directed Learning.
 Vision     | Technologically Empowered to Live and Learn | 
+Mission   | Cultivate a Safe Learning Environment where Anthonians are Empowered to Embrace ICT in order to Enhance Learning, Encourage Collaboration and Support Self-Directed Learning.
 |  |  | 
 
 
