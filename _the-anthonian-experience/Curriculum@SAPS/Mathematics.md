@@ -4,12 +4,10 @@ permalink: /the-anthonian-experience/CurriculumatSAPS/Mathematics/
 description: ""
 third_nav_title: Curriculum@SAPS
 ---
+## Mathematics department
 
-## Mathematics 
-
-### Department Vision
-
-_Anthonians are life-long learners who are able to build self-confidence in learning Mathematics and apply concepts they have learnt in the world around them._
+  |  Vision  | Anthonians are life-long learners who are able to build self-confidence in learning Mathematics 
+	Mission   | To be able to apply mathematical concepts they have learnt in the world around them
 
   
 
@@ -112,4 +110,3 @@ Every year, our teachers from the lower, middle and upper primary levels conduct
 The Math Games Day is usually conducted towards the end of the year as a post-exam activity. Games are prepared for Primary 1 to 4 pupils to consolidate their learning for the entire year. Ex-Anthonians render their service to this programme as game masters.
 
 ![](/images/math3.png)
-
