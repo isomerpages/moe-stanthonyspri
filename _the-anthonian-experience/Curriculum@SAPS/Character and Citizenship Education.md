@@ -8,8 +8,8 @@ third_nav_title: Curriculum@SAPS
 
 |  |  | 
 | -------- | -------- | 
-Mission |To help Anthonians thrive by enabling them to learn how to learn and to learn how to live to be a blessing to others. |
 Vision |As Concerned Citizens, Anthonians Care, Respect and Serve with Integrity and a Heart of Gratitude. |
+Mission |To help Anthonians thrive by enabling them to learn how to learn and to learn how to live to be a blessing to others. |
 |  |  | 
 
 The design of the school’s CCE Curriculum takes reference from MOE’s CCE 2021 Curriculum Frame (Figure 1) and is anchored on the school’s mission, vision and values. 
