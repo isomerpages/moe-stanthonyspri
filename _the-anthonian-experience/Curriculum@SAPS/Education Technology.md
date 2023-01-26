@@ -34,17 +34,17 @@ The SAPS cyber wellness programme includes the following:
 
 ● Stopping cyberbullying
 
-Through sharing sessions by the school’s Cytech ambassadors and cyber wellness assembly programmes, the cyber wellness team continues to surface real-life case studies and promptly share learning points with the rest of the school community. We hope to continue empowering Anthonians to uplift and support one another in our efforts to promote positive and safe cyberspace experiences for all.
+Through sharing sessions by the school’s CyTech champions and cyber wellness assembly programmes, the cyber wellness team continues to surface real-life case studies and promptly share learning points with the rest of the school community. We hope to continue empowering Anthonians to uplift and support one another in our efforts to promote positive and safe cyberspace experiences for all.
 
 ![](/images/image6.jpg)
 
 _Cyber wellness messages are included in the morning assembly slides to serve as daily reminders to our Anthonians as they engage in activities online._
 
 ![](/images/image5.jpeg)
-_Class presentation on Cyberbullying by P5 Class Cytech Monitors_
+_Class presentation on Cyberbullying by P5 CyTech Champions_
 
 ![](/images/ict.jpeg)
-_Class Presentation on cyberbullying by P6 Class Cytech Monitors_
+_Class Presentation on cyberbullying by P6 CyTech Champions_
 
 ![](/images/image7.jpeg)
 _A writing lesson in which Anthonians respectfully provided constructive feedback on one another’s work._
