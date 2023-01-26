@@ -10,9 +10,9 @@ third_nav_title: Curriculum@SAPS
 -----------------------------
 |  |  | 
 | -------- | -------- | 
-**<center>Vision</center>**
+Vision  | 
 
-<center>To grow Anthonians into confident and effective communicators of the English Language</center>
+  | To grow Anthonians into confident and effective communicators of the English Language   | 
 
 **<center>Mission</center>**
 
