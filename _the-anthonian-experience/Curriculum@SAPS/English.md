@@ -16,7 +16,7 @@ Mission   | To provide a rich environment for Anthonians to enjoy and apply the
 
 **Our teaching and learning approach**
 
-In SAPS, we draw reference from the SAPS Teaching and Learning Framework when designing and implementing lessons to provide our Anthonians with a sound education grounded in the Lasallian ethos. The framework encompasses the Singapore Teaching Practice (STP) which guides and supports teachers in their considerations in designing and implementing quality and effective lessons. The school adopts an integrated approach in designing an English Language curriculum aligned with MOE’s English Syllabus 2020. Besides STELLAR, which is the core programme designed by MOE curriculum specialists, the school incorporates its own school-based programme to develop Anthonians to be confident and effective users of the language.
+In SAPS, we draw reference from the SAPS Teaching and Learning Framework when designing and implementing lessons to provide our Anthonians with a sound education grounded in the Lasallian ethos. The framework encompasses the Singapore Teaching Practice (STP) which guides and supports teachers in their considerations in designing and implementing quality and effective lessons. The school adopts an integrated approach in designing an English Language curriculum aligned with MOE’s English Syllabus 2023. Besides STELLAR, which is the core programme designed by MOE curriculum specialists, the school incorporates its own school-based programme to develop Anthonians to be confident and effective users of the language.
 
 Progression of the Curriculum across Levels
 -------------------------------------------
@@ -45,7 +45,7 @@ STELLAR 2.0 from Primary 1 to Primary 3 uses the following strategies:
 
 ![](/images/English.jpg)
 
-_<center>Children engaging in Group Writing(MLEA)</center>_
+_<center>Children engaging in Group Writing (MLEA)</center>_
 
 ![](/images/english.png)
 
