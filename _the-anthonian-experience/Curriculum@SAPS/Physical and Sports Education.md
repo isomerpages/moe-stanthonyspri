@@ -4,13 +4,12 @@ permalink: /the-anthonian-experience/CurriculumatSAPS/Physical-and-Sports-Educat
 description: ""
 third_nav_title: Curriculum@SAPS
 ---
+## Physical and Sports Education Department 
 
-## Physical and Sports Education
+Vision     |  Every Anthonian, a passionate and joyful learner who strives to pursue physical and overall well-being. | 
+Mission |  To lead and enjoy a lifetime of active, healthy living 
+| | | 
 
-Department Vision
------------------
-
-Every Anthonian, a passionate and joyful learner who strives to lead and enjoy a lifetime of active, healthy living.
 
 The Physical Education (PE) curriculum seeks to develop in each Anthonian the ability to:
 
