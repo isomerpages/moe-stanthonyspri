@@ -4,12 +4,12 @@ permalink: /the-anthonian-experience/CurriculumatSAPS/English/
 description: ""
 third_nav_title: Curriculum@SAPS
 ---
-
 ## English 
 
-Department Vision and Mission
------------------------------
 
+-----------------------------
+|  |  | 
+| -------- | -------- | 
 **<center>Vision</center>**
 
 <center>To grow Anthonians into confident and effective communicators of the English Language</center>
