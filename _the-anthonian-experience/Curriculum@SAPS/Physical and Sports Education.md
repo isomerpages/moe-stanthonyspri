@@ -6,6 +6,8 @@ third_nav_title: Curriculum@SAPS
 ---
 ## Physical and Sports Education Department 
 
+|  |  | 
+| -------- | -------- | 
 Vision     |  Every Anthonian, a passionate and joyful learner who strives to pursue physical and overall well-being. | 
 Mission |  To lead and enjoy a lifetime of active, healthy living 
 | | | 
@@ -23,13 +25,16 @@ Through the school’s PE programme, students learn the fundamental movement and
 
 The learning areas for each level are shown in the table below:
 
+
+
+-----------------------------
 |        Learning Areas       |  Levels  |
 |:---------------------------:|:--------:|
 |            Dance            | P1 to P6 |
-|       Games and Sports      |          |
-|          Gymnastics         |          |
-|      Outdoor Education      |          |
-| Physical Health and Fitness |          |
+|       Games and Sports      |      P1 to P6    |
+|          Gymnastics         |     P1 to P6     |
+|      Outdoor Education      |    P1 to P6      |
+| Physical Health and Fitness |    P1 to P6      |
 |           Swimming          |    P3    |
 |          Athletics          | P3 to P6 |
 
