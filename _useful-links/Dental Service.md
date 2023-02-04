@@ -16,5 +16,5 @@ Clinic is opened on odd weeks in Term 1.
 *   Person In-Charge: Ms Suryani Kamsidin (Assistant Manager) and Ms Vaishnavi
     
 *   Operating Hours:
-    *   Mondays – Thursdays (8.00 a.m. – 5.30 p.m.)
-    *   Fridays (8.00 a.m. – 5.00 p.m.)
+<br>·       Mondays – Thursdays (8.00 a.m. – 5.30 p.m.)
+<br>·       Fridays (8.00 a.m. – 5.00 p.m.)
