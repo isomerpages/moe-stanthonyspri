@@ -112,13 +112,7 @@ The School-based Dyslexia Remediation (SDR) programme is a two-year intervention
 
 **<u>kidsREAD</u>**
 
-The kidsREAD programme is a collaborative effort by the school, our Parent Support Group (PSG) and the National Library Board (NLB). It aims to cultivate the love of reading and to promote good reading habits in P1 and P2 Anthonians who are from financially disadvantaged families. It also provides an avenue for children from diverse backgrounds to interact with one another at an early age. This weekly one-hour session after school is led by a Parent Volunteer trained in basic storytelling.
-
-  
-
-Our Anthonians have benefitted from spending their Friday afternoons with the PSG members who read stories to them and carry out many interesting and structured activities including word searches and art and craft. To enhance their learning experience, they have also been brought on learning journeys during the school holidays, including a pottery factory in 2019, a vegetable farm in 2018, and The Singapore Zoo in 2017. Every year, Anthonians in the programme also receive attractive goody bags from NLB containing storybooks, t-shirts and stationery. 
-
-  
+The kidsREAD programme is a collaborative effort by the school, our Parent Support Group (PSG) and the National Library Board (NLB). It aims to cultivate the love of reading and to promote good reading habits in P1 and P2 Anthonians who are from financially disadvantaged families. It also provides an avenue for children from diverse backgrounds to interact with one another at an early age. This weekly one-hour session after school is led by Parent Volunteers trained in basic storytelling.
 
 **<u>Buddy Reading</u>** 
 
