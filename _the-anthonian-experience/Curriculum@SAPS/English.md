@@ -6,8 +6,6 @@ third_nav_title: Curriculum@SAPS
 ---
 ## English department
 
-
------------------------------
 |  |  | 
 | -------- | -------- | 
 Vision  | To grow Anthonians into confident and effective communicators of the English Language   | 
