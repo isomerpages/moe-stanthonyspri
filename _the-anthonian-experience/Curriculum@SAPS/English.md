@@ -113,11 +113,6 @@ The School-based Dyslexia Remediation (SDR) programme is a two-year intervention
 **<u>kidsREAD</u>**
 
 The kidsREAD programme is a collaborative effort by the school, our Parent Support Group (PSG) and the National Library Board (NLB). It aims to cultivate the love of reading and to promote good reading habits in P1 and P2 Anthonians who are from financially disadvantaged families. It also provides an avenue for children from diverse backgrounds to interact with one another at an early age. This weekly one-hour session after school is led by Parent Volunteers trained in basic storytelling.
-
-**<u>Buddy Reading</u>** 
-
-Buddy Reading is a critical extension of the Learning Support Programme (LSP) for identified P1 and P2 Anthonians. These Anthonians attend morning reading sessions twice a week before assembly. P3 and P4 Anthonians recommended by their teachers are trained to be Buddy Readers. The Buddy Readers coach and monitor the younger Anthonians in their reading using selected graded readers and/or decodable readers. 
-
   
 
 **<u>Little Red Dot (LRD)</u>** 
