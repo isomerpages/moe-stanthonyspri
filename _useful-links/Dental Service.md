@@ -9,11 +9,11 @@ description: ""
 
 **Operating hours:**
 
-Clinic is opened on even weeks in Term 4.
+Clinic is opened on odd weeks in Term 1.
 
 *   Contact Number: 9115 7437  
     
-*   Person In-Charge: Mdm Zainun Saad, Manager (Dental Therapy)  
+*   Person In-Charge: Ms Suryani Kamsidin (Assistant Manager) and Ms Vaishnavi
     
 *   Operating Hours:
     *   Mondays – Thursdays (8.00 a.m. – 5.30 p.m.)
