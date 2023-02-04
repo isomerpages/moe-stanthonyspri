@@ -83,6 +83,6 @@ OAL Cohort Camps provide rich and authentic learning experiences for students to
 
 As part of our continual efforts to ensure that Anthonians eat healthy food in the school, the school adopts HPB’s Healthy Meals in School Programme (HMSP). HPB works with our canteen vendors to draw up menus for healthy and balanced set meals. Nutritionists and chefs give their input, and care is taken to ensure that your child enjoys a well-balanced and nutritious meal.  
 
-Each meal comes with a good mix of food from the four main food groups – brown rice, wholemeal bread, meat and others, vegetable and fruit. All portions adhere to HPB recommendations, and are priced at $1 for a small portion, $1.50 for a medium portion and $2.00 for a large portion.
+Each meal comes with a good mix of food from the four main food groups – brown rice, wholemeal bread, meat and others, vegetable and fruit. All portions adhere to HPB recommendations, and are priced at $1.50 for a medium portion and $2.00 for a large portion.
 
 Through our participation in this programme, we hope that our Anthonians will benefit from well-balanced meals and cultivate healthy eating habits from young.
