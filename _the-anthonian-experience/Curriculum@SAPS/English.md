@@ -137,13 +137,13 @@ _<center>Anthonians performing their poetry recitation in front of the class</ce
 ![](/images/english8.jpeg)
 _<center>Readers Theatre performance</center>_
 
-**<u>Talent Development Programme (TDP): Debating</u>** 
+**<u>Talent Development Programme (TDP)</u>** 
 
-This programme focuses on enhancing oratorical skills among our upper primary Anthonians. Anthonians who have an aptitude for or an interest in honing their oratorical skills are invited to join the programme. Under the guidance of a debate coach, they learn to carry out research to look for substantiated points of information, structure their arguments in a logical and coherent manner, and debate these points with their peers. Selected Anthonians participate in inter-school competitions 
+This programme focuses on enhancing oratorical skills in debating and public speaking among our upper primary Anthonians. Anthonians who have an aptitude for or an interest in honing their oratorical skills are invited to join the programme. 
+
+Under the guidance of a debate coach, they learn to carry out research to look for substantiated points of information, structure their arguments in a logical and coherent manner, and debate these points with their peers. Selected Anthonians participate in inter-school competitions such as Wits and Words.
 
   
-
-Despite the challenges posed by COVID-19, Anthonians continue to hone their skills by meeting virtually, work in online breakout groups to do research and carry out discussions, and by engaging in online debates.
 
 ![](/images/english9.jpeg)
 _<center>Anthonians attending the Raffles Institution Debating 101 Programme</center>_
@@ -159,8 +159,6 @@ _<center>Debate Activity among our debaters</center>_
 Through the use of storytelling and drama, members of the English Club CCA are immersed in a language-rich environment. They participate in activities that provide them with opportunities to develop teamwork and creativity. Through fun vocalisation activities and performances, they hone their language skills and build their confidence.  These fun and engaging activities help them to cultivate a love for the language and provide opportunities to use English purposefully. 
 
   
-
-During the pandemic, eCCA sessions opened up new ways for students to pick up skills and express themselves creatively in virtual meetings.
 
 ![](/images/english11.jpeg)
 _<center>Creating a Scene</center>_
@@ -179,18 +177,7 @@ WoW provides upper primary Anthonians with opportunities to write and share thei
 
 #### Our Partners
 
-  
-
-We collaborate with the National Library Board (NLB) for the following programmes:
-
-  
-
-*   'Read, Swap and Share’ for P1 to P3 
-*   Story-telling Programme for Lower Primary
-*   Book Buzz for Upper Primary
-*   Librarian’s Challenge for Student Librarians 
-*   POSB-NLB Kids' Lit Quiz
-*   National Reading Day Challenge / Read for Charity
-*   Raising Readers (Parents' Workshop)
-*   ‘Books 2 Go’ (NLB Mass Borrowing) 
-*   kidsREAD
+We are glad to have the following partners working with us to enrich our Anthonians' learning:
+* Parent Support Group
+* CIVICA
+* National Library Board (NLB)
