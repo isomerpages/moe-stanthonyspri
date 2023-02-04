@@ -71,7 +71,7 @@ STELLAR from Primary 4 to Primary 6 involves:
 
 Our school collaborates with the National Library Board to carry out many of its signature reading programmes throughout the year. These include Book Buzz and Book Bugs. We also design our very own Library Curriculum, which is tailored to the needs of our Anthonians. The Library Curriculum is incorporated into our English Language curriculum to expose our Anthonians to a variety of genres and cultivate a love for reading. Apart from this, the school library also carries out activities based on monthly themes. 
 
-We also invite NLB to conduct the Raising Readers workshop for parents of our P1 and P2 Anthonians. Through the workshop, parents learn about the Reading Virtuous Cycle and how to create a positive reading experience for their children.
+We also collaborate with NLB to conduct the Raising Readers workshop for parents of our P1 and P2 Anthonians. Through the workshop, parents learn about choosing the right books and how to create a positive reading experience for their children.
 
 _<center>Blind Date with a Book - Pupils picking their book of choice</center>_
 ![](/images/english4.png)
