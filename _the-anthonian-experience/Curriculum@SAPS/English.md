@@ -178,6 +178,6 @@ WoW provides upper primary Anthonians with opportunities to write and share thei
 #### Our Partners
 
 We are glad to have the following partners working with us to enrich our Anthonians' learning:
-* Parent Support Group
+* Parents Support Group
 * CIVICA
 * National Library Board (NLB)
