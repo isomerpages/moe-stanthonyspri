@@ -6,8 +6,6 @@ third_nav_title: CCA@SAPS
 ---
 ## CCA Schedule
 
-![](/images/CCA%20schedule%20top.jpeg)
 
-![](/images/CCA%20schedule%20mid.jpeg)
 
-![](/images/CCA%20last.jpeg)
+![CCA schedule](/images/CCA%20Schedule%202023.png)
