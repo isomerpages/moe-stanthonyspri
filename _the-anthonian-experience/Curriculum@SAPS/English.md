@@ -127,9 +127,9 @@ To introduce the habit of reading newspapers, all upper primary Anthonians (P5 &
 
 In order to nurture confident and empathetic communicators, our school-based English Language Speech Arts (E.L.S.A.) programme aims to cultivate Anthonians’ interest in speech arts and provides them with opportunities to practise their oratorical skills.   
 
-  
+Anthonians will start off their learning journey in P1 and P2 with a theatrical experience and workshop. Various activities will be conducted to help them to develop awareness and knowledge of speaking and representing. They will then build up their oracy as they participate in teacher-designed activities in class. For example, P5 and P6 Anthonians will take part in discussions and debates on current affairs which encourages them to share various viewpoints on selected newspaper articles. Through these undertakings, we aim to equip them with the key critical thinking and communication skills.
 
-Our P1 to P3 Anthonians engage in show-and-tell, poetry recitation and drama to build up their speaking skills in an interesting and interactive way. P4 Anthonians take part in discussions and debates on current affairs which encourages them to share various viewpoints on selected newspaper articles. P5 and P6 Anthonians read about current affairs in the Little Red Dot (LRD) and discuss and debate the issues in class weekly, further nurturing their oratorical skills. Through these undertakings, we aim to develop passionate learners and concerned citizens who are able to communicate their thoughts and opinions effectively.
+
 
 ![](/images/english7.png)
 _<center>Anthonians performing their poetry recitation in front of the class</center>_
