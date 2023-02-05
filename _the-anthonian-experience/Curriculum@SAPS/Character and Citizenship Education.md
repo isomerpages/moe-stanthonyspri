@@ -53,13 +53,12 @@ At St. Anthony’s Primary School, we strive to make values learning the centre 
 
 Guidance modules and relevant topics (e.g. Assertiveness Programme for Managing Bullying, Peer Support and Relationships, Sexuality Education, Education and Career Guidance, Mental Health and Cyberwellness Education) are built in to develop Anthonians’ holistic growth. It also covers the following:
 
-  
 
 1.  FTGP (Form Teacher Guidance Period) and Termly Special Bonding Time (Building Bonds Within the Classroom)
 2.  Life skills and Social-Emotional Learning (SEL)
 3.  Values in Action (VIA) Programme - Connecting the Head, Heart and Hands – an opportunity for our Anthonians to observe, feel and think about how they can be a blessing to the community and take action to make the world around them a better place. 
 4.  Singapore Kindness Programme & CCE Lessons – explicit teaching of R3ICH values 
-5.  School-based Values Education Programmes, i.e., faith-based programmes, SAPS Social Teachings, Growth Mindset, NE Core Events, Learning Journeys, Anthonian Matters, CCAs, Camps, Anthonian Leadership Programme, Assembly Talks/Library Activities on values and the use of stories in EL/MTL to develop character and citizenship
+5.  School-based Values Education Programmes, i.e., faith-based programmes, SAPS Social Teachings, Growth Mindset, NE Core Events, Learning Journeys, Anthonian Matters, CCAs, Camps, Anthonian Leadership Programme, Talks/Library Activities on values and the use of stories in EL/MTL to develop character and citizenship
 6.  Personal Reflections, e.g., Anthonian Conduct Rubric self-assessment; VIA reflections, where Anthonians are taught to reflect on their character growth as a lifelong process and to develop the habits of self-reflection and gratitude. 
 
   
@@ -72,24 +71,14 @@ SAPS VIA aims to inculcate in Anthonians the school values and teach them to put
 
   
 
-The VIA curriculum is planned and implemented across the six levels in accordance with the CCE (Primary) Syllabus, aligning our VIA efforts with national directions. Through activities that build social cohesion and civic responsibility, Anthonians are nurtured to become socially responsible. This develops their sense of belonging and commitment to the community and nation. 
+The VIA curriculum is planned and implemented across the six levels in accordance with the CCE 2021 (Primary) Curriculum, aligning our VIA efforts with national directions. Through activities that build social cohesion and civic responsibility, Anthonians are nurtured to become socially responsible. This develops their sense of belonging and commitment to the community and nation. 
+
+
+<u>Our External Partners in Education</u>
 
   
 
-VIA activities focus on two broad areas: helping ‘the Last, the Lost and the Least’, and creating a sustainable environment. Anthonians work with their peers in the same level and/or CCA to serve in the following ways:
-
-*   P1: Home-School CARE (VIA) & Adoption of School Canteen
-*   P2: Home-School CARE (VIA) & Adoption of School Compound
-*   P3: Litter-Free School Community, including Toilet CARE
-*   P4: CARE Buddies of P1, Stop Food Wastage & ‘Harmony from the Heart@Sg’ Advocates 
-*   P5: CARE Buddies of P2 & Enviro CARE: Litter-Free Dream 
-*   P6: CARE Buddies of P3, Elder CARE & Intergenerational Learning Programme (ILP)
-*   CCA Groups: Student-Initiated VIA Projects
-
-Our External Partners in Education
-
-  
-
+*   Parent Support Group
 *   South West Community Development Council (SWCDC)
 *   National Environment Agency (NEA)
 *   Ministry of Social and Family (MSF) Development
@@ -99,31 +88,9 @@ Our External Partners in Education
 *   HCA Hospice Care
 *   Fei Yue Community Services
 *   Family Central
-*   ArtforCause SG 2030
+*   Singapore Art Museum
+*   St. Mary's of the Angels
+*   Heartware network Volunteers
+*   Hwa Chong Institution
 
-### National Education Social Studies (NESS) 
 
-> Unable to add National Education Social Studies (NESS) slide show photos as it's not google slides
-
-National Education at SAPS seeks to develop in Anthonians an understanding and appreciation of citizenship, as well as the past, present and future of Singapore in a complex and ever-changing world. Programmes and activities are anchored on the following Citizenship Dispositions:
-
-*   A Sense of Belonging
-
-*   A Sense of Reality
-
-*   A Sense of Hope
-
-*   The Will to Act
-
-In tandem, the Social Studies curriculum develops Anthonians’ knowledge, skills and values through examining issues that are of concern to our society and the world in which we live. 
-
-Anthonians participate in a range of meaningful and engaging learning experiences to learn more about themselves, their community, the nation and the world.
-
-Project ACE (Apply Create Excel), the school’s Interdisciplinary Project Work programme, is one such example. Project ACE is anchored in the subject of Social Studies and allows Anthonians to:
-
-*   learn and collaborate with peers to achieve a common goal;
-*   apply knowledge gained in Social Studies, and in so doing, gain a better awareness of community and national issues; 
-
-*   learn problem-solving strategies via the inquiry-based learning cycle.
-
-The school also commemorates the four core NE events – Total Defence Day, International Friendship Day, Racial Harmony Day and National Day – to remember defining moments in Singapore’s history. These events remind us to treasure our heritage, value our diversity and progress thus far, and work towards a bright future for ourselves and our nation.
