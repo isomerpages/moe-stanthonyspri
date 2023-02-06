@@ -93,4 +93,27 @@ The VIA curriculum is planned and implemented across the six levels in accordanc
 *   Heartware network Volunteers
 *   Hwa Chong Institution
 
+# National Education Social Studies (NESS)
 
+National Education at SAPS seeks to develop in Anthonians an understanding and appreciation of citizenship, as well as the past, present and future of Singapore in a complex and ever-changing world. Programmes and activities are anchored on the following Citizenship Dispositions:
+
+*   A Sense of Belonging
+
+*   A Sense of Reality
+
+*   A Sense of Hope
+
+*   The Will to Act
+
+In tandem, the Social Studies curriculum develops Anthonians’ knowledge, skills and values through examining issues that are of concern to our society and the world in which we live. 
+
+Anthonians participate in a range of meaningful and engaging learning experiences to learn more about themselves, their community, the nation and the world.
+
+Project ACE (Apply Create Excel), the school’s Interdisciplinary Project Work programme, is one such example. Project ACE is anchored in the subject of Social Studies and allows Anthonians to:
+
+*   learn and collaborate with peers to achieve a common goal;
+*   apply knowledge gained in Social Studies, and in so doing, gain a better awareness of community and national issues; 
+
+*   learn problem-solving strategies via the inquiry-based learning cycle.
+
+The school also commemorates the four core NE events – Total Defence Day, International Friendship Day, Racial Harmony Day and National Day – to remember defining moments in Singapore’s history. These events remind us to treasure our heritage, value our diversity and progress thus far, and work towards a bright future for ourselves and our nation.
