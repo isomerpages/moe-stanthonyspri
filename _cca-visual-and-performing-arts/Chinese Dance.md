@@ -6,4 +6,4 @@ description: ""
 ## Chinese Dance
 
 ![chinese dance](/images/Chinese%20Dance1.png)
-![](/images/Chinese%20Dance.png)
+![Chinese dance](/images/chinese%20dance.jpg)
