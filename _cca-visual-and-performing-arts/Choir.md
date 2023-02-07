@@ -7,4 +7,4 @@ description: ""
 
 
 ![Choir](/images/Choir.png)
-![](/images/Choir.jpeg)
+![Choir](/images/Choir.jpg)
