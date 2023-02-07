@@ -6,5 +6,4 @@ description: ""
 ## Robotics Club
 
 ![Robotics Club](/images/Robotics%20Club.png)
-
-![](/images/robotics.png)
+![robotics](/images/robotics.jpg)
