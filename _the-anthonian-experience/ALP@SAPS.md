@@ -8,7 +8,7 @@ description: ""
 ### Applied Learning Programme
 
 
-CODE@SAPS is a customised coding curriculum, specially designed for Primary 3 to Primary 5 Anthonians, to equip them with the fundamentals of computational thinking, inventive thinking and critical thinking skills. 
+CODE@SAPS is a customised coding curriculum, specially designed for Primary 2 to Primary 5 Anthonians, to equip them with the fundamentals of computational thinking, inventive thinking and critical thinking skills. 
 
   
 
@@ -22,59 +22,55 @@ The programme provides opportunities for students to acquire 21st Century Compet
 
 **Coding Curriculum** 
 
-Primary 3 students learn basic programming concepts through the use of colour codes and visual programming with an Ozobot. They apply the codes learnt by programming the movements of the Ozobot to solve puzzles, navigate mazes and develop debugging skills (identifying and rectifying errors through logical thinking).
+Primary 2 students learn basic programming concepts through the use of colour codes with an Ozobot in the Young Coders coding programme. Anthonians drew lines and added colour codes to tell the Ozobot what to do!
 
-  
+Also in the Young Coders programme, Primary 3 students learn learn basic programming concepts through the use of colour codes and visual programming with an Ozobot too.
+They apply the codes learnt by programming the movements of the Ozobot to solve puzzles, navigate mazes and develop debugging skills (identifying and rectifying errors through logical thinking).
 
-Primary 4 and 5 students learn block coding with a Micro:bit, which is a pocket-sized, codeable computer. They apply the codes learnt by devising coding-based solutions to a given problem. This project helps students to consolidate their learning of the various coding skills and apply them to a real-life situation. Some examples of projects include: 
 
-*   creating a prototype using micro:bit to alert the residents and cleaners of stagnant water accumulating; and
-*   creating a fall detection alarm system with micro:bit to inform caregivers when seniors injure themselves at home.
+In the Smart Thinkers coding programme, Primary 4 and 5 students learn block coding with a Micro:bit, which is a pocket-sized, codeable computer. They apply the codes learnt by devising coding-based solutions to a given problem. This project helps students to consolidate their learning of the various coding skills and apply them to a real-life situation. Some examples of projects include: 
+
+*   creating prototypes for step tracker product to encourage Anthonians to be more physically active and prototypes of smart light product using micro:bit to reduce their carbon footprint.
+*   creating prototypes of automatic watering system which can monitor the moisture content in the soil and automate the process of watering and prototypes of proximity beacon to prevent blind corner accidents.
 
 **<u>Primary 4 and Primary 5 Coding Programme</u>**
 
-![](/images/als.jpeg)
+![](/images/ALP1.jpg)
 Primary 5 Anthonians felt proud upon completion of a project with micro:bit
 
-![](/images/als2.jpeg)
+![](/images/ALP2.jpg)
 Primary 5 Anthonians were in the process of completing the codes for their project
 
-![](/images/als3.jpeg)
-Primary 5 Anthonians created an air guitar with micro:bit as light sensor
-
-![](/images/als4.jpeg)
-Primary 5 Anthonians using the step tracker that they created with micro:bi
-
-
-![](/images/als5.jpeg)
-Primary 5 Anthonians used the micro:bit and a moisture sensor to detect presence of water in their project set-up
-
-![](/images/als6.jpeg)
-Primary 4 Anthonians preparing to design the prototype of a game created with micro:bit
-
-![](/images/als7.jpeg)
-Primary 4 Anthonians completed a marble maze game and used a micro:bit keep tab on the scores
-
-![](/images/als9.jpeg)
-Primary 4 Anthonians playing with the cardboard table football and the micro:bit recorded the scores
-
-![](/images/als8.jpeg)
-Primary 4 and Primary 5 Anthonians proudly displaying their micro:bit projects on CODE@SAPS Day
-
-![](/images/als10.jpeg)
+![](/images/ALP3.jpg)
 Anthonians from all levels get to try out the games created using micro:bits
 
-**Primary 3 Coding Programme**
+![](/images/ALP4.jpg)
+Primary 4 and 5 Anthonians proudly displaying their micro:bit projects on CODE@SAPS Day
 
-![](/images/coding.jpeg)
+**Primary 2 and 3 Coding Programme**
+
+![](/images/ALP5.jpg)
 Primary 3 Anthonians exploring Ozobot and OzoBlockly
 
-![](/images/coding2.jpeg)
+![](/images/ALP6.jpg)
 Primary 3 Anthonians exploring Ozobot and OzoBlockly
 
-![](/images/coding3.jpeg)
-Primary 3 Anthonians trying out the Ozobot after loading the codes in OzoBlockly
+![](/images/ALP7.jpg)
+Primary 2 Anthonians were introduced to Ozobot using colour codes
+
+![](/images/ALP8.jpg)
+Primary 2 Anthonians exploring the different colour codes
 
 **Maker@SAPS**
 
-Maker@SAPS was implemented as an avenue for students to come together and solve problems through free play. These making and tinkering practices encourage creative thinking amongst students as they construct, deconstruct, design, fix, create and refine solutions to various problems presented to them. Maker@SAPS is now incorporated into CCAs to encourage students to think out of the box to creatively solve problems.
+Maker@SAPS was implemented as an avenue for students to come together and solve problems through free play. These making and tinkering practices encourage creative thinking amongst students as they construct, deconstruct, design, fix, create and refine solutions to various problems presented to them. 
+
+![](/images/ALP9.png)
+Primary 3 Anthonians exploring with Strawbees to create 3D shapes
+
+![](/images/ALP10.png)
+Anthonians creating structures out of Strawbees
+
+Students are able to take items apart, put things together, and dream of imaginative creations. The notion of multiple attempts, refining designs, and failure are all inherent with engaging students to take risks. This is aligned to the school direction towards having a growth mindset.
+
+Maker@SAPS is now incorporated into CCAs to encourage students to think out of the box to creatively solve problems.
