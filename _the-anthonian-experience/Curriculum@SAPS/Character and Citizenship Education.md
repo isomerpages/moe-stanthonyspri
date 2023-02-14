@@ -107,7 +107,7 @@ National Education at SAPS seeks to develop in Anthonians an understanding and a
 
 In tandem, the Social Studies curriculum develops Anthonians’ knowledge, skills and values through examining issues that are of concern to our society and the world in which we live.&nbsp;
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR35_ni09Qyz0crdQdNVXM8_1GCOQBwD-7yKeM6pD1qxURZdVQFh0tsfLXEtbJrGWIX0YsywsE0QJjF/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR35_ni09Qyz0crdQdNVXM8_1GCOQBwD-7yKeM6pD1qxURZdVQFh0tsfLXEtbJrGWIX0YsywsE0QJjF/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
 
 Anthonians participate in a range of meaningful and engaging learning experiences to learn more about themselves, their community, the nation and the world.
 
