@@ -5,12 +5,10 @@ description: ""
 third_nav_title: Curriculum@SAPS
 ---
 ## Mathematics department
-
------------------------------
 |  |  | 
 | -------- | -------- | 
- Vision  | Anthonians are life-long learners who are able to build self-confidence in the learning of Mathematics   | 
- Mission   | To apply mathematical concepts they have learnt in the world around them
+| Vision     | Anthonians are life-long learners who are able to build self-confidence in the learning of Mathematics   
+|  Mission   | To apply mathematical concepts they have learnt in the world around them
  |  |  | 
 
   
