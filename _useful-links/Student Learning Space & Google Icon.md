@@ -7,8 +7,10 @@ description: ""
 
 ### Student Learning Space 
 
-<img align="center" style="width:50%" src="/images/studentlearningspace.png"><center>Student Learning Space Website:<br>[https://vle.learning.moe.edu.sg](https://vle.learning.moe.edu.sg/login)</center>
-		 
+<img align="center" style="width:50%" src="/images/studentlearningspace.png"><br>
+
+Student Learning Space Website: [https://vle.learning.moe.edu.sg](https://vle.learning.moe.edu.sg)
+
 An online platform that allows students to access curriculum-aligned resources.
 
 Click&nbsp;&nbsp;[here](/files/Step%20by%20Step%20Help%20Guide%20for%20SLS.pdf)&nbsp;&nbsp;for instructions on how to activate the student's account.
