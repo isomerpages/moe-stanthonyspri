@@ -95,7 +95,7 @@ SLS is accessible through internet browsers on either Windows PC, Mac, iPad or A
 
 **Q1. How can my child log in to Student iCON?**
 
-Student iCON is web-based. Students can use their web browser in their internet- enabled computing or mobile devices to visit&nbsp;[**https://workspace.google.com/dashboard**](https://workspace.google.com/dashboard)&nbsp;to access Student iCON.
+Student iCON is web-based. Students can use their web browser in their internet- enabled computing or mobile devices to visit&nbsp;[https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)&nbsp;to access Student iCON.
 
 **Q2. Which Operating System or browser should my students use?**
 
