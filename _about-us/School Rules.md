@@ -59,8 +59,8 @@ description: ""
 		<td class="tg-pdeq" colspan="2"><b>Punctuality:</b><br> <span style="font-weight:400;color:#000">Anthonians are present in the assembly area for morning assembly at 7:30 am. This means that they should be assembled in the hall or classroom before 7:30 am.</span></td>
 	</tr>
 	<tr>
-		<td class="tg-03hs" rowspan="8">Anthonians respect the <span style="background-color:initial">occasion.</span></td>
-		<td class="tg-pdeq" colspan="2">Attire (Uniform): All Anthonians are to wear the prescribed school uniform. Any form of modification to the uniform is not allowed.<br><span style="font-weight:400;color:#000">Please refer to the photographs at the end of this section to see how uniforms are to be worn. </span><br><span style="font-weight:400;color:#000">Name tag is sewn above the shirt pocket/ school crest (PE)</span><br><span style="font-weight:400;color:#000">Skorts reach the middle of the kneecap</span></td>
+		<td class="tg-03hs" rowspan="8">Anthonians <b>respect</b> the <span style="background-color:initial">occasion.</span></td>
+		<td class="tg-pdeq" colspan="2"><b>Attire (Uniform): All Anthonians are to wear the prescribed school uniform. Any form of modification to the uniform is not allowed.</b><br><br><span style="font-weight:400;color:#000">Please refer to the photographs at the end of this section to see how uniforms are to be worn. </span><br><span style="font-weight:400;color:#000">Name tag is sewn above the shirt pocket/ school crest (PE)</span><br><span style="font-weight:400;color:#000">Skorts reach the middle of the kneecap</span></td>
 	</tr>
 	<tr>
 		<td class="tg-jxgv" colspan="2"><span style="font-weight:400;color:#000">Attire (Tie): Anthonians wear the school tie every day for the duration of the morning assembly except on days when they have PE lessons.</span></td>
