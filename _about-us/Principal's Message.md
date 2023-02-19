@@ -5,7 +5,7 @@ description: ""
 ---
 ## Principal's Message 
 
-<img style="width: 20%;" src="/images/Mrs%20Esther%20Choo%20-%20pic.jpeg" align = "left" />
+<img style="width: 20%;" src="/images/About%20Us/Mrs%20Esther%20Choo%20-%20pic.jpg" align = "left" />
 
 <p>Dear Parents and Guardians,</p>
   
