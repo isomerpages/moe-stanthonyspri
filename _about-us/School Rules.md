@@ -83,32 +83,32 @@ description: ""
 		<td class="tg-ktyi" colspan="2"><span style="font-weight:400;color:#000">Attire (Accessories): Girls may wear only one small gold/ silver/ transparent ear stud/loop in each ear lobe.</span></td>
 	</tr>
 	<tr>
-		<td class="tg-ktyi" colspan="2"><span style="font-weight:400;color:#000">Quiet Zones: Anthonians maintain silence in the quiet zones (i.e. corridors and staircase landings).   </span><br><span style="font-weight:400;color:#000">Quiet Time: Anthonians maintain silence during Quiet Time in the hall.   </span></td>
+		<td class="tg-ktyi" colspan="2"><span style="font-weight:400;color:#000">Quiet Zones: Anthonians maintain silence in the quiet zones (i.e. corridors and staircase landings).   </span><br><span style="font-weight:400;color:#000"><br>Quiet Time: Anthonians maintain silence during Quiet Time in the hall.   </span></td>
 	</tr>
 	<tr>
-		<td class="tg-wzxj" rowspan="7">Anthonians respect one another.</td>
-		<td class="tg-ktyi" colspan="2"><span style="font-weight:400;color:#000">Behaviour in School: Anthonians treat one another with respect and compassion.</span><br><span style="font-weight:400;color:#000">Greet/thank the teacher/staff/visitor.</span><br><span style="font-weight:400;color:#000">Ask for permission to enter/leave the room.</span><br><span style="font-weight:400;color:#000">Queue to buy food/drink, consume food/drink only in the canteen and return all cutlery and crockery.</span></td>
+		<td class="tg-wzxj" rowspan="7">Anthonians <b>respect</b> one another.</td>
+		<td class="tg-ktyi" colspan="2"><span style="font-weight:400;color:#000">Behaviour in School: Anthonians treat one another with respect and compassion.</span><br><span style="font-weight:400;color:#000"><br> ·       Greet/thank the teacher/staff/visitor.</span><br><span style="font-weight:400;color:#000"> ·       Ask for permission to enter/leave the room.</span><br><span style="font-weight:400;color:#000"> ·       Queue to buy food/drink, consume food/drink only in the canteen and return all cutlery and crockery.</span></td>
 	</tr>
 	<tr>
-		<td class="tg-ktyi" colspan="2"><span style="font-weight:400;color:#000">Mobile Phones and Smart Watches: Anthonians use their mobile phones and smart watches only for making necessary calls or sending messages before or after curriculum hours and with the teacher’s permission.</span><br><span style="font-weight:400;color:#000">Anthonians do not use their handphones and smart watches in the classroom during lessons and do not use their handphones and smart watches to take photographs/videos of others without permission. Anthonians also do not post photographs/videos of others in school or in school uniform and post them on social media or send them through any form of electronic communication without permission. Anthonians do not use their handphones and smart watches to play games, listen to music or use apps without their teachers’ permission.</span></td>
+		<td class="tg-ktyi" colspan="2"><span style="font-weight:400;color:#000">Mobile Phones and Smart Watches: Anthonians use their mobile phones and smart watches only for making necessary calls or sending messages before or after curriculum hours and with the teacher’s permission.</span><br><br><span style="font-weight:400;color:#000">Anthonians do not use their handphones and smart watches in the classroom during lessons and do not use their handphones and smart watches to take photographs/videos of others without permission. <br><Br>Anthonians also do not post photographs/videos of others in school or in school uniform and post them on social media or send them through any form of electronic communication without permission. <br><br>Anthonians do not use their handphones and smart watches to play games, listen to music or use apps without their teachers’ permission.</span></td>
 	</tr>
 	<tr>
-		<td class="tg-dgl5" colspan="2">Open Defiance: <span style="font-weight:400;color:#000">Anthonians do not wilfully disobey a person of authority.</span></td>
+		<td class="tg-dgl5" colspan="2"><b>Open Defiance:</b> <span style="font-weight:400;color:#000">Anthonians do not wilfully disobey a person of authority.</span></td>
 	</tr>
 	<tr>
-		<td class="tg-dgl5" colspan="2">All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item/sharp objects which can be used or are intended to be used to cause harm to others (e.g. knives, laser pointers, etc.)</td>
+		<td class="tg-dgl5" colspan="2"><b>All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item/sharp objects which can be used or are intended to be used to cause harm to others (e.g. knives, laser pointers, etc.)</b></td>
 	</tr>
 	<tr>
-		<td class="tg-dgl5" colspan="2">Possession of cigarettes/e-cigarettes &amp; their accessories/tobacco products and smoking: <span style="font-weight:400;color:#000">Anthonians are prohibited from bringing any cigarettes/e-cigarettes &amp; their accessories/tobacco products to school and from smoking. Anthonians are prohibited from bringing lighters, matches and any other dangerous items to school.</span></td>
+		<td class="tg-dgl5" colspan="2"><b>Possession of cigarettes/e-cigarettes &amp; their accessories/tobacco products and smoking:</b> <span style="font-weight:400;color:#000">Anthonians are prohibited from bringing any cigarettes/e-cigarettes &amp; their accessories/tobacco products to school and from smoking. Anthonians are prohibited from bringing lighters, matches and any other dangerous items to school.</span></td>
 	</tr>
 	<tr>
-		<td class="tg-dgl5" colspan="2">Possession of pornographic/inappropriate materials or dangerous items: <span style="font-weight:400;color:#000">Anthonians do not bring pornographic and inappropriate materials, or dangerous items to school.</span></td>
+		<td class="tg-dgl5" colspan="2"><b>Possession of pornographic/inappropriate materials or dangerous items: </b><span style="font-weight:400;color:#000">Anthonians do not bring pornographic and inappropriate materials, or dangerous items to school.</span></td>
 	</tr>
 	<tr>
-		<td class="tg-dgl5" colspan="2">Inappropriate touch and indecent exposure: <span style="font-weight:400;color:#000">Anthonians refrain from inappropriate touch and indecent acts.</span></td>
+		<td class="tg-dgl5" colspan="2"><b>Inappropriate touch and indecent exposure: </b><span style="font-weight:400;color:#000">Anthonians refrain from inappropriate touch and indecent acts.</span></td>
 	</tr>
 	<tr>
-		<td class="tg-wzxj" rowspan="7">Anthonians respect the school.</td>
+		<td class="tg-wzxj" rowspan="7">Anthonians <b>respect</b> the school.</td>
 		<td class="tg-ktyi" colspan="2"><span style="font-weight:400;color:#000">Behaviour in Public: Anthonians are well-behaved in public e.g. buses, trains, shopping malls and void decks. They do not behave in a manner which brings the school into disrepute.</span></td>
 	</tr>
 	<tr>
