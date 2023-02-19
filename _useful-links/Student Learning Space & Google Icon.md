@@ -35,7 +35,7 @@ If you are still not sure of your username, please approach your teacher.
 
 **Q3: My account has been locked. What should I do?**
 
-Your account will be locked after&nbsp;&nbsp;<u>**10 consecutive**</u>&nbsp;&nbsp;attempts to log in with an incorrect password.
+Your account will be locked after&nbsp;&nbsp;<u><b>10 consecutive</b></u>&nbsp;&nbsp;attempts to log in with an incorrect password.
 
 You can either:&nbsp;
 
