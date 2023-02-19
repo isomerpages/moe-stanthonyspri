@@ -41,34 +41,19 @@ St. John Baptist de La Salle was a pioneer in founding training colleges for tea
     </thead>
 <tbody>
   <tr>
-    <td><img src="/images/About%20Us/reims%20cathedral.jpg" style="width:75vw"></td>
+    <td><img src="/images/About%20Us/reims%20cathedral.jpg" style="width:50vw"></td>
     <td>Reims Cathedral, begun in 1211 and finished in the 14th century, is rich in history and artistic splendor. St. John Baptist de La Salle was named a canon of the cathedral at age sixteen.</td>
   </tr>
   <tr>
-    <td><img src="/images/About%20Us/hotel%20de%20la%20cloche.jpg" style="width:75vw"></td>
+    <td><img src="/images/About%20Us/hotel%20de%20la%20cloche.jpg" style="width:50vw"></td>
     <td>Facade of the birthplace of St. John Baptist de La Salle, the Hotel de la Cloche. His family lived there till June 24, 1665, which was when they moved to the Rue Sainte-Marguerite. It is now known as the Hotel De La Salle and is owned by the Institute of the Brothers of the Christian Schools. It contains a very interesting collection of materials concerning the Saint.</td>
   </tr>
   <tr>
-    <td><img src="/images/About%20Us/hotel%20de%20la%20salle.jpg" style="width:75vw"></td>
+    <td><img src="/images/About%20Us/hotel%20de%20la%20salle.jpg" style="width:50vw"></td>
     <td>View of the Hotel de La Salle as it is today. The building was seriously damaged during the war of 1914-1918, but this courtyard has remained almost untouched, and gives us an idea of what the Hotel de la Cloche must have been like during the time when the Saint and his family were still living in it.</td>
   </tr>
 </tbody>
 </table>
-
-
-
-
-
-
-
-
-|<col style="width:200px"> |  | 
-| -------- | -------- | 
-| <img align="center" style="width:150px;height:300px;margin-center:px;" src="/images/About%20Us/reims%20cathedral.jpg">    | <center>Reims Cathedral, begun in 1211 and finished in the 14th century, is rich in history and artistic splendor. St. John Baptist de La Salle was named a canon of the cathedral at age sixteen.</center>    | 
-| <img align="center" style="width:200px;height:200px;margin-center:px;" src="/images/About%20Us/hotel%20de%20la%20cloche.jpg"> | <center>Facade of the birthplace of St. John Baptist de La Salle, the Hotel de la Cloche. His family lived there till June 24, 1665, which was when they moved to the Rue Sainte-Marguerite. It is now known as the Hotel De La Salle and is owned by the Institute of the Brothers of the Christian Schools. It contains a very interesting collection of materials concerning the Saint.</center> |
-|<img align="center" style="width:150px;height:300px;margin-center:px;" src="/images/About%20Us/hotel%20de%20la%20salle.jpg">| <center>View of the Hotel de La Salle as it is today. The building was seriously damaged during the war of 1914-1918, but this courtyard has remained almost untouched, and gives us an idea of what the Hotel de la Cloche must have been like during the time when the Saint and his family were still living in it.</center>|
-|  |  |
-
 
 ### Our Lasallian Heritage
 
