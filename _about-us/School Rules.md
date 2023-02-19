@@ -47,16 +47,16 @@ description: ""
 </thead>
 <tbody>
 	<tr>
-		<td class="tg-fyfk">Expectations</td>
-		<td class="tg-pdeq" colspan="2">School Rules</td>
+		<td class="tg-fyfk"><b>Expectations</b></td>
+		<td class="tg-pdeq" colspan="2"><b>School Rules</b></td>
 	</tr>
 	<tr>
-		<td class="tg-03hs">Anthonians respect Singapore and are grateful for the many blessings they have as Singaporeans.</td>
-		<td class="tg-pdeq" colspan="2">Anthonians who are Singapore Citizens must sing the National Anthem and take the pledge. They will take the pledge with the right fist placed over their heart</td>
+		<td class="tg-03hs">Anthonians <b>respect</b> Singapore and are <b>grateful</b> for the many blessings they have as Singaporeans.</td>
+		<td class="tg-pdeq" colspan="2"><b>Anthonians who are Singapore Citizens must sing the National Anthem and take the pledge. They will take the pledge with the right fist placed over their heart.</b></td>
 	</tr>
 	<tr>
-		<td class="tg-03hs">Anthonians respect other’s time.</td>
-		<td class="tg-pdeq" colspan="2">Punctuality: <span style="font-weight:400;color:#000">Anthonians are present in the assembly area for morning assembly at 7:30 am. This means that they should be assembled in the hall or classroom before 7:30 am.</span></td>
+		<td class="tg-03hs">Anthonians <b>respect</b> other’s time.</td>
+		<td class="tg-pdeq" colspan="2"><b>Punctuality:</b><br> <span style="font-weight:400;color:#000">Anthonians are present in the assembly area for morning assembly at 7:30 am. This means that they should be assembled in the hall or classroom before 7:30 am.</span></td>
 	</tr>
 	<tr>
 		<td class="tg-03hs" rowspan="8">Anthonians respect the <span style="background-color:initial">occasion.</span></td>
