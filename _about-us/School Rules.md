@@ -36,6 +36,7 @@ description: ""
 	<tr>
 		<td class="tg-0pky"><b>Gambling:</b><br><span style="font-weight:400;color:#000">  Anthonians do not gamble.</span></td>
 	</tr>
+	<tr><td></td></tr>
 </tbody>
 </table>
 
@@ -130,11 +131,12 @@ description: ""
 		<td class="tg-dgl5" colspan="2"><b>Bullying:</b> <span style="font-weight:400;color:#000">Anthonians do not engage in bullying (verbal, physical, emotional) or cyberbullying and report all bullying cases.
 </span></td>
 	</tr>
+		<tr><td></td></tr>
 </tbody>
 </table>
-
-Note: Major rules are in **bold**.
+Note: Major rules are in <b>bold</b>.
 <br>
+
 **<center>Consequences</center>** 
 Based on documentation and/or evidence from teachers and statements by pupils, the Case Management Team will decide on a plan of action to address any infraction of the school rules. These actions may include but are not limited to the following:
 <ul>
