@@ -66,18 +66,18 @@ description: ""
 		<td class="tg-jxgv" colspan="2"><span style="font-weight:400;color:#000">Attire (Tie): Anthonians wear the school tie every day for the duration of the morning assembly except on days when they have PE lessons.</span></td>
 	</tr>
 	<tr>
-		<td class="tg-jxgv" colspan="2"><span style="font-weight:400;color:#000">Attire (Shoes and socks): Anthonians wear white canvas shoes and plain white socks. Socks must cover the ankles and must be fully visible above the shoes.</span><br><span style="font-weight:400;color:#000">*Alternative footwear due to medical conditions will be considered on a case-by-case basis and a letter of explanation must be submitted to school via the form teacher.</span></td>
+		<td class="tg-jxgv" colspan="2"><span style="font-weight:400;color:#000">Attire (Shoes and socks): Anthonians wear white canvas shoes and plain white socks. Socks must cover the ankles and must be fully visible above the shoes.</span><br><span style="font-weight:400;color:#000"><br>*Alternative footwear due to medical conditions will be considered on a case-by-case basis and a letter of explanation must be submitted to school via the form teacher.</span></td>
 	</tr>
 	<tr>
 		<td class="tg-jxgv" colspan="2"><span style="font-weight:400;color:#000">Grooming: Anthonians will keep their hair in its natural colour.</span></td>
 	</tr>
 	<tr>
 		<td class="tg-ktyi"><span style="font-weight:400;color:#000">Girls</span></td>
-		<td class="tg-ktyi"><span style="font-weight:400;color:#000">The fringe should be cut, clipped or tied up so that eyes are not covered.</span><br><span style="font-weight:400;color:#000">Hair is kept short above the back of the collar. Long hair is neatly plaited/ tied using plain black hair accessories.</span></td>
+		<td class="tg-ktyi"><span style="font-weight:400;color:#000"> ·       The fringe should be cut, clipped or tied up so that eyes are not covered.</span><br><span style="font-weight:400;color:#000"> ·       Hair is kept short above the back of the collar. Long hair is neatly plaited/ tied using plain black hair accessories.</span></td>
 	</tr>
 	<tr>
 		<td class="tg-ktyi"><span style="font-weight:400;color:#000">Boys</span></td>
-		<td class="tg-ktyi"><span style="font-weight:400;color:#000">Hair is kept short without touching the ears, eyebrows and shirt collar.</span><br><span style="font-weight:400;color:#000">No fancy hairstyles (eg. undercut, high fade with long fringe and/or hard parting, etc) are allowed.</span><br>Boys are not allowed to keep facial hair and are required to be clean-shaven.</td>
+		<td class="tg-ktyi"><span style="font-weight:400;color:#000"> ·       Hair is kept short without touching the ears, eyebrows and shirt collar.</span><br><span style="font-weight:400;color:#000"> ·       No fancy hairstyles (eg. undercut, high fade with long fringe and/or hard parting, etc) are allowed.</span><br> ·       <b>Boys are not allowed to keep facial hair and are required to be clean-shaven.</b></td>
 	</tr>
 	<tr>
 		<td class="tg-ktyi" colspan="2"><span style="font-weight:400;color:#000">Attire (Accessories): Girls may wear only one small gold/ silver/ transparent ear stud/loop in each ear lobe.</span></td>
