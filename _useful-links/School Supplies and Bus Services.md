@@ -10,8 +10,8 @@ Parents can then pick up what they have ordered in school according to the sched
 If parents opt for home delivery, there will be delivery charges.<br>
 Please check with respective vendors below for their home delivery charges.<br><br>
 Click [here](https://stanthonyspri.moe.edu.sg/purchase-guide) for textbooks and uniform purchase guide.
-
 <br>
+
 *   Book Supplier
   *   **Pacific Bookstores Pte Ltd**
    *   Website: [www.pacificbookstores.com](http://www.pacificbookstores.com/)
