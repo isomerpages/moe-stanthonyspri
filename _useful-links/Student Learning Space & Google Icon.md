@@ -42,7 +42,7 @@ You can either:&nbsp;
 1) Approach your&nbsp;&nbsp;**form teacher/subject teacher**&nbsp;&nbsp;to unlock your account
 
 2)  Contact the&nbsp;&nbsp;**School SLS Helpdesk**&nbsp;&nbsp;between 7a.m. to 3p.m. as below:  
-**Email Address:**&nbsp;&nbsp;&nbsp;[lim\_suan\_chu@moe.edu.sg](mailto:lim_suan_chu@moe.edu.sg)&nbsp;**or**&nbsp;&nbsp;&nbsp;[kiliammal\_kathamuthu@moe.edu.sg](mailto:kiliammal_kathamuthu@moe.edu.sg)&nbsp;&nbsp;
+**Email Address:**&nbsp;&nbsp;&nbsp;[lim\_suan\_chu@moe.edu.sg](mailto:lim_suan_chu@moe.edu.sg)&nbsp;&nbsp;**or**&nbsp;&nbsp;[kiliammal\_kathamuthu@moe.edu.sg](mailto:kiliammal_kathamuthu@moe.edu.sg)&nbsp;&nbsp;
 
 **Telephone:**&nbsp;&nbsp;65690822
 
