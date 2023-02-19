@@ -14,4 +14,5 @@ On 15 February itself, our Anthonians learnt more about the 6 pillars of defence
   
 Before the day ended, Anthonians had the priviledge to learn how the AETOS K-9 unit helps to keep us safe.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UGCKUUHRR6E?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UGCKUUHRR6E?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
