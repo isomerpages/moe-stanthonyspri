@@ -105,7 +105,7 @@ You can refer to the following table for guidance on the Operating Systems/brows
 <thead>
 	<tr>
 		<th class="tg-nbj5" colspan="2" rowspan="2"><span style="font-weight:400;color:#000">  </span><br><span style="font-weight:400;color:#000"> </span></th>
-		<th class="tg-fyfk" colspan="6">Operating System</th>
+		<th class="tg-fyfk" colspan="6"><center>Operating System</center></th>
 	</tr>
 	<tr>
 		<th class="tg-fyfk">Windows 10</th>
