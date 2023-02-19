@@ -121,13 +121,13 @@ description: ""
 		<td class="tg-ktyi" colspan="2"><span style="font-weight:400;color:#000">School Property: Anthonians handle all things that do not belong to them with care.</span></td>
 	</tr>
 	<tr>
-		<td class="tg-dgl5" colspan="2">Vandalism: <span style="font-weight:400;color:#000">Anthonians do not deface or vandalise school or public property (e.g. tables, walls, benches, fire alarms, etc)</span></td>
+		<td class="tg-dgl5" colspan="2"><b>Vandalism: </b><span style="font-weight:400;color:#000">Anthonians do not deface or vandalise school or public property (e.g. tables, walls, benches, fire alarms, etc)</span></td>
 	</tr>
 	<tr>
-		<td class="tg-dgl5" colspan="2">Assault/Fighting: <span style="font-weight:400;color:#000">Anthonians do not use physical violence.</span></td>
+		<td class="tg-dgl5" colspan="2"><b>Assault/Fighting: </b><span style="font-weight:400;color:#000">Anthonians do not use physical violence.</span></td>
 	</tr>
 	<tr>
-		<td class="tg-dgl5" colspan="2">Bullying: <span style="font-weight:400;color:#000">Anthonians do not engage in bullying (verbal, physical, emotional) or cyberbullying and report all bullying cases.
+		<td class="tg-dgl5" colspan="2"><b>Bullying:</b> <span style="font-weight:400;color:#000">Anthonians do not engage in bullying (verbal, physical, emotional) or cyberbullying and report all bullying cases.
 </span></td>
 	</tr>
 </tbody>
