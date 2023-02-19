@@ -3,7 +3,6 @@ title: Malay Language
 permalink: /the-anthonian-experience/CurriculumatSAPS/Malay-Language/
 description: ""
 ---
-
 ## Malay Language 
 
 **The Curriculum:**
@@ -83,4 +82,4 @@ Provide your child with opportunities to speak in Malay by using the language re
 
 **3.       Encourage a love for writing**  
 
-          Encourage your child to write about their thoughts, feelings and experiences. They can write about their                      everyday experiences or special occasions such as birthday celebrations or family outings. Depending on your              child’s readiness and preference, you can encourage them to keep a journal or write simple messages in                      birthday or thank-you cards.
+Encourage your child to write about their thoughts, feelings and experiences. They can write about their everyday experiences or special occasions such as birthday celebrations or family outings. Depending on your child’s readiness and preference, you can encourage them to keep a journal or write simple messages in birthday or thank-you cards.
