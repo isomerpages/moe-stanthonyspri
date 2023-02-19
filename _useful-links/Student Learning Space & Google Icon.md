@@ -7,7 +7,7 @@ description: ""
 
 ### Student Learning Space 
 
-<img align="center" style="width:50%" src="/images/studentlearningspace.png"><center>Student Learning Space Website:&nbsp;[https://vle.learning.moe.edu.sg](https://vle.learning.moe.edu.sg/login)</center>
+<img align="center" style="width:50%" src="/images/studentlearningspace.png"><center>Student Learning Space Website:<br>[https://vle.learning.moe.edu.sg](https://vle.learning.moe.edu.sg/login)</center>
 		 
 An online platform that allows students to access curriculum-aligned resources.
 
@@ -133,7 +133,7 @@ a) Check that the browser is supported by Student iCON by referring to the Oper
 
   
 
-b) If the above does not work, use <u>Incognito mode</u> on your browser to login. Upon activating Incognito mode, proceed to [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard) and repeat the logging in procedure.
+b) If the above does not work, use <b>Incognito mode</b> on your browser to login. Upon activating Incognito mode, proceed to [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard) and repeat the logging in procedure.
 
   
 
