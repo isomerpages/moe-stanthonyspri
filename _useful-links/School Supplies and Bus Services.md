@@ -10,7 +10,7 @@ Please note that the last day uniforms will be sold in school will be Thursday,
 After this date, parents can either make their uniform purchases online or purchase from the retail outlet directly.<br><br>
 If parents opt for home delivery, there will be delivery charges.<br>
 Please check with respective vendors below for their home delivery charges.<br><br>
-Click [here](https://stanthonyspri.moe.edu.sg/purchase-guide) for textbooks and uniform purchase guide.
+Click [here](/files/Purchase%20Guide.pdf) for textbooks and uniform purchase guide.
 <br><br>
 *   Book Supplier<br>
    ·          **Pacific Bookstores Pte Ltd**<br>
