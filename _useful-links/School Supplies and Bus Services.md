@@ -26,7 +26,7 @@ Click [here](https://staging.d1z3a7hqoofu2f.amplifyapp.com/files/Purchase%20Gui
      ·          Website: [www.khuniform.com](http://www.khuniform.com/)<br>
      ·          Contact Number: 6479 6811<br>
      ·          Operating Hours:  Mondays – Fridays (9.00 a.m. – 3.00 p.m.) & Saturdays (8.30 a.m. – 11.30 a.m.)<br><br>
-    ·             **Retail Outlet: Chen Num Sing Department Store**
+    ·             **Retail Outlet: Chen Num Sing Department Store**<br>
     ·             Address: 413 Bukit Batok West Ave. 4, #01-206, (S)650413<br>
     ·             Contact Number: 6565 8961<br>
     ·             Operating Hours: Tuesdays – Sundays (10 a.m. – 7 p.m.)
