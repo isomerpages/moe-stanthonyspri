@@ -35,7 +35,7 @@ If you are still not sure of your username, please approach your teacher.
 
 **Q3: My account has been locked. What should I do?**
 
-Your account will be locked after&nbsp;&nbsp;**10 consecutive**&nbsp;&nbsp;attempts to log in with an incorrect password.
+Your account will be locked after&nbsp;&nbsp;<u>**10 consecutive**</u>&nbsp;&nbsp;attempts to log in with an incorrect password.
 
 You can either:&nbsp;
 
@@ -133,7 +133,7 @@ a) Check that the browser is supported by Student iCON by referring to the Oper
 
   
 
-b) If the above does not work, use Incognito mode on your browser to login. Upon activating Incognito mode, proceed to [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard) and repeat the logging in procedure.
+b) If the above does not work, use <u>Incognito mode</u> on your browser to login. Upon activating Incognito mode, proceed to [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard) and repeat the logging in procedure.
 
   
 
