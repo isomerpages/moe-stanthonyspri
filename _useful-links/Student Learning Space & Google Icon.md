@@ -129,11 +129,11 @@ Please follow the password requirements below:  
 
 **What should I do?**
 
-a) Check that the browser is supported by Student iCON by referring to the Operating System / Browser table above. Close the browser and reopen it. Navigate to [**https://workspace.google.com/dashboard**](https://workspace.google.com/dashboard) and repeat the logging in procedure.
+a) Check that the browser is supported by Student iCON by referring to the Operating System / Browser table above. Close the browser and reopen it. Navigate to [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard) and repeat the logging in procedure.
 
   
 
-b) If the above does not work, use Incognito mode on your browser to login. Upon activating Incognito mode, proceed to [**https://workspace.google.com/dashboard**](https://workspace.google.com/dashboard) and repeat the logging in procedure.
+b) If the above does not work, use Incognito mode on your browser to login. Upon activating Incognito mode, proceed to [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard) and repeat the logging in procedure.
 
   
 
