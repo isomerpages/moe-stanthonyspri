@@ -60,7 +60,7 @@ description: ""
 	</tr>
 	<tr>
 		<td class="tg-03hs" rowspan="8">Anthonians <b>respect</b> the <span style="background-color:initial">occasion.</span></td>
-		<td class="tg-pdeq" colspan="2"><b>Attire (Uniform): All Anthonians are to wear the prescribed school uniform. Any form of modification to the uniform is not allowed.</b><br><br><span style="font-weight:400;color:#000">Please refer to the photographs at the end of this section to see how uniforms are to be worn. </span><br><span style="font-weight:400;color:#000"><li>Name tag is sewn above the shirt pocket/ school crest (PE)</li></span><br><span style="font-weight:400;color:#000"><li>Skorts reach the middle of the kneecap</li></span></td>
+		<td class="tg-pdeq" colspan="2"><b>Attire (Uniform): All Anthonians are to wear the prescribed school uniform. Any form of modification to the uniform is not allowed.</b><br><br><span style="font-weight:400;color:#000">Please refer to the photographs at the end of this section to see how uniforms are to be worn. </span><br><span style="font-weight:400;color:#000"><li>Name tag is sewn above the shirt pocket/ school crest (PE)</li></span><span style="font-weight:400;color:#000"><li>Skorts reach the middle of the kneecap</li></span></td>
 	</tr>
 	<tr>
 		<td class="tg-jxgv" colspan="2"><span style="font-weight:400;color:#000">Attire (Tie): Anthonians wear the school tie every day for the duration of the morning assembly except on days when they have PE lessons.</span></td>
