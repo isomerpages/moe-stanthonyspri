@@ -17,21 +17,21 @@ Our motto 'CRESCIT EUNDO' (Growing as We Advance) sums up the ideals of the symb
 
 #### The School Rally
 
-Attention Anthonians, your motto still bearing
-Promptly respond to your duty’s sweet call;
-Harken you all, for the trumpet is sounding,
+Attention Anthonians, your motto still bearing<br>
+Promptly respond to your duty’s sweet call;<br>
+Harken you all, for the trumpet is sounding,<br>
 Your mater’s proclaiming her watchword to all!
 
-Chorus:
-Forward her children dear,
-Ever with hearts sincere,
-Render with joy to your mater her due!
-All that is vile reject,
-Heaven will e’er protect,
-Students of Saint Anthony’s 
+Chorus:<br>
+Forward her children dear,<br>
+Ever with hearts sincere,<br>
+Render with joy to your mater her due!<br>
+All that is vile reject,<br>
+Heaven will e’er protect,<br>
+Students of Saint Anthony’s <br>
 Valiant and true!
 
-Onward and upward in life’s earnest battle,
-Joyously bearing the brunt of the fight;
-Nobly forgiving, for aught that may pain you,
+Onward and upward in life’s earnest battle,<br>
+Joyously bearing the brunt of the fight;<br>
+Nobly forgiving, for aught that may pain you,<br>
 And bravely defending the cause of the right!
