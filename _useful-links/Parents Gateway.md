@@ -41,7 +41,7 @@ please contact the SingPass Helpdesk at 6643-0555.
 		 
 <img src="/images/faq3.jpeg" >
 		 
-For the full list of FAQs, you may visit [https://pg.moe.edu.sg/faq](https://pg.moe.edu.sg/faq)
+For the full list of FAQs, you may visit [https://pg.moe.edu.sg/faq](https://pg.moe.edu.sg/faq).
 
   
 
