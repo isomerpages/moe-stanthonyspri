@@ -14,7 +14,7 @@ CODE@SAPS is a customised coding curriculum, specially designed for Primary 2 to
 
 The programme provides opportunities for students to acquire 21st Century Competencies and experience the joy of learning for life beyond academic pursuits to become confident persons, self-directed learners, active contributors and concerned citizens.   
 
-  
+![](/images/ALP.png)
 
 **<u>Key Programmes</u>**
 
@@ -73,4 +73,4 @@ Anthonians creating structures out of Strawbees
 
 Students are able to take items apart, put things together, and dream of imaginative creations. The notion of multiple attempts, refining designs, and failure are all inherent with engaging students to take risks. This is aligned to the school direction towards having a growth mindset.
 
-Maker@SAPS is now incorporated into CCAs to encourage students to think out of the box to creatively solve problems.
+Maker@SAPS is now incorporated into CCAs to encourage students to think out of the box to creatively solve problems and give them opportunities to discuss about emerging issues around the world.
