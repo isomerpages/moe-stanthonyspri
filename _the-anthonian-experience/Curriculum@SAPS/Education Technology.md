@@ -15,7 +15,7 @@ Mission   | Cultivate a Safe Learning Environment where Anthonians are Empower
 
 As the use of ICT becomes more essential in learning, life and work, SAPS aims to equip students with the necessary skills, values and dispositions to navigate and optimise ICT affordances with confidence and discernment. The school incorporates MOE’s baseline ICT skills into our curriculum to better support students’ learning with and through technology. Through this, we hope to facilitate Anthonians’ acquisition of basic ICT skills to enhance the quality of their learning and increase their engagement and motivation to learn.
 
-![](/images/educationtech.png)
+![](/images/Curate%20Create%20Connect%20Competencies.png)
 
 ### Key Programmes
 
