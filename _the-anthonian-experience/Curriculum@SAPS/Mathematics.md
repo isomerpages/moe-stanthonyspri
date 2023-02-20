@@ -79,25 +79,28 @@ To prepare our Primary 4 pupils for the Primary 5 syllabus, all Primary 4 pupils
 
 **Primary 5 and 6**
 
-<u>Primary 5 and 6 Peer Support Programme (PSP)</u>
+<u> Math Games Creation </u>
 
-The Peer Support Programme (PSP) aims to support Primary 5 and 6 pupils who need more time to do better in Mathematics. Selected pupils will be paired up and together, they revisit concepts that have been taught in class or in the middle primary levels. It nurtures our high-progress pupils to render service by providing support and encouragement to their schoolmates in the learning of Mathematics. 
+This activity encourages pupils to create games involving Mathematics concepts. It provides pupils with opportunities to think out of the box and come up with a variety of ways to enhance learning through Mathematics games.
+![](/images/mathgames.png)
 
 **<u>Special Programmes</u>**
 
   
 
-**Primary 3 and 4**
-
-The “Practice And Command Excellence” (PACE) programme provides further support for selected Primary 3 and 4 pupils in the morning thrice a week. Through this programme, they revisit their Primary 2 and 3 concepts and work on building a strong foundation in the subject and closing learning gaps. 
-
-  
-
 **Primary 4 to 6**
 
-Our Talent Development Programme (TDP) for Math involving selected pupils from Primary 4 to 6. It includes teacher-led e2k sessions (from GE Branch) and vendor-led Math Olympiad lessons. These sessions are conducted above curriculum on Mondays, Wednesdays and Thursdays.
+Our Talent Development Programme (TDP) for Math involving selected pupils from Primary 4 to 6 includes teacher-led e2k sessions (from GE Branch) and vendor-led Math Olympiad lessons. These sessions are conducted above curriculum on Mondays, Wednesdays and Thursdays.
 
 ![](/images/image%20(14).jpg)
+
+**Primary 6**
+
+The Maths Clinic is a programme that aims to
+support selected pupils in building a stronger foundation in the subject. In smaller
+groups, they revisit concepts that have been taught in class or in the middle primary
+levels. It provides pupils with more opportunities to interact with and learn with other
+pupils and teachers in the programme.
 
 **Working Hand in Hand:**
 
