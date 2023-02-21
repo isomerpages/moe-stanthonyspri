@@ -68,3 +68,15 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 
 **Primary 6**
 ![2023 Sexuality Education P6](/images/2023%20Sexuality%20Education_P6.png)
+
+**Please Note:**
+
+**\*For 2023, the Primary 5 lesson “_Did You Know_?” will also be conducted for the Primary 6 cohort.** 
+
+**Information for Parents**
+
+8.       Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
+
+9.       Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://form.gov.sg/63e44dafbeaeb1001214871e). The completed opt-out form is to be submitted by 24/02/2023.
+
+10.     Parents can contact the school at Mrs Karen Yip at [teh\_may\_ching\_karen@moe.edu.sg](mailto:teh_may_ching_karen@moe.edu.sg) or 65690822 for discussion or to seek clarification about the school’s Sexuality Education programme.
