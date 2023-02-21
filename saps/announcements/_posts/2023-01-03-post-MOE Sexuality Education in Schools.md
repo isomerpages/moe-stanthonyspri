@@ -70,7 +70,6 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 ![2023 Sexuality Education P6](/images/2023%20Sexuality%20Education_P6.png)
 
 **Please Note:**
-
 **\*For 2023, the Primary 5 lesson “_Did You Know_?” will also be conducted for the Primary 6 cohort.** 
 
 **Information for Parents**
