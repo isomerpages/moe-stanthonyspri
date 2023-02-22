@@ -9,9 +9,9 @@ third_nav_title: Curriculum@SAPS
 
 |     |    |
 | -------- | -------- |
-| Vision     | Anthonians are life-long learners who are able to build self-confidence in the learning of Mathematics      |
-| Mission | To apply mathematical concepts they have learnt in the world around them |
-|  |  |
+| Vision     | Anthonians are life-long learners who are able to build self-confidence in learning Mathematics and apply mathematical concepts they have learnt in the world around them   |
+|  |
+
   
 In order to achieve our vision, teachers use the following strategies in lesson planning so as to nurture caring, passionate, joyful and future-ready learners: 
 
