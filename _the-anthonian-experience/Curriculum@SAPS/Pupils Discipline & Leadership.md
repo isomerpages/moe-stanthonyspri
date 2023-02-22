@@ -4,14 +4,14 @@ permalink: /the-anthonian-experience/CurriculumatSAPS/Pupils-Discipline-and-Lead
 description: ""
 third_nav_title: Curriculum@SAPS
 ---
-
 ## Pupils Discipline & Leadership 
 
-### Department Vision 
+|     |    |
+| -------- | -------- |
+| Vision     | Every Anthonian makes the right decisions based on Lasallian and Anthonian values and is a leader who steps forward to serve with pride.   |
+|  |
 
-Every Anthonian makes the right decisions based on Lasallian and Anthonian values and is a leader who steps forward to serve with pride.
-
-*   **Learning to Live Well Programme and Whole-School Approach to Discipline**  
+  **Learning to Live Well Programme and Whole-School Approach to Discipline**  
 
 The school uses a Positive and Proactive Approach to Discipline to reinforce expected behaviour. School routines like F.I.V.E, Anthonian Movement, STAR and CARE Habits are emphasised and reinforced throughout a student’s journey in SAPS.
 
