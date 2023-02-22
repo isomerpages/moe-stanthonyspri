@@ -8,8 +8,7 @@ third_nav_title: Curriculum@SAPS
 
 |  |  | 
 | -------- | -------- | 
-Vision     |  Every Anthonian, a passionate and joyful learner who strives to pursue physical and overall well-being. | 
-Mission |  To lead and enjoy a lifetime of active, healthy living 
+Vision     |  Every Anthonian, a passionate and joyful learner who strives to lead and enjoy a lifetime of active, healthy living 
 | | | 
 
 
