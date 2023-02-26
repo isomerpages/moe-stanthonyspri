@@ -4,7 +4,6 @@ permalink: /the-anthonian-experience/CurriculumatSAPS/Student-Development/
 description: ""
 third_nav_title: Curriculum@SAPS
 ---
-
 ## Student Development 
 
 **<u>Introduction</u>**  
@@ -58,7 +57,8 @@ Each class creates an environment where growth mindset messages are promoted and
 
 **<center>Wall Murals</center>**<center>To promote positive thinking and a can-do attitude, attention-grabbing murals and informational posters adorn our school grounds.</center>
 
-![](/images/image11%20(1).png)
+
+<img align="center" style="width:auto" src="/images/image11%20(1).png">
 
 **<center>Mindset Studio</center>**
 
