@@ -14,7 +14,6 @@ Mission |To help Anthonians thrive by enabling them to learn how to learn and to
 
 The design of the school’s CCE Curriculum takes reference from MOE’s CCE 2021 Curriculum Frame (Figure 1) and is anchored on the school’s mission, vision and values. 
 
-
 <img src="/images/CCE.png" style="width:50vw">
 
 The curriculum content of CCE is based on the three big ideas of Identity, Relationships and Choices. It involves the teaching and learning of core values including school values, social-emotional competencies, and citizenship dispositions, with a focus on developing a sense of purpose in our students.  
