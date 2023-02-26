@@ -35,30 +35,30 @@ In the Smart Thinkers coding programme, Primary 4 and 5 students learn block cod
 
 **<u>Primary 4 and Primary 5 Coding Programme</u>**
 
-![](/images/ALP1.jpg)
+<img src="/images/ALP1.jpg" style="width:auto">
 Primary 5 Anthonians felt proud upon completion of a project with micro:bit
 
-![](/images/ALP2.jpg)
+<img src="/images/ALP2.jpg" style="width:auto">
 Primary 5 Anthonians were in the process of completing the codes for their project
 
-![](/images/ALP3.jpg)
+<img src="/images/ALP3.jpg" style="width:auto">
 Anthonians from all levels get to try out the games created using micro:bits
 
-![](/images/ALP4.jpg)
+<img src="/images/ALP4.jpg" style="width:auto">
 Primary 4 and 5 Anthonians proudly displaying their micro:bit projects on CODE@SAPS Day
 
 **Primary 2 and 3 Coding Programme**
 
-![](/images/ALP5.jpg)
+<img src="/images/ALP5.jpg" style="width:auto">
 Primary 3 Anthonians exploring Ozobot and OzoBlockly
 
-![](/images/ALP6.jpg)
+<img src="/images/ALP6.jpg" style="width:auto">
 Primary 3 Anthonians exploring Ozobot and OzoBlockly
 
-![](/images/ALP7.jpg)
+<img src="/images/ALP7.jpg" style="width:auto">
 Primary 2 Anthonians were introduced to Ozobot using colour codes
 
-![](/images/ALP8.jpg)
+<img src="/images/ALP8.jpg" style="width:auto">
 Primary 2 Anthonians exploring the different colour codes
 
 **Maker@SAPS**
