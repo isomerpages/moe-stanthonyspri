@@ -90,6 +90,10 @@ Our Primary 4 and 5 Anthonians had fun discovering the difference between a Grow
 
 Click [here](https://www.youtube.com/watch?app=desktop&v=ELpfYCZa87g&feature=youtu.be) to learn more about Neuroplasticity.
 
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BiYQDdloMJs?controls=0&amp;start=17" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+
+<center>Do you have a Fixed or Growth Mindset?</center>
+
 <img align="center" style="width:75%" src="/images/1GMA2a.jpg">
 <br>
 <img align="center" style="width:75%" src="/images/2GMA2b.jpeg">
