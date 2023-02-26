@@ -59,7 +59,7 @@ During the Primary 4 Cultural Camp, Anthonians participate in an afternoon of fu
 
 **<u>Cultural Performance Exposure Scheme (CPES) 文化随意门</u>**  
 
-The Cultural Performance Exposure Scheme supports schools in bringing students into public performing venues to watch Chinese language-related cultural performances and programmes. Over the years, Anthonians enjoyed the going out for the performances, and many agreed that it triggered their interest in Chinese culture and the learning of the Chinese language.[\[MA1\]](file:///C:/Users/S2574333D/Desktop/MTL%20website/2022%20MT%20Department%20Website%20Write-up%20(2).docx#_msocom_1)&nbsp;&nbsp;Due to Safe Management Measures, all performance have been screened online over the last 2 years.
+The Cultural Performance Exposure Scheme supports schools in bringing students into public performing venues to watch Chinese language-related cultural performances and programmes. Over the years, Anthonians enjoyed the going out for the performances, and many agreed that it triggered their interest in Chinese culture and the learning of the Chinese language. Due to Safe Management Measures, all performance have been screened online over the last 2 years.
 
 **<u>Conversational Chinese/Malay (CCM) ProgrammeM</u>**
 
