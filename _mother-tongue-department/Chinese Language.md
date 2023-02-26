@@ -79,4 +79,4 @@ CCM is an enrichment programme for Primary 3 to Primary 5 students who are inter
 
 **<u>Recess Activities</u>**
 
-![](/images/recess%20activities.png)
+<img src="/images/recess%20activities.png" style="width:auto">
