@@ -7,7 +7,7 @@ description: ""
 
 **The Curriculum:**
 
-![](/images/ML.jpeg)
+<img src="/images/ML.jpeg" style="width:auto">
 
 **Making Malay Language a Living Language in Singapore**  
 
