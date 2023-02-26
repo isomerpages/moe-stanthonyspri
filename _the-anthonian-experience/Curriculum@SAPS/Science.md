@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Curriculum@SAPS
 ---
 ## Science
+
 |  |  | 
 | -------- | -------- | 
 Vision     |  To equip Anthonians with scientific knowledge, skills & attitudes to prepare them for life and work in the 21st Century
