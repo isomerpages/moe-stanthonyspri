@@ -131,7 +131,8 @@ Executive function refers to a set of skills that underlies the capacity to plan
 In SAPS, teachers set up the framework for their students to learn and practise these skills over time by establishing routines, breaking big tasks into smaller chunks, and encouraging games that promote imagination, role-playing, following rules, and controlling impulses (see Table 1). 
 
 We believe that the increasingly competent executive functioning of children and adolescents will enable them to learn how to learn and learn how to live so that they will become persons of integrity and persons for others in God's service.
-
+<p>
+	
 | Levels    | Executive Function Skills                                                     |
 |-----------|-------------------------------------------------------------------------------|
 | P1 and P2 |  ·       Organisation <br> ·       Ignoring Distractions|
