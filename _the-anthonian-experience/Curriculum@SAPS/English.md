@@ -166,7 +166,8 @@ Through the use of storytelling and drama, members of the English Club CCA are i
 
   
 
-![](/images/english11.jpeg)
+<img src="/images/english11.jpeg" style="width:auto">
+
 _<center>Creating a Scene</center>_
 
 #### Our Writing Programme
