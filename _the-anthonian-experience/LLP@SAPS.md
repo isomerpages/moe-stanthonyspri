@@ -12,7 +12,7 @@ description: ""
 
 Learning for Life Programme (Visual Arts)
 
-![](/images/LLP.png)
+<img src="/images/LLP.png" style="width:75%">
 
 SAPS builds on our Lasallian ethos and philosophy to offer a Learning for Life Programme (LLP) in Visual Arts. We seek to foster in our students the desire to **learn** about artistic forms and methods, **grow** an appreciation of art and **serve** the community with their talents.
 
@@ -21,4 +21,3 @@ SAPS builds on our Lasallian ethos and philosophy to offer a Learning for Life P
 The Tier 1 programme is incorporated in the school’s Visual Arts (VA) curriculum for all students. As an enhancement to the curriculum, students learn specialised art forms through Digital Art and Ceramics modules from P1 to P6, which strengthen students’ skills progressively.
 
 **_Digital Art Programme_**
-
