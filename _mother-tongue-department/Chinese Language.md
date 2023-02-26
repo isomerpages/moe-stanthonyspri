@@ -75,7 +75,7 @@ CCM is an enrichment programme for Primary 3 to Primary 5 students who are inter
 
 **<u>Chinese New Year Celebration</u>**
 
-![](/images/Chinese%20fig%205.png)
+<img src="/images/CNY2023-1.png" style="width:33%"><img src="/images/CNY2023-2.png" style="width:33%"><img src="/images/CNY2023-3.png" style="width:33%">
 
 **<u>Recess Activities</u>**
 
