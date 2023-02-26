@@ -65,10 +65,10 @@ Primary 2 Anthonians exploring the different colour codes
 
 Maker@SAPS was implemented as an avenue for students to come together and solve problems through free play. These making and tinkering practices encourage creative thinking amongst students as they construct, deconstruct, design, fix, create and refine solutions to various problems presented to them. 
 
-![](/images/ALP9.png)
+<img src="/images/ALP9.jpg" style="width:auto">
 Primary 3 Anthonians exploring with Strawbees to create 3D shapes
 
-![](/images/ALP10.png)
+<img src="/images/ALP10.jpg" style="width:auto">
 Anthonians creating structures out of Strawbees
 
 Students are able to take items apart, put things together, and dream of imaginative creations. The notion of multiple attempts, refining designs, and failure are all inherent with engaging students to take risks. This is aligned to the school direction towards having a growth mindset.
