@@ -51,15 +51,15 @@ Values in Action (VIA) aims to nurture pupils’ development as socially respons
   
 
 
-**● P1 and P2 VIA: A Litter-free School Community**
+**P1 and P2 VIA: A Litter-free School Community**
 
   
 
 Our P1 and P2 Anthonians took part in a VIA project where they helped to keep the canteen tables and classrooms clean and tidy. This ensured that their peers could enjoy a clean environment. Through this project, our P1 and P2 Anthonians developed a sense of responsibility and learnt to be considerate to others. At the end of the project, they reflected on the goals they had set and how far they had come. In addition, they expressed their thoughts by drawing and writing about how they can apply the values learnt through this project in their daily life.
 
-![](/images/image17.png)
+<img align="center" style="width:auto" src="/images/image17.png">
 
-**● P3 VIA: A Litter-free School Community** 
+**P3 VIA: A Litter-free School Community** 
 
   
 
@@ -67,7 +67,7 @@ The P3 VIA this year was based on the theme - ‘A Litter-Free School Compound'.
 
 ![](/images/image19.png)
 
-**● P4 VIA: Stop Food Wastage**
+**P4 VIA: Stop Food Wastage**
 
 Our P4 Anthonians played an active role educating all P1 Anthonians not to waste food unnecessarily. In addition, the P4 Anthonians shared important messages on food waste reduction with their family members and encouraged more parents to play their part in reducing food wastage through committing to a family pledge. They also organised the collection of fruit peels from home and in school for composting which was then used as fertilisers in the school garden. Through this VIA, our P4 Anthonians learnt about community issues and the needs of others, and sought to reach out to their peers in school as well as the larger community to spread the important message of reducing food wastage.
 
