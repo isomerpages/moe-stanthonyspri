@@ -167,7 +167,7 @@ Our Care Buddy Programme begins with our Primary One Anthonians being paired up 
 
 As the P1s move on to P2, they will continue to be supported by a group of care buddies from the P5 level, who will look out for them. Care Buddy days are organised at least once every term so that the buddies can meet and grow their friendships. This takes place till the buddies reach P3 and P6.  Eventually, when the P3 pupils  move on to P4, they will have an opportunity to be Care Buddies to the new batch of P1s .
 
-*Due to the SMM put in place since March 2020 due to COVID-19, we have put this on hold as intermingling between levels is not yet permitted.
+_*Due to the SMM put in place since March 2020 due to COVID-19, we have put this on hold as intermingling between levels is not yet permitted._
 	
 **P3-P6 CARE BUDDY GROUPS (from Jan 2020)**
 	![](/images/3Gratitude.jpeg)
