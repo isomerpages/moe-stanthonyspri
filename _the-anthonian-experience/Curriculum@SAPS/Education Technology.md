@@ -42,11 +42,11 @@ _Cyber wellness messages are included in the morning assembly slides to serve as
 
 <img src="/images/image5.jpeg" style="width:50%">
 _Class presentation on Cyberbullying by P5 CyTech Champions_
-
-![](/images/ict.jpeg)
+<p>
+<img src="/images/ict.jpeg" style="width:80%">
 _Class Presentation on cyberbullying by P6 CyTech Champions_
-
-![](/images/image7.jpeg)
+<p>
+<img src="/images/image7.jpeg" style="width:80%">
 _A writing lesson in which Anthonians respectfully provided constructive feedback on one another’s work._
 
 ![](/images/ictawareness.jpg)
