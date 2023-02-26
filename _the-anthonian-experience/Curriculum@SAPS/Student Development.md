@@ -43,7 +43,6 @@ This year, we embarked on our growth mindset journey as a school to learn how we
 **<center>Our 6 Key Growth Messages</center>**
 
 <center>Growth Mindset@SAPS teaches Anthonians to: <br>Embrace Challenges, Learn from Mistakes, Enjoy Effort, Grow their Brains, Seek Feedback and Be Inspired by Others.</center>
-<br>
 
 <img align="center" style="width:75%" src="/images/image5.png">
 
