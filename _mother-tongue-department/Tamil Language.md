@@ -3,12 +3,11 @@ title: Tamil Language
 permalink: /the-anthonian-experience/CurriculumatSAPS/Tamil-Language/
 description: ""
 ---
-
 ## Tamil Language 
 
 **The Curriculum:**
 
-![](/images/TL.png)
+<img src="/images/TL.png" style="width:auto">
 
 **Making Tamil Language a Living Language in Singapore**
 
