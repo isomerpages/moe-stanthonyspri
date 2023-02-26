@@ -94,6 +94,10 @@ Click [here](https://www.youtube.com/watch?app=desktop&v=ELpfYCZa87g&feature=yo
 
 <center>Do you have a Fixed or Growth Mindset?</center>
 
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YwedCNXYM_c?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+
+<center>Learn from Gregory's Growth Mindset Story!</center>
+
 <img align="center" style="width:75%" src="/images/1GMA2a.jpg">
 <br>
 <img align="center" style="width:75%" src="/images/2GMA2b.jpeg">
