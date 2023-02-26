@@ -50,8 +50,9 @@ _Cyber wellness messages are included in the morning assembly slides to serve as
 <img src="/images/image7.jpeg" style="width:80%">
 <center><i>A writing lesson in which Anthonians respectfully provided constructive feedback on one another’s work.</i></center>
 
-![](/images/ictawareness.jpg)
 	
+![](/images/ictawareness.jpg)
+	<br>
 <img src="/images/image3.jpeg" style="width:70%">
 	
 #### Working Hand in Hand with Parents
