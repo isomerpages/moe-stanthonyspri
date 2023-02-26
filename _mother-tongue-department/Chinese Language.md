@@ -15,11 +15,11 @@ In Singapore, the Mother Tongue Language (MTL) curriculum focuses on developing 
 
 St. Anthony’s Primary School’s CL curriculum is anchored on MOE’s curriculum objective of developing proficient language users by adopting the modular approach to:
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;improve students’ language skills,
+* improve students’ language skills,
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cultivate good character and cultural awareness, and
+* cultivate good character and cultural awareness, and
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;enhance students’ competency in applying skills to become life-long learners.
+* enhance students’ competency in applying skills to become life-long learners.
 
 
 ### **Overview of the CL Modular Approach in SAPS**
