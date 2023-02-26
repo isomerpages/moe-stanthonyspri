@@ -57,7 +57,7 @@ Values in Action (VIA) aims to nurture pupils’ development as socially respons
 
 Our P1 and P2 Anthonians took part in a VIA project where they helped to keep the canteen tables and classrooms clean and tidy. This ensured that their peers could enjoy a clean environment. Through this project, our P1 and P2 Anthonians developed a sense of responsibility and learnt to be considerate to others. At the end of the project, they reflected on the goals they had set and how far they had come. In addition, they expressed their thoughts by drawing and writing about how they can apply the values learnt through this project in their daily life.
 
-<img align="center" style="width:auto" src="/images/image17.png">
+![](/images/Science/1Science%20P1%20P2%20VIA%20(1).png)
 
 **P3 VIA: A Litter-free School Community** 
 
@@ -65,13 +65,14 @@ Our P1 and P2 Anthonians took part in a VIA project where they helped to keep th
 
 The P3 VIA this year was based on the theme - ‘A Litter-Free School Compound'. Anthonians started their VIA by completing a checklist to identify the areas in the school which needed improvement. Based on their observations, they suggested ways to improve the cleanliness of the areas identified. Each class then adopted an area in the school to take care of and designed posters to advocate cleanliness. Through this VIA, P3 Anthonians learnt to be responsible by taking ownership and care of their school compound. They also reflected on their VIA and learnt to be respectful and grateful to our school cleaning staff. Our P3 Anthonians have become resilient advocates for a litter-free environment to their peers.
 
-![](/images/image19.png)
+![](/images/Science/2P3%20Litter%20free.png)
 
 **P4 VIA: Stop Food Wastage**
 
 Our P4 Anthonians played an active role educating all P1 Anthonians not to waste food unnecessarily. In addition, the P4 Anthonians shared important messages on food waste reduction with their family members and encouraged more parents to play their part in reducing food wastage through committing to a family pledge. They also organised the collection of fruit peels from home and in school for composting which was then used as fertilisers in the school garden. Through this VIA, our P4 Anthonians learnt about community issues and the needs of others, and sought to reach out to their peers in school as well as the larger community to spread the important message of reducing food wastage.
 
-![](/images/science.png)
+![](/images/Science/3P4%20Stop%20Food%20wastage.png)
+
 
 **P5 VIA: A Litter-free environment**
 
@@ -81,11 +82,9 @@ Our P5 Anthonians focused on advocating clean environment. Through brainstorming
 
 In light of the COVID 19 pandemic, the P5 Anthonians reached out to their peers in school this year instead of promoting their message to residents in the neighbourhood. They shared with their peers ways to encourage everyone to take responsibility for our actions and show more care for our environment by keeping it clean.
 
-![](/images/image20.png)
+![](/images/Science/4P5%20Litter-free.png)
 
 **Outreach Programme - Dengue Sharing**
-
-  
 
 Our Environmental Ambassadors attended an online course conducted by NEA during the June holidays on the prevention of dengue. During the course, the ambassadors explored creative ways to share their message with the rest of the school. 
 
@@ -93,7 +92,7 @@ During a pre-assembly talk, the ambassadors shared with their peers what dengue 
 
 Together, we can fight dengue and keep our family members, neighbours and community safe.
 
-![](/images/image%20(20).jpg)
+![](/images/Science/5Outtreach%20Prog.png)
 
 **Biodiversity Week** 
 
@@ -101,68 +100,69 @@ Together, we can fight dengue and keep our family members, neighbours and commun
 
 During Biodiversity Week, our P1 and P2 pupils learnt about flora and fauna native to Singapore. They explored an interactive activity book and viewed a short animated video that follows Bobby and Stella on their journey to find a place to grow a seed. Through this activity, our Anthonians gained a better appreciation of biodiversity and became more aware of the need to conserve nature. They developed a deeper understanding of the world around them and found out how things work through simple investigations. Overall, it was a fun and enriching learning experience for them.
 
-![](/images/image24.png)
+![](/images/Science/6Bioodiversity.png)
 
-![](/images/image%20(23).jpg)
 
-**Recycling Right! @ SAPS**
+**Reduce Carbon foodprint @ SAPS**
 
-  
+Our carbon footprint has a negative impact on the environment, and it contributes to climate change. The Environmental Science Club at SAPS embarked on a School for Climate Action with the World Wide Fund For Nature. The aim was to educate the school population on carbon footprint and encourage them to take action to reduce their carbon footprint by making “environmentally-friendly” choices. 
 
-Teaching children to care for the environment develops in them the values of respect, empathy, patience and responsibility; and allows them to reflect on how their actions may affect the environment. 
+Members of the Environmental Science Club attended workshop conducted by WWF to learn more about climate change and the different contributors of carbon footprint. After the workshop, the members initiated and planned activities to raise awareness about the issues to encourage their peers to reduce their carbon footprint. Some of the activities conducted are pre-assembly talks, skits and use of billboards during recesses to create awareness. On top of these, a lesson on carbon footprint was designed and conducted during TACT. It was such an enriching experience for the school.
 
-To reinforce the message of recycling right, the Environmental Education committee came up with lessons catered to the different levels. These lessons aim to teach Anthonians the importance of recycling right. While P1 and P2 Anthonians learnt how to sort trash into the correct recycling bins, P3 and P4 Anthonians created posters to encourage everyone to recycle right. P5 and P6 Anthonians learnt about the importance of recycling through the See-Think-Wonder thinking routine and brainstormed for ways to involve more Anthonians in recycling right. 
-
-Through these activities, we hope that Anthonians will understand the importance of recycling right from a young age and translate it to their everyday living.
-
-![](/images/image%20(24).jpg)
-
-![](/images/science1.png)
+![](/images/Science/7Reduce%20Carbon.png)
 
 **Clean Plate Campaign**
 
 The world is producing more food than we can finish. Yet, it is unevenly distributed, with the poor going hungry while food is being thrown away elsewhere. The importance of reducing food wastage is taught and emphasised across all levels in SAPS. Through the Clean Plate Campaign, each Anthonian is strongly encouraged to order only what they can finish so as to reduce food waste. In SAPS, we also have Food Waste Ambassadors to help to monitor food wastage during recess.
 
-![](/images/clearplate.jpg)
+![](/images/Science/8Clean%20Plate%20Cam%20(1).png)
 
-![](/images/clearplate2.jpg)
+### Science Curriculum Programmes
 
+**P1 and P2 Trail @ SAPS**
 
-**Clean Plate Campaign**
+To arouse students’ interest in Science, an exciting and enriching experiential garden trail to SAPS Science Learning Hub was designed for our Primary 1 and Primary 2 Anthonians to learn more about plants.
 
+The garden trail was integrated with Social Studies for Primary 1 and Programme Active Learning for Primary 2. Through the trail, Primary 1 pupils get to interact with the nature and to observe garden etiquettes while the Primary 2 identify the different types of leaves. 
 
-The world is producing more food than we can finish. Yet, it is unevenly distributed, with the poor going hungry while food is being thrown away elsewhere. The importance of reducing food wastage is taught and emphasised across all levels in SAPS. Through the Clean Plate Campaign, each Anthonian is strongly encouraged to order only what they can finish so as to reduce food waste. In SAPS, we also have Food Waste Ambassadors to help to monitor food wastage during recess.
+Using their senses, they got to see, smell, feel and touch the different plants in the garden. They had the opportunity to take a closer look at the different parts of plants and garden wildlife such as snails and insects. They had a great time going outdoor exploring the gardens!
 
-![](/images/science3.jpg)
+![](/images/Science/9P1%202%20trial.png)
 
-![](/images/science4.jpg)
+**P3 and P5 Digital Trail @ SAPS**
 
-**Virtual Lessons @ Science Centre**
+Our P3 and P5 Anthonians took to the Native Garden to learn more about our local plants. Our little botanists got their hands dirty - observing, smelling and touching various parts of the plants.
 
-The Singapore Science Centre organised online Science Demonstrations through their official YouTube channel. The sessions, which were aligned with the syllabus, were attended by our P4 to P6 Anthonians during the HBL period. The live demonstrations reinforced a range of Science concepts including Diversity, Cycles and Interactions.
+Through this hands-on learning approach, Anthonians were immersed in nature, experiencing first-hand the diversity of the natural eco-system. The first part of the experience included a teacher-guided tour of the garden. Anthonians were introduced to the plants and their parts. 
 
-Through the engaging demonstrations by the staff of the Science Centre, P4 Anthonians learnt about how different states of matter can change when heat is applied. They also observed what happens when carbon dioxide frozen. P5 Anthonians explored microorganisms and cells and appreciated their significance as the building blocks of living things on earth. P6 Anthonians took a closer look at the different problems that the Earth is facing, and how they affect our lives. Through exciting demonstrations and a participative lecture, Anthonians discovered what they can do to protect the Earth and how Singapore is helping to tackle climate change issues. It was an eye-opening experience for our Anthonians!
+They saw that there were different types of plants and observed animals such as ants and caterpillars at work in the garden. They saw how these animals relied on plants for food (leaves and nectar) and shelter. Our Anthonians saw their textbook come alive through this eye-opening experience. 
+
+In the second part of the lesson, Anthonians had to scan the QR code of each plant with their iPads in order to access information and complete the tasks assigned. The lesson was without doubt a memorable and enjoyable one for them.
+
+![](/images/Science/10P3%205%20Trial.jpg)
+
 
 **Enrichment Programmes**
 
 
 The following programmes are organised to hone in students a keener interest in passion for learning Science: 
 
-*   Science Buskers 2021
+*   Science Buskers 2022
 *   E2K Science Programme
 *   Nobel Summer Workshop and Mcurie Workshop organised by NUS High School
 
-**Science Buskers 2021**
+**Science Buskers 2022**
 
  
-Interested P5 Anthonians participated in the Science Buskers competition organised by the Singapore Science Centre. The competition aims to promote learning of Science in an engaging way and to generate greater interest in creative science communications and expressions.
+Interested P3 and P4 Anthonians participated in the Science Buskers competition organised by the Singapore Science Centre. The competition aims to promote learning of Science in an engaging way and to generate greater interest in creative science communications and expressions. One of the teams advanced into the final round and did a Science Busking on, 'The Electric Lemon' at the Science Centre to the judges and public on 29 October. They received an award for the Best Science Communication. Congratulations to the team!    All Anthonians who participated had a fun and enriching learning experience!
 
-![](/images/science5.jpg)
+![](/images/Science/12Sci%20Buskers%202022b.jpg)
+![](/images/Science/11Sci%20Buskers%202022a.jpg)
 
 **E2K Science Programme**
   
 
-The E2K Science Programme offers opportunities for Anthonians to engage in scientific investigations to discover and deepen their understanding of advanced science concepts through inquiry. Every year, P4 to P6 Anthonians with an interest in and aptitude for Science are invited to participate in this programme. The rich learning experiences of the programmes help  Anthonians to:
+The E2K Science Programme offers opportunities for Anthonians to engage in scientific investigations to discover and deepen their understanding of advanced science concepts through inquiry. Every year, P4 to P6 Anthonians with an interest in and aptitude for Science are invited to participate in this programme. The rich learning experiences of the programmes help Anthonians to:
  
 
 *   Develop the habits, attitudes and dispositions scientists possess; and.-
