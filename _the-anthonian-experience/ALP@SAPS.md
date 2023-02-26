@@ -14,7 +14,7 @@ CODE@SAPS is a customised coding curriculum, specially designed for Primary 2 to
 
 The programme provides opportunities for students to acquire 21st Century Competencies and experience the joy of learning for life beyond academic pursuits to become confident persons, self-directed learners, active contributors and concerned citizens.   
 
-![](/images/ALP.png)
+<img src="/images/ALP.png" style="width:75%">
 
 **<u>Key Programmes</u>**
 
