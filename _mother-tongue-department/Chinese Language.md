@@ -74,6 +74,7 @@ CCM is an enrichment programme for Primary 3 to Primary 5 students who are inter
 * Online ICT Writing Competition
 
 **<u>Chinese New Year Celebration</u>**
+<br>
 ![](/images/CNY2023.jpg)
 
 
