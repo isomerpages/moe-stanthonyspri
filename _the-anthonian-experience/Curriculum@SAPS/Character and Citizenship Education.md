@@ -14,7 +14,8 @@ Mission |To help Anthonians thrive by enabling them to learn how to learn and to
 
 The design of the school’s CCE Curriculum takes reference from MOE’s CCE 2021 Curriculum Frame (Figure 1) and is anchored on the school’s mission, vision and values. 
 
-![](/images/CCE%20Curriculum%20frame.png)
+![](/images/CCE.png)
+<img src="/images/CCE.png">
 
 The curriculum content of CCE is based on the three big ideas of Identity, Relationships and Choices. It involves the teaching and learning of core values including school values, social-emotional competencies, and citizenship dispositions, with a focus on developing a sense of purpose in our students.  
 
@@ -107,7 +108,7 @@ National Education at SAPS seeks to develop in Anthonians an understanding and a
 
 In tandem, the Social Studies curriculum develops Anthonians’ knowledge, skills and values through examining issues that are of concern to our society and the world in which we live.&nbsp;
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR35_ni09Qyz0crdQdNVXM8_1GCOQBwD-7yKeM6pD1qxURZdVQFh0tsfLXEtbJrGWIX0YsywsE0QJjF/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR35_ni09Qyz0crdQdNVXM8_1GCOQBwD-7yKeM6pD1qxURZdVQFh0tsfLXEtbJrGWIX0YsywsE0QJjF/embed?start=true&amp;loop=false&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
 
 Anthonians participate in a range of meaningful and engaging learning experiences to learn more about themselves, their community, the nation and the world.
 
