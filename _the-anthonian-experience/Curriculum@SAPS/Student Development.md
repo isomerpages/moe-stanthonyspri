@@ -110,11 +110,11 @@ Click [here](https://www.youtube.com/watch?v=aHmmA3SCXVo) to learn more about 
 
 **<center>Magical Mistakes with our GM Superheroes!</center>**
 
-<img align="center" style="width:75%" src="/images/webcall.png">
+<img align="center" style="width:auto" src="/images/webcall.png">
 <br>
-<img align="center" style="width:75%" src="/images/superhero.png">
+<img align="center" style="width:auto" src="/images/superhero.png">
 <br>
-<img align="center" style="width:75%" src="/images/professorm.png"> <center>Professor M<br>Be a Growth Mindset Superhero!</center>
+<img align="center" style="width:auto" src="/images/professorm.png"> <center>Professor M<br>Be a Growth Mindset Superhero!</center>
 
 A growth mindset empowers students. It changes their reaction to failure, giving them the motivation and confidence to work hard to achieve their full potential.
 
