@@ -40,7 +40,7 @@ Through sharing sessions by the school’s CyTech champions and cyber wellness a
 
 _Cyber wellness messages are included in the morning assembly slides to serve as daily reminders to our Anthonians as they engage in activities online._
 
-![](/images/image5.jpeg)
+<img src="/images/image5.jpeg" style="width:50%">
 _Class presentation on Cyberbullying by P5 CyTech Champions_
 
 ![](/images/ict.jpeg)
