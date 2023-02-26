@@ -42,14 +42,13 @@ This year, we embarked on our growth mindset journey as a school to learn how we
 
 **<center>Our 6 Key Growth Messages</center>**
 
-<center>Growth Mindset@SAPS teaches Anthonians to:</center> Embrace Challenges, Learn from Mistakes, Enjoy Effort, Grow their Brains, Seek Feedback and Be Inspired by Others.
-<br><br>
+<center>Growth Mindset@SAPS teaches Anthonians to: <br>Embrace Challenges, Learn from Mistakes, Enjoy Effort, Grow their Brains, Seek Feedback and Be Inspired by Others.</center>
+<br>
 
 <img align="center" style="width:75%" src="/images/image5.png">
 
 <center>These bookmarks with growth messages help Anthonians build their confidence and self-esteem.</center>
 
-Each class creates an environment where growth mindset messages are promoted and where the differences between a fixed and growth mindset are evident and can be easily referred to.
 
 **<center>Classroom Posters</center>**<center>Each class creates an environment where growth mindset messages are promoted and where the differences between a fixed and growth mindset are evident and can be easily referred to.</center>
 
