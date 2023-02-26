@@ -63,6 +63,7 @@ Enrichment activities are designed to foster a deeper understanding, appreciatio
 
 The school works closely with parents to promote the use of the language and an appreciation of culture. Parents are encouraged to read with their children. They are also invited to participate in MTL fortnight activities with their children.
 
+<br><br>
 To promote the use of and appreciation for the Tamil Language, parents can explore the following:
 
 **Encourage your child to speak Tamil**  
