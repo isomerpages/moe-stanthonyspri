@@ -3,7 +3,6 @@ title: Chinese Language
 permalink: /the-anthonian-experience/CurriculumatSAPS/Chinese-Language/
 description: ""
 ---
-
 ## Chinese Language 
 
 &nbsp;**The Curriculum:**
@@ -29,9 +28,9 @@ St. Anthony’s Primary School’s CL curriculum is anchored on MOE’s curricul
 |-----------|-------------|---------------------------------|-------------------|----------------------------------------|--------------------|------------------|
 |           | Core Module | Bridging / Reinforcement Module | Enrichment Module | Mother Tongue Support Programme (MTSP) |                    |                  |
 | Primary 1 | √           |                                 | √                 |                                        |                    |                  |
-| Primary 2 | √           | √ <br>(Bridging)                    |             √     |                                        |                    |                  |
-| Primary 3 | √           | √ (Reinforcement)               | √                 | √                                      |                    | √ <br>(2022 onwards) |
-| Primary 4 | √           | √ (Reinforcement)               | √                 | √                                      |                    | √ <br>(2023 onwards) |
+| Primary 2 | √           | √ (Bridging)                    |             √     |                                        |                    |                  |
+| Primary 3 | √           | √ (Reinforcement)               | √                 | √                                      |                    | √ (2022 onwards) |
+| Primary 4 | √           | √ (Reinforcement)               | √                 | √                                      |                    | √ (2023 onwards) |
 | Primary 5 | √           |                                 | √                 |                                        | √                  | √                |
 | Primary 6 | √           |                                 | √                 |                                        | √                  | √                |
 
@@ -81,4 +80,3 @@ CCM is an enrichment programme for Primary 3 to Primary 5 students who are inter
 **<u>Recess Activities</u>**
 
 ![](/images/recess%20activities.png)
-
