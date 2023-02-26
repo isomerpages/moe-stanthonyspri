@@ -36,40 +36,40 @@ In the Smart Thinkers coding programme, Primary 4 and 5 students learn block cod
 **<u>Primary 4 and Primary 5 Coding Programme</u>**
 
 <img src="/images/ALP1.jpg" style="width:auto">
-Primary 5 Anthonians felt proud upon completion of a project with micro:bit
+<center>Primary 5 Anthonians felt proud upon completion of a project with micro:bit</center>
 
 <img src="/images/ALP2.jpg" style="width:auto">
-Primary 5 Anthonians were in the process of completing the codes for their project
+<center>Primary 5 Anthonians were in the process of completing the codes for their project</center>
 
 <img src="/images/ALP3.jpg" style="width:auto">
-Anthonians from all levels get to try out the games created using micro:bits
+<center>Anthonians from all levels get to try out the games created using micro:bits</center>
 
 <img src="/images/ALP4.jpg" style="width:auto">
-Primary 4 and 5 Anthonians proudly displaying their micro:bit projects on CODE@SAPS Day
+<center>Primary 4 and 5 Anthonians proudly displaying their micro:bit projects on CODE@SAPS Day</center>
 
 **Primary 2 and 3 Coding Programme**
 
 <img src="/images/ALP5.jpg" style="width:auto">
-Primary 3 Anthonians exploring Ozobot and OzoBlockly
+<center>Primary 3 Anthonians exploring Ozobot and OzoBlockly</center>
 
 <img src="/images/ALP6.jpg" style="width:auto">
-Primary 3 Anthonians exploring Ozobot and OzoBlockly
+<center>Primary 3 Anthonians exploring Ozobot and OzoBlockly</center>
 
 <img src="/images/ALP7.jpg" style="width:auto">
-Primary 2 Anthonians were introduced to Ozobot using colour codes
+<center>Primary 2 Anthonians were introduced to Ozobot using colour codes</center>
 
 <img src="/images/ALP8.jpg" style="width:auto">
-Primary 2 Anthonians exploring the different colour codes
+<center>Primary 2 Anthonians exploring the different colour codes</center>
 
 **Maker@SAPS**
 
 Maker@SAPS was implemented as an avenue for students to come together and solve problems through free play. These making and tinkering practices encourage creative thinking amongst students as they construct, deconstruct, design, fix, create and refine solutions to various problems presented to them. 
 
-<img src="/images/ALP9.jpg" style="width:auto">
-Primary 3 Anthonians exploring with Strawbees to create 3D shapes
+<img src="/images/ALP9.png" style="width:auto">
+<center>Primary 3 Anthonians exploring with Strawbees to create 3D shapes</center>
 
-<img src="/images/ALP10.jpg" style="width:auto">
-Anthonians creating structures out of Strawbees
+<img src="/images/ALP10.png" style="width:auto">
+<center>Anthonians creating structures out of Strawbees</center>
 
 Students are able to take items apart, put things together, and dream of imaginative creations. The notion of multiple attempts, refining designs, and failure are all inherent with engaging students to take risks. This is aligned to the school direction towards having a growth mindset.
 
