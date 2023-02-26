@@ -51,7 +51,8 @@ _A writing lesson in which Anthonians respectfully provided constructive feedbac
 
 ![](/images/ictawareness.jpg)
 
-![](/images/image3.jpeg)
 
+<img src="/images/image3.jpeg" style="width:80%">
+	
 #### Working Hand in Hand with Parents
 We work with parents to ensure that our Anthonians are safe online. The Cybites section, featured in every alternate month’s Anthonian Updates newsletter, discusses current cyber wellness issues and shares tips on promoting healthy cyber activities at home.
