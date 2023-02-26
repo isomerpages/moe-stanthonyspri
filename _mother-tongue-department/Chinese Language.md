@@ -55,7 +55,7 @@ The objective of these cultural programmes is to create an immersive environment
 
 During the Primary 4 Cultural Camp, Anthonians participate in an afternoon of fun-filled activities such as tea appreciation, paper cutting, and chapteh making. These&nbsp;culturally rich activities deepen our Anthonians’ understanding of their cultural roots and promote the learning of Chinese Language in a fun and engaging way.
 
-![](/images/chinese.png)
+<img src="/images/chinese.png" style="width:auto">
 
 **<u>Cultural Performance Exposure Scheme (CPES) 文化随意门</u>**  
 
