@@ -133,10 +133,12 @@ Anthonians will start off their learning journey in P1 and P2 with a theatrical 
 
 
 
-![](/images/english7.png)
+<img src="/images/english7.png" style="width:auto">
+
 _<center>Anthonians performing their poetry recitation in front of the class</center>_
 
-![](/images/english8.jpeg)
+<img src="/images/english8.jpeg" style="width:auto">
+
 _<center>Readers Theatre performance</center>_
 
 **<u>Talent Development Programme (TDP)</u>** 
@@ -147,13 +149,15 @@ Under the guidance of a debate coach, they learn to carry out research to look f
 
   
 
-![](/images/english9.jpeg)
+<img src="/images/english9.jpeg" style="width:auto">
+
 _<center>Anthonians attending the Raffles Institution Debating 101 Programme</center>_
 
 ![](/images/image%20(6).jpg)
 _<center>Preparation time for a friendly debate spar with another school</center>_
 
-![](/images/english10.jpeg)
+<img src="/images/english10.jpeg" style="width:auto">
+
 _<center>Debate Activity among our debaters</center>_
 
 **<u>English Club</u>**   
