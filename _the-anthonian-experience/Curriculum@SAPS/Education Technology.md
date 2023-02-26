@@ -54,6 +54,6 @@ _Cyber wellness messages are included in the morning assembly slides to serve as
 ![](/images/ictawareness.jpg)
 	<br>
 <img src="/images/image3.jpeg" style="width:70%">
-	
+	<p>
 #### Working Hand in Hand with Parents
 We work with parents to ensure that our Anthonians are safe online. The Cybites section, featured in every alternate month’s Anthonian Updates newsletter, discusses current cyber wellness issues and shares tips on promoting healthy cyber activities at home.
