@@ -70,7 +70,7 @@ Besides Growth Mindset training for teachers, customised experiential and intera
 
 ![](/images/image9%20(1).png)
 
-**<center>Embracing Challenges Workshop for Lower Primary Pupils**</center>
+**<center>Embracing Challenges Workshop for Lower Primary Pupils</center>**
 
 ![](/images/image7%20(1).png)
 
