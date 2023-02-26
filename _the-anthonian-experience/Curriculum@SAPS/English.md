@@ -45,7 +45,7 @@ STELLAR 2.0 from Primary 1 to Primary 3 uses the following strategies:
 
 _<center>Children engaging in Group Writing (MLEA)</center>_
 
-![](/images/english.png)
+<img src="/images/english.png" style="width:auto">
 
 <center> Children working on activities in a Differentiated Focused Lesson (DFL) </center>
 
