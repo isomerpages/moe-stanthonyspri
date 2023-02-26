@@ -128,9 +128,9 @@ We believe that the increasingly competent executive functioning of children and
 
 | Levels    | Executive Function Skills                                                     |
 |-----------|-------------------------------------------------------------------------------|
-| P1 and P2 | Organisation <br><br>Ignoring Distractions|
-| P3 and P4 | Organisation <br><br> Ignoring Distractions  Goal Setting                             |
-| P5 and P6 | Organisation <br><br> Ignoring Distractions  Goal Setting Planning and Prioritization |
+| P1 and P2 |  ·       Organisation <br> ·       Ignoring Distractions|
+| P3 and P4 | ·        Organisation <br> ·       Ignoring Distractions<br> ·       Goal Setting                             |
+| P5 and P6 |  ·       Organisation <br>  ·       Ignoring Distractions  <br> ·       Goal Setting <br> ·       Planning and Prioritization |
 
 **Table 1: An Overview of Executive Function Skills** **in SAPS**
 
