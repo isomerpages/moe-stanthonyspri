@@ -61,7 +61,7 @@ STELLAR from Primary 4 to Primary 6 involves:
 
 *   Writing Process Cycle (WPC)
 
-![](/images/english3.png)
+<img src="/images/english3.png" style="width:auto">
 
 <center>Sustained Silent Reading (SSR) in the classrooms</center>
 
