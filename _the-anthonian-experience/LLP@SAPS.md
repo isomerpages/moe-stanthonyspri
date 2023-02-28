@@ -16,7 +16,8 @@ Learning for Life Programme (Visual Arts)
 
 SAPS builds on our Lasallian ethos and philosophy to offer a Learning for Life Programme (LLP) in Visual Arts. We seek to foster in our students the desire to **learn** about artistic forms and methods, **grow** an appreciation of art and **serve** the community with their talents.
 
-**<center>LEARN</center>**_<center>Learning to appreciate and create art</center>_
+**LEARN**<br>
+_Learning to appreciate and create art_
 
 The Tier 1 programme is incorporated in the school’s Visual Arts (VA) curriculum for all students. As an enhancement to the curriculum, students learn specialised art forms through Digital Art and Ceramics modules from P1 to P6, which strengthen students’ skills progressively.
 
@@ -39,8 +40,7 @@ In this programme, students learn and practise forming processes with clay using
 Think! Contemporary is a multi-visit, museum-based school programme for our P4 cohort. It integrates the school’s VA curriculum with museum visits and uses artwork from the Singapore Art Museum’s (SAM) permanent collection as primary resources for art lessons to provide an authentic experience in the appreciation and creation of art.
 ![](/images/LLP@SAPS/3think%20contemporary.png)
 
-**GROW**
-
+**GROW**<br>
 _Deepening interest, appreciation and aptitude_
 
   
@@ -63,8 +63,7 @@ The school offers CCAs for students with a keen interest in VA. The Junior Art C
 The school’s own AEP was piloted for P2 in 2008 and has since expanded to include P2 to P6 Anthonians. Students enjoy opportunities to explore different art mediums through specialised modules, such as printmaking, still-life drawing, observational drawing and papier-mâché.
 ![](/images/LLP@SAPS/5school-based%20AEP.png)
 
-**SERVE**
-
+**SERVE**<br>
 _Being a blessing to the community_
 
   
