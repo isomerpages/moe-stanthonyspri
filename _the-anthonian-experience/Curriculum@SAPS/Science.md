@@ -156,8 +156,8 @@ The following programmes are organised to hone in students a keener interest in 
  
 Interested P3 and P4 Anthonians participated in the Science Buskers competition organised by the Singapore Science Centre. The competition aims to promote learning of Science in an engaging way and to generate greater interest in creative science communications and expressions. One of the teams advanced into the final round and did a Science Busking on, 'The Electric Lemon' at the Science Centre to the judges and public on 29 October. They received an award for the Best Science Communication. Congratulations to the team!    All Anthonians who participated had a fun and enriching learning experience!
 
-![](/images/Science/12Sci%20Buskers%202022b.jpg)
-![](/images/Science/11Sci%20Buskers%202022a.jpg)
+<img src="/images/Science/12Sci%20Buskers%202022b.jpg" style="width:auto">
+<img src="/images/Science/11Sci%20Buskers%202022a.jpg" style="width:auto">
 
 **E2K Science Programme**
   
