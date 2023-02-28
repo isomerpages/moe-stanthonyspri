@@ -1,0 +1,8 @@
+collections:
+  cca-clubs-and-societies:
+    output: true
+    order:
+      - English Club.md
+      - InfoComm Club.md
+      - Robotics Club.md
+      - Environmental Science.md

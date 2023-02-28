@@ -1,0 +1,6 @@
+collections:
+  cca-uniformed-groups:
+    output: true
+    order:
+      - Scouts.md
+      - Brownies.md

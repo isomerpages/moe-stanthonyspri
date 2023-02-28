@@ -1,0 +1,9 @@
+collections:
+  cca-visual-and-performing-arts:
+    output: true
+    order:
+      - Choir.md
+      - Brass Band.md
+      - Chinese Dance.md
+      - Contemporary Dance.md
+      - Visual Arts.md

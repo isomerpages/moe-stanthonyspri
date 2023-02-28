@@ -1,0 +1,8 @@
+collections:
+  our-anthonian-family:
+    output: true
+    order:
+      - Anthonian Staff.md
+      - Board Members.md
+      - Parents Support Group.md
+      - Alumni.md

@@ -1,0 +1,9 @@
+collections:
+  cca-sports-and-games:
+    output: true
+    order:
+      - Football.md
+      - Badminton.md
+      - Sports Club.md
+      - Floorball.md
+      - Tchoukball.md
