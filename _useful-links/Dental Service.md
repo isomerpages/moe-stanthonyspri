@@ -9,7 +9,8 @@ description: ""
 
 **Operating hours:**
 
-Clinic is opened on odd weeks in Term 1.
+Clinic is opened on odd weeks in Term 2.<br>
+*(Note that the clinic will be closed during the March holidays. Clinic reopens on 27 March 2023.)*
 
 *   Contact Number: 9115 7437  
     
