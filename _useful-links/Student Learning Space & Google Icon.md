@@ -25,7 +25,7 @@ Click&nbsp;&nbsp;[here](/files/Step%20by%20Step%20Help%20Guide%20for%20SLS.pdf)&
 
   
 
-**Q2: I have forgotten my username. What should I do**
+**Q2: I have forgotten my username. What should I do?**
 
 The format of your&nbsp;&nbsp;**user name**&nbsp;&nbsp;is a combination of the first 5 characters of your Name, the last 4 digits and the letter of your&nbsp;&nbsp;**NRIC/FIN/BC, e.g. (RACHE1234Z).**
 
