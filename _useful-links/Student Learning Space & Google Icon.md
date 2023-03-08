@@ -21,7 +21,7 @@ Click&nbsp;&nbsp;[here](/files/Step%20by%20Step%20Help%20Guide%20for%20SLS.pdf)&
 
 **Q1: I have forgotten my password. What should I do?**
 
-&nbsp;Please refer to&nbsp;&nbsp;**paragraphs 6-10**&nbsp;&nbsp;in&nbsp;&nbsp;**Annex A**&nbsp;. You may refer to&nbsp;&nbsp;[go.gov.sg/loginissues](https://go.gov.sg/loginissues)&nbsp;&nbsp;for all login issues.
+Please refer to&nbsp;&nbsp;**paragraphs 6-10**&nbsp;&nbsp;in&nbsp;&nbsp;**Annex A**&nbsp;. You may refer to&nbsp;&nbsp;[go.gov.sg/loginissues](https://go.gov.sg/loginissues)&nbsp;&nbsp;for all login issues.
 
   
 
