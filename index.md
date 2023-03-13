@@ -14,4 +14,5 @@ sections:
       button: Click here for more details!
       url: https://www.facebook.com/photo/?fbid=704552451459150&set=a.560537479193982
       image: /images/EL teachers.jpg
+      alt: EL teachers
 ---
