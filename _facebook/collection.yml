@@ -1,5 +1,0 @@
-collections:
-  facebook:
-    output: true
-    order:
-      - Facebook.md
