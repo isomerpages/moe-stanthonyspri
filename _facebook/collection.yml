@@ -1,0 +1,4 @@
+collections:
+  facebook:
+    output: true
+    order: []
