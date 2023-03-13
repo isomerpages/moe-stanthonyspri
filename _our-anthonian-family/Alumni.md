@@ -17,7 +17,7 @@ Being part of the official alumni will allow you to reunite, catch up and networ
 
   
 
-**Please note: Parents must be members of the Alumni before 30th June 2020 to qualify for Phase 2A1 (2021 exercise) and before 30th June 2021 to qualify for Phase 2A1 (2022 exercise)**
+
 
 ### **Membership with St Anthony’s Primary School Alumni**
 

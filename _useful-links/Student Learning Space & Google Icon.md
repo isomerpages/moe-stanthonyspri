@@ -21,11 +21,11 @@ Click&nbsp;&nbsp;[here](/files/Step%20by%20Step%20Help%20Guide%20for%20SLS.pdf)&
 
 **Q1: I have forgotten my password. What should I do?**
 
-&nbsp;Please refer to&nbsp;&nbsp;**paragraphs 6-10**&nbsp;&nbsp;in&nbsp;&nbsp;**Annex A**&nbsp;. You may refer to&nbsp;&nbsp;[go.gov.sg/loginissues](https://go.gov.sg/loginissues)&nbsp;&nbsp;for all login issues.
+Please refer to&nbsp;&nbsp;**paragraphs 6-10**&nbsp;&nbsp;in&nbsp;&nbsp;**Annex A**&nbsp;. You may refer to&nbsp;&nbsp;[https://go.gov.sg/school-based-helpline](https://go.gov.sg/school-based-helpline)&nbsp;&nbsp;for all login issues.
 
   
 
-**Q2: I have forgotten my username. What should I do**
+**Q2: I have forgotten my username. What should I do?**
 
 The format of your&nbsp;&nbsp;**user name**&nbsp;&nbsp;is a combination of the first 5 characters of your Name, the last 4 digits and the letter of your&nbsp;&nbsp;**NRIC/FIN/BC, e.g. (RACHE1234Z).**
 

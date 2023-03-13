@@ -9,20 +9,7 @@ The school has appointed YMCA (Singapore) to operate its Student Care Centre sin
 
 **Registration of Interest**
 
-Click on the link & or scan the QR code for the Student Care Centre’s Registration of Interest Form – P1 (2023).
-
-2023 Primary One Cohort: [https://tinyurl.com/StAnthonys-2023-P1-ROI](https://tinyurl.com/StAnthonys-2023-P1-ROI)
-
-QR Code as follows:
-
-<img src="/images/studentcareqr.jpg" 
-     style="width:25%" align = "left">
-<br><br><br><br><br><br><br>
-**Important Dates**
-
-Submission by 16 September 2022 (Friday), 5.00pm  
-
-Results announced via email on 7 October 2022 (Friday)
+The registration for 2023 Primary One is now closed.
 
 **Contact Details**
 
