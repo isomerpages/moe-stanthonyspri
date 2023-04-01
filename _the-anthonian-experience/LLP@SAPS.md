@@ -14,7 +14,7 @@ Learning for Life Programme (Visual Arts)
 
 <img src="/images/LLP.png" style="width:60%">
 
-SAPS builds on our Lasallian ethos and philosophy to offer a Learning for Life Programme (LLP) in Visual Arts. We seek to foster in our students the desire to **learn** about artistic forms and methods, **grow** an appreciation of art and **serve** the community with their talents.
+SAPS builds on our Lasallian ethos and philosophy to offer a Learning for Life Programme (LLP) in Visual Arts. We seek to foster in our students the desire to&nbsp;**learn**&nbsp;about artistic forms and methods,&nbsp;**grow**&nbsp;an appreciation of art and&nbsp;**serve**&nbsp;the community with their talents.
 
 **LEARN**<br>
 _Learning to appreciate and create art_
@@ -39,22 +39,23 @@ In this programme, students learn and practise forming processes with clay using
 
 Think! Contemporary is a multi-visit, museum-based school programme for our P4 cohort. It integrates the school’s VA curriculum with museum visits and uses artwork from the Singapore Art Museum’s (SAM) permanent collection as primary resources for art lessons to provide an authentic experience in the appreciation and creation of art.
 ![](/images/LLP@SAPS/3think%20contemporary.png)
+Click [here](https://www.singaporeartmuseum.sg/art-events/exhibitions/think-contemporary-2022) to visit the virtual exhibition for Think! Contemporary 2022.
 
 **GROW**<br>
 _Deepening interest, appreciation and aptitude_
 
   
 
-Students who have greater interest or aptitude in VA are encouraged to participate in our Tier 2 programmes to deepen their interest, broaden their horizons and hone their talents. 
+Students who have greater interest or aptitude in VA are encouraged to participate in our Tier 2 programmes to deepen their interest, broaden their horizons and hone their talents.&nbsp;
 
   
 
-**_CCAs: Junior & Senior Art Club_**
+**_CCAs: Junior &amp; Senior Art Club_**
 
   
 
 The school offers CCAs for students with a keen interest in VA. The Junior Art Club caters to P1-P3 students, while the Senior Art Club comprises P4-P6 students. While the focus is on ceramics, Art Club members also get to explore varied techniques, forms and mediums to express their creativity.
-![](/images/LLP@SAPS/4cca%20junior%20&%20senior%20art%20clubs.png)
+![](/images/LLP@SAPS/4cca%20junior%20&amp;%20senior%20art%20clubs.png)
 
 **_School-based Art Elective Programme_**
 
@@ -68,7 +69,7 @@ _Being a blessing to the community_
 
   
 
-Arts Reach is the school’s outreach to the community through the arts.  In line with our Lasallian values of Faith, Service and Community, Arts Reach gives Anthonians opportunities to use the skills they learn in the school’s VA programmes to bless those in the wider community. 
+Arts Reach is the school’s outreach to the community through the arts.&nbsp; In line with our Lasallian values of Faith, Service and Community, Arts Reach gives Anthonians opportunities to use the skills they learn in the school’s VA programmes to bless those in the wider community.&nbsp;
 
   
 
@@ -79,7 +80,7 @@ Arts Reach is the school’s outreach to the community through the arts.  In li
 Students visit elderly residents at Hong Kah North Day Care Centre and St. Luke’s ElderCare Centre to guide them through art activities and give them artwork made by Anthonians.
 ![](/images/LLP@SAPS/6visiting%20residents.png)
 
-**_Hosting art classes for seniors_** 
+**_Hosting art classes for seniors_**&nbsp;
 
   
 
