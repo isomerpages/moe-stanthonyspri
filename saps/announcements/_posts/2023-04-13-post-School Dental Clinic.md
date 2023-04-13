@@ -8,13 +8,11 @@ image: ""
 ---
 Clinic is open every alternate week.
 
-Contact Number: 9115 7437
+**Contact Number:** 9115 7437
 
-Staff in Charge: 
-Ms Suryani Kamsidin (Manager) 
-Ms Vaishnavi
+**Staff in Charge:** Ms Suryani Kamsidin (Manager)  and Ms Vaishnavi
 
-Operating Hours:
+**Operating Hours:**
 Mondays – Thursdays (8.00 a.m. – 5.30 p.m.)
 Fridays (8.00 a.m. – 5.00 p.m.)
 
