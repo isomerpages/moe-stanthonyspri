@@ -116,7 +116,7 @@ description: ""
 | 3 RE (RESILIENCE)     | Mrs Mano (Kothai d/o Sellathurai)                     | kothai_sellathurai@moe.edu.sg                               |
 |                  | Mrs Grace Tan (Ho Shuyi)                        | ho_shuyi_grace@moe.edu.sg                                |
 |                  | Mrs Josephine Lai                        | tan_tzy_huey_josephine@moe.edu.sg                                |
-| 3 RY (RESPONSIBILITY) | Mrs Joanna Lim                  | lim_siew_ming_joanna@moe.edu.sg                                     |
+| 3 RY (RESPONSIBILITY) | Ms Joanna Lim                  | lim_siew_ming_joanna@moe.edu.sg                                     |
 || Ms Ling Yi Chin                  | ling_yi_chin@moe.edu.sg                                    |
 |                  | Mdm Zaleha Bte Torsirmia          | zaleha_tosirmia@moe.edu.sg  |
 | 3 IY (INTEGRITY)      | Mdm Nur Farahiya                       | nur_farahiya_sulaiman@moe.edu.sg                                     | 
