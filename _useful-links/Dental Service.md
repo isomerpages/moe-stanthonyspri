@@ -5,17 +5,22 @@ description: ""
 ---
 ## Dental Service
 
-### Dental Service
+
 
 **Operating hours:**
 
-Clinic is opened on odd weeks in Term 2.<br>
-*(Note that the clinic will be closed during the March holidays. Clinic reopens on 27 March 2023.)*
+**Clinic is open every alternate week.**
 
-*   Contact Number: 9115 7437  
-    
-*   Staff in Charge: Ms Suryani Kamsidin (Assistant Manager) and Ms Vaishnavi
-    
-*   Operating Hours:
-<br>·       Mondays – Thursdays (8.00 a.m. – 5.30 p.m.)
-<br>·       Fridays (8.00 a.m. – 5.00 p.m.)
+**Contact Number:** 9115 7437
+
+**Staff in Charge:**
+
+*   Ms Suryani Kamsidin (Manager)
+*   Ms Vaishnavi
+
+**Operating Hours:**
+
+*   Mondays – Thursdays (8.00 a.m. – 5.30 p.m.)
+*   Fridays (8.00 a.m. – 5.00 p.m.)
+
+In the event of an Emergency (e.g. dental trauma, facial/gum swelling or toothache) and the clinic staff is uncontactable, please email Health Promotion Board's School Dental Centre. Email: [contact\_YPS@hpb.gov.sg](mailto:contact_YPS@hpb.gov.sg)
