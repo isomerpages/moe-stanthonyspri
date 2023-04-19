@@ -16,4 +16,4 @@ description: ""
 |  5  |  Mr Chia Boon Khiang |  Alumni Representative               |
 |  6  |  Mdm Alice Lim       |  Grassroots’/Parents’ Representative |
 |  7  |  Mdm Queenie Cheah   |  Parents’ Representative             |
-|  8  |  Dr Toh Keng Kiat    |  Member                              |
+                         
