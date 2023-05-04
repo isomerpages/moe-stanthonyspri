@@ -35,4 +35,4 @@ Click&nbsp;[here](https://staging.d1z3a7hqoofu2f.amplifyapp.com/files/Purchase%2
     ·          **Annway Transport Services (Mr Kelvin Wong)**<br>
     ·             Contact Number: 9476 6639 
 		
-*   Bus Fares  https://go.gov.sg/sapsbusfares
+*   Bus Fares (https://file.go.gov.sg/sapsbusfares.pdf)
