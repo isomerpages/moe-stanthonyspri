@@ -33,5 +33,5 @@ Click&nbsp;[here](https://staging.d1z3a7hqoofu2f.amplifyapp.com/files/Purchase%2
 <br><br>
 *   School Bus<br>
     ·          **Annway Transport Services (Mr Kelvin Wong)**<br>
-    ·             Contact Number: 9476 6639                   
-    .              [Bus Fares]()
+    ·             Contact Number: 9476 6639 
+*   Bus Fares  [Click here](/files/bus%20info%20and%20nte%20prices%20for%20saps%20website%20(28%20apr%202023).pdf)
