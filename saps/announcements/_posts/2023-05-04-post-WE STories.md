@@ -12,11 +12,11 @@ The West Zone (WZ) schools in Singapore has published the “WE STories” which
 
 Some key features of the publication include:
 
-§  Interactive map displaying schools in their geographical location with links to lead readers directly to the respective schools – _Pages 4 & 5_
+* Interactive map displaying schools in their geographical location with links to lead readers directly to the respective schools – _Pages 4 & 5_
 
-§  Easy referencing of schools’ talent areas for Direct School Admission (DSA), Applied Learning Programmes (ALP) and Learning for Life Programmes (LLP) – _Pages 160 - 165_
+* Easy referencing of schools’ talent areas for Direct School Admission (DSA), Applied Learning Programmes (ALP) and Learning for Life Programmes (LLP) – _Pages 160 - 165_
 
-§  Clickable links to view schools’ videos and artefacts that showcase each school’s distinctiveness.
+* Clickable links to view schools’ videos and artefacts that showcase each school’s distinctiveness.
 
 We hope that this publication will serve as useful tool to broaden your child/ward’s options as they prepare to transit to secondary school education.
 
