@@ -6,3 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/hari%20raya%20write-up-1.png)![](/images/hari%20raya%20write-up-2.png)
