@@ -14,4 +14,4 @@ Click here for more details:
 * [Coding](https://stanthonyspri-moe-edu-sg-admin.cwp.sg/saps/highlights/codingsemester1)
 * [Passion Day](https://stanthonyspri-moe-edu-sg-admin.cwp.sg/saps/highlights/passionday)
 * [Market Day](https://stanthonyspri-moe-edu-sg-admin.cwp.sg/saps/highlights/marketday)
-* Sports Carnival:
+* [Sports Carnival](https://stanthonyspri-moe-edu-sg-admin.cwp.sg/saps/highlights/sportscarnival)
