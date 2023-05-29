@@ -10,7 +10,8 @@ As part of our commitment to nurturing joyful and passionate learners and foster
   
 Throughout the week, the students had many valuable opportunities to develop their 21st Century Competencies through ICT-related programmes such as touch typing and coding, as well as other activities such as Passion Day and Market Day. The week culminated in our highly anticipated Sports Carnival where students actively engaged and interacted with their buddies in the exciting games.
 
-* Coding:
+Click here for more details:
+* [Coding](https://stanthonyspri-moe-edu-sg-admin.cwp.sg/saps/highlights/codingsemester1)
 * Passion Day:
 * Market Day:
 * Sports Carnival:
