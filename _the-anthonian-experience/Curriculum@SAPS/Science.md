@@ -63,9 +63,7 @@ On 24 March 2023, our school showed our support for the Earth Hour movement by s
  **Biodiversity Week @ SAPS**
 
 
-The International Day for Biological Diversity is celebrated on 22 May. To commemorate
-
-this, SAPS organised a series of activities for the Anthonians. The Environmental Science Club members learnt about the biodiversity in Singapore and conducted a biodiversity audit at our school garden, contributing to the nation’s data.
+The International Day for Biological Diversity is celebrated on 22 May. To commemorate this, SAPS organised a series of activities for the Anthonians. The Environmental Science Club members learnt about the biodiversity in Singapore and conducted a biodiversity audit at our school garden, contributing to the nation’s data.
 
 On 17 and 18 May, during recess activities, Anthonians used portable microscopes on iPads to learn about the plants and cells at microscopic level and did a scavenger hunt in our garden. Through this, they learnt about diverse biodiversity in a fun way.
 
