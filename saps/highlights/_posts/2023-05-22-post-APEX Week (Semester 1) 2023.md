@@ -13,6 +13,6 @@ Throughout the week, the students had many valuable opportunities to develop the
 Click here for more details:
 
 * [Coding](https://stanthonyspri.moe.edu.sg/saps/highlights/codingsemester1/)
-* [Passion Day](https://stanthonyspri.moe.edu.sg/saps/highlights/passionday)
-* [Market Day](https://stanthonyspri.moe.edu.sg/saps/highlights/marketday)
-* [Sports Carnival](https://stanthonyspri.moe.edu.sg/saps/highlights/sportscarnival)
+* [Passion Day](https://stanthonyspri.moe.edu.sg/saps/highlights/passionday/)
+* [Market Day](https://stanthonyspri.moe.edu.sg/saps/highlights/marketday/)
+* [Sports Carnival](https://stanthonyspri.moe.edu.sg/saps/highlights/sportscarnival/)
