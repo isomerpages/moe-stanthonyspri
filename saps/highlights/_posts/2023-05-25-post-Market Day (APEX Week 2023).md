@@ -6,3 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/APEX%20week/market%20day.jpg)
