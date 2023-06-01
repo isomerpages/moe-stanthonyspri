@@ -8,11 +8,11 @@ third_nav_title: Curriculum@SAPS
 
 |  |  | 
 | -------- | -------- | 
-Vision     |  To equip Anthonians with scientific knowledge, skills & attitudes to prepare them for life and work in the 21st Century
+Vision     |  To equip Anthonians with scientific knowledge, skills &amp; attitudes to prepare them for life and work in the 21st Century
 | | | 
 
 
-**Environmental Education (EE) Vision:** To instill care, respect and responsibility for the environment in every learner.
+**Environmental Education (EE) Vision:**&nbsp;To instill care, respect and responsibility for the environment in every learner.
 
   
 
@@ -37,17 +37,20 @@ c\. Inquiry-based learning and questioning techniques to allow pupils to appreci
 
 Taking reference from the MOE Primary Science Syllabus, these strategies aim to develop in our Anthonians strong fundamentals in scientific knowledge, attitudes and values to enable them to learn how to learn Science in SAPS and beyond.
 
-The Primary Science Syllabus follows a spiral approach, based on five themes that pupils can relate to in their everyday experiences, commonly observed phenomena in nature. The themes are revisited at different levels and with increasing depth to match pupils’ cognitive development. 
+The Primary Science Syllabus follows a spiral approach, based on five themes that pupils can relate to in their everyday experiences, commonly observed phenomena in nature. The themes are revisited at different levels and with increasing depth to match pupils’ cognitive development.&nbsp;
 
-### Environmental Education (EE)  Key Programmes
+### Environmental Education (EE)&nbsp; Key Programmes
+
+**Environmental Education Activities**
+         <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:3 0 0 0 1 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-parent:""; margin:0in; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Arial",sans-serif; mso-fareast-font-family:Arial; mso-ansi-language:EN;} p {mso-style-priority:99; mso-margin-top-alt:auto; margin-right:0in; mso-margin-bottom-alt:auto; margin-left:0in; mso-pagination:widow-orphan; font-size:12.0pt; font-family:"Times New Roman",serif; mso-fareast-font-family:"Times New Roman";} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Arial",sans-serif; mso-ascii-font-family:Arial; mso-fareast-font-family:Arial; mso-hansi-font-family:Arial; mso-bidi-font-family:Arial; mso-ansi-language:EN;} .MsoPapDefault {mso-style-type:export-only; line-height:115%;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
+
+St. Anthony’s Primary School envisions every Anthonian to be an advocate of green living. Anthonians will be committed to caring and protecting their environment by practicing good and friendly green habits as responsible citizens. Environmental Education (EE) in St. Anthony’s Primary School adopts a whole school approach, to reach out to all staff and pupils to care for the environment as well as to raise awareness and understand current environmental issues.
 
 
-**Values in Action (VIA)**
+**World Water Day activities**
 
-  
-
-Values in Action (VIA) aims to nurture pupils’ development as socially responsible citizens who contribute meaningfully to the community, through the learning and application of values, knowledge and skills. VIA is designed to develop in pupils a sense of ownership and initiative. To nurture socially responsible citizens who apply their learning in Science to contribute meaningfully to the community, the Science Department engages our Anthonians in VIA every year, through our Environmental Education (EE) programme. 
-
+On 22 March, SAPS celebrated World Water Day with a series activities lined up for staff and students. Staff came to school dressed in blue to support the #GoBlue4SG movement by PUB. Anthonians learned about water-saving tips and water footprint through fun and games. One of the stations featured a tossing game made out of recyclables which was designed and made by our Environmental Science Club members. Other than recess activities, there are ongoing Water Wednesdays activities in class and on SLS where Anthonians learn more about the importance of water security and the need to protect our water resources. We encourage everyone to continue to use water wisely and make every drop 💧count.
+![](/images/Science/world%20water%20day%20activities.jpg)
   
 
 
@@ -59,7 +62,7 @@ Our P1 and P2 Anthonians took part in a VIA project where they helped to keep th
 
 ![](/images/Science/1Science%20P1%20P2%20VIA%20(1).png)
 
-**P3 VIA: A Litter-free School Community** 
+**P3 VIA: A Litter-free School Community**&nbsp;
 
   
 
@@ -86,7 +89,7 @@ In light of the COVID 19 pandemic, the P5 Anthonians reached out to their peers 
 
 **Outreach Programme - Dengue Sharing**
 
-Our Environmental Ambassadors attended an online course conducted by NEA during the June holidays on the prevention of dengue. During the course, the ambassadors explored creative ways to share their message with the rest of the school. 
+Our Environmental Ambassadors attended an online course conducted by NEA during the June holidays on the prevention of dengue. During the course, the ambassadors explored creative ways to share their message with the rest of the school.&nbsp;
 
 During a pre-assembly talk, the ambassadors shared with their peers what dengue is, its symptoms and ways how we can prevent the breeding of mosquitoes at home. Anthonians learned that everyone has a part to play in preventing the spread of dengue.
 
@@ -94,7 +97,7 @@ Together, we can fight dengue and keep our family members, neighbours and commun
 
 ![](/images/Science/5Outtreach%20Prog.png)
 
-**Biodiversity Week** 
+**Biodiversity Week**&nbsp;
 
   
 
@@ -105,9 +108,9 @@ During Biodiversity Week, our P1 and P2 pupils learnt about flora and fauna nati
 
 **Reduce Carbon foodprint @ SAPS**
 
-Our carbon footprint has a negative impact on the environment, and it contributes to climate change. The Environmental Science Club at SAPS embarked on a School for Climate Action with the World Wide Fund For Nature. The aim was to educate the school population on carbon footprint and encourage them to take action to reduce their carbon footprint by making “environmentally-friendly” choices. 
+Our carbon footprint has a negative impact on the environment, and it contributes to climate change. The Environmental Science Club at SAPS embarked on a School for Climate Action with the World Wide Fund For Nature. The aim was to educate the school population on carbon footprint and encourage them to take action to reduce their carbon footprint by making “environmentally-friendly” choices.&nbsp;
 
-Members of the Environmental Science Club attended workshop conducted by WWF to learn more about climate change and the different contributors of carbon footprint. After the workshop, the members initiated and planned activities to raise awareness about the issues to encourage their peers to reduce their carbon footprint. Some of the activities conducted are pre-assembly talks, skits and use of billboards during recesses to create awareness. On top of these, a lesson on carbon footprint was designed and conducted during TACT. It was such an enriching experience for the school.
+Members of the Environmental Science Club&nbsp;attended workshop&nbsp;conducted by WWF to learn more about climate change and the different contributors of carbon footprint. After the workshop, the&nbsp;members&nbsp;initiated and planned activities to raise awareness about the issues to&nbsp;encourage their peers to reduce their carbon footprint.&nbsp;Some of the activities conducted are&nbsp;pre-assembly talks,&nbsp;skits&nbsp;and&nbsp;use of billboards during recesses to create awareness.&nbsp;On top of these, a&nbsp;lesson on carbon footprint was designed&nbsp;and&nbsp;conducted&nbsp;during TACT. It was such an enriching experience for the school.
 
 ![](/images/Science/7Reduce%20Carbon.png)
 
@@ -123,7 +126,7 @@ The world is producing more food than we can finish. Yet, it is unevenly distrib
 
 To arouse students’ interest in Science, an exciting and enriching experiential garden trail to SAPS Science Learning Hub was designed for our Primary 1 and Primary 2 Anthonians to learn more about plants.
 
-The garden trail was integrated with Social Studies for Primary 1 and Programme Active Learning for Primary 2. Through the trail, Primary 1 pupils get to interact with the nature and to observe garden etiquettes while the Primary 2 identify the different types of leaves. 
+The garden trail was integrated with Social Studies for Primary 1 and Programme Active Learning for Primary 2. Through the trail,&nbsp;Primary 1 pupils get to interact with the nature&nbsp;and to observe garden&nbsp;etiquettes&nbsp;while the Primary 2 identify&nbsp;the different&nbsp;types of leaves.&nbsp;
 
 Using their senses, they got to see, smell, feel and touch the different plants in the garden. They had the opportunity to take a closer look at the different parts of plants and garden wildlife such as snails and insects. They had a great time going outdoor exploring the gardens!
 
@@ -133,9 +136,9 @@ Using their senses, they got to see, smell, feel and touch the different plants 
 
 Our P3 and P5 Anthonians took to the Native Garden to learn more about our local plants. Our little botanists got their hands dirty - observing, smelling and touching various parts of the plants.
 
-Through this hands-on learning approach, Anthonians were immersed in nature, experiencing first-hand the diversity of the natural eco-system. The first part of the experience included a teacher-guided tour of the garden. Anthonians were introduced to the plants and their parts. 
+Through this hands-on learning approach, Anthonians were immersed in nature, experiencing first-hand the diversity of the natural eco-system. The first part of the experience included a teacher-guided tour of the garden. Anthonians were introduced to the plants and their parts.&nbsp;
 
-They saw that there were different types of plants and observed animals such as ants and caterpillars at work in the garden. They saw how these animals relied on plants for food (leaves and nectar) and shelter. Our Anthonians saw their textbook come alive through this eye-opening experience. 
+They saw that there were different types of plants and observed animals such as ants and caterpillars at work in the garden. They saw how these animals relied on plants for food (leaves and nectar) and shelter. Our Anthonians saw their textbook come alive through this eye-opening experience.&nbsp;
 
 In the second part of the lesson, Anthonians had to scan the QR code of each plant with their iPads in order to access information and complete the tasks assigned. The lesson was without doubt a memorable and enjoyable one for them.
 
@@ -145,7 +148,7 @@ In the second part of the lesson, Anthonians had to scan the QR code of each pla
 **Enrichment Programmes**
 
 
-The following programmes are organised to hone in students a keener interest in passion for learning Science: 
+The following programmes are organised to hone in students a keener interest in passion for learning Science:&nbsp;
 
 *   Science Buskers 2022
 *   E2K Science Programme
@@ -154,7 +157,7 @@ The following programmes are organised to hone in students a keener interest in 
 **Science Buskers 2022**
 
  
-Interested P3 and P4 Anthonians participated in the Science Buskers competition organised by the Singapore Science Centre. The competition aims to promote learning of Science in an engaging way and to generate greater interest in creative science communications and expressions. One of the teams advanced into the final round and did a Science Busking on, 'The Electric Lemon' at the Science Centre to the judges and public on 29 October. They received an award for the Best Science Communication. Congratulations to the team!    All Anthonians who participated had a fun and enriching learning experience!
+Interested P3 and P4 Anthonians participated in the Science Buskers competition organised by the Singapore Science Centre. The competition aims to promote learning of Science in an engaging way and to generate greater interest in creative science communications and expressions. One of the teams advanced into the final round and did a Science Busking&nbsp;on, 'The Electric Lemon' at the Science Centre to the judges and public on 29 October. They received an award for the Best Science Communication. Congratulations to the team!&nbsp; &nbsp; All Anthonians who participated had a fun and enriching learning experience!
 
 <img src="/images/Science/12Sci%20Buskers%202022b.jpg" style="width:auto">
 <img src="/images/Science/11Sci%20Buskers%202022a.jpg" style="width:auto">
@@ -162,7 +165,7 @@ Interested P3 and P4 Anthonians participated in the Science Buskers competition 
 **E2K Science Programme**
   
 
-The E2K Science Programme offers opportunities for Anthonians to engage in scientific investigations to discover and deepen their understanding of advanced science concepts through inquiry. Every year, P4 to P6 Anthonians with an interest in and aptitude for Science are invited to participate in this programme. The rich learning experiences of the programmes help Anthonians to:
+The E2K Science Programme offers opportunities for Anthonians to engage in scientific investigations to discover and deepen their understanding of advanced science concepts through inquiry. Every year, P4 to P6 Anthonians with an interest in and aptitude for Science are invited to participate in this programme. The rich learning experiences of the programmes help&nbsp;Anthonians to:
  
 
 *   Develop the habits, attitudes and dispositions scientists possess; and.-
