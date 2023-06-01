@@ -60,31 +60,21 @@ On 24 March 2023, our school showed our support for the Earth Hour movement by s
 
 
 
-
-**P3 VIA: A Litter-free School Community**&nbsp;
-
-  
-
-The P3 VIA this year was based on the theme - ‘A Litter-Free School Compound'. Anthonians started their VIA by completing a checklist to identify the areas in the school which needed improvement. Based on their observations, they suggested ways to improve the cleanliness of the areas identified. Each class then adopted an area in the school to take care of and designed posters to advocate cleanliness. Through this VIA, P3 Anthonians learnt to be responsible by taking ownership and care of their school compound. They also reflected on their VIA and learnt to be respectful and grateful to our school cleaning staff. Our P3 Anthonians have become resilient advocates for a litter-free environment to their peers.
-
-![](/images/Science/2P3%20Litter%20free.png)
-
-**P4 VIA: Stop Food Wastage**
-
-Our P4 Anthonians played an active role educating all P1 Anthonians not to waste food unnecessarily. In addition, the P4 Anthonians shared important messages on food waste reduction with their family members and encouraged more parents to play their part in reducing food wastage through committing to a family pledge. They also organised the collection of fruit peels from home and in school for composting which was then used as fertilisers in the school garden. Through this VIA, our P4 Anthonians learnt about community issues and the needs of others, and sought to reach out to their peers in school as well as the larger community to spread the important message of reducing food wastage.
-
-![](/images/Science/3P4%20Stop%20Food%20wastage.png)
+ **Biodiversity Week @ SAPS**
 
 
-**P5 VIA: A Litter-free environment**
+The International Day for Biological Diversity is celebrated on 22 May. To commemorate
 
-  
+this, SAPS organised a series of activities for the Anthonians. The Environmental Science Club members learnt about the biodiversity in Singapore and conducted a biodiversity audit at our school garden, contributing to the nation’s data.
 
-Our P5 Anthonians focused on advocating clean environment. Through brainstorming, our Anthonians identified that littering is the main problem in Singapore. Littering not only brings about air, water and land pollution, but also causes pest infestations which can lead to the spread of diseases.
+On 17 and 18 May, during recess activities, Anthonians used portable microscopes on iPads to learn about the plants and cells at microscopic level and did a scavenger hunt in our garden. Through this, they learnt about diverse biodiversity in a fun way.
 
-In light of the COVID 19 pandemic, the P5 Anthonians reached out to their peers in school this year instead of promoting their message to residents in the neighbourhood. They shared with their peers ways to encourage everyone to take responsibility for our actions and show more care for our environment by keeping it clean.
+Following that, the P3s and P4s CODE@SAPS programme allowed Anthonians to apply their learning on coding to create a prototype to protect our precious biodiversity. 
 
-![](/images/Science/4P5%20Litter-free.png)
+![](/images/Science/biodiversity%20week%20@%20saps.jpg)
+
+
+
 
 **Outreach Programme - Dengue Sharing**
 
