@@ -53,14 +53,13 @@ On 22 March, SAPS celebrated World Water Day with a series activities lined up f
 ![](/images/Science/world%20water%20day%20activities.jpg)
   
 
+**Earth Hour**
 
-**P1 and P2 VIA: A Litter-free School Community**
+On 24 March 2023, our school showed our support for the Earth Hour movement by switching off half the number of lights and fans for half an hour in our classrooms.&nbsp;This is to raise awareness on how we can play our part, in large ways and small, to save our Earth.&nbsp;The symbolic action of switching off lights&nbsp;shows our commitment to&nbsp;take climate actions to overcome the climate crisis. Every minute and every hour counts, let’s continue to play our part!
+ ![](/images/Science/earth%20hour.jpg) 
 
-  
 
-Our P1 and P2 Anthonians took part in a VIA project where they helped to keep the canteen tables and classrooms clean and tidy. This ensured that their peers could enjoy a clean environment. Through this project, our P1 and P2 Anthonians developed a sense of responsibility and learnt to be considerate to others. At the end of the project, they reflected on the goals they had set and how far they had come. In addition, they expressed their thoughts by drawing and writing about how they can apply the values learnt through this project in their daily life.
 
-![](/images/Science/1Science%20P1%20P2%20VIA%20(1).png)
 
 **P3 VIA: A Litter-free School Community**&nbsp;
 
