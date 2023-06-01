@@ -75,40 +75,6 @@ Following that, the P3s and P4s CODE@SAPS programme allowed Anthonians to apply 
 
 
 
-
-**Outreach Programme - Dengue Sharing**
-
-Our Environmental Ambassadors attended an online course conducted by NEA during the June holidays on the prevention of dengue. During the course, the ambassadors explored creative ways to share their message with the rest of the school.&nbsp;
-
-During a pre-assembly talk, the ambassadors shared with their peers what dengue is, its symptoms and ways how we can prevent the breeding of mosquitoes at home. Anthonians learned that everyone has a part to play in preventing the spread of dengue.
-
-Together, we can fight dengue and keep our family members, neighbours and community safe.
-
-![](/images/Science/5Outtreach%20Prog.png)
-
-**Biodiversity Week**&nbsp;
-
-  
-
-During Biodiversity Week, our P1 and P2 pupils learnt about flora and fauna native to Singapore. They explored an interactive activity book and viewed a short animated video that follows Bobby and Stella on their journey to find a place to grow a seed. Through this activity, our Anthonians gained a better appreciation of biodiversity and became more aware of the need to conserve nature. They developed a deeper understanding of the world around them and found out how things work through simple investigations. Overall, it was a fun and enriching learning experience for them.
-
-![](/images/Science/6Bioodiversity.png)
-
-
-**Reduce Carbon foodprint @ SAPS**
-
-Our carbon footprint has a negative impact on the environment, and it contributes to climate change. The Environmental Science Club at SAPS embarked on a School for Climate Action with the World Wide Fund For Nature. The aim was to educate the school population on carbon footprint and encourage them to take action to reduce their carbon footprint by making “environmentally-friendly” choices.&nbsp;
-
-Members of the Environmental Science Club&nbsp;attended workshop&nbsp;conducted by WWF to learn more about climate change and the different contributors of carbon footprint. After the workshop, the&nbsp;members&nbsp;initiated and planned activities to raise awareness about the issues to&nbsp;encourage their peers to reduce their carbon footprint.&nbsp;Some of the activities conducted are&nbsp;pre-assembly talks,&nbsp;skits&nbsp;and&nbsp;use of billboards during recesses to create awareness.&nbsp;On top of these, a&nbsp;lesson on carbon footprint was designed&nbsp;and&nbsp;conducted&nbsp;during TACT. It was such an enriching experience for the school.
-
-![](/images/Science/7Reduce%20Carbon.png)
-
-**Clean Plate Campaign**
-
-The world is producing more food than we can finish. Yet, it is unevenly distributed, with the poor going hungry while food is being thrown away elsewhere. The importance of reducing food wastage is taught and emphasised across all levels in SAPS. Through the Clean Plate Campaign, each Anthonian is strongly encouraged to order only what they can finish so as to reduce food waste. In SAPS, we also have Food Waste Ambassadors to help to monitor food wastage during recess.
-
-![](/images/Science/8Clean%20Plate%20Cam%20(1).png)
-
 ### Science Curriculum Programmes
 
 **P1 and P2 Trail @ SAPS**
