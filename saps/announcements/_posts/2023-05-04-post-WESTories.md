@@ -23,4 +23,4 @@ We hope that this publication will serve as useful tool to broaden your child/wa
   
 
 Please click on the link,  
-[westories2023](https://go.gov.sg/westories-official)
+[WESTories2023](https://go.gov.sg/westories-official)
