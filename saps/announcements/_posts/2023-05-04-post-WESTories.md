@@ -1,5 +1,5 @@
 ---
-title: WE STories
+title: WESTories
 permalink: /saps/announcements/permalink/
 date: 2023-05-04
 layout: post
@@ -23,4 +23,4 @@ We hope that this publication will serve as useful tool to broaden your child/wa
   
 
 Please click on the link,  
-[WE-STories Publications 2023](https://go.gov.sg/westories-official)
+[WESTories2023](https://go.gov.sg/westories-official)

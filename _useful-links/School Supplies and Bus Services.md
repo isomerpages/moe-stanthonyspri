@@ -22,14 +22,17 @@ Click&nbsp;[here](https://staging.d1z3a7hqoofu2f.amplifyapp.com/files/Purchase%2
      ·       Please approach the school bookstore for the school nametag order form.
 <br><br>
 *   Uniform Supplier<br>
-     ·          **Kah Huat Dressmaker**<br>
-     ·          Website:&nbsp;[www.khuniform.com](http://www.khuniform.com/)<br>
+     ·          **KH Dressmaker**<br>
+     ·           Website (online store) :&nbsp;[www.khuniform.com](http://www.khuniform.com/)<br> 
      ·          Contact Number: 6479 6811<br>
-     ·          Operating Hours:  Mondays – Fridays (9.00 a.m. – 3.00 p.m.) &amp; Saturdays (8.30 a.m. – 11.30 a.m.)<br><br>
+		 .          Email: **[sales@khuniform.com](mailto:sales@khuniform.com)**<br>
+		 <br>
     ·             **Retail Outlet: Chen Num Sing Department Store**<br>
     ·             Address: 413 Bukit Batok West Ave. 4, #01-206, (S)650413<br>
     ·             Contact Number: 6565 8961<br>
-    ·             Operating Hours: Tuesdays – Sundays (10 a.m. – 7 p.m.)
+    ·             Operating Hours: Tuesdays – Sundays (10.00 a.m. – 7.00 p.m.)
+		<br>
+		. Uniforms are available for sale through school bookshop during school term time
 <br><br>
 *   School Bus<br>
     ·          **Annway Transport Services (Mr Kelvin Wong)**<br>
