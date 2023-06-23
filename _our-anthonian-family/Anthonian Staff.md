@@ -86,8 +86,7 @@ description: ""
 
 | P2 Form Teachers |                                      |                                        |
 |------------------|--------------------------------------|----------------------------------------|
-| 2 GE (GRATITUDE)      | Mrs Abdul Aziz                      | mariya_kutty@moe.edu.sg                 |
-|                  | Ms Grace Lee Ting                      | grace_lee_ting@moe.edu.sg                |
+| 2 GE (GRATITUDE)      | Mrs Abdul Aziz                      | mariya_kutty@moe.edu.sg                 |              |                      |        |
 ||Ms Lim Jiaqi                      | lim_jia_qi_a@moe.edu.sg                |
 | 2 RT (RESPECT)        | Mrs Rajkumer (Usharani) |usharani_rajkumar@moe.edu.sg          |
 |                  |Mdm Lau Kai Yen                         | lau_kai_yen@moe.edu.sg                   |
