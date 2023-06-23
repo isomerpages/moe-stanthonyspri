@@ -73,7 +73,7 @@ description: ""
 |                  |Mr Huang Zhengqiang    | huang_zhengqiang@moe.edu.sg|
 | 1 RT (RESPECT)       | Mrs Joanne Hoe                        | ho_lai_yeng@moe.edu.sg                     |
 |                  | Mdm Nur Faizah                      | nur_faizah_mohd_alim@moe.edu.sg                              |
-|| Ms Lee Sok Hoon                      | lee_sok_hoon@moe.edu.sg                              |
+|                      |                               |
 | 1 RE (RESILIENCE)     | Ms Goh Jia Xuan            | goh_jia_xuan@moe.edu.sg                 |
 |                  | Mrs Noelle Sim                       | noelle_tan_ying_xiu@moe.edu.sg                    |
 ||Mdm Zoom Zakariah                       | zoom_zakariah@moe.edu.sg                    |
