@@ -20,7 +20,7 @@ description: ""
 |----------------------------------------------------|------------------------|------------------------------------|
 | Level Head (English Language)                      | Mrs Angeline Wong      | tan_su_fern@moe.edu.sg             |
 | HOD (Mother Tongue)                                | Mr Peter Goh           | goh_aik_seng_peter@moe.edu.sg      |
-| Level Head (Chinese)                               | Ms Lee Sok Hoon        | lee_sok_hoon@moe.edu.sg            |
+|                              |        |           |
 | Subject Head (Tamil & Malay)                       | Mdm Santha Suppiah     | santha_suppiah@moe.edu.sg          |
 | HOD (Mathematics)                                  | Mrs Clarice Tay        | nyeo_ling_ling@moe.edu.sg          |
 | Level Head (Mathematics)                           | Ms Loh Yang Keng       | loh_yang_keng@moe.edu.sg           |
