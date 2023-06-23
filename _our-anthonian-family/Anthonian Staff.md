@@ -19,9 +19,8 @@ description: ""
 | School Management                                  |                        |                                    |
 |----------------------------------------------------|------------------------|------------------------------------|
 | Level Head (English Language)                      | Mrs Angeline Wong      | tan_su_fern@moe.edu.sg             |
-| HOD (Mother Tongue)                                | Mr Peter Goh           | goh_aik_seng_peter@moe.edu.sg      |
-| Level Head (Chinese)                               | Ms Lee Sok Hoon        | lee_sok_hoon@moe.edu.sg            |
-| Subject Head (Tamil & Malay)                       | Mdm Santha Suppiah     | santha_suppiah@moe.edu.sg          |
+| HOD (Mother Tongue)                                | Mr Peter Goh           | goh_aik_seng_peter@moe.edu.sg      |           |
+| Subject Head (Tamil & Malay)                       | Mdm Santha Suppiah     | santha_suppiah@moe.edu.sg      
 | HOD (Mathematics)                                  | Mrs Clarice Tay        | nyeo_ling_ling@moe.edu.sg          |
 | Level Head (Mathematics)                           | Ms Loh Yang Keng       | loh_yang_keng@moe.edu.sg           |
 | HOD (Science)                                      | Ms Cheryl Nonis        | nonis_cheryl_dorothy@moe.edu.sg    |
@@ -73,8 +72,7 @@ description: ""
 |                  |Mr Huang Zhengqiang    | huang_zhengqiang@moe.edu.sg|
 | 1 RT (RESPECT)       | Mrs Joanne Hoe                        | ho_lai_yeng@moe.edu.sg                     |
 |                  | Mdm Nur Faizah                      | nur_faizah_mohd_alim@moe.edu.sg                              |
-|| Ms Lee Sok Hoon                      | lee_sok_hoon@moe.edu.sg                              |
-| 1 RE (RESILIENCE)     | Ms Goh Jia Xuan            | goh_jia_xuan@moe.edu.sg                 |
+|       1 RE (RESILIENCE)          |Ms Goh Jia Xuan  |goh_jia_xuan@moe.edu.sg
 |                  | Mrs Noelle Sim                       | noelle_tan_ying_xiu@moe.edu.sg                    |
 ||Mdm Zoom Zakariah                       | zoom_zakariah@moe.edu.sg                    |
 | 1 RY (RESPONSIBILITY) | Ms Thazin Soe                      | ma_thazin_soe@moe.edu.sg                         |
@@ -88,8 +86,7 @@ description: ""
 
 | P2 Form Teachers |                                      |                                        |
 |------------------|--------------------------------------|----------------------------------------|
-| 2 GE (GRATITUDE)      | Mrs Abdul Aziz                      | mariya_kutty@moe.edu.sg                 |
-|                  | Ms Grace Lee Ting                      | grace_lee_ting@moe.edu.sg                |
+| 2 GE (GRATITUDE)      | Mrs Abdul Aziz                      | mariya_kutty@moe.edu.sg                 |              |                      |        |
 ||Ms Lim Jiaqi                      | lim_jia_qi_a@moe.edu.sg                |
 | 2 RT (RESPECT)        | Mrs Rajkumer (Usharani) |usharani_rajkumar@moe.edu.sg          |
 |                  |Mdm Lau Kai Yen                         | lau_kai_yen@moe.edu.sg                   |
@@ -113,9 +110,8 @@ description: ""
 |                  | Mrs Rosarita Teo          | teo_rosarita@moe.edu.sg      |
 | 3 RT (RESPECT)        | Ms Lee Yuan Fan             | lee_yuan_fan@moe.edu.sg                                 |
 |                  | Mdm Zhang Huili                      | zhang_huili@moe.edu.sg                                         |
-| 3 RE (RESILIENCE)     | Mrs Mano (Kothai d/o Sellathurai)                     | kothai_sellathurai@moe.edu.sg                               |
-|                  | Mrs Grace Tan (Ho Shuyi)                        | ho_shuyi_grace@moe.edu.sg                                |
-|                  | Mrs Josephine Lai                        | tan_tzy_huey_josephine@moe.edu.sg                                |
+| 3 RE (RESILIENCE)     | Mrs Mano (Kothai d/o Sellathurai)                     | kothai_sellathurai@moe.edu.sg    
+|        | Mrs Josephine Lai                        | tan_tzy_huey_josephine@moe.edu.sg                                |
 | 3 RY (RESPONSIBILITY) | Ms Joanna Lim                  | lim_siew_ming_joanna@moe.edu.sg                                     |
 || Ms Ling Yi Chin                  | ling_yi_chin@moe.edu.sg                                    |
 |                  | Mdm Zaleha Bte Torsirmia          | zaleha_tosirmia@moe.edu.sg  |
