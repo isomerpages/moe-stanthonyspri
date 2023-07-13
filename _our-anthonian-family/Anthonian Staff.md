@@ -101,7 +101,7 @@ description: ""
 |                  | Mdm Nur Azura Bte Azmi                      | nur_azura_azmi@moe.edu.sg          |
 | 2 SE (SERVICE)        | Ms Mandy Chan                   |chan_min_yi_mandy@moe.edu.sg               |
 |                  | Ms Mardiana            | mardiana_radja_abdul_rani@moe.edu.sg            |
-
+||Mrs Rifaie (Nur Rezeki)|nur_rezeki_marzoki@moe.edu.sg
 
 | P3 Form Teachers |                                      |                                                                |
 |------------------|--------------------------------------|----------------------------------------------------------------|
@@ -116,8 +116,7 @@ description: ""
 || Ms Ling Yi Chin                  | ling_yi_chin@moe.edu.sg                                    |
 |                  | Mdm Zaleha Bte Torsirmia          | zaleha_tosirmia@moe.edu.sg  |
 | 3 IY (INTEGRITY)      | Mdm Nur Farahiya                       | nur_farahiya_sulaiman@moe.edu.sg                                     | 
-||            Mdm Huang Kun                        |        huang_kun@moe.edu.sg                      |
-||            Ms Joanne Sam                        |        sam_choi_yoke@moe.edu.sg                    |
+||            Mdm Huang Kun                        |        huang_kun@moe.edu.sg                      |              |
 | 3 FH (FAITH)          | Mr Koh Yen Chieh                      | koh_yen_chieh@moe.edu.sg                               |
 |                  | Ms Josephine Tang               | josephine_limtang@moe.edu.sg                                  |
 ||Mrs Emily Chan               | koh_hui_ping_emily@moe.edu.sg                                    |
@@ -126,7 +125,8 @@ description: ""
 | P4 Form Teachers |                                   |                                                 |
 |------------------|-----------------------------------|-------------------------------------------------|
 | 4 GE (GRATITUDE)      | Ms Loo Ling Ling | loo_ling_ling@moe.edu.sg                   |
-|                  |  Ms Gowthami | gowthami_kanakasabai@moe.edu.sg |
+|                  |  Ms Gowthami | gowthami_kanakasabai@moe.edu.sg | 
+| |Ms Joanne Sam                        |        sam_choi_yoke@moe.edu.sg  |
 | 4 RT (RESPECT)        | Mdm Razifah                 | razifah_abdul_rahim@moe.edu.sg                       |
 |                  | Ms Liu Fen                 | liu_fen@moe.edu.sg                    |
 | 4 RE (RESILIENCE)     | Mr Alvin Low                  |low_jun_ting_alvin@moe.edu.sg                        |
