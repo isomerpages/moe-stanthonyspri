@@ -101,7 +101,7 @@ description: ""
 |                  | Mdm Nur Azura Bte Azmi                      | nur_azura_azmi@moe.edu.sg          |
 | 2 SE (SERVICE)        | Ms Mandy Chan                   |chan_min_yi_mandy@moe.edu.sg               |
 |                  | Ms Mardiana            | mardiana_radja_abdul_rani@moe.edu.sg            |
-
+||Mrs Rifaie (Nur Rezeki)|nur_rezeki_marzoki@moe.edu.sg
 
 | P3 Form Teachers |                                      |                                                                |
 |------------------|--------------------------------------|----------------------------------------------------------------|
