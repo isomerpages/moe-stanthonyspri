@@ -95,7 +95,7 @@ They saw that there were different types of plants and observed animals such as 
 
 In the second part of the lesson, Anthonians had to scan the QR code of each plant with their iPads in order to access information and complete the tasks assigned. The lesson was without doubt a memorable and enjoyable one for them.
 
-![](/images/Science/10P3%205%20Trial.jpg)
+![](/images/Science/digital%20trail.jpg)
 
 
 **Enrichment Programmes**
