@@ -110,7 +110,7 @@ description: ""
 |                  | Mrs Rosarita Teo          | teo_rosarita@moe.edu.sg      |
 | 3 RT (RESPECT)        | Ms Lee Yuan Fan             | lee_yuan_fan@moe.edu.sg                                 |
 |                  | Mdm Zhang Huili                      | zhang_huili@moe.edu.sg                                         |
-| 3 RE (RESILIENCE)     | Mrs Mano (Kothai d/o Sellathurai)                     | kothai_sellathurai@moe.edu.sg    
+| 3 RE (RESILIENCE)     | Ms Kothai d/o Sellathurai                    | kothai_sellathurai@moe.edu.sg    
 |        | Mrs Josephine Lai                        | tan_tzy_huey_josephine@moe.edu.sg                                |
 | 3 RY (RESPONSIBILITY) | Ms Joanna Lim                  | lim_siew_ming_joanna@moe.edu.sg                                     |
 || Ms Ling Yi Chin                  | ling_yi_chin@moe.edu.sg                                    |
