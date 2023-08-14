@@ -17,3 +17,6 @@ The theme was introduced at this year's Patron’s Day Assembly Programme as our
 A special Patron’s Day Mass was also celebrated by Fr Derrick Yap who challenged the Anthonians who attended to have faith in God, just like St. Anthony of Padua, even when faced with difficult situations or people.
 
 We look forward to this journey together as we light the way to our 145th Anniversary celebrations in 2024!
+![](/images/patronsday1.jpg)
+
+![](/images/patronsday2.jpg)
