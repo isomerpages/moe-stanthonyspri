@@ -18,3 +18,6 @@ We hope that this celebration of our nation’s independence not only foster a d
   
 Happy National Day Singapore!
 
+![](/images/National%20day/colours%20party.jpeg)
+![](/images/National%20day/national.jpg)
+![](/images/National%20day/ndp2023.jpeg)
