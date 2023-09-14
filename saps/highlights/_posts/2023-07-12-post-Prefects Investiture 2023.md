@@ -15,3 +15,16 @@ A special segment preceded the investiture as the school thanked the Primary 6 p
 We are proud to present our newly elected Head Prefect, Liew Jia Min (5-GE), and Vice Head Prefects, Zayden Tan (5-RT) and Arielle Sim (5-FH). The new Head and Vice Head Prefects also thanked the school community for their belief and support and look forward to working together to make the school a more inclusive and conducive learning environment for all Anthonians.
 
 Thank you Anthonians for taking on the challenge of being student leaders to lead and serve the school!
+![](/images/Prefect%20Investiture%202023/investiture1.JPG)
+
+![](/images/Prefect%20Investiture%202023/investiture2.JPG)
+
+![](/images/Prefect%20Investiture%202023/investiture3.JPG)
+
+![](/images/Prefect%20Investiture%202023/investiture4.JPG)
+
+![](/images/Prefect%20Investiture%202023/investiture5.JPG)
+
+![](/images/Prefect%20Investiture%202023/investiture6.JPG)
+
+![](/images/Prefect%20Investiture%202023/investiture7.JPG)
