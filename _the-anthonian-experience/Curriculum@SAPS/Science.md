@@ -79,11 +79,10 @@ Following that, the P3s and P4s CODE@SAPS programme allowed Anthonians to apply 
 
 To arouse students’ interest in Science, an exciting and enriching experiential garden trail to SAPS Science Learning Hub was designed for our Primary 1 and Primary 2 Anthonians to learn more about plants.
 
-The garden trail was integrated with Social Studies for Primary 1 and Programme Active Learning for Primary 2. Through the trail,&nbsp;Primary 1 pupils get to interact with the nature&nbsp;and to observe garden&nbsp;etiquettes&nbsp;while the Primary 2 identify&nbsp;the different&nbsp;types of leaves.&nbsp;
+The garden trail was integrated with Social Studies for Primary 1 and Programme Active Learning for Primary 2. Through the trail,&nbsp;Primary 1 pupils get to interact with the nature&nbsp;and to observe garden&nbsp;etiquettes&nbsp;while the Primary 2 pupils identify&nbsp;the different&nbsp;types of leaves.&nbsp;
 
 Using their senses, they got to see, smell, feel and touch the different plants in the garden. They had the opportunity to take a closer look at the different parts of plants and garden wildlife such as snails and insects. They had a great time going outdoor exploring the gardens!
-
-![](/images/Science/9P1%202%20trial.png)
+![](/images/p1%202%20digital.jpg)
 
 **P3 and P5 Digital Trail @ SAPS**
 
