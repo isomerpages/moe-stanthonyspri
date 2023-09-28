@@ -22,7 +22,7 @@ Click&nbsp;[here](https://staging.d1z3a7hqoofu2f.amplifyapp.com/files/Purchase%2
      ·       Please approach the school bookstore for the school nametag order form.
 <br><br>
 *   Uniform Supplier<br>
-     ·          **KH Dressmaker**<br>
+     ·          **KH Uniform Pte Ltd**<br>
      ·           Website (online store) :&nbsp;[www.khuniform.com](http://www.khuniform.com/)<br> 
      ·          Contact Number: 6479 6811<br>
 		 .          Email: **[sales@khuniform.com](mailto:sales@khuniform.com)**<br>
@@ -38,4 +38,5 @@ Click&nbsp;[here](https://staging.d1z3a7hqoofu2f.amplifyapp.com/files/Purchase%2
     ·          **Annway Transport Services (Mr Kelvin Wong)**<br>
     ·             Contact Number: 9476 6639 
 		
-*   Bus Fares [Click Here](/files/bus%20info%20and%20nte%20prices%20for%20saps%20website%20(28%20apr%202023).pdf)
+*   Bus Fares for 2023 [Click Here](/files/bus%20info%20and%20nte%20prices%20for%20saps%20website%20(28%20apr%202023).pdf)
+*   Bus Fares for 2024 [Click Here](/files/bus%20info%20and%20nte%20prices%20for%20saps%20website%20(28%20apr%202023).pdf)
