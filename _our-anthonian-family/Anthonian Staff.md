@@ -95,7 +95,7 @@ description: ""
 | 2 RY (RESPONSIBILITY) | Mrs Toh Li Shan                     | chong_li_shan@moe.edu.sg             |
 |                  | Ms Aw Yong Xin Xin          | aw_yong_xin_xin@moe.edu.sg        |
 | 2 IY (INTEGRITY)      | Mdm Zhang Peiqi                       | zhang_peiqi@moe.edu.sg         |
-|                  | Mdm Teresa Heo Mee Yoon                         | heo_mee_yoon_teresa@moe.edu.sg                    |
+|                  | Mdm Teresa Heo                         | heo_mee_yoon_teresa@moe.edu.sg                    |
 | 2 FH (FAITH)          | Mdm Ong Wen Shin              | ong_wen_shin@moe.edu.sg              |
 |                  | Mrs Cherlyn Pang                    | koh_may_luang_cherlyn@moe.edu.sg               |
 |                  | Mdm Nur Azura Bte Azmi                      | nur_azura_azmi@moe.edu.sg          |
