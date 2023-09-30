@@ -5,5 +5,5 @@ description: ""
 ---
 ## Scouts
 
-![Scouts](/images/Scouts.png)
+![](/images/CCA%202023_Sep/cca-21.png)
 ![](/images/Scouts%204.jpeg)
