@@ -5,5 +5,5 @@ description: ""
 ---
 ## Floorball
 
-![Floorball](/images/Floorball.png)
+![](/images/CCA%202023_Sep/cca-16.png)
 ![](/images/Floorball.jpeg)
