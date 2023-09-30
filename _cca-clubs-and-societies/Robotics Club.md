@@ -5,5 +5,5 @@ description: ""
 ---
 ## Robotics Club
 
-![Robotics Club](/images/Robotics%20Club.png)
+![](/images/CCA%202023_Sep/cca-12.png)
 ![robotics](/images/robotics.jpg)
