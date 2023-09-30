@@ -131,7 +131,7 @@ description: ""
 |                  | Ms Liu Fen                 | liu_fen@moe.edu.sg                    |
 | 4 RE (RESILIENCE)     | Mr Alvin Low                  |low_jun_ting_alvin@moe.edu.sg                        |
 |                  | Mdm Song Wenzhe               | song_wenzhe@moe.edu.sg                     |
-| 4 RY (RESPONSIBILITY) | Mdm Wong Shyh Jiun              | wong_shyh_jiun@moe.edu.sg             |
+| 4 RY (RESPONSIBILITY) | Mrs Tan Shyh Jiun              | wong_shyh_jiun@moe.edu.sg             |
 |                  | Mdm Siti Raihana           | siti_raihana_ismail@moe.edu.sg                     |
 | 4 IY (INTEGRITY)      |           Ms Angela Chia          | chia_angela@moe.edu.sg                           |
 |                  | Mrs Chang Li Ping           | lek_li_ping@moe.edu.sg                      |
