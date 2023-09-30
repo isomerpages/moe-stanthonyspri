@@ -149,8 +149,7 @@ description: ""
 | 5 RY (RESPONSIBILITY) | Mrs Ho Poh Tip                    | loh_poh_tip@moe.edu.sg                              |
 |                  | Mrs Khoo Hwei Fang               | song_hwei_fang@moe.edu.sg                            |
 | 5 IY (INTEGRITY)      | Ms Sarina Sahari        | sarina_sahari@moe.edu.sg                               |
-| | Mr Simon Lee        | lee_kee_khiang@moe.edu.sg                         |
-|                  | Mr Joseph Tan Hong Quan               |joseph_tan_hong_quan@moe.edu.sg                              |
+| | Mr Simon Lee        | lee_kee_khiang@moe.edu.sg                         |  
 | 5 FH (FAITH)          | Ms Grace D/O Stephen                  | grace_stephen_louisesamy@moe.edu.sg                        |
 |                  | Ms Lim Peiwen               | lim_peiwen@moe.edu.sg                        |
 |                  | Mrs Michelle Yim               | au_lei_san_michelle@moe.edu.sg                      |
