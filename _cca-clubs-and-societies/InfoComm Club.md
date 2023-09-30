@@ -5,6 +5,5 @@ description: ""
 ---
 ## InfoComm Club
 
-![Infocomm Club](/images/Infocomm%20Club_updated.png)
-
+![](/images/CCA%202023_Sep/cca-11.png)
 ![](/images/Infocomm%20Media%202.jpeg)
