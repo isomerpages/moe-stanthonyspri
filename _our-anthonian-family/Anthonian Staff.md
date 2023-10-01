@@ -88,20 +88,20 @@ description: ""
 |------------------|--------------------------------------|----------------------------------------|
 | 2 GE (GRATITUDE)      | Mrs Abdul Aziz                      | mariya_kutty@moe.edu.sg                 |              |                      |        |
 ||Ms Lim Jiaqi                      | lim_jia_qi_a@moe.edu.sg                |
-| 2 RT (RESPECT)        | Mrs Rajkumer (Usharani) |usharani_rajkumar@moe.edu.sg          |
+| 2 RT (RESPECT)        | Mrs Rajkumar |usharani_rajkumar@moe.edu.sg          |
 |                  |Mdm Lau Kai Yen                         | lau_kai_yen@moe.edu.sg                   |
 | 2 RE (RESILIENCE)     | Mdm Asmidarwaty Abu Bakar   | asmidarwaty_abu_bakar@moe.edu.sg|
 |                  | Mrs Betsy Wong                    | wong_lai_fun_betsy@moe.edu.sg                 |
 | 2 RY (RESPONSIBILITY) | Mrs Toh Li Shan                     | chong_li_shan@moe.edu.sg             |
 |                  | Ms Aw Yong Xin Xin          | aw_yong_xin_xin@moe.edu.sg        |
 | 2 IY (INTEGRITY)      | Mdm Zhang Peiqi                       | zhang_peiqi@moe.edu.sg         |
-|                  | Mdm Teresa Heo Mee Yoon                         | heo_mee_yoon_teresa@moe.edu.sg                    |
+|                  | Mdm Teresa Heo                         | heo_mee_yoon_teresa@moe.edu.sg                    |
 | 2 FH (FAITH)          | Mdm Ong Wen Shin              | ong_wen_shin@moe.edu.sg              |
 |                  | Mrs Cherlyn Pang                    | koh_may_luang_cherlyn@moe.edu.sg               |
 |                  | Mdm Nur Azura Bte Azmi                      | nur_azura_azmi@moe.edu.sg          |
 | 2 SE (SERVICE)        | Ms Mandy Chan                   |chan_min_yi_mandy@moe.edu.sg               |
-|                  | Ms Mardiana            | mardiana_radja_abdul_rani@moe.edu.sg            |
-||Mrs Rifaie (Nur Rezeki)|nur_rezeki_marzoki@moe.edu.sg
+|                  | Mdm Mardiana            | mardiana_radja_abdul_rani@moe.edu.sg            |
+||Mrs Rifa'ie|nur_rezeki_marzoki@moe.edu.sg
 
 | P3 Form Teachers |                                      |                                                                |
 |------------------|--------------------------------------|----------------------------------------------------------------|
@@ -126,12 +126,12 @@ description: ""
 |------------------|-----------------------------------|-------------------------------------------------|
 | 4 GE (GRATITUDE)      | Ms Loo Ling Ling | loo_ling_ling@moe.edu.sg                   |
 |                  |  Ms Gowthami | gowthami_kanakasabai@moe.edu.sg | 
-| |Ms Joanne Sam                        |        sam_choi_yoke@moe.edu.sg  |
+| |Mdm Joanne Sam                        |        sam_choi_yoke@moe.edu.sg  |
 | 4 RT (RESPECT)        | Mdm Razifah                 | razifah_abdul_rahim@moe.edu.sg                       |
 |                  | Ms Liu Fen                 | liu_fen@moe.edu.sg                    |
 | 4 RE (RESILIENCE)     | Mr Alvin Low                  |low_jun_ting_alvin@moe.edu.sg                        |
 |                  | Mdm Song Wenzhe               | song_wenzhe@moe.edu.sg                     |
-| 4 RY (RESPONSIBILITY) | Mdm Wong Shyh Jiun              | wong_shyh_jiun@moe.edu.sg             |
+| 4 RY (RESPONSIBILITY) | Mrs Tan Shyh Jiun              | wong_shyh_jiun@moe.edu.sg             |
 |                  | Mdm Siti Raihana           | siti_raihana_ismail@moe.edu.sg                     |
 | 4 IY (INTEGRITY)      |           Ms Angela Chia          | chia_angela@moe.edu.sg                           |
 |                  | Mrs Chang Li Ping           | lek_li_ping@moe.edu.sg                      |
@@ -149,8 +149,7 @@ description: ""
 | 5 RY (RESPONSIBILITY) | Mrs Ho Poh Tip                    | loh_poh_tip@moe.edu.sg                              |
 |                  | Mrs Khoo Hwei Fang               | song_hwei_fang@moe.edu.sg                            |
 | 5 IY (INTEGRITY)      | Ms Sarina Sahari        | sarina_sahari@moe.edu.sg                               |
-| | Mr Simon Lee        | lee_kee_khiang@moe.edu.sg                         |
-|                  | Mr Joseph Tan Hong Quan               |joseph_tan_hong_quan@moe.edu.sg                              |
+| | Mr Simon Lee        | lee_kee_khiang@moe.edu.sg                         |  
 | 5 FH (FAITH)          | Ms Grace D/O Stephen                  | grace_stephen_louisesamy@moe.edu.sg                        |
 |                  | Ms Lim Peiwen               | lim_peiwen@moe.edu.sg                        |
 |                  | Mrs Michelle Yim               | au_lei_san_michelle@moe.edu.sg                      |
@@ -166,8 +165,8 @@ description: ""
 | 6 RY (RESPONSIBILITY) |       Ms Vanitha           | vanitha_maniam@moe.edu.sg    | 
 || Ms Tan Shu Tian         | tan_shu_tian@moe.edu.sg       |
 |                  | Mrs Lina Liow       | sim_lu_ping_lina@moe.edu.sg       |
-| 6 IY (INTEGRITY)      | Mrs Ang (Yeo Hwee Leng)    | yeo_hwee_leng@moe.edu.sg    |
+| 6 IY (INTEGRITY)      | Mrs Ang Hwee Leng    | yeo_hwee_leng@moe.edu.sg    |
 |                  | Ms Loh Yang Keng      | loh_yang_keng@moe.edu.sg         |
 | 6 FH (FAITH)          | Mrs Karen Yip     | teh_may_ching_karen@moe.edu.sg     |
-|                  | Mdm Cheryl Nonis         | nonis_cheryl_dorothy@moe.edu.sg          |
+|                  | Ms Cheryl Nonis         | nonis_cheryl_dorothy@moe.edu.sg          |
 |                  | Mr Muhammud Nazirul           | md_nazirul_mustapah@moe.edu.sg     |

@@ -5,5 +5,5 @@ description: ""
 ---
 ## Badminton
 
-![Badminton](/images/Badminton1.png)
+![](/images/CCA%202023_Sep/cca-15.png)
 ![](/images/Badminton.png)

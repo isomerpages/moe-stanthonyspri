@@ -6,5 +6,5 @@ description: ""
 ## Choir
 
 
-![Choir](/images/Choir.png)
+![](/images/CCA%202023_Sep/cca-08.png)
 ![Choir](/images/Choir.jpg)

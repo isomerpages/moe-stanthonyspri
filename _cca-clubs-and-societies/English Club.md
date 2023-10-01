@@ -4,6 +4,5 @@ permalink: /the-anthonian-experience/Clubs-and-Societies/English-Club/
 description: ""
 ---
 ## English Club
-![English Club](/images/English%20Club.png)
-
+![](/images/CCA%202023_Sep/cca-10.png)
 ![](/images/English%20Club.jpeg)

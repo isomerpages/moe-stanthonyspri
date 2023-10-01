@@ -5,5 +5,5 @@ description: ""
 ---
 ## Sports Club
 
-![Sports Club](/images/Sports%20Club.png)
+![](/images/CCA%202023_Sep/cca-18.png)
 ![](/images/Sport%20club.png)

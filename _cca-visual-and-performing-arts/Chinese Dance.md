@@ -5,5 +5,5 @@ description: ""
 ---
 ## Chinese Dance
 
-![chinese dance](/images/Chinese%20Dance1.png)
+![](/images/CCA%202023_Sep/cca-07.png)
 ![Chinese dance](/images/chinese%20dance.jpg)

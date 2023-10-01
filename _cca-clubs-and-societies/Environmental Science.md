@@ -5,6 +5,5 @@ description: ""
 ---
 ## Environmental Science
 
-![Environmental science club](/images/Environmental%20Science%20Club_updated.png)
-
+![](/images/CCA%202023_Sep/cca-13.png)
 ![](/images/Environmental%20Science%202.jpeg)
