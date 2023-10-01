@@ -168,5 +168,5 @@ description: ""
 | 6 IY (INTEGRITY)      | Mrs Ang Hwee Leng    | yeo_hwee_leng@moe.edu.sg    |
 |                  | Ms Loh Yang Keng      | loh_yang_keng@moe.edu.sg         |
 | 6 FH (FAITH)          | Mrs Karen Yip     | teh_may_ching_karen@moe.edu.sg     |
-|                  | Mdm Cheryl Nonis         | nonis_cheryl_dorothy@moe.edu.sg          |
+|                  | Ms Cheryl Nonis         | nonis_cheryl_dorothy@moe.edu.sg          |
 |                  | Mr Muhammud Nazirul           | md_nazirul_mustapah@moe.edu.sg     |
