@@ -5,4 +5,4 @@ description: ""
 ---
 ## English Club
 ![](/images/CCA%202023_Sep/cca-10.png)
-![](/images/English%20Club.jpeg)
+![](/images/english%20club1.jpg)
