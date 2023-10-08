@@ -6,4 +6,4 @@ description: ""
 ## Tchoukball
 
 ![](/images/CCA%202023_Sep/tchoukball.png)
-![](/images/Tchoukball.png)
+![](/images/tchoukball01.png)
