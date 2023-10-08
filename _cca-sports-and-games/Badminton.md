@@ -6,4 +6,4 @@ description: ""
 ## Badminton
 
 ![](/images/CCA%202023_Sep/cca-15.png)
-![](/images/Badminton.png)
+![](/images/badminton01.jpeg)
