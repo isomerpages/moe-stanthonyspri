@@ -6,4 +6,4 @@ description: ""
 ## Scouts
 
 ![](/images/CCA%202023_Sep/cca-21.png)
-![](/images/Scouts%204.jpeg)
+![](/images/scouts1.jpeg)
