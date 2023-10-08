@@ -6,4 +6,4 @@ description: ""
 ## Visual Arts
 
 ![](/images/CCA%202023_Sep/cca-14.png)
-![](/images/Visual%20Arts%204.jpeg)
+![](/images/visual%20arts.png)

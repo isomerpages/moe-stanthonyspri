@@ -6,4 +6,4 @@ description: ""
 ## Contemporary Dance
 
 ![](/images/CCA%202023_Sep/cca-09.png)
-![](/images/Contemporary%20Dance%202.jpeg)
+![](/images/contemporary%20dance1.jpeg)
