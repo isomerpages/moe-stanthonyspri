@@ -6,4 +6,4 @@ description: ""
 ## Floorball
 
 ![](/images/CCA%202023_Sep/cca-16.png)
-![](/images/Floorball.jpeg)
+![](/images/floorball1.jpeg)
