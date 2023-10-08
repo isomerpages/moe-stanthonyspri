@@ -6,4 +6,6 @@ description: ""
 ## Brass Band
 
 ![](/images/CCA%202023_Sep/cca-06.png)
-![brass band](/images/brass%20band.jpg)
+
+
+![](/images/band01.jpeg)
