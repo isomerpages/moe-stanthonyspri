@@ -6,4 +6,4 @@ description: ""
 ## Sports Club
 
 ![](/images/CCA%202023_Sep/cca-18.png)
-![](/images/Sport%20club.png)
+![](/images/sports%20club1.png)
