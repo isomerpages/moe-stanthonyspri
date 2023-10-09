@@ -5,9 +5,8 @@ description: ""
 ---
 ## School Supplies and Bus Services
 
-Both textbooks and uniforms can be purchased online.<br>
-Please note that the last day uniforms will be sold in school will be&nbsp;Thursday, 15 December 2022. <br>
-After this date, parents can either make their uniform purchases online or purchase from the retail outlet directly.<br><br>
+Both textbooks and uniforms can be purchased online
+or from the retail outlet directly.<br><br>
 If parents opt for home delivery, there will be delivery charges.<br>
 Please check with respective vendors below for their home delivery charges.<br><br>
 Click&nbsp;[here](https://staging.d1z3a7hqoofu2f.amplifyapp.com/files/Purchase%20Guide.pdf) for textbooks and uniform purchase guide.
