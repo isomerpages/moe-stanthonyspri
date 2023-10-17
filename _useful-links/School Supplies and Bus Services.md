@@ -38,4 +38,4 @@ Click&nbsp;[here](https://staging.d1z3a7hqoofu2f.amplifyapp.com/files/Purchase%2
     ·             Contact Number: 9476 6639 
 		
 *   Bus Fares for 2023 [Click Here](/files/bus%20info%20and%20nte%20prices%20for%20saps%20website%20(28%20apr%202023).pdf)
-*   Bus Fares for 2024 [Click Here](/files/bus%20info%20and%20nte%20prices%20for%20saps%20website%20(28%20apr%202023).pdf)
+*   Bus Fares for 2024 [Click Here](/files/2024%20bus%20info%20and%20nte%20prices%20for%20saps%20website%20(28%20sep%202023).pdf) 
