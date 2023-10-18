@@ -9,11 +9,11 @@ _Render with Joy to your mater her due..."_
 
   
 
-The school is initiating the formation our very own Anthonian Alumni. Anthonians of all ages from St Anthony's Boys' School and St Anthony's Primary School are invited and welcomed to be part of the Alumni to continue to be connected to that special time in our lives spent in St Anthony's.  
+The school is initiating the formation our very own Anthonian Alumni. Anthonians of all ages from St Anthony's Boys' School and St Anthony's Primary School are invited and welcomed to be part of the Alumni to continue to be connected to that special time in our lives spent in St Anthony's.&nbsp;&nbsp;
 
   
 
-Being part of the official alumni will allow you to reunite, catch up and network with old friends and teachers, as well as to take part in various alumni activities. It will also allow you to register your child under Phase 2A1 instead of 2A2 for former students of the school!
+Being part of the official alumni will allow you to reunite, catch up and network with old friends and teachers, as well as to take part in various alumni activities. It will also allow you to register your child under Phase 2A together with former students of the school.
 
   
 
@@ -57,13 +57,13 @@ You may also wish to email the form and come to the school to pay in cash.
 
   
 
- The forms can be downloaded from the link below.
+&nbsp;The forms can be downloaded from the link below.
  
  Anthonian Alumni Registration<br>
  [AA Ordinary Membership 2019.pdf](/files/AA%20Ordinary%20%20Membership%202019.pdf)<br>
  Anthonian Alumni Registration<br>
  [AA Junior Membership2019.pdf](/files/AA%20Junior%20Membership2019.pdf)
  
- Please contact [AnthonianAlumni2016@gmail.com](mailto:AnthonianAlumni2016@gmail.com) for more details.
+ Please contact&nbsp;[AnthonianAlumni2016@gmail.com](mailto:AnthonianAlumni2016@gmail.com)&nbsp;for more details.
 
-Join us on our facebook page: [https://www.facebook.com/stanthony.primary](https://www.facebook.com/stanthony.primary)
+Join us on our facebook page:&nbsp;[https://www.facebook.com/stanthony.primary](https://www.facebook.com/stanthony.primary)
