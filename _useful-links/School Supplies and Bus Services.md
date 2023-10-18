@@ -9,7 +9,7 @@ Both textbooks and uniforms can be purchased online
 or from the retail outlet directly.<br><br>
 If parents opt for home delivery, there will be delivery charges.<br>
 Please check with respective vendors below for their home delivery charges.<br><br>
-Click [Here](/files/textbooks%20and%20uniform%20purchase%20guide%20in%20saps%20website.pdf) for textbooks and uniform purchase guide.
+Click [here](/files/textbooks%20and%20uniform%20purchase%20guide%20in%20saps%20website%202023.pdf) for textbooks and uniform purchase guide.
 <br><br>
 *   Book Supplier<br>
    ·          **Pacific Bookstores Pte Ltd**<br>
