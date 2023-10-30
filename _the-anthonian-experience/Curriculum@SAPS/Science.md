@@ -107,17 +107,24 @@ In the second part of the lesson, Anthonians had to scan the QR code of each pla
 
 The following programmes are organised to hone in students a keener interest in passion for learning Science:&nbsp;
 
-*   Science Buskers 2022
+*   Science Buskers 2023
 *   E2K Science Programme
 *   Nobel Summer Workshop and Mcurie Workshop organised by NUS High School
 
-**Science Buskers 2022**
+**Science Buskers 2023**
 
- 
-Interested P3 and P4 Anthonians participated in the Science Buskers competition organised by the Singapore Science Centre. The competition aims to promote learning of Science in an engaging way and to generate greater interest in creative science communications and expressions. One of the teams advanced into the final round and did a Science Busking&nbsp;on, 'The Electric Lemon' at the Science Centre to the judges and public on 29 October. They received an award for the Best Science Communication. Congratulations to the team!&nbsp; &nbsp; All Anthonians who participated had a fun and enriching learning experience!
+Our P3s, P4s and P5s Anthonians participated in the 2023 Science Buskers Competition organised by the Singapore Science Centre. 
 
-<img src="/images/Science/12Sci%20Buskers%202022b.jpg" style="width:auto">
-<img src="/images/Science/11Sci%20Buskers%202022a.jpg" style="width:auto">
+This competition aims to promote the learning of Science in an engaging way and to generate greater interest in creative science communications and expressions. 
+
+One of the P4 teams advanced into the final round. They did a Science Busking on, 'Magic soap and Floating lemon' at the Sengkang Grand Mall to the judges and public on 28 and 29 October. 
+
+Anthonians who participated had a fun and enriching learning experience!
+
+Well done Anthonians!
+
+
+![](/images/buskers.png)
 
 **E2K Science Programme**
   
