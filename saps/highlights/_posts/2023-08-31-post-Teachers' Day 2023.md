@@ -5,7 +5,8 @@ date: 2023-08-31
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
-![](/images/teachers%20day%201.jpg)
-![](/images/teachers%20day%202.jpg)
-![](/images/teachers%20day%203.jpg)
+![](/images/2023/teachers%20day%201.jpg)
+![](/images/2023/teachers%20day%202.jpg)
+![](/images/2023/teachers%20day%203.jpg)
