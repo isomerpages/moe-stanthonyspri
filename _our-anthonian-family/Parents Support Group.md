@@ -2,6 +2,7 @@
 title: Parents Support Group
 permalink: /our-anthonian-family/parents-support-group/
 description: ""
+variant: markdown
 ---
 ## Parents Support Group
 
@@ -42,4 +43,4 @@ If you are keen to be part of the PSG, please indicate your interest [here](htt
 
 If you have any enquiries, please write to our SSD, Mdm Lau Kai Yen ([Lau\_kai\_yen@moe.edu.sg](mailto:Lau_kai_yen@moe.edu.sg)), or the PSG EXCO ([sapspsg@gmail.com](mailto:sapspsg@gmail.com)).
 
-![](/images/PSG%202023.jpeg)
+![](/images/2023/PSG%202023.jpeg)
