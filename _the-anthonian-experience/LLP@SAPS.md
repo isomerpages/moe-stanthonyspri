@@ -2,6 +2,7 @@
 title: LLP@SAPS
 permalink: /the-anthonian-experience/LLP-SAPS/
 description: ""
+variant: markdown
 ---
 ## LLP@SAPS
 
@@ -24,7 +25,7 @@ The Tier 1 programme is incorporated in the school’s Visual Arts (VA) curricul
 **_Digital Art Programme_**
 
 The Digital Art programme leverages the use of technology to reinforce core art concepts and skills in school, and teaches Anthonians how to use digital information responsibly. Over their six years in SAPS, Anthonians explore a range of digital art tools to create static and animated art pieces.
-![](/images/Digital%20Art%20Prog.jpg)
+![](/images/2023/Digital%20Art%20Prog.jpg)
 
 **_Ceramics Programme_**
 
