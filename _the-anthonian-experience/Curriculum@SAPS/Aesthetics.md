@@ -3,6 +3,7 @@ title: Aesthetics
 permalink: /the-anthonian-experience/CurriculumatSAPS/Aesthetics/
 description: ""
 third_nav_title: Curriculum@SAPS
+variant: markdown
 ---
 ## Aesthetics 
 
@@ -18,18 +19,18 @@ The Art and Music curricula emphasise active responses in music and art-making a
 
 #### **<center>Visual Arts</center>**
 
-Our **Art Curriculum** allows pupils to:
+Our&nbsp;**Art Curriculum**&nbsp;allows pupils to:
 * Explore the expressive possibilities of a variety of art forms including 2D art, 3D art, ceramics and digital art.
-* Appreciate art and respond to a wide range of art forms including various artists and art creation styles from different periods, cultures and countries. 
+* Appreciate art and respond to a wide range of art forms including various artists and art creation styles from different periods, cultures and countries.&nbsp;
 * Demonstrate their learning of the art creation styles inspired by the artists’ works and describe differences between art pieces, showing a sense of the elements of art (shape, form, colour, lines and texture) and style.
 * Share their personal/group creative art-making process and creations with others.
 * Create artist-inspired works using other art mediums.
 * Create digital art works using ICT tools (SAPS LLP - Digital Art Programme).
 * Create art works using clay as a medium (SAPS LLP - Ceramics Programme)
 
-![](/images/image%20(2).jpg)
+![](/images/2023/image%20(2).jpg)
 
-![](/images/image%20(3).jpg)
+![](/images/2023/image%20(3).jpg)
 
 |   Level   |                                                                         Learning Areas                                                                         |     |
 |:---------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|--------|
@@ -41,20 +42,20 @@ Our **Art Curriculum** allows pupils to:
 | Primary 6 | Get Inspired by our local artists <br>(Artists: Han Sai Por, Liu Kang and Jaafar Latiff)                                                                           |     |
 
 **Art Enrichment Programmes**
-![](/images/visualart.png)
-![](/images/image%20(3).png)
+![](/images/2023/visualart.png)
+![](/images/2023/image%20(3).png)
 
 _Art Elective Programme_
 
-Our Art Elective Programme is for P2 to P6 Anthonians who have a greater interest in or aptitude for visual arts.  These students enjoy exposure and support through customised activities and specialised training sessions. The programme strengthens pupils’ artistic skills by allowing them to explore art elements and harness their creativity to create unique works of art.
+Our Art Elective Programme is for P2 to P6 Anthonians who have a greater interest in or aptitude for visual arts.&nbsp; These students enjoy exposure and support through customised activities and specialised training sessions.&nbsp;The programme strengthens pupils’ artistic skills by allowing them to explore art elements and harness their creativity to create unique works of art.
 
-![](/images/image%20(5).png)
+![](/images/2023/image%20(5).png)
 
 _ArtsReach Programme_
 
 The ArtsReach programme enables Anthonians to use the artistic skills they have learnt to be a blessing to the community, in alignment with our Lasallian values of Faith, Service and Community. ArtsReach includes school-based activities as well as collaborations with external partners. Our Anthonians enjoy these meaningful opportunities to interact with and serve others.
 
-![](/images/image%20(1).png)
+![](/images/2023/image%20(1).png)
 
 **Our Partners**
 
@@ -62,7 +63,7 @@ We work closely with the following partners so that our pupils learn to apprecia
 
 _Hong Kah Day Care Centre and St Luke’s Elderly Care Centre_
 
-Over the years, Anthonians enjoyed visiting these centres to interact with residents and guide them through art activities. More recently, despite the constraints posed by COVID-19, our pupils have continued to bring cheer to the residents by making art works which were then brought to the centres by our teachers.  
+Over the years, Anthonians enjoyed visiting these centres to interact with residents and guide them through art activities. More recently, despite the constraints posed by COVID-19, our pupils have continued to bring cheer to the residents by making art works which were then brought to the centres by our teachers. &nbsp;
 
 _Fei Yue Community Services_
 
@@ -70,19 +71,19 @@ SAPS supports the Intergenerational Learning Programme, which encourages seniors
 
 _Singapore Art Museum_
 
-SAPS collaborates with the Singapore Art Museum (SAM) to develop in our pupils skills and dispositions such as museum etiquette, art appreciation and 21st century competencies. The highlight of our partnership is _Think! Contemporary_, a museum-based programme organised for our P4 Anthonians in collaboration with SAM and four other primary schools. _Think! Contemporary_ incorporates artwork from SAM’s collection as primary resources for art lessons, and the programme includes school-based art trails and assembly programmes by SAM. The programme culminates in an online exhibition by SAM, where selected student works are featured.
+SAPS collaborates with the Singapore Art Museum (SAM) to develop in our pupils skills and dispositions such as museum etiquette, art appreciation and 21st&nbsp;century competencies. The highlight of our partnership is&nbsp;_Think! Contemporary_, a museum-based programme organised for our P4 Anthonians in collaboration with SAM and four other primary schools.&nbsp;_Think! Contemporary_&nbsp;incorporates artwork from SAM’s collection as primary resources for art lessons, and the programme includes school-based art trails and assembly programmes by SAM. The programme culminates in an online exhibition by SAM, where selected student works are featured.
 
 _Hong Kah North Community Centre and PAssionArts Singapore_
 
 Our Performing Arts groups (Band, Choir, Contemporary Dance, Chinese Dance) and Visual Arts groups participate in the annual PAssionArts Festival at Hong Kah North CC. This event is an opportunity for our pupils to showcase their art works and performances to the public.
 
-![](/images/image.jpg)
+![](/images/2023/image.jpg)
 
 #### **<center>Music</center>**
 
-The school’s **Music Curriculum** consists of three aspects - **_Learn it!_**, **_Play it!_** and **_Love it!_**.
+The school’s&nbsp;**Music Curriculum**&nbsp;consists of three aspects -&nbsp;**_Learn it!_**,&nbsp;**_Play it!_**&nbsp;and&nbsp;**_Love it!_**.
 
-![](/images/Music%20Art%2021.jpeg)
+![](/images/2023/Music%20Art%2021.jpeg)
 
 **Learn it!**
 
@@ -96,9 +97,9 @@ With the fundamentals right, Anthonians learn to play music through creative mus
 
 With a sound foundation and opportunities to have fun in the process, Anthonians will grow to love and appreciate music with increasing sensitivity.
 
-![](/images/musicart2.jpg)
+![](/images/2023/musicart2.jpg)
 
-**The Music Curriculum**
+**The&nbsp;Music Curriculum**
 
 |   Level   |                                                 Learning Areas                                                 |   |   |   |
 |:---------:|:--------------------------------------------------------------------------------------------------------------:|---|---|---|
@@ -109,7 +110,7 @@ With a sound foundation and opportunities to have fun in the process, Anthonians
 | Primary 5 | ·       Experiential Learning<br> ·       Introduction to the Garageband application for music remix (using iPads) |   |   |   |
 | Primary 6 | ·       Experiential Learning<br> ·       Introduction to drumming circles                                         |   |   |   |
 
-![](/images/Music%20Art%2026.jpeg)
+![](/images/2023/Music%20Art%2026.jpeg)
 
 **Music Programmes**
 
