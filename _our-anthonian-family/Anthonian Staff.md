@@ -19,7 +19,7 @@ variant: markdown
 
 | School Management                                  |                        |                                    |
 |----------------------------------------------------|------------------------|------------------------------------|
-| Level Head (English Language)                      | Mrs Angeline Wong      | tan_su_fern@moe.edu.sg             |
+|Level Head (English Language)                      | Mrs Angeline Wong      | tan_su_fern@moe.edu.sg             |
 | HOD (Mother Tongue)                                | Mr Peter Goh           | goh_aik_seng_peter@moe.edu.sg      |           |
 | Subject Head (Tamil & Malay)                       | Mdm Santha Suppiah     | santha_suppiah@moe.edu.sg      
 | HOD (Mathematics)                                  | Mrs Clarice Tay        | nyeo_ling_ling@moe.edu.sg          |
@@ -69,17 +69,16 @@ variant: markdown
 
 | P1 Form Teachers |                                      |                                                  |
 |------------------|--------------------------------------|--------------------------------------------------|
-| 1 GE (GRATITUDE)      | Mrs Daphne Chia    | sim_hwee@moe.edu.sg                      |
-|                  |Mr Huang Zhengqiang    | huang_zhengqiang@moe.edu.sg|
-| 1 RT (RESPECT)       | Mrs Joanne Hoe                        | ho_lai_yeng@moe.edu.sg                     |
-|                  | Mdm Nur Faizah                      | nur_faizah_mohd_alim@moe.edu.sg                              |
-|       1 RE (RESILIENCE)          |Ms Goh Jia Xuan  |goh_jia_xuan@moe.edu.sg
-|                  | Mrs Noelle Sim                       | noelle_tan_ying_xiu@moe.edu.sg                    |
-||Mdm Zoom Zakariah                       | zoom_zakariah@moe.edu.sg                    |
-| 1 RY (RESPONSIBILITY) | Ms Thazin Soe                      | ma_thazin_soe@moe.edu.sg                         |
-|                  | Mr Peter Goh               | goh_aik_seng_peter@moe.edu.sg           |
-| 1 IY (INTEGRITY)      | Mdm Kader Meerah                      |kader_meerah_mohd_maideen@moe.edu.sg                          |
-|                  | Mdm Wang Fangfang                      | wang_fangfang_a@moe.edu.sg                  |
+| 1 GE (GRATITUDE)      | Mrs Betsy Wong    | wong_lai_fun_betsy@moe.edu.sg                      |
+|                  |Mdm Wang Fang Fang    | wang_fangfang_a@moe.edu.sg|
+| 1 RT (RESPECT)       | Mrs Toh Li Shan                        | chong_li_shan@moe.edu.sg                     |
+|                  | Mdm Zaleha Bte Tosirmia                     | zaleha_tosirmia@moe.edu.sg                              |
+|       1 RE (RESILIENCE)          |Ms Aw Yong Xin Xin  |aw_yong_xin_xin@moe.edu.sg
+|                  | Mrs Rajkumar                       | usharani_rajkumar@moe.edu.sg                    |  |
+| 1 RY (RESPONSIBILITY) | Mdm Razifah                      | razifah_abdul_rahim@moe.edu.sg                         |
+|                  | Mdm Song Wenzhe               | song_wenzhe@moe.edu.sg           |
+| 1 IY (INTEGRITY)      | Mdm Maryam                     |maryam_ismail@moe.edu.sg                          |
+|                  | Ms Zhang Peiqi                      | zhang_peiqi@moe.edu.sg                  |
 | 1 FH (FAITH)          | Ms Esther Lam Siew Ying                     | lam_siew_ying@moe.edu.sg                          |
 |                  | Mdm Noorfizah                     | noorfizah_hasim@moe.edu.sg                 |
 | 1 SE (SERVICE)        |Mrs Koh Pek Yeong | toh_pek_yeong@moe.edu.sg             |
