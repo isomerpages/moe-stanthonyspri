@@ -2,6 +2,7 @@
 title: Anthonian Staff
 permalink: /our-anthonian-family/Anthonian-Staff/
 description: ""
+variant: markdown
 ---
 ## Anthonian Staff
 
@@ -11,7 +12,7 @@ description: ""
 |----------------------|-------------------------------|
 | Mrs Esther Choo      | GOH_Lung_Eng@schools.gov.sg   |
 | **Vice- Principal**      |                               |
-| Mrs Christina Manuel | Christina_SEOW@schools.gov.sg |
+| Mr Tee Leng Teck| Tee_Leng_Teck@schools.gov.sg |
 | Ms Anna Mathew       | Mathew_ANNA@schools.gov.sg    |
 
 #### Key Personnel and Teacher Leaders
