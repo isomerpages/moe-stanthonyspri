@@ -12,8 +12,8 @@ variant: markdown
 |----------------------|-------------------------------|
 | Mrs Esther Choo      | GOH_Lung_Eng@schools.gov.sg   |
 | **Vice- Principal**      |                               |
-| Mr Tee Leng Teck| Tee_Leng_Teck@schools.gov.sg |
-| Ms Anna Mathew       | Mathew_ANNA@schools.gov.sg    |
+| Ms Anna Mathew   | Mathew_ANNA@schools.gov.sg     |
+| Mr Tee Leng Teck       | Tee_Leng_Teck@schools.gov.sg    |
 
 #### Key Personnel and Teacher Leaders
 
