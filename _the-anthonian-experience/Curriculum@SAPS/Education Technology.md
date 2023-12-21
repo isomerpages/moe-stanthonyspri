@@ -3,13 +3,14 @@ title: Education Technology
 permalink: /the-anthonian-experience/CurriculumatSAPS/EducationTechnology/
 description: ""
 third_nav_title: Curriculum@SAPS
+variant: markdown
 ---
 ## Education Technology 
 
 |  |  | 
 | -------- | -------- | 
 Vision     | Technologically Empowered to Live and Learn | 
-Mission   | Cultivate a Safe Learning Environment where Anthonians are Empowered to Embrace ICT in order to Enhance Learning, Encourage Collaboration and Support Self-Directed Learning.
+Mission   | Cultivate a&nbsp;Safe&nbsp;Learning Environment where Anthonians are Empowered to Embrace ICT&nbsp;in order to Enhance&nbsp;Learning, Encourage&nbsp;Collaboration&nbsp;and Support&nbsp;Self-Directed Learning.
 |  |  | 
 
 
@@ -21,7 +22,7 @@ As the use of ICT becomes more essential in learning, life and work, SAPS aims t
 
 #### Cyber Wellness
 
-At SAPS, we believe that anyone can be the first line of defence against threats in the digital domain. In alignment with MOE Cyber Wellness principles of Respect for Self & Others, Safe & Responsible Use, and Positive Peer Influence, the school’s cyber wellness programme adopts an inquiry-based approach towards helping Anthonians become responsible and discerning digital users who advocate healthy cyberspace activities. 
+At SAPS, we believe that anyone can be the first line of defence against threats in the digital domain. In alignment with MOE Cyber Wellness principles of Respect for Self &amp; Others, Safe &amp; Responsible Use, and Positive Peer Influence, the school’s cyber wellness programme adopts an inquiry-based approach towards helping Anthonians become responsible and discerning digital users who advocate healthy cyberspace activities.&nbsp;
 
   
 The SAPS cyber wellness programme includes the following:
@@ -36,24 +37,24 @@ The SAPS cyber wellness programme includes the following:
 
 Through sharing sessions by the school’s CyTech champions and cyber wellness assembly programmes, the cyber wellness team continues to surface real-life case studies and promptly share learning points with the rest of the school community. We hope to continue empowering Anthonians to uplift and support one another in our efforts to promote positive and safe cyberspace experiences for all.
 
-![](/images/image6.jpg)
+![](/images/2023/image6.jpg)
 
 _Cyber wellness messages are included in the morning assembly slides to serve as daily reminders to our Anthonians as they engage in activities online._
 
-<img src="/images/image5.jpeg" style="width:50%">
+<img src="/images/2023/image5.jpeg" style="width:50%">
 <center><i>Class presentation on Cyberbullying by P5 CyTech Champions</i></center>
 <br>
-<img src="/images/ict.jpeg" style="width:80%">
+<img src="/images/2023/ict.jpeg" style="width:80%">
 <center><i>Class Presentation on cyberbullying by P6 CyTech Champions</i></center>
 
 
-<img src="/images/image7.jpeg" style="width:80%">
+<img src="/images/2023/image7.jpeg" style="width:80%">
 <center><i>A writing lesson in which Anthonians respectfully provided constructive feedback on one another’s work.</i></center>
 <br>
 	
-![](/images/ictawareness.jpg)
+![](/images/2023/ictawareness.jpg)
 <br>
-<img src="/images/image3.jpeg" style="width:70%">
+<img src="/images/2023/image3.jpeg" style="width:70%">
 <br><br>
 	
 #### Working Hand in Hand with Parents

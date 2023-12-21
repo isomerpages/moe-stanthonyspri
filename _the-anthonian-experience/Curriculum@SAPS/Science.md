@@ -3,6 +3,7 @@ title: Science
 permalink: /the-anthonian-experience/CurriculumatSAPS/Science/
 description: ""
 third_nav_title: Curriculum@SAPS
+variant: markdown
 ---
 ## Science
 
@@ -72,11 +73,10 @@ Following that, the P3s and P4s CODE@SAPS programme allowed Anthonians to apply 
 ![](/images/Science/biodiversity%20week%20@%20saps.jpg)
 
 **Clean Plate Campaign**
-         <!-- /\* Font Definitions \*/ @font-face {font-family:Latha; panose-1:2 0 4 0 0 0 0 0 0 0; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:1048579 0 0 0 1 0;} @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:DengXian; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:等线; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} @font-face {font-family:"\\@DengXian"; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0in; margin-right:0in; margin-bottom:8.0pt; margin-left:0in; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi; mso-font-kerning:1.0pt; mso-ligatures:standardcontextual; mso-bidi-language:AR-SA;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi; mso-bidi-language:AR-SA;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
 
-From 14 to 25 of August 2023, SAPS took part in the Clean Plate Campaign organized by Food from the Heart Singapore. The&nbsp;Clean Plate Campaign&nbsp;emphasizes the importance of reducing food waste by creating awareness of the environmental and societal impact of food waste and instilling the habit of mindful eating. All Anthonians are encouraged to practice ordering just enough and to finish the food on their plate during recess. On a daily basis, with a clean plate or bowl, they can redeem a stamp from their class’s Environmental Ambassadors, in exchange for a token at the end of the campaign.
+From 14 to 25 of August 2023, SAPS took part in the Clean Plate Campaign organized by Food from the Heart Singapore. The Clean Plate Campaign&nbsp;emphasizes the importance of reducing food waste by creating awareness of the environmental and societal impact of food waste and instilling the habit of mindful eating. All Anthonians are encouraged to practice ordering just enough and to finish the food on their plate during recess. On a daily basis, with a clean plate or bowl, they can redeem a stamp from their class’s Environmental Ambassadors, in exchange for a token at the end of the campaign.
 
-![](/images/clean%20plate.png)
+![](/images/2023/clean%20plate.png)
 
 ### Science Curriculum Programmes
 
@@ -87,7 +87,7 @@ To arouse students’ interest in Science, an exciting and enriching experientia
 The garden trail was integrated with Social Studies for Primary 1 and Programme Active Learning for Primary 2. Through the trail,&nbsp;Primary 1 pupils get to interact with the nature&nbsp;and to observe garden&nbsp;etiquettes&nbsp;while the Primary 2 pupils identify&nbsp;the different&nbsp;types of leaves.&nbsp;
 
 Using their senses, they got to see, smell, feel and touch the different plants in the garden. They had the opportunity to take a closer look at the different parts of plants and garden wildlife such as snails and insects. They had a great time going outdoor exploring the gardens!
-![](/images/p1%202%20digital.jpg)
+![](/images/2023/p1%202%20digital.jpg)
 
 **P3 and P5 Digital Trail @ SAPS**
 
@@ -124,7 +124,7 @@ Anthonians who participated had a fun and enriching learning experience!
 Well done Anthonians!
 
 
-![](/images/buskers.png)
+![](/images/2023/buskers.png)
 
 **E2K Science Programme**
   

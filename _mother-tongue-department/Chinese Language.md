@@ -2,6 +2,7 @@
 title: Chinese Language
 permalink: /the-anthonian-experience/CurriculumatSAPS/Chinese-Language/
 description: ""
+variant: markdown
 ---
 ## Chinese Language 
 
@@ -78,9 +79,9 @@ CCM is an enrichment programme for Primary 3 to Primary 5 students who are inter
 
 **<u>Chinese New Year Celebration</u>**
 <br>
-![](/images/CNY2023.jpg)
+![](/images/2023/CNY2023.jpg)
 
 
 **<u>Recess Activities</u>**
 
-<img src="/images/recess%20activities.png" style="width:auto">
+<img src="/images/2023/recess%20activities.png" style="width:auto">
