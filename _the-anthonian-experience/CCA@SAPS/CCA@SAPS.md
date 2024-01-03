@@ -3,6 +3,7 @@ title: CCA@SAPS
 permalink: /the-anthonian-experience/CCA-SAPS/
 description: ""
 third_nav_title: CCA@SAPS
+variant: markdown
 ---
 ## CCA@SAPS
 
@@ -28,4 +29,4 @@ CCAs provide many opportunities for authentic and experiential learning. Through
 *   core values, social and emotional competencies and 21st century competencies
 
 The school offers the following CCAs:
-![](/images/cca@saps.png)
+![](/images/CCA.png)
