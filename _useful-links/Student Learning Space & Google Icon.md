@@ -20,9 +20,10 @@ Click&nbsp;&nbsp;[here](/files/Step%20by%20Step%20Help%20Guide%20for%20SLS.pdf)&
 
   
 
-**Q1: I have forgotten my password. What should I do?**
+**Q1: I have forgotten my password or my account has been locked. What should I do?**
 
 Please fill up the online form to request for a password reset. https://form.gov.sg/64ff51bb4c6a3c00126a6420"
+You may also contact the school SLS helpdesk during 0700-1500hrs at **Telephone:**&nbsp;&nbsp;65690822, Email: &nbsp;[lim\_suan\_chu@moe.edu.sg].(mailto:lim_suan_chu@moe.edu.sg)
 
   
 
@@ -36,28 +37,7 @@ If you are still not sure of your username, please approach your teacher.
 
   
 
-**Q3: My account has been locked. What should I do?**
-
-Your account will be locked after&nbsp;&nbsp;<u><b>10 consecutive</b></u>&nbsp;&nbsp;attempts to log in with an incorrect password.
-
-You can either:&nbsp;
-
-1) Approach your&nbsp;&nbsp;**form teacher/subject teacher**&nbsp;&nbsp;to unlock your account
-
-2)  Contact the&nbsp;&nbsp;**School SLS Helpdesk**&nbsp;&nbsp;between 7a.m. to 3p.m. as below:  
-**Email Address:**&nbsp;&nbsp;&nbsp;[lim\_suan\_chu@moe.edu.sg](mailto:lim_suan_chu@moe.edu.sg)&nbsp;&nbsp;**or**&nbsp;&nbsp;[kiliammal\_kathamuthu@moe.edu.sg](mailto:kiliammal_kathamuthu@moe.edu.sg)&nbsp;&nbsp;
-
-**Telephone:**&nbsp;&nbsp;65690822
-
-You will need to provide your name and your class in the email.&nbsp;
-
-3) Call the&nbsp;&nbsp;**SLS Helpdesk**&nbsp;&nbsp;to unlock your account.
-
-You will need to answer the security questions to verify that you are the legitimate account&nbsp;&nbsp;holder.&nbsp;Please refer to paragraph 10 in Annex A for the contact details.
-
-  
-
-**Q4: I used the “Password Reset Link**&nbsp;&nbsp;&nbsp;**Method” but I cannot find my password reset email. What can I do?**
+**Q3: I used the “Password Reset Link**&nbsp;&nbsp;&nbsp;**Method” but I cannot find my password reset email. What can I do?**
 
 If you cannot see the email in your inbox, it may be in the spam or junk email folder. It is also possible that you have not keyed in or verified the email address in SLS.
 
@@ -65,13 +45,13 @@ Note: The URL in the email will expire within 20 minutes. If the URL has expired
 
   
 
-**Q5: Can I change the security questions?**
+**Q4: Can I change the security questions?**
 
 &nbsp;Students can log in to SLS to change the answers to their security questions. However, the questions are fixed.
 
   
 
-**Q6: What are the Operating System and Browser Requirements for SLS?**
+**Q5: What are the Operating System and Browser Requirements for SLS?**
 
 SLS is accessible through internet browsers on either Windows PC, Mac, iPad or Android tablets. For a good user experience, tablets should have a screen size of at least 7 inches. However, a small number of resources may not work on tablets due to missing plugins. Currently, SLS is not fully optimised to display on mobile phones even though users can access the system and resources. The recommended operating systems and browsers are:
 
