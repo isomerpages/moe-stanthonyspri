@@ -2,6 +2,7 @@
 title: Student Learning Space & Google Icon
 permalink: /useful-links/student-learning-space/
 description: ""
+variant: markdown
 ---
 ## Student Learning Space &amp; Google Icon
 
@@ -21,7 +22,7 @@ Click&nbsp;&nbsp;[here](/files/Step%20by%20Step%20Help%20Guide%20for%20SLS.pdf)&
 
 **Q1: I have forgotten my password. What should I do?**
 
-Please refer to&nbsp;&nbsp;**paragraphs 6-10**&nbsp;&nbsp;in&nbsp;&nbsp;**Annex A**&nbsp;. You may refer to&nbsp;&nbsp;[https://go.gov.sg/school-based-helpline](https://go.gov.sg/school-based-helpline)&nbsp;&nbsp;for all login issues.
+Please fill up the online form to request for a password reset. https://form.gov.sg/64ff51bb4c6a3c00126a6420"
 
   
 
@@ -106,9 +107,9 @@ You can refer to the following table for guidance on the Operating Systems/brows
 ![](/images/operating%20systems%20or%20browers.jpg)
 
 
-**Q3. What is the password requirement?**  
+**Q3. What is the password requirement?** &nbsp;
 
-Please follow the password requirements below:    
+Please follow the password requirements below: &nbsp;  
 
 *   Password must be at least 8 character(s) long.
 *   Password must contain at least 1 lowercase letter(s).
@@ -131,15 +132,15 @@ Please follow the password requirements below:  
 
 **What should I do?**
 
-a) Check that the browser is supported by Student iCON by referring to the Operating System / Browser table above. Close the browser and reopen it. Navigate to [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard) and repeat the logging in procedure.
+a)&nbsp;Check that the browser is supported by Student iCON by referring to the Operating System / Browser table above.&nbsp;Close the browser and reopen it. Navigate to&nbsp;[https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)&nbsp;and repeat the logging in procedure.
 
   
 
-b) If the above does not work, use <b>Incognito mode</b> on your browser to login. Upon activating Incognito mode, proceed to [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard) and repeat the logging in procedure.
+b) If the above does not work, use&nbsp;<b>Incognito mode</b>&nbsp;on your browser to login.&nbsp;Upon activating Incognito mode, proceed to&nbsp;[https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)&nbsp;and repeat the logging in procedure.
 
   
 
-**Q5. I receive the following message: Your account is temporarily locked to prevent unauthorized use. What should I do?**
+**Q5. I receive the following message:&nbsp;Your account is temporarily locked to prevent unauthorized use. What should I do?**
 
 1.  Try again with correct password after 2 hours
 2.  Contact the school via form teacher
