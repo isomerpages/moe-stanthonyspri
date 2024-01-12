@@ -22,7 +22,7 @@ Click&nbsp;&nbsp;[here](/files/Step%20by%20Step%20Help%20Guide%20for%20SLS.pdf)&
 
 **Q1: I have forgotten my password or my account has been locked. What should I do?**
 
-Please use the [Forgot Password] function or fill up the online [form](https://form.gov.sg/64ff51bb4c6a3c00126a6420) to request for a password reset. 
+Please use the [Forgot Password] function or fill up the [online form](https://form.gov.sg/64ff51bb4c6a3c00126a6420) to request for a password reset. 
 You may also contact the school SLS helpdesk during 0700-1500hrs at Telephone:&nbsp;&nbsp;65690822, Email: &nbsp;[lim_suan_chu@moe.edu.sg](mailto:lim_suan_chu@moe.edu.sg)
 
   
