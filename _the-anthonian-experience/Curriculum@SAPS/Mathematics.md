@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Curriculum@SAPS
 variant: markdown
 ---
-## Mathematics department
+## Mathematics 
 
 
 |     |    |
