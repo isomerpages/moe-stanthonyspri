@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Curriculum@SAPS
 variant: markdown
 ---
-## Mathematics department
+## Mathematics 
 
 
 |     |    |
@@ -42,17 +42,17 @@ Pupils are taught different heuristics at the various levels and given opportuni
 
 #### Key Programmes:
 
-The programmes featured here focus on authentic learning, aimed at helping pupils understand why they are learning Math and how Math is related to real-life. It gives them a sense of purpose and desire to explore and discover more beyond the syllabus. As they worked collaboratively in groups to figure out the questions posed in the trail, it ties in with our fundamental social belief that “Together, we are strong”.&nbsp;
+The programmes featured here focus on authentic learning, aimed at helping pupils understand why they are learning Math and how Math is related to real-life. It gives them a sense of purpose and desire to explore and discover more beyond the syllabus. They also work collaboratively in groups which ties in with our fundamental social belief that “Together, we are strong”.&nbsp;
 
 **<u>Level Programmes</u>**
 
 **Primary 1 and 2**
 
-Pupils at the lower primary levels participate in Math trails, which emphasises to pupils that math learning is authentic and can be applied in our daily lives. In view of SMM, the department has developed digital trails within school. These trails include some of the topics that pupils had learnt in the year. Besides consolidating their learning, the trails continue to provide rich learning experiences for the pupils.&nbsp;
+Pupils at the lower primary levels participate in Math trails, which emphasises to pupils that math learning is authentic and can be applied in our daily lives. These trails include some of the topics that pupils had learnt in the year. Besides consolidating their learning, the trails continue to provide rich learning experiences for the pupils.&nbsp;
 
   
 
-<u>Primary 1 Math Learning Trail: Jurong Bird Park</u>
+<u>Primary 1 Math Learning Trail: Esplanade</u>
 ![](/images/2023/image%20(8).jpg)
 
 <u>Primary 2 Math Learning Trail: Changi Airport</u>

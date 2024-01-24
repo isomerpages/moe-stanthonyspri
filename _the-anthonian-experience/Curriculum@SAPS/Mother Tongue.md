@@ -1,10 +1,11 @@
 ---
-title: Mother Tongue Department
-permalink: /the-anthonian-experience/CurriculumatSAPS/MT-Department/
+title: Mother Tongue
+permalink: /the-anthonian-experience/curriculum/mothertongue/
 description: ""
 third_nav_title: Curriculum@SAPS
+variant: markdown
 ---
-## Mother Tongue Department
+## Mother Tongue 
 
 |  |  | 
 | -------- | -------- | 
