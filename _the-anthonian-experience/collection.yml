@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - Overview.md
-      - Curriculum@SAPS/Environmental Education.md
       - Curriculum@SAPS/.keep
       - Curriculum@SAPS/Aesthetics.md
       - Curriculum@SAPS/Character and Citizenship Education.md
       - Curriculum@SAPS/Education Technology.md
+      - Curriculum@SAPS/Environmental Education.md
       - Curriculum@SAPS/English.md
       - Curriculum@SAPS/Mathematics.md
       - Curriculum@SAPS/Mother Tongue.md
