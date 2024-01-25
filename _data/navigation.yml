@@ -1,0 +1,10 @@
+logo: /images/Homepage/logo.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: The Anthonian Experience
+    collection: the-anthonian-experience
+  - title: Our Anthonian Family
+    collection: our-anthonian-family
+  - title: Useful Links
+    collection: useful-links

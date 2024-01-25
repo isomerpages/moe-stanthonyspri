@@ -1,0 +1,10 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - School Philosophy.md
+      - The Lasallian Family.md
+      - School Rules.md
+      - School Information.md
+      - School Identity.md
+      - Principal's Message.md
