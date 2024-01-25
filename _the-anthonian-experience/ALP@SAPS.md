@@ -9,24 +9,30 @@ variant: markdown
 ### Applied Learning Programme
 
 
-CODE@SAPS is a customised coding curriculum, specially designed for Primary 2 to Primary 5 Anthonians, to equip them with the fundamentals of computational thinking, inventive thinking and critical thinking skills.&nbsp;
+ALP@SAPS is a customised curriculum, specially designed for Primary 1 to Primary 6 Anthonians, to equip them with the fundamentals of computational thinking, inventive thinking and critical thinking skills through Coding and Makerspace.&nbsp;
 
   
-
-The programme provides opportunities for students to acquire 21st Century Competencies and experience the joy of learning for life beyond academic pursuits to become confident persons, self-directed learners, active contributors and concerned citizens.&nbsp; &nbsp;
+The programme provides opportunities for students to acquire 21st Century Competencies and experience the joy of learning for life beyond academic pursuits to become confident persons, self-directed learners, active contributors and concerned citizens.
 
 <img src="/images/2023/ALP.png" style="width:75%">
+
+
+
+Across all programmes, the school adopts the “FEEL, IMAGINE, DO, SHARE” (FIDS) Framework to encourage our students to empathise with others and to believe that they can make a difference in their own ways.
+
 
 **<u>Key Programmes</u>**
 
   
 
-**Coding Curriculum**&nbsp;
+**Young Coders**
 
-Primary 2 students learn basic programming concepts through the use of colour codes with an Ozobot in the Young Coders coding programme. Anthonians drew lines and added colour codes to tell the Ozobot what to do!
 
-Also in the Young Coders programme, Primary 3 students learn learn basic programming concepts through the use of colour codes and visual programming with an Ozobot too.
-They apply the codes learnt by programming the movements of the Ozobot to solve puzzles, navigate mazes and develop debugging skills (identifying and rectifying errors through logical thinking).
+Anthonians start young on the learning of Basic Computation thinking. In this programme, the Primary 1 Anthonians learn basic programming concepts through the use of colour codes (a series of colors that tell the robot what to do) with an Ozobot in the Young Coders programme. Anthonians drew lines and added colour codes to tell the Ozobot what turns to take and what decisions to make.&nbsp;
+
+ 
+Building on the basic programming concepts that they learnt in Primary 1, Primary 2 Anthonians learn programming concepts through visual programming with Ozobots and Quarky too. They apply block-based codes through an app to programme the movements of the Ozobots and Quarky to solve puzzles, navigate mazes and develop debugging skills (identifying and rectifying errors through logical thinking).
+
 
 
 In the Smart Thinkers coding programme, Primary 4 and 5 students learn block coding with a Micro:bit, which is a pocket-sized, codeable computer. They apply the codes learnt by devising coding-based solutions to a given problem. This project helps students to consolidate their learning of the various coding skills and apply them to a real-life situation. Some examples of projects include:&nbsp;
