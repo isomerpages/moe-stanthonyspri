@@ -2,7 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - For Parents.md
       - School Wait List.md
       - Financial Assistance Scheme (FAS).md
       - Parents Gateway.md
