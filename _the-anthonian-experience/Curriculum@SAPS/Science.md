@@ -13,7 +13,7 @@ Vision     |  To equip Anthonians with scientific knowledge, skills &amp; attitu
 | | | 
 
 
-**Environmental Education (EE) Vision:**&nbsp;To instill care, respect and responsibility for the environment in every learner.
+
 
   
 
