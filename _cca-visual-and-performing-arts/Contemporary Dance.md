@@ -7,4 +7,4 @@ variant: markdown
 ## Contemporary Dance
 
 ![](/images/CCA%202023_Sep/cca-09.png)
-![](/images/2023/contemporary%20dance1.jpeg)
+![](/images/Contemporary_Dance.jpeg)
