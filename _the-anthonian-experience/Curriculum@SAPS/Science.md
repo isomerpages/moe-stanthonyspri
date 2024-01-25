@@ -91,7 +91,7 @@ Well done Anthonians!
 The E2K Science Programme offers opportunities for Anthonians to engage in scientific investigations to discover and deepen their understanding of advanced science concepts through inquiry. Every year, P4 to P6 Anthonians with an interest in and aptitude for Science are invited to participate in this programme. The rich learning experiences of the programmes help&nbsp;Anthonians to:
  
 
-*   Develop the habits, attitudes and dispositions scientists possess; and.-
+*   Develop the habits, attitudes and dispositions scientists possess; and
 *   Gain important 21st century competencies such as critical thinking, invention thinking and effective communication skills.
 
 **Useful links**
