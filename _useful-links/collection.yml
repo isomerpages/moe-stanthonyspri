@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - Others/LOA Application.md
       - Others/Financial Assistance Scheme (FAS).md
       - Others/School Wait List.md
       - Others/.keep
