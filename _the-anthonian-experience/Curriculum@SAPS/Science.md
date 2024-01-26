@@ -12,11 +12,6 @@ variant: markdown
 Vision     |  To equip Anthonians with scientific knowledge, skills &amp; attitudes to prepare them for life and work in the 21st Century
 | | | 
 
-
-**Environmental Education (EE) Vision:**&nbsp;To instill care, respect and responsibility for the environment in every learner.
-
-  
-
 **Our teaching and learning approach**
 
 In nurturing caring, passionate and joyful learners, in SAPS, we customise and design programmes and lessons drawing reference from the SAPS Teaching and Learning Framework and the syllabus guide provided by MOE.
@@ -40,43 +35,7 @@ Taking reference from the MOE Primary Science Syllabus, these strategies aim to 
 
 The Primary Science Syllabus follows a spiral approach, based on five themes that pupils can relate to in their everyday experiences, commonly observed phenomena in nature. The themes are revisited at different levels and with increasing depth to match pupils’ cognitive development.&nbsp;
 
-### Environmental Education (EE)&nbsp; Key Programmes
 
-**Environmental Education Activities**
-  
-
-St. Anthony’s Primary School envisions every Anthonian to be an advocate of green living. Anthonians will be committed to caring and protecting their environment by practicing good and friendly green habits as responsible citizens. Environmental Education (EE) in St. Anthony’s Primary School adopts a whole school approach, to reach out to all staff and pupils to care for the environment as well as to raise awareness and understand current environmental issues.
-
-
-**World Water Day activities**
-
-On 22 March, SAPS celebrated World Water Day with a series activities lined up for staff and students. Staff came to school dressed in blue to support the #GoBlue4SG movement by PUB. Anthonians learned about water-saving tips and water footprint through fun and games. One of the stations featured a tossing game made out of recyclables which was designed and made by our Environmental Science Club members. Other than recess activities, there are ongoing Water Wednesdays activities in class and on SLS where Anthonians learn more about the importance of water security and the need to protect our water resources. We encourage everyone to continue to use water wisely and make every drop 💧count.
-![](/images/Science/world%20water%20day%20activities.jpg)
-  
-
-**Earth Hour**
-
-On 24 March 2023, our school showed our support for the Earth Hour movement by switching off half the number of lights and fans for half an hour in our classrooms.&nbsp;This is to raise awareness on how we can play our part, in large ways and small, to save our Earth.&nbsp;The symbolic action of switching off lights&nbsp;shows our commitment to&nbsp;take climate actions to overcome the climate crisis. Every minute and every hour counts, let’s continue to play our part!
- ![](/images/Science/earth%20hour.jpg) 
-
-
-
- **Biodiversity Week @ SAPS**
-
-
-The International Day for Biological Diversity is celebrated on 22 May. To commemorate this, SAPS organised a series of activities for the Anthonians. The Environmental Science Club members learnt about the biodiversity in Singapore and conducted a biodiversity audit at our school garden, contributing to the nation’s data.
-
-On 17 and 18 May, during recess activities, Anthonians used portable microscopes on iPads to learn about the plants and cells at microscopic level and did a scavenger hunt in our garden. Through this, they learnt about diverse biodiversity in a fun way.
-
-Following that, the P3s and P4s CODE@SAPS programme allowed Anthonians to apply their learning on coding to create a prototype to protect our precious biodiversity. 
-
-![](/images/Science/biodiversity%20week%20@%20saps.jpg)
-
-**Clean Plate Campaign**
-
-From 14 to 25 of August 2023, SAPS took part in the Clean Plate Campaign organized by Food from the Heart Singapore. The Clean Plate Campaign&nbsp;emphasizes the importance of reducing food waste by creating awareness of the environmental and societal impact of food waste and instilling the habit of mindful eating. All Anthonians are encouraged to practice ordering just enough and to finish the food on their plate during recess. On a daily basis, with a clean plate or bowl, they can redeem a stamp from their class’s Environmental Ambassadors, in exchange for a token at the end of the campaign.
-
-![](/images/2023/clean%20plate.png)
 
 ### Science Curriculum Programmes
 
@@ -132,7 +91,7 @@ Well done Anthonians!
 The E2K Science Programme offers opportunities for Anthonians to engage in scientific investigations to discover and deepen their understanding of advanced science concepts through inquiry. Every year, P4 to P6 Anthonians with an interest in and aptitude for Science are invited to participate in this programme. The rich learning experiences of the programmes help&nbsp;Anthonians to:
  
 
-*   Develop the habits, attitudes and dispositions scientists possess; and.-
+*   Develop the habits, attitudes and dispositions scientists possess; and
 *   Gain important 21st century competencies such as critical thinking, invention thinking and effective communication skills.
 
 **Useful links**
@@ -140,5 +99,3 @@ The E2K Science Programme offers opportunities for Anthonians to engage in scien
 *  [MOE Primary Science Syllabus](/files/science-primary-2014.pdf)
 
   
-*   Science Environmental Education site
-[https://qrgo.page.link/cwfZ9](https://qrgo.page.link/cwfZ9)

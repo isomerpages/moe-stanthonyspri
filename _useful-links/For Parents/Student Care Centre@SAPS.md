@@ -2,6 +2,7 @@
 title: Student Care Centre@SAPS
 permalink: /useful-links/Student-Care-Centre/
 description: ""
+third_nav_title: For Parents
 ---
 ## Student Care Centre@SAPS
 

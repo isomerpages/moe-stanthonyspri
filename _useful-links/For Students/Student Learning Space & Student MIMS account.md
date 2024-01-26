@@ -1,8 +1,9 @@
 ---
-title: Student Learning Space & Google Icon
+title: Student Learning Space & Student MIMS account
 permalink: /useful-links/student-learning-space/
 description: ""
 variant: markdown
+third_nav_title: For Students
 ---
 ## Student Learning Space &amp; Google Icon
 
