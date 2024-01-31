@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - Anthonian Productions.md
       - School Philosophy.md
       - The Lasallian Family.md
       - School Rules.md
       - School Information.md
       - School Identity.md
       - Principal's Message.md
+      - Anthonian Productions.md
