@@ -87,7 +87,7 @@ community. We hope to continue empowering Anthonians to uplift and support
 one another in our efforts to promote positive and safe cyberspace experiences
 for all.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQAW1m7wuRLezVgblCsRT5xSg4zZq14ZsX0NFPKpA5fw4FSArvpnJO6-dtcbNxhTpr8NchtdRExqfUd/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQAW1m7wuRLezVgblCsRT5xSg4zZq14ZsX0NFPKpA5fw4FSArvpnJO6-dtcbNxhTpr8NchtdRExqfUd/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h4>Working Hand in Hand with Parents</h4>
 <p>We work with parents to ensure that our Anthonians are safe online. The
