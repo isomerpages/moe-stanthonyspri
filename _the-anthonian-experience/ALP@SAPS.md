@@ -14,8 +14,9 @@ and Makerspace.&nbsp;</p>
 Competencies and experience the joy of learning for life beyond academic
 pursuits to become confident persons, self-directed learners, active contributors
 and concerned citizens.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/2023/ALP.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP_Framework_image.png">
 </div>
 <p>Across all programmes, the school adopts the “FEEL, IMAGINE, DO, SHARE”
 (FIDS) Framework to encourage our students to empathise with others and
