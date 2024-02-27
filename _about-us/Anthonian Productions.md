@@ -12,6 +12,6 @@ description: flight of the phoenix
 </div>
 <p>Flight of the Phoenix – <a href="https://youtu.be/CAjTlpMVJEY" rel="noopener noreferrer nofollow" target="_blank">E-book</a> (Official) [2019]</p>
 <p><a href="https://youtu.be/4fMg4-Nl6Sc" rel="noopener noreferrer nofollow" target="_blank">Onward and Upward Music Video</a> [2020]</p>
-<p><a href="https://youtu.be/b7xx4xvx3ME" rel="noopener noreferrer nofollow" target="_blank">Stand together music video</a> [2021]</p>
+<p><a href="https://youtu.be/b7xx4xvx3ME" rel="noopener noreferrer nofollow" target="_blank">Stand Together music video</a> [2021]</p>
 <p></p>
 <p></p>
