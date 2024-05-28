@@ -7,4 +7,4 @@ description: ""
 image: ""
 variant: tiptap
 ---
-![](/images/APEX%20week/coding.jpg)
+<p>To be updated</p>
