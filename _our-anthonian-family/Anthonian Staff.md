@@ -6,7 +6,11 @@ variant: tiptap
 ---
 <h2>Anthonian Staff</h2>
 <h4>St. Anthony's Primary School</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -55,7 +59,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Key Personnel and Teacher Leaders</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -383,7 +392,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Administration And Operations Team</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -437,23 +451,10 @@ variant: tiptap
 <p>Corporate Support Staff</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Florence Foo</p>
+<p>Mdm Salinah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:foo_lee_gan_florence@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo_lee_gan_florence@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Corporate Support Staff</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Nur Izza Binte Mohd Rasman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nur_izza_mohd_rasman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_izza_mohd_rasman@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -567,16 +568,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Special Educational Needs (SEN) Officers &amp;<br>Allied Educators (AED) Team</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Nazirul</p>
@@ -616,7 +613,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Form Teachers</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -824,7 +826,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1019,7 +1026,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1178,7 +1190,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1337,7 +1354,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -1505,7 +1527,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -1686,7 +1713,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Flexi Adjunct Teachers</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1835,23 +1866,27 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Flexi Adjunct Counsellors</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Renee Kwan Yong Li</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:renee_kwan_yong_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">renee_kwan_yong_li@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Hwang-Lee Poh See</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_poh_see@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_poh_see@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Christine Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_bee_geok_christine_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_bee_geok_christine_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
