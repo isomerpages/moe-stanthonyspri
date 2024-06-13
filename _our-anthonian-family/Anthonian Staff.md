@@ -454,7 +454,8 @@ variant: tiptap
 <p>Mdm Salinah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:salinah_mohamat_sarnon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">salinah_mohamat_sarnon@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
