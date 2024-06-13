@@ -522,18 +522,6 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ang Swee Heong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ang_swee_heong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_swee_heong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Jamaliah Bt wahab</p>
 </td>
 <td rowspan="1" colspan="1">
