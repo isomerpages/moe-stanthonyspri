@@ -1,9 +1,10 @@
 ---
-title: Coding (APEX Week 2023)
+title: Coding (APEX Week)
 permalink: /saps/highlights/codingsemester1/
-date: 2023-05-25
+date: 2024-05-25
 layout: post
 description: ""
 image: ""
+variant: tiptap
 ---
-![](/images/APEX%20week/coding.jpg)
+<p>To be updated</p>
