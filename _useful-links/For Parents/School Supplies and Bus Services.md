@@ -3,6 +3,7 @@ title: School Supplies and Bus Services
 permalink: /useful-links/School-Supplies-and-Bus-Services/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
 ## School Supplies and Bus Services
 
@@ -38,5 +39,5 @@ Click [here](/files/textbooks%20and%20uniform%20purchase%20guide%20in%20saps%20w
     ·          **Annway Transport Services (Mr Kelvin Wong)**<br>
     ·             Contact Number: 9476 6639 
 		
-*   Bus Fares for 2023 [Click Here](/files/bus%20info%20and%20nte%20prices%20for%20saps%20website%20(28%20apr%202023).pdf)
+
 *   Bus Fares for 2024 [Click Here](/files/2024%20bus%20info%20and%20nte%20prices%20for%20saps%20website%20(28%20sep%202023).pdf)
