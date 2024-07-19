@@ -1204,7 +1204,7 @@ variant: tiptap
 <p>3 FAITH (FH)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ang Hwei Leng</p>
+<p>Mrs Ang Hwee Leng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sam_choi_yoke@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_hwee_leng@moe.edu.sg</a>
