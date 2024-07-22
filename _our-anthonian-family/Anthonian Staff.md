@@ -1915,7 +1915,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jecelyn Zhu</p>
+<p>Ms Jocelyn Zhu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zhu_shufen_jocelyn_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhu_shufen_jocelyn_b@moe.edu.sg</a>
