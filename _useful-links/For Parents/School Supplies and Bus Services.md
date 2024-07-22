@@ -24,7 +24,7 @@ Click [here](/files/textbooks%20and%20uniform%20purchase%20guide%20in%20saps%20w
 <br><br>
 *   Uniform Supplier<br>
      ·          **KH Uniform Pte Ltd**<br>
-     ·           Website (online store) :&nbsp;[www.khuniform.com](http://www.khuniform.com/)<br> 
+     ·           Website (online store) :&nbsp;[www.khuniform.com](https://khuniform.com/)<br> 
      ·          Contact Number: 6479 6811<br>
 		 .          Email: **[sales@khuniform.com](mailto:sales@khuniform.com)**<br>
 		 <br>

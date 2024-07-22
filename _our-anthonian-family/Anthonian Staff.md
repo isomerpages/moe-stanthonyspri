@@ -566,6 +566,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Qistina</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">nurqistina_qusyaira_ghazali@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>Special Educational Needs (SEN) Officers &amp;<br>Allied Educators (AED) Team</h4>
@@ -1192,7 +1204,7 @@ variant: tiptap
 <p>3 FAITH (FH)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ang Hwei Leng</p>
+<p>Mrs Ang Hwee Leng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sam_choi_yoke@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_hwee_leng@moe.edu.sg</a>
@@ -1903,7 +1915,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jecelyn Zhu</p>
+<p>Ms Jocelyn Zhu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zhu_shufen_jocelyn_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhu_shufen_jocelyn_b@moe.edu.sg</a>
