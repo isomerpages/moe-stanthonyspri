@@ -2,6 +2,7 @@
 title: Alumni
 permalink: /our-anthonian-family/Alumni/
 description: ""
+variant: markdown
 ---
 ## Alumni 
 
@@ -66,4 +67,5 @@ You may also wish to email the form and come to the school to pay in cash.
  
  Please contact&nbsp;[AnthonianAlumni2016@gmail.com](mailto:AnthonianAlumni2016@gmail.com)&nbsp;for more details.
 
-Join us on our facebook page:&nbsp;[https://www.facebook.com/stanthony.primary](https://www.facebook.com/stanthony.primary)
+Join us on our instagram page:&nbsp;
+https://www.instagram.com/attention_anthonian?igsh=MWhxbmJpdnEzeDIyeg==
