@@ -14,3 +14,14 @@ by SAPS Student Leaders, who guided visitors through the school's innovative
 programs and niche offerings, as well as its vibrant co-curricular activities
 (CCAs). Catch some of the picturesque moments here.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAPS Tour/SAPS_Tour_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAPS Tour/SAPS_Tour_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAPS Tour/SAPS_Tour_2.jpg">
+</div>
+<p></p>
