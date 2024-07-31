@@ -16,3 +16,7 @@ Our P5 Anthonians set up experiential booth activities inviting fellow Anthonian
 The Sports Carnival 2024 was one of the most highly anticipated events anticipated by students and staff. It was held on the culmination day of APEX week to wrap up the semester with a fun-filled day of sporting activities. The main objective of the carnival was to raise awareness and promote the application of Anthonian values: Respect, Integrity, and Resilience through a buddy system. This system was put in place to develop and strengthen positive friendships coupled with social skills amongst pupils across different levels as they participated in the various activities. 
 
 The Carnival themed after the Paris Olympic Games offered the perfect opportunity for pupils to enjoy their favourite sports regardless of their sporting abilities. It not only gave them a platform to showcase their sporting excellence, but it also boosted self-esteem and confidence levels.
+![](/images/APEX%20week/APEX_01.jpg)
+![](/images/APEX%20week/APEX_02.jpg)
+![](/images/APEX%20week/APEX_03.jpg)
+![](/images/APEX%20week/APEX_04.jpg)
