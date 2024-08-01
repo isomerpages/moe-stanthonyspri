@@ -5,6 +5,9 @@ variant: tiptap
 description: flight of the phoenix
 ---
 <h1>Anthonian productions</h1>
+<h4>Light the Way Official Music Video (SAPS 145th Anniversary Theme Song)</h4>
+<p><a href="https://youtu.be/xbcOZLgC5Do" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/xbcOZLgC5Do</a>
+</p>
 <h4>Flight of the Phoenix – The Anthonian Journey (a mini-documentary) [2019]</h4>
 <p></p>
 <div class="iframe-wrapper">
