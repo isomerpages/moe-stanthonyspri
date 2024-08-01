@@ -15,13 +15,14 @@ programs and niche offerings, as well as its vibrant co-curricular activities
 (CCAs). Catch some of the picturesque moments here.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAPS Tour/SAPS_Tour_1.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/SAPS Tour/SAPS_Tour_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAPS Tour/SAPS_Tour_3.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/SAPS Tour/SAPS_Tour_3.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAPS Tour/SAPS_Tour_2.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/SAPS Tour/SAPS_Tour_2.jpg">
 </div>
 <p></p>

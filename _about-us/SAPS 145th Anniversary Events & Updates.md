@@ -80,19 +80,19 @@ instilled in generations of Anthonians.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/145 Anniversary/Picture1.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/145 Anniversary/Picture1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/145 Anniversary/Picture2.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/145 Anniversary/Picture2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/145 Anniversary/Picture3.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/145 Anniversary/Picture3.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/145 Anniversary/Picture4.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/145 Anniversary/Picture4.jpg">
 </div>
 <p>In line with our 145th anniversary theme ‘Light the Way’, we hope to raise
 funds through this event for HopeHouse, a registered charity organisation
