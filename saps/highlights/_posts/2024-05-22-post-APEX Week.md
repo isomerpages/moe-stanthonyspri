@@ -17,6 +17,9 @@ The Sports Carnival 2024 was one of the most highly anticipated events anticipat
 
 The Carnival themed after the Paris Olympic Games offered the perfect opportunity for pupils to enjoy their favourite sports regardless of their sporting abilities. It not only gave them a platform to showcase their sporting excellence, but it also boosted self-esteem and confidence levels.
 ![](/images/APEX%20week/APEX_01.jpg)
+
 ![](/images/APEX%20week/APEX_02.jpg)
+
 ![](/images/APEX%20week/APEX_03.jpg)
+
 ![](/images/APEX%20week/APEX_04.jpg)
