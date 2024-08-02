@@ -1897,15 +1897,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Poon Foong Yee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:poon_foong_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poon_foong_yee@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Wong Suet kiew</p>
 </td>
 <td rowspan="1" colspan="1">
