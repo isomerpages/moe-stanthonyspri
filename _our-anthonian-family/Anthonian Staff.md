@@ -1003,6 +1003,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Sin Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_sin_yi_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_sin_yi_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2 SERVICE (SE)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1018,10 +1030,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Poon Fong Yee</p>
+<p>Mdm Wu Yinuo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:poon_foong_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poon_foong_yee@moe.edu.sg</a>
+<p><a href="mailto:wu_yinuo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wu_yinuo@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1133,6 +1145,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:liu_fen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_fen@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Firdhaus</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:muhammad_firdhaus_maarof@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_firdhaus_maarof@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1852,15 +1879,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Michael Fong&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:fong_kah_onn_michael@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fong_kah_onn_michael@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Nurshahida</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1874,15 +1892,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:gordon_pamela_caroline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gordon_pamela_caroline@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Poon Foong Yee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:poon_foong_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poon_foong_yee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
