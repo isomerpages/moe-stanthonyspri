@@ -14,10 +14,10 @@ description: ""
 a light for others in whatever simple ways they are capable of.</p>
 <p>Listen to our Anthonians sing this song here: <a rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/QQxmBdYYmO0</a>
 </p>
-<p>Watch this space for our OFFICIAL MUSIC VIDEO of “Light the Way” on 1
-August 2024!</p>
-<p><a href="https://youtu.be/xbcOZLgC5Do" rel="noopener noreferrer nofollow" target="_blank">Light the Way Official Music Video</a>
-</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xbcOZLgC5Do?si=e8hPkq9LnsYRU4WT"></iframe>
+</div>
 <p><strong><u>Light the Way</u></strong>
 <br>Looking back at all we have
 <br>I give thanks to God above
