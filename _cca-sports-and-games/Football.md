@@ -71,9 +71,7 @@ and cardiovascular exercises.</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_09_13_at_12_42_16_PM__1_.jpg">
+</div>
 <p></p>
