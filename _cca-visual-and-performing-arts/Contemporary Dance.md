@@ -11,15 +11,29 @@ will also have the chance to choreograph your own dance while making new
 friends. Be part of our fun and supportive dance community and discover
 the dancer in you!</p>
 <p><strong><em>Objective(s)</em>:</strong>
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To nurture passionate and caring dancers.
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To foster team spirit and camaraderie
-among members.
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To create opportunities for aesthetic
-experiences through practices and performances.</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To nurture passionate and caring dancers.</p>
+</li>
+<li>
+<p>To foster team spirit and camaraderie among members.</p>
+</li>
+<li>
+<p>To create opportunities for aesthetic experiences through practices and
+performances.</p>
+</li>
+</ul>
 <p><strong><em>Activities</em>:</strong>
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Weekly dance practices
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Opportunities for school and external
-performances</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Weekly dance practices</p>
+</li>
+<li>
+<p>Opportunities for school and external performances</p>
+</li>
+</ul>
 <p><strong><em>Things to take note of</em>:</strong>
 <br>Practice hours may be extended when needed.</p>
 <p><strong><em>Venue(s)</em></strong>:
