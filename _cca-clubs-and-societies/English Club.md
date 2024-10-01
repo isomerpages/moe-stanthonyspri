@@ -10,18 +10,31 @@ with opportunities to use English purposefully. Its activities often involve
 members’ participation in external competitions, making the learning experience
 both fun, dynamic and authentic.</p>
 <p><strong><em>Objective(s):</em></strong>
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To cultivate a love and appreciation for
-the English Language.
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To provide a language-rich environment
-for language acquisition.
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To equip members with the necessary skills
-for external competitions.</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To cultivate a love and appreciation for the English Language.</p>
+</li>
+<li>
+<p>To provide a language-rich environment for language acquisition.</p>
+</li>
+<li>
+<p>To equip members with the necessary skills for external competitions.</p>
+</li>
+</ul>
 <p><strong><em>Activities:</em></strong>
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Training in storytelling and presentation
-skills.
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Literature appreciation.
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Preparation for English Language Competitions
-such as drama performances.</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Training in storytelling and presentation skills.</p>
+</li>
+<li>
+<p>Literature appreciation.</p>
+</li>
+<li>
+<p>Preparation for English Language Competitions such as drama performances.</p>
+</li>
+</ul>
 <p><strong><em>Venue(s):</em></strong>
 <br>Music Room</p>
 <p><strong><em>Day(s) &amp; Time of Meeting</em></strong><em>:</em>
