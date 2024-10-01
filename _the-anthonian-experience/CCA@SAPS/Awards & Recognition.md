@@ -28,15 +28,15 @@ can qualify:</p>
 </li>
 </ul>
 <p><strong><u>2nd Tier</u></strong>
-<br><strong>SERVICE:</strong>Students who have made exemplary contributions
+<br><strong>SERVICE:</strong> Students who have made exemplary contributions
 in service through co-curricular programmes.</p>
-<p><strong>LEADERSHIP:</strong>Students who have assumed leadership positions/roles
+<p><strong>LEADERSHIP:</strong> Students who have assumed leadership positions/roles
 and have carried them out well.</p>
-<p><strong>ACHIEVEMENT</strong>: Students who have participated in/represented
+<p><strong>ACHIEVEMENT:</strong> Students who have participated in/represented
 the school/nation in zonal/national/international level events and competitions
 and attained a good level of achievement.</p>
-<p><strong><u>Colours Award</u></strong>
-<br>In recognition of pupils' leadership qualities, service to community and
+<h4><strong><u>Colours Award</u></strong></h4>
+<p>In recognition of pupils' leadership qualities, service to community and
 school, and excellence in their CCA, the COLOURS award was introduced by
 the school.</p>
 <p>The nominee must fulfill the following criteria:</p>
