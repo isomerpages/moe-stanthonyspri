@@ -15,8 +15,7 @@ sections:
   - infobar:
       title: Connect with us
       id: infobar
-      description: Stay updated with our latest activities and news by following us on
-        social media!
+      description: Stay updated with our latest activities and news!
       button: Facebook
       url: https://www.facebook.com/sapsanthonian/
 ---
