@@ -15,15 +15,25 @@ All members are provided with opportunities to lead and participate in
 the school’s environmental conservation efforts and are developed to champion
 environmental awareness in the school.</p>
 <p><strong><em>Objective(s)</em>:</strong>
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To nurture eco stewards for the environment
-through environmental conservation activities, competitions, projects and
-collaborations.</p>
-<p><strong><em>Activities</em></strong>:
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Environmental leadership development.
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Participation in external carnivals, fairs
-and competitions.
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sharing of their green knowledge with
-others.</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To nurture eco stewards for the environment through environmental conservation
+activities, competitions, projects and collaborations.</p>
+</li>
+</ul>
+<p><strong><em>Activities</em></strong>:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Environmental leadership development.</p>
+</li>
+<li>
+<p>Participation in external carnivals, fairs and competitions.</p>
+</li>
+<li>
+<p>Sharing of their green knowledge with others.</p>
+</li>
+</ul>
 <p><strong><em>Day(s) &amp; Time of Meeting</em></strong>:</p>
 <table style="minWidth: 50px">
 <colgroup>
