@@ -8,8 +8,10 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage/homepage photo carousel.gif
-  - resources:
-      button: Announcements & Highlights
+      title: Crescit Eundo
+      button: Announcements
+      url: https://www.stanthonyspri.moe.edu.sg/saps/announcements/
+      variant: center
   - infobar:
       title: Connect with us
       id: infobar
