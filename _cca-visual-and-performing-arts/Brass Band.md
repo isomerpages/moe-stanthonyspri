@@ -10,25 +10,43 @@ Our band consists of the brass section, which includes instruments such
 as trumpets, trombones and tubas; and the percussion section, which includes
 the bass drums and xylophones.</p>
 <p><strong><em>Objective(s)</em>:</strong>
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To develop esprit-de-corps among members.
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To nurture the music talent of every band
-member.
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To create opportunities for social and
-aesthetic experiences through practices and performances.</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To develop esprit-de-corps among members.</p>
+</li>
+<li>
+<p>To nurture the music talent of every band member.</p>
+</li>
+<li>
+<p>To create opportunities for social and aesthetic experiences through practices
+and performances.</p>
+</li>
+</ul>
 <p><strong><em>Activities</em>:</strong>
 </p>
-<p><strong>Musical</strong>:
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Building the repertoire and technical
-standards of the band members
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learning music theory and mastering the
-skill of playing a musical instrument.
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learning the proper care and maintenance
-of the instruments.</p>
-<p><strong>Character Building and Leadership</strong>:
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Selection and training of section leaders
-and band leaders.
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Opportunities for discipline, social and
-aesthetic experiences through performances and Band Camps.</p>
+<p><strong>Musical</strong>:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Building the repertoire and technical standards of the band members</p>
+</li>
+<li>
+<p>Learning music theory and mastering the skill of playing a musical instrument.</p>
+</li>
+<li>
+<p>Learning the proper care and maintenance of the instruments.</p>
+</li>
+</ul>
+<p><strong>Character Building and Leadership</strong>:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Selection and training of section leaders and band leaders.</p>
+</li>
+<li>
+<p>Opportunities for discipline, social and aesthetic experiences through
+performances and Band Camps.</p>
+</li>
+</ul>
 <p><strong><em>Venue(s)</em></strong>:
 <br>Band Room</p>
 <p><strong><em>Day(s) &amp; Time of Practice</em></strong>:</p>
