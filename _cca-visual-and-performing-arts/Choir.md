@@ -10,17 +10,36 @@ the Choir will be the best CCA for you. You will not only get to know Anthonians
 from the other levels but also learn how to work as a team. Most importantly,
 you will pick up new skills in singing and be able to showcase your talents.</p>
 <p>&nbsp;<strong><em><u>Objective(s)</u></em>:</strong>
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Instill a love for music and singing
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Provide opportunities for members to make
-new friends and learn to work as a team.
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Teach members to sing clearly and in tune.
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Provide opportunities for members to present
-themselves confidently on stage and at outdoor performances.</p>
-<p></p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Instill a love for music and singing</p>
+</li>
+<li>
+<p>Provide opportunities for members to make new friends and learn to work
+as a team.</p>
+</li>
+<li>
+<p>Teach members to sing clearly and in tune.</p>
+</li>
+<li>
+<p>Provide opportunities for members to present themselves confidently on
+stage and at outdoor performances.</p>
+</li>
+</ul>
 <p><strong><em><u>Activities</u></em>:</strong>
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Holiday camps
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Weekly singing practices
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School and public performances</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Holiday camps</p>
+</li>
+<li>
+<p>Weekly singing practices</p>
+</li>
+<li>
+<p>School and public performances</p>
+</li>
+</ul>
 <p>&nbsp;<strong><em><u>Venue(s)</u></em></strong>:
 <br>Library&nbsp;</p>
 <p><strong><em><u>Day(s) &amp; Time of Practice</u></em></strong>:</p>
