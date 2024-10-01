@@ -10,16 +10,30 @@ persevere through the rigorous training sessions as a team as they build
 their fitness and prepare to compete in the National School Games.</p>
 <p><strong><em><u>Objectives:</u></em></strong>
 </p>
-<p>- To develop a team of young, dedicated and passionate athletes who constantly
+<ul data-tight="true" class="tight">
+<li>
+<p>To develop a team of young, dedicated and passionate athletes who constantly
 strive to improve themselves and demonstrate good sportsmanship through
 Floorball.</p>
+</li>
+</ul>
 <p><strong><em><u>Activities:</u></em></strong>
 </p>
-<p>- General fitness conditioning that includes strength training, plyometric
-and cardiovascular exercises.
-<br>- Attacking and defensive positioning.
-<br>- Specific training in passing, shooting and team movement.
-<br>- Participation in the National School Games for selected Anthonians</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>General fitness conditioning that includes strength training, plyometric
+and cardiovascular exercises.</p>
+</li>
+<li>
+<p>Attacking and defensive positioning.</p>
+</li>
+<li>
+<p>Specific training in passing, shooting and team movement.</p>
+</li>
+<li>
+<p>Participation in the National School Games for selected Anthonians</p>
+</li>
+</ul>
 <p><strong><em><u>Venue(s):</u></em></strong>
 <br>Indoor Sports Hall</p>
 <p><strong><em><u>Day(s) &amp; Time of Practice:</u></em></strong>
