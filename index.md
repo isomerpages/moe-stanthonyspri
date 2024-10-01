@@ -10,4 +10,11 @@ sections:
       background: /images/Homepage/homepage photo carousel.gif
   - resources:
       button: Announcements & Highlights
+  - infobar:
+      title: Connect with us
+      id: infobar
+      description: Stay updated with our latest activities and news by following us on
+        social media!
+      button: Facebook
+      url: https://www.facebook.com/sapsanthonian/
 ---
