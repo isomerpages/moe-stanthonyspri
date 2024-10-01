@@ -15,12 +15,21 @@ CCA.</p>
 <p>Students can take up a second CCA only if:</p>
 </li>
 </ol>
-<blockquote><pre><code>i. They have good attendance records (at least 80%) in their first  CCA.
-ii.	Parental permission has been granted.
-iii.	There is a vacancy in the CCA.
-iv.	The two CCAs practices are not conducted concurrently or have events that are concurrent.
-v.	It does not affect their studies negatively.</code></pre>
-</blockquote>
+<ul data-tight="true" class="tight">
+<li>
+<p>They have good attendance records (at least 80%) in their first CCA.</p>
+</li>
+<li>
+<p>Parental permission has been granted.</p>
+</li>
+<li>
+<p>There is a vacancy in the CCA.</p>
+</li>
+<li>
+<p>The two CCAs practices are not conducted concurrently or have events that
+are concurrent. v. It does not affect their studies negatively.</p>
+</li>
+</ul>
 <ol start="3">
 <li>
 <p>All members must attend their training sessions regularly. A minimum of
