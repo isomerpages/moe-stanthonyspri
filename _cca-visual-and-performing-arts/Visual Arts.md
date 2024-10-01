@@ -17,14 +17,25 @@ Youth Festival (SYF) and PAssionArts exhibitions.</p>
 </div>
 <p>*Students will be selected by art teachers.</p>
 <p><strong><em><u>Objective(s)</u></em>:</strong>
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To provide students with hands-on experiences
-of various art forms and develop their interests, skills and creativity
-in Visual Arts.</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To provide students with hands-on experiences of various art forms and
+develop their interests, skills and creativity in Visual Arts.</p>
+</li>
+</ul>
 <p><strong><em><u>Activities</u></em></strong>:</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exploration of various art forms.
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Creation of art pieces.
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Participation in art competitions, exhibitions
-and events.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Exploration of various art forms.</p>
+</li>
+<li>
+<p>Creation of art pieces.</p>
+</li>
+<li>
+<p>Participation in art competitions, exhibitions and events.</p>
+</li>
+</ul>
 <p><strong><em><u>Venues</u></em></strong>:
 <br>Art Room 1 and Art Room 2</p>
 <p><strong><em><u>Day(s) &amp; Time of Practice</u></em></strong>:</p>
