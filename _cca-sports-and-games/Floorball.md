@@ -49,8 +49,8 @@ and cardiovascular exercises.
 </p>
 </td>
 <td rowspan="2" colspan="2">
-<p>2 pm to 4 pm
-<br>(Competitive team)</p>
+<p><strong>2 pm to 4 pm <br>(Competitive team)</strong>
+</p>
 </td>
 </tr>
 <tr></tr>
