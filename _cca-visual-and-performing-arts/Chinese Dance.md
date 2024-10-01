@@ -9,21 +9,44 @@ variant: tiptap
 Performing Arts. Members will be involved in school performances, outdoor
 performances as well as school competitions throughout the year.</p>
 <p>&nbsp;<strong><em><u>Objective(s)</u></em>:</strong>
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cultivate members’ interest in Chinese
-Dance.
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Instill team spirit, unity and respect
-amongst members.
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Provide members with opportunities to
-explore and appreciate Chinese culture.</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Cultivate members’ interest in Chinese Dance.</p>
+</li>
+<li>
+<p>Instill team spirit, unity and respect amongst members.</p>
+</li>
+<li>
+<p>Provide members with opportunities to explore and appreciate Chinese culture.</p>
+</li>
+</ul>
 <p>&nbsp;<strong><em><u>Activities</u></em>:</strong>
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chinese New Year Performance
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Outdoor Performances
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prize-Giving Day Performance
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SYF Art Presentation</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chinese New Year Performance</p>
+</li>
+<li>
+<p>Outdoor Performances</p>
+</li>
+<li>
+<p>Prize-Giving Day Performance</p>
+</li>
+<li>
+<p>SYF Art Presentation</p>
+</li>
+</ul>
 <p>&nbsp;<strong><em><u>Things to take note of</u></em>:</strong>
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Practice hours will be extended when necessary.
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Members will have the chance to attend
-relevant dance performances.</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Practice hours will be extended when necessary.</p>
+</li>
+<li>
+<p>Members will have the chance to attend relevant dance performances.</p>
+</li>
+</ul>
 <p>&nbsp;<strong><em><u>Venue(s)</u></em></strong>:
 <br>PAL Room and Dance Room</p>
 <p><strong><em><u>Day(s) &amp; Time of Practice</u></em></strong>:</p>
