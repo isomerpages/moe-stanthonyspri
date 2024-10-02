@@ -8,6 +8,14 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage/homepage photo carousel.gif
-  - resources:
-      button: Announcements & Highlights
+      title: Crescit Eundo
+      button: Announcements
+      url: https://www.stanthonyspri.moe.edu.sg/saps/announcements/
+      variant: center
+  - infobar:
+      title: Connect with us
+      id: infobar
+      description: Stay updated with our latest activities and news!
+      button: Facebook
+      url: https://www.facebook.com/sapsanthonian/
 ---

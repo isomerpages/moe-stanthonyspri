@@ -9,22 +9,34 @@ variant: tiptap
 and was formally initiated as a CCA in 2004. Pupils currently use LEGO
 Spikes to build their robots and solve missions.</p>
 <p><strong><em>Objective(s)</em>:</strong>
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To provide opportunities for pupils to
-work together effectively as a team to design, build and program a robot
-to perform the desired tasks.
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To encourage pupils to use the knowledge
-gained from completing a robotics task to enhance their learning in the
-classroom.</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To provide opportunities for pupils to work together effectively as a
+team to design, build and program a robot to perform the desired tasks.</p>
+</li>
+<li>
+<p>To encourage pupils to use the knowledge gained from completing a robotics
+task to enhance their learning in the classroom.</p>
+</li>
+</ul>
 <p><strong><em>Activities</em>:</strong>
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Junior members attend a basic training
-programme where they are introduced to the concept of Robotics and build
-and program robots to perform simple tasks. Senior members attend a more
-advanced training programme where they will learn how to use sensors and
-other Lego components to carry out more complex tasks.</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pupils interested in joining this CCA
-will have to undergo a selection test based on their performance in the
-Robotics Appreciation Day during the APEX week. Selected pupils will be
-invited to join the CCA when they are in Primary 3.</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Junior members attend a basic training programme where they are introduced
+to the concept of Robotics and build and program robots to perform simple
+tasks. Senior members attend a more advanced training programme where they
+will learn how to use sensors and other Lego components to carry out more
+complex tasks.</p>
+</li>
+<li>
+<p>Pupils interested in joining this CCA will have to undergo a selection
+test based on their performance in the Robotics Appreciation Day during
+the APEX week. Selected pupils will be invited to join the CCA when they
+are in Primary 3.</p>
+</li>
+</ul>
 <p><strong><em>Venue(s)</em></strong>:
 <br>Computer Labs</p>
 <p><strong><em>Day(s) &amp; Time of Training Session</em></strong>:</p>
