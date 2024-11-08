@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/homepage photo carousel.gif
+      background: /images/Hero_background_Nov_2024.gif
       title: Crescit Eundo
       button: Announcements
       url: https://www.stanthonyspri.moe.edu.sg/saps/announcements/
