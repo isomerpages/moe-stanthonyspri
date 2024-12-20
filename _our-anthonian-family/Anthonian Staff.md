@@ -151,18 +151,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Aesthetics)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Chang Li Ping</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lek_li_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lek_li_ping@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>School Staff Developer (SSD)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -212,6 +200,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Assistance Year Head (Middle Primary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Betsy Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_lai_fun_betsy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_lai_fun_betsy@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistance Year Head (Upper Primary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Liza Ahmad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:liza_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liza_ahmad@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Level Head (English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -220,6 +232,90 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_su_fern@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_su_fern@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level Head (Science)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Lina Liow</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sim_lu_ping_lina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_lu_ping_lina@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Aesthetics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Chang Li Ping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lek_li_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lek_li_ping@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Pupil Discipline)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Cherlyn Pang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_may_luang_cherlyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_may_luang_cherlyn@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Student Leadership)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Khoo Hwei Fang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:song_hwei_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">song_hwei_fang@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Chinese Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Sok Hoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_sok_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_sok_hoon@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Ed Tech)
+<br>(Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Angela Chia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="chia_angela@moe.edu.sg" rel="noopener nofollow" target="_blank">chia_angela@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -249,39 +345,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Ed Tech)
-<br>(Internal)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Angela Chia</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="chia_angela@moe.edu.sg" rel="noopener nofollow" target="_blank">chia_angela@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level Head (Science)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lina Liow</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sim_lu_ping_lina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_lu_ping_lina@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subject Head (Chinese Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lee Sok Hoon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_sok_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_sok_hoon@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -299,26 +380,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Pupil Discipline)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Cherlyn Pang</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koh_may_luang_cherlyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_may_luang_cherlyn@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Assistance Year Head (Upper Primary)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Liza Ahmad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:liza_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liza_ahmad@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -334,26 +402,35 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistance Year Head (Middle Primary)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Betsy Wong</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_lai_fun_betsy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_lai_fun_betsy@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Student Leadership)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Khoo Hwei Fang</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:song_hwei_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">song_hwei_fang@moe.edu.sg</a>
-</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
