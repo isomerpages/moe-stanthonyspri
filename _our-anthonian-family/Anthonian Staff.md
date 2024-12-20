@@ -139,18 +139,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD (Science)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Cheryl Nonis</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nonis_cheryl_dorothy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nonis_cheryl_dorothy@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>School Staff Developer (SSD)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -296,6 +284,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Subject Head (Special Educational Needs)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Daphne Chia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sim_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_hwee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Subject Head (Ed Tech)
 <br>(Internal)</p>
 </td>
@@ -304,29 +304,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="chia_angela@moe.edu.sg" rel="noopener nofollow" target="_blank">chia_angela@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ST(Mathematics)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Jasmine Foo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="chan_pei_cheng_jasmine@moe.edu.sg" rel="noopener nofollow" target="_blank">chan_pei_cheng_jasmine@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -345,28 +322,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Subject Head (Tamil &amp; Malay)
 <br>(Internal)</p>
 </td>
@@ -375,73 +330,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="gowri_raman_jathu@moe.edu.sg" rel="noopener nofollow" target="_blank">gowri_raman_jathu@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subject Head (Special Educational Needs)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Daphne Chia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sim_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_hwee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -490,6 +378,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_tzy_huey_josephine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_tzy_huey_josephine@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Jasmine Foo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="chan_pei_cheng_jasmine@moe.edu.sg" rel="noopener nofollow" target="_blank">chan_pei_cheng_jasmine@moe.edu.sg</a>
 </p>
 </td>
 </tr>
