@@ -199,7 +199,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (Upper Primary)</p>
+<p>Year Head (Upper Primary)
+<br>(Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Christopher Sagaram</p>
@@ -235,13 +236,27 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Mathematics)</p>
+<p>Subject Head (Mathematics)
+<br>(Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Rifa'ie (Nur Rezeki Bte Marzoki)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_rezeki_marzoki@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_rezeki_marzoki@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Ed Tech)
+<br>(Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Angela Chia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="chia_angela@moe.edu.sg" rel="noopener nofollow" target="_blank">chia_angela@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -271,7 +286,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Tamil &amp; Malay)</p>
+<p>Subject Head (Tamil &amp; Malay)
+<br>(Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Ramesh (Gowri d/o Raman Jathu)</p>
@@ -283,7 +299,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD (Pupil Discipline &amp; Leadership) (Covering)</p>
+<p>Subject Head (Pupil Discipline)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Cherlyn Pang</p>
@@ -295,7 +311,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Pupil Discipline &amp; Leadership)</p>
+<p>Assistance Year Head (Upper Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Liza Ahmad</p>
@@ -318,7 +334,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Student Development)</p>
+<p>Assistance Year Head (Middle Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Betsy Wong</p>
@@ -330,7 +346,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Citizenship &amp; Character Education)</p>
+<p>Subject Head (Student Leadership)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Khoo Hwei Fang</p>
@@ -1865,6 +1881,22 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zhu_shufen_jocelyn_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhu_shufen_jocelyn_b@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lynn Chong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Angeline Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
