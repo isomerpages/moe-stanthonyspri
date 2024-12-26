@@ -21,7 +21,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vision</p>
+<p><strong>Vision</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Learners for Life, Leaders for the Future, Lasallians for Others, in service of God, family and nation</strong> 
@@ -45,7 +46,8 @@ a better place, especially for the Last, the Lost and the Least among us.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mission</p>
+<p><strong>Mission</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><em>Enabling our children to learn how to learn and to learn how to live, to become persons of integrity and persons for others in God’s service</em></strong>
