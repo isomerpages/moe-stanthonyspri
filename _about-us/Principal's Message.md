@@ -4,4 +4,48 @@ permalink: /about-us/principal-message/
 description: ""
 variant: tiptap
 ---
-<h2>Principal's Message</h2><p></p><div class="isomer-image-wrapper"><img style="width: 35%;" height="auto" width="100%" alt="Mrs Esther Choo" src="/images/About Us/rsz_esther_choo_white_bg_wp.jpg"></div><p>Dear Parents and Guardians,<br><br>As I move into another year in St. Anthony’s Primary School, I am humbled by the privilege to lead and serve alongside a team of dedicated staff, supportive parents and our invaluable partners. I am grateful for the responsibility we share - to nurture, guide, and inspire our Anthonians, and to bring out the best in them.</p><p>In St Anthony's, we hold firm to the belief that every child is unique and each of them has his or her strengths, interests and potential. Our aim is to provide our Anthonians with experiences and opportunities that help uncover their strengths and passions, while instilling values that go beyond the classroom. We aim to instill in them not just knowledge, but also the curiosity, empathy, and resilience needed to navigate life with grace and purpose. As espoused in our school’s mission, we will enable our children to <em>learn how to learn</em> and to <em>learn how to live</em>, to become persons of integrity and persons for others in God's service. It is our hope and belief that our Anthonians will always do their personal best, always ready to serve and be a blessing to others.<br></p><p>This year holds special significance for us as we celebrate our school’s 145th anniversary. It is a milestone that fills our heart with humility and gratitude as we look back at the journey that has shaped us into who we are today – collective effort of countless hands and hearts.</p><p>The challenges brought by the pandemic have tested our resilience, yet they have also highlighted our unity and gratitude for each other's support.</p><p>&nbsp;As we navigate the year ahead, our commitment to faith, gratitude, and togetherness remains unwavering. We will remain faithful to God and be grateful for the blessings that each day brings. May this year be filled with moments of humility, growth, and a shared sense of purpose as we work in close partnership to develop and take care of our Anthonians. <br><br>Have a blessed year ahead and may God bless you. <br><br>Crescit Eundo<br><br>Yours in Partnership,<br>Mrs Esther Choo<br>Principal</p>
+<h2>Principal's Message</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="Mrs Esther Choo" src="/images/About Us/rsz_esther_choo_white_bg_wp.jpg">
+</div>
+<p>Dear Parents and Guardians,
+<br>
+</p>
+<p>Welcome to another year of learning and growth. As we embark on the year,
+we are grateful for God’s love, a dedicated team of staff, and supportive
+parents and stakeholders in our journey of growing and developing our Anthonians.</p>
+<p>This year, we are guided by our new vision of nurturing our Anthonians
+as<strong><em> Learners for Life, Leaders for the Future, and Lasallians for Others, in service of God, family, and nation. </em></strong>This
+is at the core of our educational philosophy and guides our approach as
+we nurture and develop our Anthonians to reach their fullest potential.</p>
+<p>At the heart of our mission is a commitment to <strong><em>enable our children to learn how to learn</em></strong> and
+to <strong><em>learn how to live</em></strong>. We believe that education
+is not only about acquiring knowledge but also about developing the skills
+to apply that knowledge in meaningful ways.</p>
+<p>To grow our Anthonians as <strong><em>Learners for Life</em></strong>,
+we seek to equip them with the skills and passion to continuously grow,
+adapt, and thrive in an ever-changing world. We encourage them to embrace
+a Growth mindset, and nurture in them the disposition of curiosity and
+courage, openness and ownership, reflectiveness and enthusiasm.</p>
+<p>In shaping <strong><em>Leaders for the Future</em></strong>, we prepare
+our Anthonians to take on challenges with confidence, responsibility, and
+compassion. Through building leadership skills in them, Anthonians will
+be empowered to positively influence others and to serve and make meaningful
+contributions to their communities.</p>
+<p>Rooted in the Lasallian values and tradition, our Anthonians are reminded
+to be <strong>Lasallians for Others</strong>, to live lives of service,
+not only for themselves but also for others. We encourage them to be persons
+for others, guided by the example of our founder St. John Baptist de La
+Salle, serving God, family, and nation with humility, compassion, and dedication.</p>
+<p>As we navigate the year ahead, we will continue to grow in faith, service
+and community, and to be grateful for the blessings that each day brings.
+We look forward to working in close partnership with you to develop and
+care for our Anthonians.</p>
+<p>&nbsp;Have a blessed year ahead and may God bless you.
+<br>
+<br>Crescit Eundo
+<br>
+<br>Yours in Partnership,
+<br>Mrs Esther Choo
+<br>Principal</p>
