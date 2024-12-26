@@ -83,7 +83,7 @@ learn and re-invent ourselves regardless of obstacles or failures.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><em>Faith ~ Service ~ Community<br></em><br>As Lasallians, we believe in serving in love by taking action through personal and societal commitment, solidarity and that together we are strong.<em><br><br></em></strong>·&nbsp;Faith&nbsp;–
+<p><strong><em>Faith ~ Service ~ Community<br></em>As Lasallians, we believe in serving in love by taking action through personal and societal commitment, solidarity and that together we are strong.<em><br><br></em></strong>·&nbsp;Faith&nbsp;–
 Lasallians believe in God, in others and in ourselves.
 <br>
 <br>·&nbsp;Service&nbsp;– Lasallians seek to be a blessing to others and make
