@@ -581,6 +581,15 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mrs Daphne Chia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="sim_hwee@moe.edu.sg" rel="noopener nofollow" target="_blank">sim_hwee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Nazirul</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -612,6 +621,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:koh_hui_ping_emily@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_hui_ping_emily@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Azura Bte Azmi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="nur_azura_azmi@moe.edu.sg" rel="noopener nofollow" target="_blank">nur_azura_azmi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1033,7 +1051,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur AAzura Bte Azmi</p>
+<p>Mdm Nur Azura Bte Azmi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="nur_azura_azmi@moe.edu.sg" rel="noopener nofollow" target="_blank">nur_azura_azmi@moe.edu.sg</a>
