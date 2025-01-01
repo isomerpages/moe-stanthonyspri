@@ -188,7 +188,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistance Year Head (Middle Primary)</p>
+<p>Assistant Year Head (Middle Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Betsy Wong</p>
@@ -200,7 +200,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistance Year Head (Upper Primary)</p>
+<p>Assistant Year Head (Upper Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Liza Ahmad</p>
@@ -674,8 +674,7 @@ variant: tiptap
 <p>Ms Yvonne Tan Lian Zhi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wang_fangfang_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_fangfang_a@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
