@@ -1362,7 +1362,7 @@ variant: tiptap
 <p>4 INTEGRITY (IY)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Harbans Kaur Kullar</p>
+<p>Mrs Vasu (Harbans Kaur Kullar-Vasu)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="harbans_kaur@moe.edu.sg" rel="noopener nofollow" target="_blank">harbans_kaur@moe.edu.sg</a>
