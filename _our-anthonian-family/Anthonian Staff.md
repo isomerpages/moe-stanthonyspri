@@ -1468,7 +1468,7 @@ variant: tiptap
 <p>5 RESPECT (RT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Edwin Ong Shaoxian</p>
+<p>Mr Edwin Ong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="ong_shaoxian_edwin@moe.edu.sg" rel="noopener nofollow" target="_blank">ong_shaoxian_edwin@moe.edu.sg</a>
@@ -1878,7 +1878,8 @@ variant: tiptap
 <p>Ms Lynn Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">chong_lee_yin_c@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1886,7 +1887,8 @@ variant: tiptap
 <p>Ms Angeline Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="angeline_lim_gnuk_youn@moe.edu.sg" rel="noopener nofollow" target="_blank">angeline_lim_gnuk_youn@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
