@@ -1886,6 +1886,15 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Mary Ang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="ang_mary@moe.edu.sg" rel="noopener nofollow" target="_blank">ang_mary@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>Student Counsellors</h4>
