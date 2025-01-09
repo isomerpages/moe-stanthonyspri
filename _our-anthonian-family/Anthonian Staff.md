@@ -991,7 +991,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Zhang Peiqi</p>
+<p>Mdm Zhang Peiqi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="zhang_peiqi@moe.edu.sg" rel="noopener nofollow" target="_blank">zhang_peiqi@moe.edu.sg</a>
@@ -1030,7 +1030,8 @@ variant: tiptap
 <p>Ms Sim Hui Xian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="sim_hui_xian@moe.edu.sg" rel="noopener nofollow" target="_blank">sim_hui_xian@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1226,7 +1227,8 @@ variant: tiptap
 <p>Mrs Tay Hwee Bin Jareen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="tay_hwee_bin_jareen@moe.edu.sg" rel="noopener nofollow" target="_blank">tay_hwee_bin_jareen@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1511,10 +1513,11 @@ variant: tiptap
 <p>5 RESPONSIBILITY (RY)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Li Ying</p>
+<p>Mrs Xing Li Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="lee_li_ying_a@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_li_ying_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1582,10 +1585,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Lam Yen</p>
+<p>Mdm Nancy Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="tan_lam_yen@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_lam_yen@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
