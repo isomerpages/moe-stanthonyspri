@@ -530,7 +530,8 @@ variant: tiptap
 <p>Ms Nur Qamarina Binti Abas</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="Qamarina.Abas@staff.spydus.com.sg" rel="noopener nofollow" target="_blank">Qamarina.Abas@staff.spydus.com.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1937,4 +1938,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><a href="Qamarina.Abas@staff.spydus.com.sg" rel="noopener nofollow" target="_blank">Qamarina.Abas@staff.spydus.com.sg</a>
+</p>
