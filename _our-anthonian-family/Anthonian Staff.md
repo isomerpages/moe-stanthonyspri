@@ -416,6 +416,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Admin Team</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -423,42 +435,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_tian_nah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_tian_nah@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr How Wan Kiat</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:how_wan_kiat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">how_wan_kiat@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Chong Chee Hong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="chong_chee_hong@moe.edu.sg" rel="noopener nofollow" target="_blank">chong_chee_hong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ICT Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lim Suan Chu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_suan_chu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_suan_chu@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -476,7 +452,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Corporate Support Staff</p>
+<p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Kiliammal d/o Kathamuthu</p>
@@ -495,6 +471,42 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:erma_marlini_sani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">erma_marlini_sani@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Librarian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Qamarina Binti Abas</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="Qamarina.Abas@staff.spydus.com.sg" rel="noopener nofollow" target="_blank">Qamarina.Abas@staff.spydus.com.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ICT Team</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Suan Chu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_suan_chu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_suan_chu@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -524,13 +536,37 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Librarian</p>
+<p><strong>Operations Team</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Qamarina Binti Abas</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="Qamarina.Abas@staff.spydus.com.sg" rel="noopener nofollow" target="_blank">Qamarina.Abas@staff.spydus.com.sg</a>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr How Wan Kiat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:how_wan_kiat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">how_wan_kiat@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chong Chee Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="chong_chee_hong@moe.edu.sg" rel="noopener nofollow" target="_blank">chong_chee_hong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
