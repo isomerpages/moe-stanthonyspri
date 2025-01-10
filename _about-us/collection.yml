@@ -2,11 +2,11 @@ collections:
   about-us:
     output: true
     order:
-      - SAPS 145th Anniversary Events & Updates.md
-      - School Vision, Mission, Motto and Values.md
-      - The Lasallian Family.md
-      - School Rules.md
-      - School Information.md
-      - School Identity.md
       - Principal's Message.md
+      - The Lasallian Family.md
+      - School Vision, Mission, Motto and Values.md
+      - School Information.md
+      - School Rules.md
+      - School Identity.md
       - Anthonian Productions.md
+      - SAPS 145th Anniversary Events & Updates.md
