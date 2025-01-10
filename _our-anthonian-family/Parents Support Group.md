@@ -21,8 +21,79 @@ between parents, teachers, and the community.</p>
 </li>
 </ul>
 <h4>PSG Executive Committee</h4>
-<p><strong>Chairperson: Mdm Yammie Yam<br>Vice-chairperson: Mr Edward Ho<br>Secretary: Mdm Alice Ng<br>Assistant Secretary: Mdm Juliana Mohamed<br>Treasurer: Mdm Geraldine Koon<br>Assistant Treasurer: Mdm Zann Chen<br>Executive Members: Mdm Alice Lim, Mdm Inda Lim</strong>
-</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Chairperson</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Mdm Yammie Yam</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-chairperson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Edward Ho</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Alice Ng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Juliana Mohamed</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Treasurer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Geraldine Koon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Treasurer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Zann Chen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Executive Members</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Alice Lim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Executive Members</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Inda Lim</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>The school believes in fostering strong partnerships with homes. Parents
 of our Anthonians are invited to participate in and contribute to a range
 of programmes and activities based on their areas of interest and/or expertise.</p>
@@ -40,8 +111,7 @@ As a PSG member, you will be helping to make the school a more vibrant
 and caring place for our children to learn, live and grow in.</p>
 <p>If you are keen to be part of the PSG, please indicate your interest&nbsp;
 <a href="https://form.gov.sg/#!/6171018de2dc370013d286c1" rel="noopener noreferrer nofollow" target="_blank">here</a>, and we will get in touch with you.</p>
-<p>School website: <a rel="noopener noreferrer nofollow" target="_blank">https://www.stanthonyspri.moe.edu.sg/our-anthonian-family/parents-support-group/</a>
-</p>
+<p></p>
 <p>If you have any enquiries, please write to our SSD, Mdm Lau Kai Yen (
 <a href="mailto:Lau_kai_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lau_kai_yen@moe.edu.sg</a>), or the PSG EXCO (<a href="mailto:sapspsg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">sapspsg@gmail.com</a>).</p>
 <div class="isomer-image-wrapper">
