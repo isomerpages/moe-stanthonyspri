@@ -29,11 +29,20 @@ between parents, teachers, and the community.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Chairperson</p>
+<p>Name</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mdm Yammie Yam</p>
+<p><strong>Designation</strong>
+</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chairperson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Yammie Yam</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
