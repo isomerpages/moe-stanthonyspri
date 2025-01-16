@@ -25,7 +25,7 @@ variant: tiptap
 <p>Mrs Esther Choo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_lung_eng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">GOH_Lung_Eng@schools.gov.sg</a>
+<p><a href="mailto:goh_lung_eng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_lung_eng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -43,7 +43,7 @@ variant: tiptap
 <p>Ms Anna Mathew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mathew_anna@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mathew_ANNA@schools.gov.sg</a>
+<p><a href="mailto:mathew_anna@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mathew_anna@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -52,7 +52,7 @@ variant: tiptap
 <p>Mr Tee Leng Teck</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tee_leng_teck@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tee_Leng_Teck@schools.gov.sg</a>
+<p><a href="mailto:tee_leng_teck@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tee_leng_teck@schools.gov.sg</a>
 </p>
 </td>
 </tr>
