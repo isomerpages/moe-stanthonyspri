@@ -1171,7 +1171,8 @@ variant: tiptap
 <p>Ms Joanne Deng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:joanne_deng_min-min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joanne_deng_min-min@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1492,10 +1493,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Raihana</p>
+<p>Mdm Siti Nurhamizah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="siti_raihana_ismail@moe.edu.sg" rel="noopener nofollow" target="_blank">siti_raihana_ismail@moe.edu.sg</a>
+<p><a href="siti_nurhamizah_mohd_ebrahim@moe.edu.sg" rel="noopener nofollow" target="_blank">siti_nurhamizah_mohd_ebrahim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1713,10 +1714,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Nurhamizah</p>
+<p>Mdm Siti Raihana</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="siti_nurhamizah_mohd_ebrahim@moe.edu.sg" rel="noopener nofollow" target="_blank">siti_nurhamizah_mohd_ebrahim@moe.edu.sg</a>
+<p><a href="siti_raihana_ismail@moe.edu.sg" rel="noopener nofollow" target="_blank">siti_raihana_ismail@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1947,7 +1948,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Student Counsellors</h4>
+<h4>School  Counsellors</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
