@@ -1948,7 +1948,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>School  Counsellors</h4>
+<h4>School Counsellors</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1975,5 +1975,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><a href="Qamarina.Abas@staff.spydus.com.sg" rel="noopener nofollow" target="_blank">Qamarina.Abas@staff.spydus.com.sg</a>
-</p>
+<p></p>
