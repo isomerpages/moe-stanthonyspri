@@ -1912,15 +1912,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lynn Chong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chong_lee_yin_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_lee_yin_c@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Angeline Lim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1952,6 +1943,24 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:noraini_mohamed_yusope@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noraini_mohamed_yusope@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lynn Chong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chong_lee_yin_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_lee_yin_c@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Jammie Chua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chuang_jammie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chuang_jammie@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
