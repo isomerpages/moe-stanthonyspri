@@ -105,7 +105,7 @@ an opt-out form. This form will be communicated &nbsp;to parents at the
 start of the year and is also downloadable <a href="https://form.gov.sg/67852c0f12c478fcec4bd9e9" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
 opt-out form is to be submitted by 03/02/2025.
 <br>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact Mrs Karen
-Yip at <a rel="noopener noreferrer nofollow" target="_blank">teh_may_ching_karen@moe.edu.sg</a> or
+Yip at <a href="mailto:teh_may_ching_karen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teh_may_ching_karen@moe.edu.sg</a> or
 65690822 for discussion or to seek clarification about the school’s Sexuality
 Education programme.
 <br>
