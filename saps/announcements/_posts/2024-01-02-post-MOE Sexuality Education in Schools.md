@@ -46,9 +46,9 @@ decisions for yourself, your family and society; and
 <br>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence before
 marriage is the best protection against STIs/HIV and unintended pregnancies.
 Casual sex can harm and hurt you and your loved ones.</p>
-<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here </a>&nbsp;for
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here&nbsp;</a>for
 more information on MOE Sexuality Education.</p>
-<p><strong>Overview of ST ANTHONY’S Primary School’s Sexuality Education Programme for 2024</strong>
+<p><strong>Overview of ST ANTHONY’S Primary School’s Sexuality Education Programme for 2025</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 is delivered in a holistic manner through the school curriculum. The content
@@ -83,16 +83,17 @@ healthy and rewarding relationships with others, including those with members
 of the opposite sex. Students are also guided to make wise, informed and
 responsible decisions to keep themselves safe from sexuality-related risks.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Sexuality_P5v2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_P5a.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_P5av2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_P5b.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_P6v2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_P6.jpg">
 </div>
 <p><strong>Information for Parents</strong>
 <br>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their
@@ -101,8 +102,8 @@ Education programmes by MOE-approved external providers.
 <br>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
 opt their children out of the Sexuality Education lessons need to complete
 an opt-out form. This form will be communicated &nbsp;to parents at the
-start of the year and is also downloadable <a href="https://form.gov.sg/65ad34305208bb001269f53c" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
-opt-out form is to be submitted by 15/02/2024.
+start of the year and is also downloadable <a href="https://form.gov.sg/67852c0f12c478fcec4bd9e9" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
+opt-out form is to be submitted by 03/02/2025.
 <br>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact Mrs Karen
 Yip at <a rel="noopener noreferrer nofollow" target="_blank">teh_may_ching_karen@moe.edu.sg</a> or
 65690822 for discussion or to seek clarification about the school’s Sexuality
