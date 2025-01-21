@@ -46,7 +46,7 @@ decisions for yourself, your family and society; and
 <br>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence before
 marriage is the best protection against STIs/HIV and unintended pregnancies.
 Casual sex can harm and hurt you and your loved ones.</p>
-<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here </a>&nbsp;for
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here&nbsp;</a>for
 more information on MOE Sexuality Education.</p>
 <p><strong>Overview of ST ANTHONY’S Primary School’s Sexuality Education Programme for 2025</strong>
 </p>
