@@ -606,18 +606,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Chee Loi Ying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chee_loi_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chee_loi_ying@moe.edu.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4>Special Educational Needs (SEN) Officers &amp;<br>Allied Educators (AED) Team</h4>
