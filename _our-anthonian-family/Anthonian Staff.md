@@ -464,6 +464,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Administrative Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Harianti Abdullah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:harianti_abdullah@moe.edu.sg" rel="noopener nofollow" target="_blank">harianti_abdullah@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Administrative Support Staff</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -591,18 +603,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zainilam_jaafar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zainilam_jaafar@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Chee Loi Ying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chee_loi_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chee_loi_ying@moe.edu.sg</a>
 </p>
 </td>
 </tr>
