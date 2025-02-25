@@ -1311,7 +1311,7 @@ variant: tiptap
 <p>Ms Lynn Chong Lee Yin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chong_lee_yin_b@moe.edu.sg" rel="noopener nofollow" target="_blank">chong_lee_yin_b@moe.edu.sg</a>
+<p><a href="mailto:chong_lee_yin_c@moe.edu.sg" rel="noopener nofollow" target="_blank">chong_lee_yin_c@moe.edu.sg</a>
 </p>
 </td>
 </tr>
