@@ -12,10 +12,17 @@ sections:
       button: Announcements
       url: https://www.stanthonyspri.moe.edu.sg/saps/announcements/
       variant: center
-  - infobar:
+  - textcards:
       title: Connect with us
-      id: infobar
+      id: textcards
       description: Stay updated with our latest activities and news!
-      button: Facebook
-      url: https://www.facebook.com/sapsanthonian/
+      cards:
+        - title: Facebook
+          description: ""
+          linktext: SAPS Facebook
+          url: https://www.facebook.com/sapsanthonian/
+        - title: Instagram
+          description: ""
+          linktext: SAPS Instagram
+          url: https://www.instagram.com/saps_sg
 ---
