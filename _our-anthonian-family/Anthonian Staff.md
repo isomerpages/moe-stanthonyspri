@@ -494,7 +494,7 @@ variant: tiptap
 <p>Mdm Siti Raudhah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Qamarina.Abas@staff.spydus.com.sg" rel="noopener nofollow" target="_blank">Qamarina.Abas@staff.spydus.com.sg</a>
+<p><a href="mailto:siti.raudhah@staff.spydus.com.sg" rel="noopener nofollow" target="_blank">siti.raudhah@staff.spydus.com.sg</a>
 </p>
 </td>
 </tr>
