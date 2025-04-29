@@ -491,7 +491,7 @@ variant: tiptap
 <p>Librarian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Qamarina Binti Abas</p>
+<p>Mdm Siti Raudhah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Qamarina.Abas@staff.spydus.com.sg" rel="noopener nofollow" target="_blank">Qamarina.Abas@staff.spydus.com.sg</a>
@@ -615,6 +615,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:balasaraswathi_krishnansamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">balasaraswathi_krishnansamy@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ang Mui Eng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">ang_mui_eng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1991,6 +2003,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:renee_kwan_yong_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">renee_kwan_yong_li@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Lee Le Xin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_le_xin_a@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_le_xin_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
