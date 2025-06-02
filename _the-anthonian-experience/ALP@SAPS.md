@@ -71,6 +71,10 @@ prototypes using Micro:bits. Likewise, Primary 5 Anthonians delve in CoSpaces
 where they build digital interactive content. These projects help students
 to consolidate their learning of the various coding skills and apply them
 to a real-life situation.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture8.jpg">
+</div>
 <p>Students are able to take items apart, put things together, and dream
 of imaginative creations. The notion of multiple attempts, refining designs,
 and failure are all inherent with engaging students to take risks. This
@@ -88,7 +92,5 @@ teach an AI system such that it becomes more reliable.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture7.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture9.jpg">
-</div>
+<p></p>
 <p></p>
