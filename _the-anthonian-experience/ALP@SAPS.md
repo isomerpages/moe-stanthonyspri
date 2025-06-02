@@ -10,10 +10,10 @@ variant: tiptap
 to Primary 6 Anthonians, to equip them with the fundamentals of computational
 thinking, inventive thinking and critical thinking skills through Coding
 and Makerspace.&nbsp;</p>
-<p>The programme provides opportunities for students to acquire 21st Century
-Competencies and experience the joy of learning for life beyond academic
-pursuits to become confident persons, self-directed learners, active contributors
-and concerned citizens.</p>
+<p>The programme provides opportunities for students to acquire 21st-century
+competencies and experience the joy of learning for life, extending beyond
+academic pursuits to become confident individuals, self-directed learners,
+active contributors, and concerned citizens.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP_Framework_image.png">
 </div>
@@ -64,7 +64,7 @@ is aligned to the school direction towards having a growth mindset.&nbsp;</p>
 <p>In the Smart Thinkers programme, the application of “FEEL, IMAGINE, DO,
 SHARE” is designed to prime Anthonians to think about problem solving in
 an empathetic way; recognising them as capable young change makers. Primary
-3 and 4 Anthonians learn block coding with a Micro:bit, which is a pocket-sized,
+3 and 4 Anthonians learn block coding with a Microbit, which is a pocket-sized,
 codeable computer. They also learnt about biodiversity, identified some
 issues that they feel are problems, brainstormed solutions and built their
 prototypes using Micro:bits. Likewise, Primary 5 Anthonians delve in CoSpaces
@@ -85,5 +85,12 @@ Sphero bots to interact with each other via bluetooth and coding. They
 are also introduced to what is Artificial Intelligence (AI) and how we
 teach an AI system such that it becomes more reliable.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture7.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture9.jpg">
+</div>
 <p></p>
-<p>(identifying and rectifying errors through logical thinking)</p>
+<p></p>
+<p></p>
