@@ -3,18 +3,18 @@ collections:
     output: true
     order:
       - Overview.md
-      - Curriculum@SAPS/Student Leadership.md
       - Curriculum@SAPS/.keep
-      - Curriculum@SAPS/Aesthetics.md
-      - Curriculum@SAPS/Character and Citizenship Education.md
-      - Curriculum@SAPS/Education Technology.md
-      - Curriculum@SAPS/Environmental Education.md
       - Curriculum@SAPS/English.md
       - Curriculum@SAPS/Mathematics.md
-      - Curriculum@SAPS/Mother Tongue.md
-      - Curriculum@SAPS/Physical and Sports Education.md
-      - Curriculum@SAPS/Student Discipline.md
       - Curriculum@SAPS/Science.md
+      - Curriculum@SAPS/Mother Tongue.md
+      - Curriculum@SAPS/Character and Citizenship Education.md
+      - Curriculum@SAPS/Physical and Sports Education.md
+      - Curriculum@SAPS/Aesthetics.md
+      - Curriculum@SAPS/Education Technology.md
+      - Curriculum@SAPS/Environmental Education.md
+      - Curriculum@SAPS/Student Discipline.md
+      - Curriculum@SAPS/Student Leadership.md
       - Curriculum@SAPS/Student Development.md
       - CCA@SAPS/.keep
       - CCA@SAPS/CCA@SAPS.md
