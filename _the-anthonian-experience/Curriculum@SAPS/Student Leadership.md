@@ -22,6 +22,13 @@ a growth mindset. Leadership learning is embedded in the curriculum and
 reinforced through daily routines. This stage nurtures self-awareness and
 self-management, forming the building blocks of effective leadership.</p>
 </li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student_Leadership_d.jpg">
+</div>
+<p></p>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>Tier 2 – Leading Peers</strong>: Students begin to lead within
 their immediate circles. Opportunities include serving on Class Committees
@@ -30,6 +37,11 @@ on roles as Student Ministry Leaders and CCA Leaders. These platforms help
 students practise communication, collaboration, and peer influence in authentic
 contexts.</p>
 </li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student_Leadership_c.jpg">
+</div>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>Tier 3 – Leading Teams</strong>: At this stage, students are entrusted
 with greater responsibilities. Leadership roles include Prefects, School
@@ -37,16 +49,28 @@ CyTech Champions, and Peer Support Leaders. These students represent their
 peers, initiate projects, and support school-wide initiatives, honing their
 skills in decision-making and team leadership.</p>
 </li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student_Leadership_b.jpg">
+</div>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>Tier 4 – Leading Leaders</strong>: This tier features our most
 experienced student leaders—those who serve as executive committee members
 in the Prefectorial Board, School CyTech Leadership Board, and Peer Support
 Squad. These leaders mentor their juniors, spearhead impactful initiatives,
 and influence positive change at the school level.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student_Leadership.jpg">
+</div>
+<p></p>
 </li>
-</ul>
+<li>
 <p>Each tier is purposefully designed to align with students’ developmental
 stages:</p>
+</li>
+</ul>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -94,20 +118,7 @@ stages:</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>Through this tiered approach, our school aims to nurture compassionate,
-confident, and capable student leaders who lead with purpose and heart.</p>
+<p>Through this tiered approach, our school <strong>aims to nurture compassionate, confident, and capable student leaders who lead with purpose and heart</strong>.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student_Leadership_1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student_Leadership_2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student_Leadership_4.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student_Leadership_3.jpg">
-</div>
 <p></p>
