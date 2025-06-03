@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Curriculum@SAPS/Student Leadership.md
       - Curriculum@SAPS/.keep
       - Curriculum@SAPS/Aesthetics.md
       - Curriculum@SAPS/Character and Citizenship Education.md
