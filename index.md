@@ -25,4 +25,8 @@ sections:
           description: ""
           linktext: SAPS Instagram
           url: https://www.instagram.com/saps_sg
+        - title: SAPS School Tour 2025
+          description: Join us in our student lead school tour.
+          linktext: Click here to register
+          url: https://www.stanthonyspri.moe.edu.sg/saps-tour-2025/
 ---
