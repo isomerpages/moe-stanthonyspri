@@ -8,12 +8,9 @@ notification: ""
 sections:
   - hero:
       background: /images/Hero_background_Nov_2024.gif
-      title: Crescit Eundo
-      button: Announcements
-      url: https://www.stanthonyspri.moe.edu.sg/saps/announcements/
       variant: center
   - textcards:
-      title: Connect with us
+      title: Connect with St. Anthony's Primary School
       id: textcards
       description: Stay updated with our latest activities and news!
       cards:
@@ -27,6 +24,10 @@ sections:
           url: https://www.instagram.com/saps_sg
         - title: SAPS School Tour 2025
           description: ""
-          linktext: Click here to register.
+          linktext: Click to register
           url: https://www.stanthonyspri.moe.edu.sg/saps-tour-2025/
+        - title: Announcements
+          description: ""
+          linktext: Click for the latest news
+          url: https://www.stanthonyspri.moe.edu.sg/saps/announcements/
 ---
