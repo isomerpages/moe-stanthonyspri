@@ -1,5 +1,5 @@
 collections:
-  cca-visual-and-performing-arts:
+  visual-and-performing-arts:
     output: true
     order:
       - Choir.md
