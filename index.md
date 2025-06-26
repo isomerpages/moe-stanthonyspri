@@ -16,11 +16,11 @@ sections:
       cards:
         - title: Facebook
           description: ""
-          linktext: SAPS Facebook
+          linktext: Click to see what’s new at SAPS!
           url: https://www.facebook.com/sapsanthonian/
         - title: Instagram
           description: ""
-          linktext: SAPS Instagram
+          linktext: Click to see what’s new at SAPS!
           url: https://www.instagram.com/saps_sg
         - title: SAPS School Tour 2025
           description: ""
@@ -28,6 +28,6 @@ sections:
           url: https://www.stanthonyspri.moe.edu.sg/saps-tour-2025/
         - title: Announcements
           description: ""
-          linktext: Click for the latest news
+          linktext: Click here to view the latest updates
           url: https://www.stanthonyspri.moe.edu.sg/saps/announcements/
 ---
