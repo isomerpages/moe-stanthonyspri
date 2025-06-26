@@ -10,17 +10,17 @@ sections:
       background: /images/Hero_background_Nov_2024.gif
       variant: center
   - textcards:
-      title: Connect with St. Anthony's Primary School
+      title: St. Anthony's Primary School
       id: textcards
-      description: Stay updated with our latest activities and news!
+      description: Experience the spirit of SAPS. Connect with us today!
       cards:
-        - title: Facebook
+        - title: SAPS Facebook
           description: ""
-          linktext: Click to see what’s new at SAPS!
+          linktext: Click here
           url: https://www.facebook.com/sapsanthonian/
-        - title: Instagram
+        - title: SAPS Instagram
           description: ""
-          linktext: Click to see what’s new at SAPS!
+          linktext: Click here
           url: https://www.instagram.com/saps_sg
         - title: SAPS School Tour 2025
           description: ""
@@ -30,4 +30,5 @@ sections:
           description: ""
           linktext: Click here to view the latest updates
           url: https://www.stanthonyspri.moe.edu.sg/saps/announcements/
+      subtitle: Crescit  Eundo
 ---
