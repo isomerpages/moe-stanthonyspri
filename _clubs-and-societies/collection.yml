@@ -1,5 +1,5 @@
 collections:
-  cca-clubs-and-societies:
+  clubs-and-societies:
     output: true
     order:
       - English Club.md
