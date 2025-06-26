@@ -1,5 +1,5 @@
 collections:
-  cca-sports-and-games:
+  sports-and-games:
     output: true
     order:
       - Football.md
