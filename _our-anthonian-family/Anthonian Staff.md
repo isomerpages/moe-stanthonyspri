@@ -641,15 +641,6 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Daphne Chia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sim_hwee@moe.edu.sg" rel="noopener nofollow" target="_blank">sim_hwee@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Nazirul</p>
 </td>
 <td rowspan="1" colspan="1">
