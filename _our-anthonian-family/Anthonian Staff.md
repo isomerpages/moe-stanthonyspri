@@ -1204,6 +1204,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Asmidarwaty</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Asmidarwaty_abu_bakar@moe.edu.sg" rel="noopener nofollow" target="_blank">Asmidarwaty_abu_bakar@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>3 RESILIENCE (RE)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1359,10 +1371,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhd Firdhaus</p>
+<p>Mdm Yasmin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_firdhaus_maarof@moe.edu.sg" rel="noopener nofollow" target="_blank">muhammad_firdhaus_maarof@moe.edu.sg</a>
+<p><a href="mailto:yasmin_harunnarashid@moe.edu.sg" rel="noopener nofollow" target="_blank">yasmin_harunnarashid@moe.edu.sg</a>
 </p>
 </td>
 </tr>
