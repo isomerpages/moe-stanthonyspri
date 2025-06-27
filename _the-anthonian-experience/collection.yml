@@ -2,6 +2,17 @@ collections:
   the-anthonian-experience:
     output: true
     order:
+      - ALP@SAPS.md
+      - CCA@SAPS/.keep
+      - CCA@SAPS/CCA@SAPS.md
+      - CCA@SAPS/Sports & Games.md
+      - CCA@SAPS/Visual & Performing Arts.md
+      - CCA@SAPS/Clubs & Societies.md
+      - CCA@SAPS/Uniformed Groups.md
+      - CCA@SAPS/Awards & Recognition.md
+      - CCA@SAPS/CCA Schedule.md
+      - CCA@SAPS/CCA Policy.md
+      - CCA@SAPS/Direct School Admission DSA Secondary.md
       - Curriculum@SAPS/.keep
       - Curriculum@SAPS/English.md
       - Curriculum@SAPS/Mathematics.md
@@ -15,15 +26,4 @@ collections:
       - Curriculum@SAPS/Student Discipline.md
       - Curriculum@SAPS/Student Leadership.md
       - Curriculum@SAPS/Student Development.md
-      - CCA@SAPS/.keep
-      - CCA@SAPS/CCA@SAPS.md
-      - CCA@SAPS/Sports & Games.md
-      - CCA@SAPS/Visual & Performing Arts.md
-      - CCA@SAPS/Clubs & Societies.md
-      - CCA@SAPS/Uniformed Groups.md
-      - CCA@SAPS/Awards & Recognition.md
-      - CCA@SAPS/CCA Schedule.md
-      - CCA@SAPS/CCA Policy.md
-      - CCA@SAPS/Direct School Admission DSA Secondary.md
-      - ALP@SAPS.md
       - LLP@SAPS.md
