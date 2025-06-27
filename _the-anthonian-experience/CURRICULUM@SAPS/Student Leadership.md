@@ -3,7 +3,7 @@ title: Student Leadership
 permalink: /student-leadership/
 variant: tiptap
 description: ""
-third_nav_title: Curriculum@SAPS
+third_nav_title: CURRICULUM@SAPS
 ---
 <p>At the heart of our school’s student leadership philosophy lies the belief
 that <strong>every child can be a leader</strong>. Our structured, progressive

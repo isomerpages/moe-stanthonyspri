@@ -2,7 +2,7 @@
 title: Science
 permalink: /the-anthonian-experience/CurriculumatSAPS/Science/
 description: ""
-third_nav_title: Curriculum@SAPS
+third_nav_title: CURRICULUM@SAPS
 variant: markdown
 ---
 ## Science
@@ -97,5 +97,3 @@ The E2K Science Programme offers opportunities for Anthonians to engage in scien
 **Useful links**
 
 *  [MOE Primary Science Syllabus](/files/science-primary-2014.pdf)
-
-  

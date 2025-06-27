@@ -2,7 +2,7 @@
 title: English
 permalink: /the-anthonian-experience/CurriculumatSAPS/English/
 description: ""
-third_nav_title: Curriculum@SAPS
+third_nav_title: CURRICULUM@SAPS
 variant: markdown
 ---
 ## English 

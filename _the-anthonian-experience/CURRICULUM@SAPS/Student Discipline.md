@@ -2,7 +2,7 @@
 title: Student Discipline
 permalink: /the-anthonian-experience/curriculumatsaps/pupils-discipline/
 description: ""
-third_nav_title: Curriculum@SAPS
+third_nav_title: CURRICULUM@SAPS
 variant: tiptap
 ---
 <h2>Pupils Discipline</h2>

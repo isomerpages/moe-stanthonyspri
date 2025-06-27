@@ -2,7 +2,7 @@
 title: Student Development
 permalink: /the-anthonian-experience/CurriculumatSAPS/Student-Development/
 description: ""
-third_nav_title: Curriculum@SAPS
+third_nav_title: CURRICULUM@SAPS
 variant: markdown
 ---
 ## Student Development 

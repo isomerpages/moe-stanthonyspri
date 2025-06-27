@@ -2,8 +2,8 @@ collections:
   sports-and-games:
     output: true
     order:
-      - Football.md
       - Badminton.md
-      - Sports Club.md
       - Floorball.md
+      - Football.md
+      - Sports Club.md
       - Tchoukball.md

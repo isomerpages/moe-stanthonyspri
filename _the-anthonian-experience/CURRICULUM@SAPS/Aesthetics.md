@@ -2,7 +2,7 @@
 title: Aesthetics
 permalink: /the-anthonian-experience/CurriculumatSAPS/Aesthetics/
 description: ""
-third_nav_title: Curriculum@SAPS
+third_nav_title: CURRICULUM@SAPS
 variant: markdown
 ---
 ## Aesthetics 

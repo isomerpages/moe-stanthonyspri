@@ -2,19 +2,7 @@ collections:
   the-anthonian-experience:
     output: true
     order:
-      - Curriculum@SAPS/.keep
-      - Curriculum@SAPS/English.md
-      - Curriculum@SAPS/Mathematics.md
-      - Curriculum@SAPS/Science.md
-      - Curriculum@SAPS/Mother Tongue.md
-      - Curriculum@SAPS/Character and Citizenship Education.md
-      - Curriculum@SAPS/Physical and Sports Education.md
-      - Curriculum@SAPS/Aesthetics.md
-      - Curriculum@SAPS/Education Technology.md
-      - Curriculum@SAPS/Environmental Education.md
-      - Curriculum@SAPS/Student Discipline.md
-      - Curriculum@SAPS/Student Leadership.md
-      - Curriculum@SAPS/Student Development.md
+      - ALP@SAPS.md
       - CCA@SAPS/.keep
       - CCA@SAPS/CCA@SAPS.md
       - CCA@SAPS/Sports & Games.md
@@ -25,5 +13,17 @@ collections:
       - CCA@SAPS/CCA Schedule.md
       - CCA@SAPS/CCA Policy.md
       - CCA@SAPS/Direct School Admission DSA Secondary.md
-      - ALP@SAPS.md
+      - CURRICULUM@SAPS/.keep
+      - CURRICULUM@SAPS/English.md
+      - CURRICULUM@SAPS/Mathematics.md
+      - CURRICULUM@SAPS/Science.md
+      - CURRICULUM@SAPS/Mother Tongue.md
+      - CURRICULUM@SAPS/Character and Citizenship Education.md
+      - CURRICULUM@SAPS/Physical and Sports Education.md
+      - CURRICULUM@SAPS/Aesthetics.md
+      - CURRICULUM@SAPS/Education Technology.md
+      - CURRICULUM@SAPS/Environmental Education.md
+      - CURRICULUM@SAPS/Student Discipline.md
+      - CURRICULUM@SAPS/Student Leadership.md
+      - CURRICULUM@SAPS/Student Development.md
       - LLP@SAPS.md

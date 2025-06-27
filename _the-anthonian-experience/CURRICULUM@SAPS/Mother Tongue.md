@@ -2,7 +2,7 @@
 title: Mother Tongue
 permalink: /the-anthonian-experience/curriculum/mothertongue/
 description: ""
-third_nav_title: Curriculum@SAPS
+third_nav_title: CURRICULUM@SAPS
 variant: markdown
 ---
 ## Mother Tongue 

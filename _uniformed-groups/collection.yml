@@ -2,5 +2,5 @@ collections:
   uniformed-groups:
     output: true
     order:
-      - Scouts.md
       - Brownies.md
+      - Scouts.md

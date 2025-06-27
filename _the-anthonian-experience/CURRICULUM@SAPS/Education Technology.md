@@ -2,7 +2,7 @@
 title: Education Technology
 permalink: /the-anthonian-experience/CurriculumatSAPS/EducationTechnology/
 description: ""
-third_nav_title: Curriculum@SAPS
+third_nav_title: CURRICULUM@SAPS
 variant: tiptap
 ---
 <h2>Education Technology</h2>

@@ -2,7 +2,7 @@
 title: Physical and Sports Education
 permalink: /the-anthonian-experience/CurriculumatSAPS/Physical-and-Sports-Education/
 description: ""
-third_nav_title: Curriculum@SAPS
+third_nav_title: CURRICULUM@SAPS
 variant: markdown
 ---
 ## Physical and Sports Education  
