@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - For Parents/.keep
-      - For Parents/School Supplies and Bus Services.md
       - For Parents/Dental Service.md
-      - For Parents/Student Care Centre@SAPS.md
       - For Parents/Parents Gateway.md
+      - For Parents/School Supplies and Bus Services.md
+      - For Parents/Student Care Centre@SAPS.md
       - For Students/.keep
       - For Students/Student Learning Space & Student MIMS account.md
       - Others/.keep
