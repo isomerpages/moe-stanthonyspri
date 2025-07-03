@@ -4,7 +4,6 @@ permalink: /the-anthonian-experience/Sports-and-Games/Football/
 description: ""
 variant: tiptap
 ---
-<h2>Football</h2>
 <p>The Football CCA imparts sporting skills and teamwork to its members.
 Members persevere through the rigorous training sessions as a team to build
 their fitness, hone their skills and prepare to compete in the National
