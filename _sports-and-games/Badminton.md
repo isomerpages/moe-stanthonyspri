@@ -4,7 +4,6 @@ permalink: /the-anthonian-experience/Sports-and-Games/Badminton/
 description: ""
 variant: tiptap
 ---
-<h2>Badminton</h2>
 <p>Badminton is a Co-Curricular Activity (CCA) in SAPS that offers students
 an excellent opportunity to develop both physical skills and personal discipline
 in a fun and engaging environment. The objective of the CCA is to develop
