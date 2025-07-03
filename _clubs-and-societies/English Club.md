@@ -4,40 +4,69 @@ permalink: /the-anthonian-experience/Clubs-and-Societies/English-Club/
 description: ""
 variant: tiptap
 ---
-<h2>English Club</h2>
-<p>The English Club aims to promote the use of English and to provide members
-with opportunities to use English purposefully. Its activities often involve
-members’ participation in external competitions, making the learning experience
-both fun, dynamic and authentic.</p>
-<p><strong><em>Objective(s):</em></strong>
+<p>At SAPS, English Club is a supportive space where students develop language</p>
+<p>skills and grow as confident communicators. Open to all Primary 2 to 6
+students, the</p>
+<p>club offers enriching experiences through speaking, performance, and collaborative</p>
+<p>activities. In these activities, every child’s voice matter and learning
+comes to life</p>
+<p>through the power of performance.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English_6.jpg">
+</div>
+<p>&nbsp;</p>
+<p>Each week, students take part in a range of engaging activities designed
+to build theatre</p>
+<p>skills and support personal growth. Warm-up games and improvisation sharpen
+their</p>
+<p>focus, listening skills, and awareness of others. Through voice and movement
+work,</p>
+<p>they learn how to use pitch, tone, and posture to express meaning and
+emotion — skills</p>
+<p>that carry over into reading aloud, presentations, and everyday communication.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English_3.jpg">
+</div>
+<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English_5.jpg">
+</div>
+<p>English Club also introduces students to scripted plays and skits, often
+connected to</p>
+<p>School events. These performances allow them to practice memorization,
+teamwork,</p>
+<p>and public speaking. Pantomime and mime exercises teach them the power
+of non-</p>
+<p>verbal storytelling, helping them understand how body language and facial
+expression</p>
+<p>can speak volumes without words. Throughout all activities, the focus
+remains on</p>
+<p>student expression and growth. Children are encouraged to reflect on their</p>
+<p>performances, offer feedback to peers, and take ownership of their learning
+journey.</p>
+<p>Student voice is central. Children are encouraged to share ideas, and
+help shape the</p>
+<p>actions that are required in the telling of stories. Whether rehearsing
+a scene or</p>
+<p>playing a game, every child has the chance to shine and feel heard.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English_4.jpg">
+</div>
+<p><strong>CCA teachers-in-charge and emails:</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>To cultivate a love and appreciation for the English Language.</p>
-</li>
-<li>
-<p>To provide a language-rich environment for language acquisition.</p>
-</li>
-<li>
-<p>To equip members with the necessary skills for external competitions.</p>
-</li>
-</ul>
-<p><strong><em>Activities:</em></strong>
+<p>Mdm Vanitha Maniam</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">vanitha_maniam@moe.edu.sg</a>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Training in storytelling and presentation skills.</p>
-</li>
-<li>
-<p>Literature appreciation.</p>
-</li>
-<li>
-<p>Preparation for English Language Competitions such as drama performances.</p>
-</li>
-</ul>
+<p>Mrs Karen Yip</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">teh_may_ching_karen@moe.edu.sg</a>
+</p>
 <p><strong><em>Venue(s):</em></strong>
 <br>Music Room</p>
-<p><strong><em>Day(s) &amp; Time of Meeting</em></strong><em>:</em>
+<p><strong><em>Day &amp; Time:</em></strong>
 <br>
 </p>
 <table style="minWidth: 50px">
@@ -48,7 +77,7 @@ both fun, dynamic and authentic.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fridays&nbsp;&nbsp;&nbsp;</p>
+<p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 p.m. to 4 p.m.</p>
@@ -56,7 +85,4 @@ both fun, dynamic and authentic.</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023/english%20club1.jpg">
-</div>
 <p></p>
