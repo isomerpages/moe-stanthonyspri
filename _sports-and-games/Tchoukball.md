@@ -38,12 +38,12 @@ and cardiovascular exercises.</p>
 <p>Match play and sparring</p>
 </li>
 </ul>
-<p><strong>Day &amp; Time of Practice:</strong>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tchoukball_5.jpg">
 </div>
-<p>Thursday, 2:30 p.m. to 5:30 p.m.</p>
+<p><strong>Day &amp; Time of Practice: </strong><u>Thursday, 2:30 p.m. to 5:30 p.m.</u>
+</p>
 <p><strong>CCA teachers-in-charge and emails:</strong>
 </p>
 <p>Mr Ang Ben Yong (<a rel="noopener noreferrer nofollow" target="_blank">ang_ben_yong@moe.edu.sg</a> )</p>
