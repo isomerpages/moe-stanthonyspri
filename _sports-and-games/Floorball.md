@@ -62,6 +62,8 @@ teamwork, and integrity as proud representatives of the Anthonian community.</p>
 </p>
 <p><strong>CCA schedule for 2025:</strong>
 </p>
+<p><u>Day(s) and Time</u>
+</p>
 <p><strong>Tuesday</strong>:</p>
 <p>2 pm to 4 pm
 <br>(Recreational team)</p>
