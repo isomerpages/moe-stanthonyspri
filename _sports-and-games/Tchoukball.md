@@ -4,11 +4,11 @@ permalink: /the-anthonian-experience/Sports-and-Games/Tchoukball/
 description: ""
 variant: tiptap
 ---
-<p>The SAPS Tchoukball CCA provides members with a fun and engaging way to
-develop teamwork, agility, and strategic thinking. This unique, non-contact
-sport emphasises sportsmanship and cooperation, as players score by bouncing
-the ball off a rebound frame, aiming to land it in the opponent's zone
-without the opposing team catching it.</p>
+<p>Tchoukball provides members with a fun and engaging way to develop teamwork,
+agility, and strategic thinking. This unique, non-contact sport emphasises
+sportsmanship and cooperation, as players score by bouncing the ball off
+a rebound frame, aiming to land it in the opponent's zone without the opposing
+team catching it.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tchoukball_2.jpg">
 </div>
