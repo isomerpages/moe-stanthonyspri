@@ -16,9 +16,9 @@ to improve themselves and demonstrate good sportsmanship.</p>
 badminton helps students build strong motor skills while promoting a healthy
 and active lifestyle.</p>
 <p>During CCA sessions, students are introduced to the fundamental skills
-of badminton, including proper grip, footwork, basic strokes, and the rules
-of the game. As they progress, they engage in drills, friendly matches,
-and team activities that encourage teamwork, perseverance, and good sportsmanship.
+of badminton, including proper grip, footwork, basic strokes, and the game's
+rules. As they progress, they engage in drills, friendly matches, and team
+activities that encourage teamwork, perseverance, and good sportsmanship.
 Through guided practice, students not only enhance their technical abilities
 but also develop mental resilience and focus.</p>
 <p>Beyond physical development, the CCA cultivates essential values such
