@@ -4,13 +4,13 @@ permalink: /the-anthonian-experience/Sports-and-Games/Floorball/
 description: ""
 variant: tiptap
 ---
-<p>The Floorball CCA provides students with a dynamic platform to develop
-both athletic skills and strong character values through sport. As a fast-paced
-and strategic team game, floorball challenges students physically and mentally,
-nurturing a spirit of resilience, teamwork, and discipline. At the heart
-of the CCA is the belief that sports serve not just to hone technical ability,
-but to shape confident and respectful individuals who can overcome challenges
-together.</p>
+<p>Floorball is a Co-Curricular Activity (CCA) in SAPS that provides students
+with a dynamic platform to develop both athletic skills and strong character
+values through sport. As a fast-paced and strategic team game, floorball
+challenges students physically and mentally, nurturing a spirit of resilience,
+teamwork, and discipline. At the heart of the CCA is the belief that sports
+serve not just to hone technical ability, but to shape confident and respectful
+individuals who can overcome challenges together.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball_7.jpg">
 </div>
