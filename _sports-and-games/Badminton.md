@@ -5,25 +5,48 @@ description: ""
 variant: tiptap
 ---
 <h2>Badminton</h2>
-<p>The SAPS Badminton Team, together with a team of dedicated coaches as
-well as teachers-in-charge, strive to nurture members who are interested
-and have an aptitude for the sport. Members learnt the value of determination
-and the importance of teamwork to achieve a common goal.</p>
-<p><strong><em><u>Objective(s)</u></em>:</strong>
+<p>Badminton is a Co-Curricular Activity (CCA) in SAPS that offers students
+an excellent opportunity to develop both physical skills and personal discipline
+in a fun and engaging environment. The objective of the CCA is to develop
+a team of young, dedicated and passionate athletes who constantly strive
+to improve themselves and demonstrate good sportsmanship.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton_4.jpg">
+</div>
+<p>As a sport that combines agility, coordination, and strategic thinking,
+badminton helps students build strong motor skills while promoting a healthy
+and active lifestyle.</p>
+<p>During CCA sessions, students are introduced to the fundamental skills
+of badminton, including proper grip, footwork, basic strokes, and the rules
+of the game. As they progress, they engage in drills, friendly matches,
+and team activities that encourage teamwork, perseverance, and good sportsmanship.
+Through guided practice, students not only enhance their technical abilities
+but also develop mental resilience and focus.</p>
+<p>Beyond physical development, the CCA cultivates essential values such
+as discipline, respect, and responsibility. Students learn to manage their
+time effectively, show consideration for others, and handle wins and losses
+gracefully. These life skills are transferable to their academic and social
+lives, contributing to their all-around growth.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton_3.jpg">
+</div>
+<p>&nbsp;The CCA also provides students with opportunities to represent the
+school in inter-school competitions. These experiences boost their confidence
+and give them a sense of pride and belonging. Whether participating competitively
+or recreationally, students are motivated by a supportive and inclusive
+environment where effort and improvement are celebrated.</p>
+<p>&nbsp;Badminton CCA is more than just a sports programme—it is a platform
+for students to explore their interests, challenge themselves, and grow
+holistically. Through active participation, students forge new friendships,
+develop positive habits, and nurture a lifelong love for the sport.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton_2.jpg">
+</div>
+<p>&nbsp;<strong><u>Activities</u>:</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>To develop a team of young, dedicated and passionate athletes who constantly
-strive to improve themselves and demonstrate good sportsmanship.</p>
-</li>
-</ul>
-<p><strong><em><u>Activities</u></em>:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
 <p>General Fitness Conditioning that includes strength training, plyometric
 and cardiovascular exercises.</p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>Court Drills and Shot Techniques.</p>
 </li>
@@ -34,46 +57,39 @@ and cardiovascular exercises.</p>
 <p>Sparring.</p>
 </li>
 </ul>
-<p></p>
-<p><strong><em><u>Venue(s)</u></em></strong>:
-<br>School Hall and Indoor Sports Hall</p>
-<p><strong><em><u>Day(s) &amp; Time of Practice</u></em></strong>:</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<p></p>
-<p>Tuesdays</p>
-</th>
-<th rowspan="1" colspan="2">
+<p><strong>CCA schedule for 2025:</strong>
+</p>
+<p><strong>Tuesday:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>2 pm to 4 pm
-<br>(Recreation team)
-<br>
-<br>2 pm to 5 pm
-<br>(Competitive team)</p>
-</th>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p><strong>Fridays</strong>
+<br>(Recreational team)</p>
+</li>
+<li>
+<p>2 pm to 5 pm
+<br>(School team)</p>
+</li>
+</ul>
+<p>&nbsp;<strong>Friday:</strong>
 </p>
-</td>
-<td rowspan="2" colspan="2">
-<p><strong>2 pm to 5 pm</strong>
-<br><strong>(Competitive team)</strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>2 pm to 5 pm
+<br>(School team)</p>
+</li>
+</ul>
+<p>&nbsp;<strong>CCA teachers-in-charge and emails:</strong>
 </p>
-</td>
-</tr>
-<tr></tr>
-</tbody>
-</table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023/badminton01.jpeg">
-</div>
-<p></p>
+<p>Mdm Meerah</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">kader_meerah_mohd_maideen@moe.edu.sg</a>
+</p>
+<p>Mr Simon Lee</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">lee_kee_khiang@moe.edu.sg</a>
+</p>
+<p>&nbsp;Mrs Jareen Tay</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">tay_hwee_bin_jareen@moe.edu.sg</a>
+</p>
+<p>&nbsp;Mrs Ramesh</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">gowri_raman_jathu@moe.edu.sg</a>
+</p>
