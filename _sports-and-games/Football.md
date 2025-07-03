@@ -4,10 +4,10 @@ permalink: /the-anthonian-experience/Sports-and-Games/Football/
 description: ""
 variant: tiptap
 ---
-<p>The Football CCA imparts sporting skills and teamwork to its members.
-Members persevere through the rigorous training sessions as a team to build
-their fitness, hone their skills and prepare to compete in the National
-School Games.</p>
+<p>Football is a Co-Curricular Activity (CCA) in SAPS that imparts sporting
+skills and teamwork to its members. Members persevere through the rigorous
+training sessions as a team to build their fitness, hone their skills and
+prepare to compete in the National School Games.</p>
 <p><strong><em><u>Objectives</u></em>:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -48,7 +48,7 @@ and cardiovascular exercises.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
-<p>Tuesdays</p>
+<p>Tuesday</p>
 </th>
 <th rowspan="1" colspan="2">
 <p>2 p.m. to 5 p.m.
@@ -58,7 +58,7 @@ and cardiovascular exercises.</p>
 <tr>
 <td rowspan="2" colspan="1">
 <p></p>
-<p><strong>Fridays</strong>
+<p><strong>Friday</strong>
 </p>
 </td>
 <td rowspan="2" colspan="2">
