@@ -56,7 +56,9 @@ and cardiovascular exercises.</p>
 <p>Sparring.</p>
 </li>
 </ul>
-<p><strong>CCA schedule for 2025:</strong>
+<p><strong>CCA schedule for 2025: </strong>
+</p>
+<p><strong>Day(s) and Time</strong>
 </p>
 <p><strong>Tuesday:</strong>
 </p>
