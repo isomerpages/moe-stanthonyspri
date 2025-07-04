@@ -90,7 +90,7 @@ performances and Band Camps.</p>
 <p>Ms Nicolette Ho</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">nicolette_ho_yi_ting@moe.edu.sg</a>
 </p>
-<p>Ms Liu <a rel="noopener noreferrer nofollow" target="_blank">Fen<br>liu_fen@moe.edu.sg</a><u><br></u>
+<p>Ms Liu Fen<a rel="noopener noreferrer nofollow" target="_blank"><br>liu_fen@moe.edu.sg</a><u><br></u>
 </p>
 <p><strong><em>Venue(s)</em></strong>:
 <br>Band Room</p>
