@@ -5,159 +5,38 @@ description: ""
 third_nav_title: CCA@SAPS
 variant: tiptap
 ---
-<h1>CCA Policy</h1>
-<ol>
-<li>
-<p>Primary 2 to 6 students are strongly encouraged to participate in one
-CCA.</p>
-</li>
-<li>
-<p>Students can take up a second CCA only if:</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>They have good attendance records (at least 80%) in their first CCA.</p>
-</li>
-<li>
+<p><strong>All Primary 2 to 6 students are strongly encouraged to participate in one Co-Curricular Activity (CCA).</strong>
+</p>
+<p><strong>Eligibility for a Second CCA</strong>
+<br>Students may take up a second CCA only if the following conditions are
+met:</p>
+<p>They have maintained good attendance in their first CCA (at least 80%).</p>
 <p>Parental permission has been granted.</p>
-</li>
-<li>
-<p>There is a vacancy in the CCA.</p>
-</li>
-<li>
-<p>The two CCAs practices are not conducted concurrently or have events that
-are concurrent. v. It does not affect their studies negatively.</p>
-</li>
-</ul>
-<ol start="3">
-<li>
-<p>All members must attend their training sessions regularly. A minimum of
-80% attendance per Semester is required. Your child will not be penalized
-if he/she is on Medical Leave or absent with valid reasons. A letter of
-excuse or medical certificate must be produced to account for absence from
-CCA. Membership and attendance will only be reflected in the Results Slip
-if your child attends at least 80% of the total number of sessions.</p>
-</li>
-<li>
-<p>All members should participate actively in their CCA for at least one
-year.</p>
-</li>
-<li>
-<p>For your child’s safety, proper attire is expected of members attending
-their CCA sessions.</p>
-</li>
-<li>
-<p>Students who have participated in CCAs, activities and/or competitions
-not offered or organized by the school or achieved outstanding results
-may inform the school of his/her participation and achievements.</p>
-</li>
-<li>
-<p>CCA application will be done in October and the CCA sessions will begin
-in January the following year. A notification will be sent out via Parents
+<p>There is a vacancy in the second CCA.</p>
+<p>The schedules of both CCAs do not clash (i.e. practices or events are
+not conducted concurrently).</p>
+<p>Their participation does not affect their academic performance.</p>
+<p><strong>Attendance Requirements</strong>
+<br>All CCA members are expected to attend training sessions on a regular
+basis. A minimum attendance of 80% per semester is required.</p>
+<p>Students will not be penalised for absences due to valid reasons. A letter
+of excuse or a medical certificate must be submitted to account for any
+absence. CCA membership and attendance will be reflected in the Results
+Slip only if the student has attended at least 80% of the total number
+of sessions.</p>
+<p><strong>Active Participation</strong>
+<br>Students should participate actively in their chosen CCA for a minimum
+of one year.</p>
+<p><strong>Attire</strong>
+<br>For the safety of all students, appropriate attire must be worn during
+CCA sessions.</p>
+<p><strong>External CCAs and Achievements</strong>
+<br>Students who have participated in CCAs, activities or competitions not
+offered or organised by the school, or who have achieved outstanding results,
+may inform the school of their involvement and accomplishments.</p>
+<p><strong>CCA Application Process</strong>
+<br>CCA applications will take place in October each year. CCA sessions will
+commence in January the following year. Parents will be notified via Parents
 Gateway.</p>
-</li>
-<li>
-<p>Please see below the list of CCAs offered:</p>
-</li>
-</ol>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Sports &amp; Games</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Visual &amp; Performing Arts</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Clubs &amp; Societies</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Uniformed Groups</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Badminton</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Brass Band</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Club</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Brownies</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Floorball</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese Dance</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Environmental Club</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Scouts</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Football</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Contemporary Dance</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Infocomm Club</p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sports Club</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Visual Arts</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Robotics Club</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tchoukball</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Choir</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<ol start="9" data-tight="true" class="tight">
-<li>
-<p>Infocomm Club and Robotics Club are only offered to P3 to P6 Anthonians.</p>
-</li>
-</ol>
 <p></p>
