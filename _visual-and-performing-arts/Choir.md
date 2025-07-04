@@ -4,42 +4,57 @@ permalink: /the-anthonian-experience/Visual-and-Performing-Arts/Choir/
 description: ""
 variant: tiptap
 ---
-<h2>Choir</h2>
-<p>If you are a fun-loving Anthonian who loves to sing and make new friends,
-the Choir will be the best CCA for you. You will not only get to know Anthonians
-from the other levels but also learn how to work as a team. Most importantly,
-you will pick up new skills in singing and be able to showcase your talents.</p>
-<p>&nbsp;<strong><em><u>Objective(s)</u></em>:</strong>
+<p>The SAPs Choir nurtures both musical excellence and personal growth, inspiring
+students to express themselves confidently and contribute to a harmonious
+community. It also offers a vibrant and enriching platform for students
+who are passionate about singing and performing. Open to all fun-loving
+and enthusiastic Anthonians, the CCA provides a supportive environment
+where members can cultivate their musical talents while forming lasting
+friendships across levels.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir_6.jpg">
+</div>
+<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir_5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir_4.jpg">
+</div>
+<p>Through weekly training and a variety of performance opportunities, students
+develop vocal techniques, stage presence, and the ability to work collaboratively
+as a team. Whether performing at school events, participating in public
+showcases, or engaging in choral exchanges, Choir members grow in confidence
+and character. Our objectives are to -
+<br>• Cultivate a lifelong appreciation for music and singing
+<br>• Promote teamwork and camaraderie among members
+<br>• Develop clarity, pitch accuracy, and vocal control
+<br>• Build confidence through public performances and stage exposure</p>
+<p><strong>Key Activities:</strong>
+<br>• Weekly vocal and choral practices
+<br>• Participation in school and public performances
+<br>• Holiday camps and bonding activities
+<br>• Choral exchanges with other schools and organisations</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir_3.jpg">
+</div>
+<p><strong>CCA teachers-in-charge and emails:</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Instill a love for music and singing</p>
-</li>
-<li>
-<p>Provide opportunities for members to make new friends and learn to work
-as a team.</p>
-</li>
-<li>
-<p>Teach members to sing clearly and in tune.</p>
-</li>
-<li>
-<p>Provide opportunities for members to present themselves confidently on
-stage and at outdoor performances.</p>
-</li>
-</ul>
-<p><strong><em><u>Activities</u></em>:</strong>
+<p><u>Mrs. Ruth Lim</u>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Holiday camps</p>
-</li>
-<li>
-<p>Weekly singing practices</p>
-</li>
-<li>
-<p>School and public performances</p>
-</li>
-</ul>
+<p><a rel="noopener noreferrer nofollow" target="_blank">ruth_lim@moe.edu.sg</a>
+</p>
+<p><u>Ms. Mandy </u><a rel="noopener noreferrer nofollow" target="_blank"><u>Chan</u><br>chan_min_yi_mandy@moe.edu.sg</a>
+</p>
+<p><u>Mrs. Josephine </u><a rel="noopener noreferrer nofollow" target="_blank"><u>Lai</u><br>tan_tzy_huey_josephine@moe.edu.sg</a>
+</p>
 <p>&nbsp;<strong><em><u>Venue(s)</u></em></strong>:
 <br>Library&nbsp;</p>
 <p><strong><em><u>Day(s) &amp; Time of Practice</u></em></strong>:</p>
@@ -51,7 +66,7 @@ stage and at outdoor performances.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tuesdays</p>
+<p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 p.m. to 4 p.m.</p>
@@ -59,7 +74,7 @@ stage and at outdoor performances.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fridays&nbsp;&nbsp;&nbsp;</p>
+<p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 p.m. to 4 p.m.</p>
@@ -67,7 +82,4 @@ stage and at outdoor performances.</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023/choir1.jpg">
-</div>
 <p></p>
