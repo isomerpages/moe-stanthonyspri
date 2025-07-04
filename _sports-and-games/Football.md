@@ -19,11 +19,14 @@ prepare to compete in the National School Games.</p>
 strive to improve themselves and demonstrate good sportsmanship through
 Football.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Football_04.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250226_142702.jpg">
 </div>
-<p></p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Football_04.jpg">
+</div>
 <p><strong><em><u>Activities</u></em>:</strong>
 </p>
 <ul data-tight="true" class="tight">
