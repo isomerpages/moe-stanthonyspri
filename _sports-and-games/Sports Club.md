@@ -4,68 +4,101 @@ permalink: /the-anthonian-experience/Sports-and-Games/Sports-Club/
 description: ""
 variant: tiptap
 ---
-<h2>Sports Club</h2>
-<p>At Sports Club, pupils are taught a different sport every semester. Games
-like goalball and kin-ball are introduced to develop pupils’ interest in
-a variety of sports and to encourage a healthy lifestyle. Pupils gain a
-holistic valuable learning experience in Sports Club.</p>
-<p>&nbsp;<strong><em><u>Objectives</u></em>:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>To learn and enjoy a variety of team sports</p>
-</li>
-<li>
-<p>To promote the spirit of fair play, teamwork and sportsmanship</p>
-</li>
-<li>
-<p>To develop and maintain physical health and fitness through regular participation
-in physical activities</p>
-</li>
-</ul>
-<p><strong><em><u>Activities</u></em>:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Kin-ball</p>
-</li>
-<li>
-<p>Goalball</p>
-</li>
-<li>
-<p>Frisbee</p>
-</li>
-<li>
-<p>Orienteering</p>
-</li>
-<li>
-<p>Tag Rugby</p>
-</li>
-</ul>
-<p><strong><em><u>Venue</u></em></strong>:
-<br>Field and Multi-Purpose Hall</p>
-<p><strong><em><u>Day(s) &amp; Time of Practice</u></em></strong>:</p>
-<table style="minWidth: 75px">
+<p>The Sports Club is a dynamic co-curricular activity that promotes physical
+fitness, teamwork, and sportsmanship among students. Divided into junior
+and senior groups, the club provides a fun and inclusive environment where
+members can explore a variety of sports each semester. By introducing students
+to both traditional and unconventional sports, the club encourages them
+to develop new skills, stay active, and foster a lifelong love for physical
+activity.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports_Club_2.jpg">
+</div>
+<p>Each semester, the Sports Club selects a variety of sports to ensure excitement
+and diversity. Some unique and engaging sports featured in the club include&nbsp;Kin-Ball,
+a fast-paced team game that emphasizes cooperation;&nbsp;rope skipping,
+which improves agility and coordination;&nbsp;Goalball, a Paralympic sport
+designed for visually impaired athletes that enhances sensory awareness;&nbsp;Pickleball,
+a fun mix of tennis, badminton, and table tennis; and&nbsp;in-line skating,
+which builds balance and endurance. Through these activities, students
+not only enhance their athletic abilities but also learn the values of
+discipline, perseverance, and fair play.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports_Club_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports_Club_4.jpg">
+</div>
+<p>The Sports Club welcomes students of all skill levels, from beginners
+to experienced athletes. Coaches and senior members guide participants,
+ensuring a supportive and motivating atmosphere. Whether competing in friendly
+matches or simply enjoying recreational play, members gain confidence,
+build friendships, and develop a well-rounded appreciation for sports.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports_Club_5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports_Club_6.jpg">
+</div>
+<p>By joining the Sports Club, students embark on an exciting journey of
+discovery, challenge, and personal growth—one game at a time! They develop
+leadership skills whilst making a difference in the community, nurturing
+both their artistic abilities and sense of social responsibility.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports_Club_1.jpg">
+</div>
+<p>&nbsp;&nbsp;CCA teachers-in-charge and emails:</p>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="3" colspan="1">
-<p>Fridays</p>
-</th>
-<th rowspan="3" colspan="2">
-<p>2 pm to 4 pm</p>
-</th>
+<td rowspan="1" colspan="1">
+<p>Mdm Zoom Zakariah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">zoom_zakariah@moe.edu.sg</a>
+</p>
+</td>
 </tr>
-<tr></tr>
-<tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ong Wen Shin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">ong_wen_shin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports_Club_competiton4.jpg">
-</div>
+<p>&nbsp;&nbsp;CCA schedule:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Junior Group</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fridays, 2-4pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Group</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fridays, 2-4pm</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
