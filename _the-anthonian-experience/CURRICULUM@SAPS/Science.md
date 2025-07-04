@@ -135,7 +135,7 @@ in passion for learning Science:&nbsp;</p>
 <p>Nobel Summer Workshop and Mcurie Workshop organised by NUS High School</p>
 </li>
 </ul>
-<p><strong>Science Buskers </strong>
+<p><strong>Science Buskers</strong>
 </p>
 <p>Our P3s, P4s and P5s Anthonians participated in the Science Buskers Competition
 organised by the Singapore Science Centre.</p>
