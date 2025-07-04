@@ -227,4 +227,12 @@ Anthonians' learning:</p>
 <p>National Library Board (NLB)</p>
 </li>
 </ul>
+<p><strong>Useful links</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.moe.gov.sg/primary/curriculum/syllabus" rel="noopener nofollow" target="_blank">MOE PRIMARY ENGLISH SYALLBUS</a>
+</p>
+</li>
+</ul>
 <p></p>
