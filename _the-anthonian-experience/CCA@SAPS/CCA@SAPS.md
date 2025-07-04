@@ -5,45 +5,45 @@ description: ""
 third_nav_title: CCA@SAPS
 variant: tiptap
 ---
-<h2>CCA@SAPS</h2>
-<p>Co-Curricular Activities (CCAs) are an integral part of a student’s schooling
-life. At SAPS, our CCAs are guided by the following objectives:</p>
-<ol>
+<p></p>
+<p>Co-Curricular Activities (CCAs) are an integral part of a student’s school
+experience. At SAPS, our CCA programme is guided by the following objectives:</p>
+<ul>
 <li>
-<p>Anthonians strengthen their character and live out the school vision of
-being the best that they can be to make the world a better place through
-their CCA involvement.</p>
+<p>To enable Anthonians to strengthen their character and embody the school’s
+vision of being the best that they can be, to make the world a better place
+through active CCA involvement.</p>
 </li>
 <li>
-<p>Anthonians develop non-academic knowledge, skills, values and attitudes.</p>
+<p>To support the development of non-academic knowledge, skills, values,
+and attitudes in our students.</p>
 </li>
-</ol>
-<p>Co-Curricular Activities focus on the development of specific knowledge,
-skills and values based on the student’s choice of CCA. Participating in
-a CCA enables students to discover their interests and talents while providing
-a platform for students from diverse backgrounds to interact and form lasting
-friendships.</p>
-<p>CCAs provide many opportunities for authentic and experiential learning.
-Through CCA participation, Anthonians will develop and demonstrate:</p>
-<ul data-tight="true" class="tight">
+</ul>
+<p>CCAs are designed to focus on the development of specific knowledge, skills,
+and values aligned with the student’s selected CCA. Participation in a
+CCA enables students to explore their interests and talents while also
+offering opportunities to build lasting friendships across diverse backgrounds.</p>
+<p>Our CCA programme provides rich opportunities for authentic and experiential
+learning. Through CCA participation, Anthonians will develop and demonstrate:</p>
+<ul>
 <li>
-<p>passion</p>
-</li>
-<li>
-<p>leadership and teamwork</p>
+<p>Passion</p>
 </li>
 <li>
-<p>friendship and belonging</p>
+<p>Leadership and teamwork</p>
 </li>
 <li>
-<p>a spirit of service to the community</p>
+<p>Friendship and a sense of belonging</p>
 </li>
 <li>
-<p>knowledge, skills and values related to their chosen CCA, which allow
-students to experience accomplishment and success</p>
+<p>A spirit of service to the community</p>
 </li>
 <li>
-<p>core values, social and emotional competencies and 21st century competencies</p>
+<p>Knowledge, skills, and values related to their chosen CCA, which allow
+them to experience personal accomplishment and success</p>
+</li>
+<li>
+<p>Core values, social and emotional competencies, and 21st-century competencies</p>
 </li>
 </ul>
 <p>The school offers the following CCAs:</p>
