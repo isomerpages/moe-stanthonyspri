@@ -5,8 +5,6 @@ description: ""
 third_nav_title: CURRICULUM@SAPS
 variant: tiptap
 ---
-<p><strong>Our teaching and learning approach</strong>
-</p>
 <p>At SAPS, we aim to nurture caring, passionate, and joyful learners by
 designing lessons and programmes based on the SAPS Teaching and Learning
 Framework and MOE syllabus.
