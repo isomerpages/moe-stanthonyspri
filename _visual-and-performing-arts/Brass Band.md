@@ -4,31 +4,49 @@ permalink: /the-anthonian-experience/Visual-and-Performing-Arts/Brass-Band/
 description: ""
 variant: tiptap
 ---
-<h2>Brass Band</h2>
 <p>St. Anthony’s Primary School’s Brass Band was formed in February 1994.
-Our band consists of the brass section, which includes instruments such
-as trumpets, trombones and tubas; and the percussion section, which includes
-the bass drums and xylophones.</p>
-<p><strong><em>Objective(s)</em>:</strong>
-</p>
+The Brass Band CCA offers pupils a vibrant opportunity to develop musical
+talent, discipline, and teamwork through instrumental learning and ensemble
+performance. Members learn to play <strong>brass instruments </strong>such
+as the trumpet, trombone, euphonium, and tuba, or percussion instruments
+such as bass drums and xylophones. Members also participate in regular
+rehearsals to build their musical skills and confidence.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brass_Band_7.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brass_Band_8.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brassband_1.jpg">
+</div>
+<p>Beyond mastering their instruments, pupils experience the joy of making
+music together and performing for school events, community concerts, and
+national competitions such as the Singapore Youth Festival Arts Presentation.
+Through their journey in the Brass Band, members cultivate perseverance,
+a strong sense of responsibility, and pride in representing the school.</p>
+<p>Whether they are new to music or have prior experience, all pupils are
+welcome to join and grow as confident, expressive musicians. Our objective
+is -</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>To develop esprit-de-corps among members.</p>
+<p>To develop <strong>esprit de corps</strong> among members.</p>
 </li>
 <li>
-<p>To nurture the music talent of every band member.</p>
+<p>To nurture the musical talent of every band member.</p>
 </li>
 <li>
 <p>To create opportunities for social and aesthetic experiences through practices
 and performances.</p>
 </li>
 </ul>
-<p><strong><em>Activities</em>:</strong>
+<p><strong>Musical:</strong>
 </p>
-<p><strong>Musical</strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Building the repertoire and technical standards of the band members</p>
+<p>Building the repertoire and technical standards of the band members.</p>
 </li>
 <li>
 <p>Learning music theory and mastering the skill of playing a musical instrument.</p>
@@ -37,16 +55,43 @@ and performances.</p>
 <p>Learning the proper care and maintenance of the instruments.</p>
 </li>
 </ul>
-<p><strong>Character Building and Leadership</strong>:</p>
+<p><strong>Character Building and Leadership:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Selection and training of section leaders and band leaders.</p>
 </li>
 <li>
-<p>Opportunities for discipline, social and aesthetic experiences through
+<p>Opportunities for discipline, social, and aesthetic experiences through
 performances and Band Camps.</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brass_Band_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brass_Band_4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brass_Band_6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brass_Band_5.jpg">
+</div>
+<p><strong>CCA teachers-in-charge and emails:</strong>
+</p>
+<p>Mdm Lee Kai Ling</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">lee_kai_ling_a@moe.edu.sg</a>
+</p>
+<p>Ms Nicolette Ho</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">nicolette_ho_yi_ting@moe.edu.sg</a>
+</p>
+<p>Ms Liu <a rel="noopener noreferrer nofollow" target="_blank">Fen<br>liu_fen@moe.edu.sg</a><u><br></u>
+</p>
 <p><strong><em>Venue(s)</em></strong>:
 <br>Band Room</p>
 <p><strong><em>Day(s) &amp; Time of Practice</em></strong>:</p>
@@ -58,7 +103,7 @@ performances and Band Camps.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tuesdays</p>
+<p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 p.m. to 4 p.m.</p>
@@ -66,7 +111,7 @@ performances and Band Camps.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fridays&nbsp;&nbsp;&nbsp;</p>
+<p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 p.m. to 4 p.m.</p>
@@ -74,7 +119,4 @@ performances and Band Camps.</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023/band01.jpeg">
-</div>
 <p></p>
