@@ -12,16 +12,16 @@ variant: tiptap
 </li>
 </ul>
 <p>The school uses a Positive and Proactive Approach to Discipline to reinforce
-expected behaviour. School routines like F.I.V.E, Anthonian Movement, STAR
-and CARE Habits are emphasised and reinforced throughout a student’s journey
-in SAPS.</p>
+expected behaviour. School routines, such as F.I.V.E., Anthonian Movement,
+STAR, and CARE Habits, are emphasised and reinforced throughout a student’s
+journey in SAPS.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>CARE Quest (CQ) Award to Promote Positive Behaviour</strong>
 </p>
 </li>
 </ul>
-<p>CARE Quest recognizes students who exemplify the Lasallian Values (Faith,
+<p>CARE Quest recognises students who exemplify the Lasallian Values (Faith,
 Service, Community) and are anchored in Anthonian Values (Resilience, Integrity,
 Gratitude, Respect, Responsibility).</p>
 <ul data-tight="true" class="tight">
@@ -33,7 +33,7 @@ Gratitude, Respect, Responsibility).</p>
 <p><em>The Anthonian Matters</em>&nbsp;scheme provides opportunities for
 students to be a blessing to the school community by involving them in
 decision-making processes and developing in them a sense of pride, belonging
-and ownership to school.</p>
+and ownership of the school.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Anthonian Leadership Programme</strong>
@@ -42,7 +42,7 @@ and ownership to school.</p>
 </ul>
 <p>Student Leadership Development (SLD) in SAPS is guided by the belief that
 every student can be developed as a leader. Recognising that student leadership
-development needs to be intentional, we are guided by the following principles:</p>
+development needs to be intentional, the following principles guide us:</p>
 <p><strong>Student-centric</strong>
 </p>
 <p>Programmes are customised to cater to diverse and unique student profiles
