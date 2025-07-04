@@ -5,14 +5,6 @@ description: ""
 third_nav_title: CURRICULUM@SAPS
 variant: markdown
 ---
-## Physical and Sports Education  
-
-|  |  | 
-| -------- | -------- | 
-Vision     |  Every Anthonian, a passionate and joyful learner who strives to lead and enjoy a lifetime of active, healthy living 
-| | | 
-
-
 The Physical Education (PE) curriculum seeks to develop in each Anthonian the ability to:
 
 *   Acquire a range of fundamental motor skills and core values to participate in and enjoy a wide variety of physical activity and sports at a recreational level.
