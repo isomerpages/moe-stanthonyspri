@@ -8,6 +8,9 @@ variant: tiptap
 skills and teamwork to its members. Members persevere through the rigorous
 training sessions as a team to build their fitness, hone their skills and
 prepare to compete in the National School Games.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Football_01.jpg">
+</div>
 <p><strong><em><u>Objectives</u></em>:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -15,9 +18,15 @@ prepare to compete in the National School Games.</p>
 <p>To develop a team of young, dedicated and passionate athletes who constantly
 strive to improve themselves and demonstrate good sportsmanship through
 Football.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250226_142702.jpg">
+</div>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Football_04.jpg">
+</div>
 <p><strong><em><u>Activities</u></em>:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -47,22 +56,19 @@ and cardiovascular exercises.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <p>Tuesday</p>
 </th>
 <th rowspan="1" colspan="2">
-<p>2 p.m. to 5 p.m.
-<br>(Competitive team and Primary 4 to Primary 6 Recreation team)</p>
+<p>2 p.m. to 5 p.m.</p>
 </th>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p></p>
 <p><strong>Friday</strong>
 </p>
 </td>
 <td rowspan="2" colspan="2">
-<p><strong>2 p.m. to 5 p.m.<br>(Competitive team and Primary 4 to Primary 6 Recreation team)</strong>
+<p><strong>2 p.m. to 5 p.m.</strong>
 </p>
 </td>
 </tr>
