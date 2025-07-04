@@ -4,69 +4,49 @@ permalink: /the-anthonian-experience/Visual-and-Performing-Arts/Contemporary-Dan
 description: ""
 variant: tiptap
 ---
-<h2>Contemporary Dance</h2>
-<p>Are you ready to explore dance and creativity? Join the Contemporary Dance
-CCA where you can express your emotions and ideas through movement. You
-will also have the chance to choreograph your own dance while making new
-friends. Be part of our fun and supportive dance community and discover
-the dancer in you!</p>
-<p><strong><em>Objective(s)</em>:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>To nurture passionate and caring dancers.</p>
-</li>
-<li>
-<p>To foster team spirit and camaraderie among members.</p>
-</li>
-<li>
-<p>To create opportunities for aesthetic experiences through practices and
-performances.</p>
-</li>
-</ul>
-<p><strong><em>Activities</em>:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Weekly dance practices</p>
-</li>
-<li>
-<p>Opportunities for school and external performances</p>
-</li>
-</ul>
-<p><strong><em>Things to take note of</em>:</strong>
-<br>Practice hours may be extended when needed.</p>
-<p><strong><em>Venue(s)</em></strong>:
-<br>PAL Room and Dance Studio</p>
-<p><strong><em>Day(s) &amp; Time of Practice</em></strong>:
-<br>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tuesdays</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 p.m. to 4 p.m.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Fridays&nbsp;&nbsp;&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 p.m. to 4 p.m.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
+<p>The Contemporary Dance CCA offers students an engaging platform to express
+themselves through dance, creativity and performance. It introduces a dynamic
+blend of dance styles such as ballet, modern, lyrical and hip hop, allowing
+students to explore a wide range of movements and rhythms. Through this
+CCA, students can nurture their creativity, build confidence and develop
+essential values such as teamwork, discipline and resilience.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Contemporary_Dance.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Contempdance1.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Contempdance5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Contempdance2.jpg">
+</div>
+<p>Dancers will have opportunities to learn techniques, choreograph their
+own routines, and perform in both school-based and external events. The
+Contemporary Dance CCA fosters a supportive and vibrant community where
+every student is encouraged to grow as an expressive and confident individual.
+Students, regardless of gender, are encouraged to come with an open mind,
+a positive attitude and a willingness to learn from one another. Whether
+you are a beginner or have prior experience, there is a place for you in
+our dance family.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Contempdance6.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Contempdance3.jpg">
+</div>
+<p>Let the music move you — discover the joy of dance and the dancer in you!
+The objectives are to -</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To nurture passionate
+and resilient dancers</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To foster team spirit
+and camaraderie among members</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To create opportunities
+for aesthetic experiences through practices and (school and external) performances</p>
+<p><strong>Teacher in charge:</strong>
+</p>
+<p>Zhang Peiqi <a href="mailto:zhang_peiqi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_peiqi@moe.edu.sg</a>
+</p>
+<p><strong>Day(s)/Time:</strong>
+</p>
+<p>Tuesdays (PAL Room) – 2 pm to 4 pm</p>
+<p>Fridays (Dance Studio) – 2 pm to 4:30 pm</p>
 <p></p>
