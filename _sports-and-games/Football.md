@@ -8,6 +8,9 @@ variant: tiptap
 skills and teamwork to its members. Members persevere through the rigorous
 training sessions as a team to build their fitness, hone their skills and
 prepare to compete in the National School Games.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Football_01.jpg">
+</div>
 <p><strong><em><u>Objectives</u></em>:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -15,6 +18,9 @@ prepare to compete in the National School Games.</p>
 <p>To develop a team of young, dedicated and passionate athletes who constantly
 strive to improve themselves and demonstrate good sportsmanship through
 Football.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Football_04.jpg">
+</div>
 <p></p>
 </li>
 </ul>
