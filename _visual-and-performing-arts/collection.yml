@@ -2,6 +2,7 @@ collections:
   visual-and-performing-arts:
     output: true
     order:
+      - Visual Arts.md
       - Brass Band.md
       - Chinese Dance.md
       - Choir.md
