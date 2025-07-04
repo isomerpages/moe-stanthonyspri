@@ -5,61 +5,21 @@ description: ""
 third_nav_title: CURRICULUM@SAPS
 variant: tiptap
 ---
-<h2>Education Technology</h2>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vision</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Transforming Learning through Technology</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mission</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cultivate a&nbsp;Safe&nbsp;Learning Environment where Anthonians are Empowered
-to Embrace ICT&nbsp;in order to Enhance&nbsp;Learning, Encourage&nbsp;Collaboration&nbsp;and
-Support&nbsp;Self-Directed Learning.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>As the use of ICT becomes more essential in learning, life and work, SAPS
-aims to equip students with the necessary skills, values and dispositions
-to navigate the Cyber space and to optimise their learnings by tapping
-on the affordances of ICT tools with confidence and discernment.</p>
+<p>As the use of ICT becomes increasingly essential in learning, life, and
+work, SAPS aims to equip students with the necessary skills, values, and
+dispositions to navigate the Cyber space and optimise their learning by
+tapping into the affordances of ICT tools with confidence and discernment.</p>
 <h3>Key Programmes</h3>
 <h4>Baseline ICT Standards and New Media Literacies</h4>
-<p>The Baseline ICT Standards and New Media Literacies is a set of ICT and
+<p>The Baseline ICT Standards and New Media Literacies are a set of ICT and
 literacy skills that our students will learn over their 6 years in St.
 Anthony’s Primary School.</p>
 <p>The&nbsp;Baseline ICT Standards&nbsp;define the basic level of knowledge,
-skills and values that our students need in order to fully benefit from
-a curriculum enriched with ICT, and eventually thrive in a technology-driven
-society, while&nbsp;New Media Literacies&nbsp;in Singapore schools’ context
-are defined as ‘the skills, knowledge, attitudes and values&nbsp; that
-students should apply and demonstrate when harnessing technologies for
-learning’.</p>
+skills, and values that our students need to fully benefit from a curriculum
+enriched with ICT and eventually thrive in a technology-driven society.
+In contrast,&nbsp;New Media Literacies&nbsp;in Singapore schools’ context
+are defined as ‘the skills, knowledge, attitudes and values that students
+should apply and demonstrate when harnessing technologies for learning’.</p>
 <p>The school incorporates MOE’s baseline ICT standards and New Media Literacies
 of “Curate, Create and Connect” into our curriculum to better support students’
 learning with and through technology. Through this, we hope to enhance
