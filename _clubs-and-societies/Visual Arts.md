@@ -17,9 +17,6 @@ Youth Festival (SYF) and PAssionArts exhibitions, where they gain valuable
 exposure and recognition for their creative expressions.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Visual_Arts_8.jpg">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Visual_Arts_9.jpg">
 </div>
 <p></p>
@@ -33,6 +30,10 @@ exposure and recognition for their creative expressions.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Visual_Arts_10.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Visual_Arts_8.jpg">
 </div>
 <p>Through our <strong>Values in Action (VIA)</strong> initiative, <strong>Visual Arts CCA</strong> students
 harness their artistic talents to create meaningful change in our community.
