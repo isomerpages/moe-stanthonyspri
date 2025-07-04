@@ -5,8 +5,6 @@ description: ""
 third_nav_title: CURRICULUM@SAPS
 variant: markdown
 ---
-**<u>Introduction</u>**  
-
 The Student Development Team is made up of the Year Heads, Subject Head (Student Development) and Level Managers. We work closely with the CCE department and Pupil Discipline &amp; Leadership team to oversee the holistic development of our Anthonians.&nbsp;
 
   
