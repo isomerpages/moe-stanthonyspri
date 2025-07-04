@@ -5,58 +5,71 @@ description: ""
 third_nav_title: CCA@SAPS
 variant: tiptap
 ---
-<h1>Awards &amp; Recognition</h1>
-<p>In recognition of pupils' leadership qualities, service to community and
-school, and excellence in non-academic activities, the Edusave Awards for
-Achievement, Good Leadership &amp; Service (EAGLES) was introduced by the
-Ministry of Education (MOE).</p>
-<p>The value of the award is $250.00 and Primary 4 to Primary 6 pupils can
-be nominated for it.</p>
-<p>There is a two-tier criteria which the nominee must meet before he/she
-can qualify:</p>
-<p><strong><u>1st Tier</u></strong>
+<p></p>
+<h3><strong>Edusave Awards for Achievement, Good Leadership and Service (EAGLES)</strong></h3>
+<p>The <strong>Edusave Awards for Achievement, Good Leadership and Service (EAGLES)</strong> is
+presented by the Ministry of Education (MOE) to recognise students who
+have demonstrated strong leadership qualities, served the school and community,
+and excelled in non-academic areas.</p>
+<p><strong>Award Value:</strong> $250.00
+<br><strong>Eligibility:</strong> Primary 4 to Primary 6 students</p>
+<p><strong>Nomination Criteria</strong>
+<br>To qualify for the award, students must meet the following <strong>two-tier criteria</strong>:</p>
+<p><strong>Tier 1 – Eligibility Criteria</strong>
 </p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
-<p>Singapore Citizens</p>
+<p>Must be a Singapore Citizen</p>
 </li>
 <li>
-<p>Passed the school examinations (OVERALL)</p>
+<p>Must have passed the overall school examinations</p>
 </li>
 <li>
-<p>Conduct grade of "Very Good" or better</p>
+<p>Must have attained a conduct grade of <em>Very Good</em> or better</p>
 </li>
 </ul>
-<p><strong><u>2nd Tier</u></strong>
-<br><strong>SERVICE:</strong> Students who have made exemplary contributions
-in service through co-curricular programmes.</p>
-<p><strong>LEADERSHIP:</strong> Students who have assumed leadership positions/roles
-and have carried them out well.</p>
-<p><strong>ACHIEVEMENT:</strong> Students who have participated in/represented
-the school/nation in zonal/national/international level events and competitions
-and attained a good level of achievement.</p>
-<h4><strong><u>Colours Award</u></strong></h4>
-<p>In recognition of pupils' leadership qualities, service to community and
-school, and excellence in their CCA, the COLOURS award was introduced by
-the school.</p>
-<p>The nominee must fulfill the following criteria:</p>
-<ul data-tight="true" class="tight">
+<p><strong>Tier 2 – Qualifying Criteria</strong>
+<br>The nominee must demonstrate exemplary contributions in at least one of
+the following areas:</p>
+<ul>
 <li>
-<p>P4 to P6 Anthonian</p>
+<p><strong>Service:</strong> Significant contributions to the school and community
+through co-curricular programmes</p>
 </li>
 <li>
-<p>A member in the CCA for at least 2 years.</p>
+<p><strong>Leadership:</strong> Holding leadership roles and executing responsibilities
+effectively</p>
 </li>
 <li>
-<p>Participated in the National School Games (NSG), Singapore Youth Festival
-(SYF) or a local competition.</p>
+<p><strong>Achievement:</strong> Representing the school or nation in zonal,
+national or international events or competitions, and achieving commendable
+results</p>
+</li>
+</ul>
+<h3><strong>SAPS Colours Award</strong></h3>
+<p>The <strong>SAPS Colours Award</strong> is a school-based award that recognises
+students who have demonstrated excellence in their Co-Curricular Activities
+(CCAs), along with strong character, service, and leadership.</p>
+<p><strong>Eligibility Criteria</strong>
+<br>Nominees must meet the following requirements:</p>
+<ul>
+<li>
+<p>Be a Primary 4 to Primary 6 Anthonian</p>
 </li>
 <li>
-<p>Demonstrated outstanding achievements and character in local and/or overseas
-competitions.</p>
+<p>Have been a member of their CCA for at least two years</p>
 </li>
 <li>
-<p>Conduct Grade must be at least 'Very Good'.</p>
+<p>Have participated in the <strong>National School Games (NSG)</strong>, <strong>Singapore Youth Festival (SYF)</strong>,
+or a <strong>local competition</strong>
+</p>
+</li>
+<li>
+<p>Have demonstrated outstanding achievement and character in local and/or
+overseas competitions</p>
+</li>
+<li>
+<p>Have attained a conduct grade of <em>Very Good</em> or better</p>
 </li>
 </ul>
 <p></p>
