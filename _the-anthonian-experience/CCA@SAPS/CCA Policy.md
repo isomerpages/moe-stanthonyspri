@@ -5,32 +5,20 @@ description: ""
 third_nav_title: CCA@SAPS
 variant: tiptap
 ---
-<p>All Primary 2 to 6 students are strongly encouraged to participate in
-one Co-Curricular Activity (CCA).</p>
+<p><strong>All Primary 2 to 6 students are strongly encouraged to participate in one Co-Curricular Activity (CCA).</strong>
+</p>
 <p><strong>Eligibility for a Second CCA</strong>
 <br>Students may take up a second CCA only if the following conditions are
 met:</p>
-<ol>
-<li>
 <p>They have maintained good attendance in their first CCA (at least 80%).</p>
-</li>
-<li>
 <p>Parental permission has been granted.</p>
-</li>
-<li>
 <p>There is a vacancy in the second CCA.</p>
-</li>
-<li>
 <p>The schedules of both CCAs do not clash (i.e. practices or events are
 not conducted concurrently).</p>
-</li>
-<li>
 <p>Their participation does not affect their academic performance.</p>
-</li>
-</ol>
 <p><strong>Attendance Requirements</strong>
-<br>All CCA members are expected to attend training sessions regularly. A
-minimum attendance of 80% per semester is required.</p>
+<br>All CCA members are expected to attend training sessions on a regular
+basis. A minimum attendance of 80% per semester is required.</p>
 <p>Students will not be penalised for absences due to valid reasons. A letter
 of excuse or a medical certificate must be submitted to account for any
 absence. CCA membership and attendance will be reflected in the Results
