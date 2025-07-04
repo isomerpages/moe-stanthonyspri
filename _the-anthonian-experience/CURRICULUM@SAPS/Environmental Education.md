@@ -6,24 +6,23 @@ description: ""
 third_nav_title: CURRICULUM@SAPS
 ---
 <p>St. Anthony’s Primary School envisions every Anthonian to be an advocate
-of green living. Anthonians will be committed to caring and protecting
-their environment by practicing good and friendly green habits as responsible
-citizens. Environmental Education (EE) in St. Anthony’s Primary School
-adopts a whole school approach, to reach out to all staff and pupils to
-care for the environment as well as to raise awareness and understand current
-environmental issues.</p>
+of green living. Anthonians will be committed to caring for and protecting
+their environment by practising good and friendly green habits as responsible
+citizens. Environmental Education (EE) at St. Anthony’s Primary School
+adopts a whole-school approach to reach all staff and pupils, promoting
+environmental care and raising awareness of current environmental issues.</p>
 <p><strong>World Water Day activities</strong>
 </p>
-<p>On 22 March, SAPS celebrated World Water Day with a series activities
-lined up for staff and students. Staff came to school dressed in blue to
+<p>On 22 March, the SAPS celebrated World Water Day with a series of activities
+planned for staff and students. Staff came to school dressed in blue to
 support the #GoBlue4SG movement by PUB. Anthonians learned about water-saving
 tips and water footprint through fun and games. One of the stations featured
-a tossing game made out of recyclables which was designed and made by our
-Environmental Science Club members. Other than recess activities, there
-are ongoing Water Wednesdays activities in class and on SLS where Anthonians
-learn more about the importance of water security and the need to protect
-our water resources. We encourage everyone to continue to use water wisely
-and make every drop 💧count.</p>
+a tossing game made from recyclables, designed and created by our Environmental
+Science Club members. In addition to recess activities, there are ongoing
+Water Wednesdays activities in class and on SLS, where Anthonians learn
+more about the importance of water security and the need to protect our
+water resources. We encourage everyone to continue using water wisely and
+make every drop count.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
