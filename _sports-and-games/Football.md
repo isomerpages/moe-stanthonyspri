@@ -56,22 +56,19 @@ and cardiovascular exercises.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <p>Tuesday</p>
 </th>
 <th rowspan="1" colspan="2">
-<p>2 p.m. to 5 p.m.
-<br>(Competitive team and Primary 4 to Primary 6 Recreation team)</p>
+<p>2 p.m. to 5 p.m.</p>
 </th>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p></p>
 <p><strong>Friday</strong>
 </p>
 </td>
 <td rowspan="2" colspan="2">
-<p><strong>2 p.m. to 5 p.m.<br>(Competitive team and Primary 4 to Primary 6 Recreation team)</strong>
+<p><strong>2 p.m. to 5 p.m.</strong>
 </p>
 </td>
 </tr>
