@@ -55,22 +55,20 @@ of social responsibility.</p>
 </div>
 <p><strong>CCA teachers-in-charge and emails:</strong>
 </p>
-<p>Mrs Chang Li Ping</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">lek_li_ping@moe.edu.sg</a>
+<p>Mrs Chang Li Ping <a rel="noopener noreferrer nofollow" target="_blank">lek_li_ping@moe.edu.sg</a>
 </p>
-<p>Mdm Noorfizah Bte Hasim</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">noorfizah_hasim@moe.edu.sg</a>
+<p>Mdm Noorfizah Bte Hasim <a rel="noopener noreferrer nofollow" target="_blank">noorfizah_hasim@moe.edu.sg</a>
 </p>
-<p>Ms Lim Jia <a rel="noopener noreferrer nofollow" target="_blank">Qi<br>lim_jia_qi_a@moe.edu.sg</a>
+<p>Ms Lim Jia Qi <a rel="noopener noreferrer nofollow" target="_blank">lim_jia_qi_a@moe.edu.sg</a>
 </p>
-<p>Mdm Song <a rel="noopener noreferrer nofollow" target="_blank">Wenzhe<br>song_wenzhe@moe.edu.sg</a>
+<p>Mdm Song Wenzhe <a rel="noopener noreferrer nofollow" target="_blank">song_wenzhe@moe.edu.sg</a>
 </p>
-<p>Ms Sarina <a rel="noopener noreferrer nofollow" target="_blank">Sahari<br>sarina_sahari@moe.edu.sg</a>
+<p>Ms Sarina <a rel="noopener noreferrer nofollow" target="_blank">sarina_sahari@moe.edu.sg</a>
 </p>
-<p>Mrs Michelle <a rel="noopener noreferrer nofollow" target="_blank">Yim<br>au_lei_san_michelle@moe.edu.sg</a>
+<p>Mrs Michelle Yim <a rel="noopener noreferrer nofollow" target="_blank">au_lei_san_michelle@moe.edu.sg</a>
 </p>
 <p></p>
-<p><strong>Date and Time</strong>
+<p><strong>Date and Time:</strong>
 </p>
 <p>Friday 2-4pm</p>
 <p><u>&nbsp;</u>
