@@ -44,7 +44,7 @@ participate in are the First Lego League Series and the IDE Series.</p>
 </p>
 <p><strong><em>Venue(s)</em></strong>:
 <br>Computer Labs</p>
-<p><strong><em>Day(s) &amp; Time of Training Session</em></strong>:</p>
+<p><strong><em>Day(s) &amp; Time</em></strong>:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
