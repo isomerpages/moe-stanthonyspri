@@ -2,8 +2,8 @@ collections:
   clubs-and-societies:
     output: true
     order:
-      - Visual Arts.md
       - English Club.md
       - Environmental Science.md
       - InfoComm Club.md
       - Robotics Club.md
+      - Visual Arts.md
