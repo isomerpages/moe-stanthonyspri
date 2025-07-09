@@ -74,35 +74,107 @@ they construct, deconstruct, design, fix, create and refine solutions to
 various problems presented to them after going through the process of FIDS
 thinking.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic7.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic8.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic9.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic10.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic11.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Makerspace.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture7.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic12.jpg">
+</div>
 <p>Students are able to take items apart, put things together, and dream
 of imaginative creations. The notion of multiple attempts, refining designs,
 and failure are all inherent with engaging students to take risks. This
 is aligned to the school direction towards having a growth mindset.&nbsp;</p>
+<p>&nbsp;</p>
 <p><strong>Smart Thinkers</strong>
 </p>
 <p>In the Smart Thinkers programme, the application of “FEEL, IMAGINE, DO,
 SHARE” is designed to prime Anthonians to think about problem solving in
 an empathetic way; recognising them as capable young change makers. Primary
-3 and 4 Anthonians learn block coding with a Microbit, which is a pocket-sized,
+3 and 4 Anthonians learn block coding with a Micro:bit, which is a pocket-sized,
 codeable computer. They also learnt about biodiversity, identified some
 issues that they feel are problems, brainstormed solutions and built their
 prototypes using Micro:bits. Likewise, Primary 5 Anthonians delve in CoSpaces
 where they build digital interactive content. These projects help students
 to consolidate their learning of the various coding skills and apply them
 to a real-life situation.</p>
+<p>Primary 3 Microbit</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic13.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic14.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture8.jpg">
 </div>
-<p>Students are able to take items apart, put things together, and dream
-of imaginative creations. The notion of multiple attempts, refining designs,
-and failure are all inherent with engaging students to take risks. This
-is aligned to the school direction towards having a growth mindset.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Makerspace.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic15.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic16.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic17.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic18.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic19.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture9.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic20.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic21.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic22.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic23.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic24.jpg">
 </div>
 <p>At Primary 6, the students go through Coding classes as part of their
 post PSLE+ activities, where they consolidate their learning and programme
@@ -111,6 +183,13 @@ are also introduced to what is Artificial Intelligence (AI) and how we
 teach an AI system such that it becomes more reliable.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic25.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic26.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
