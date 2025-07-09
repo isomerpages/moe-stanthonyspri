@@ -43,6 +43,28 @@ and develop debugging skills.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture_2.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_2a.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic4.jpg">
+</div>
+<p>Primary 2 Quarky</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Primary 2 Quarky" src="/images/2025_ALP_pic5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic6.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5.jpg">
+</div>
+<p>Primary 2 Robotic Appreciation Day</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture6.jpg">
+</div>
 <p><strong>Aspiring Inventors</strong>
 </p>
 <p>Aspiring Inventors were implemented as an avenue for students to come
@@ -52,9 +74,8 @@ they construct, deconstruct, design, fix, create and refine solutions to
 various problems presented to them after going through the process of FIDS
 thinking.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5.jpg">
-</div>
+<p></p>
+<p></p>
 <p>Students are able to take items apart, put things together, and dream
 of imaginative creations. The notion of multiple attempts, refining designs,
 and failure are all inherent with engaging students to take risks. This
