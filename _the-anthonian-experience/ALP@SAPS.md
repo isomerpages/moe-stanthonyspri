@@ -140,7 +140,7 @@ to a real-life situation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic16.jpg">
 </div>
-<p></p>
+<p>Primary 4 Microbot</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic17.jpg">
 </div>
@@ -152,11 +152,11 @@ to a real-life situation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic19.jpg">
 </div>
-<p></p>
+<p>P4 Learning Day xCode@SAPS Day</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture9.jpg">
 </div>
-<p></p>
+<p>Primary 5 CoSpaces (Sharing prototype with P2 students)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic20.jpg">
 </div>
@@ -180,8 +180,10 @@ to a real-life situation.</p>
 post PSLE+ activities, where they consolidate their learning and programme
 Sphero bots to interact with each other via bluetooth and coding. They
 are also introduced to what is Artificial Intelligence (AI) and how we
-teach an AI system such that it becomes more reliable.</p>
-<p></p>
+teach an AI system such that it becomes more reliable.
+<br>
+</p>
+<p>Primary 6 Code for Fun</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic25.jpg">
 </div>
