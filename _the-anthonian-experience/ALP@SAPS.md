@@ -11,7 +11,7 @@ to Primary 6 Anthonians, to equip them with the fundamentals of computational
 thinking, inventive thinking and critical thinking skills through Coding
 and Makerspace.&nbsp;</p>
 <p>The programme provides opportunities for students to acquire 21st-century
-competencies and experience the joy of learning for life, extending beyond
+competencies and experience the joy of lifelong learning, extending beyond
 academic pursuits to become confident individuals, self-directed learners,
 active contributors, and concerned citizens.</p>
 <div class="isomer-image-wrapper">
@@ -44,17 +44,11 @@ and develop debugging skills.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture_2.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_2a.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic4.jpg">
 </div>
 <p>Primary 2 Quarky</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Primary 2 Quarky" src="/images/2025_ALP_pic5.jpg">
-</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic6.jpg">
 </div>
@@ -79,39 +73,26 @@ thinking.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic7.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic8.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic9.jpg">
-</div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic10.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic11.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Makerspace.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture7.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic12.jpg">
-</div>
 <p>Students are able to take items apart, put things together, and dream
 of imaginative creations. The notion of multiple attempts, refining designs,
 and failure are all inherent with engaging students to take risks. This
 is aligned to the school direction towards having a growth mindset.&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>Smart Thinkers</strong>
+<p>&nbsp;<strong>Smart Thinkers</strong>
 </p>
 <p>In the Smart Thinkers programme, the application of “FEEL, IMAGINE, DO,
 SHARE” is designed to prime Anthonians to think about problem solving in
@@ -123,77 +104,21 @@ prototypes using Micro:bits. Likewise, Primary 5 Anthonians delve in CoSpaces
 where they build digital interactive content. These projects help students
 to consolidate their learning of the various coding skills and apply them
 to a real-life situation.</p>
-<p>Primary 3 Microbit</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic13.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic14.jpg">
-</div>
+<p>Primary 3 Micro:bit</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture8.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic15.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic16.jpg">
-</div>
-<p>Primary 4 Microbot</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic17.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic18.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic19.jpg">
-</div>
+<p>Primary 4 Micro:bot</p>
 <p>P4 Learning Day xCode@SAPS Day</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture9.jpg">
 </div>
 <p>Primary 5 CoSpaces (Sharing prototype with P2 students)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic20.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic21.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic22.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic23.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic24.jpg">
-</div>
 <p>At Primary 6, the students go through Coding classes as part of their
 post PSLE+ activities, where they consolidate their learning and programme
 Sphero bots to interact with each other via bluetooth and coding. They
 are also introduced to what is Artificial Intelligence (AI) and how we
-teach an AI system such that it becomes more reliable.
-<br>
-</p>
-<p>Primary 6 Code for Fun</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic25.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic26.jpg">
-</div>
-<p></p>
+teach an AI system such that it becomes more reliable.</p>
 <p></p>
 <p></p>
 <p></p>
