@@ -58,9 +58,6 @@ and service projects</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brownie_1.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brownie_3.jpg">
-</div>
 <p><strong>&nbsp;CCA teachers-in-charge and emails:</strong>
 </p>
 <table style="minWidth: 50px">
