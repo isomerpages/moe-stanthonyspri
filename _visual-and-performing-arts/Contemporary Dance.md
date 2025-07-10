@@ -4,12 +4,12 @@ permalink: /the-anthonian-experience/Visual-and-Performing-Arts/Contemporary-Dan
 description: ""
 variant: tiptap
 ---
-<p>The Contemporary Dance CCA offers students an engaging platform to express
-themselves through dance, creativity and performance. It introduces a dynamic
-blend of dance styles such as ballet, modern, lyrical and hip hop, allowing
-students to explore a wide range of movements and rhythms. Through this
-CCA, students can nurture their creativity, build confidence and develop
-essential values such as teamwork, discipline and resilience.</p>
+<p>The Contemporary Dance CCA provides students with an engaging platform
+to express themselves through dance, creativity, and performance. It introduces
+a dynamic blend of dance styles, including ballet, modern, lyrical, and
+hip hop, allowing students to explore a wide range of movements and rhythms.
+Through this CCA, students can nurture their creativity, build confidence
+and develop essential values such as teamwork, discipline and resilience.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Contempdance1.jpg">
 </div>
@@ -43,7 +43,7 @@ and camaraderie among members</p>
 for aesthetic experiences through practices and (school and external) performances</p>
 <p><strong>Teacher in charge:</strong>
 </p>
-<p>Zhang Peiqi <a href="mailto:zhang_peiqi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_peiqi@moe.edu.sg</a>
+<p>Mdm Zhang Peiqi <a href="mailto:zhang_peiqi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_peiqi@moe.edu.sg</a>
 </p>
 <p><strong>Day(s)/Time:</strong>
 </p>

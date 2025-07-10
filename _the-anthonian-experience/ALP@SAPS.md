@@ -11,7 +11,7 @@ to Primary 6 Anthonians, to equip them with the fundamentals of computational
 thinking, inventive thinking and critical thinking skills through Coding
 and Makerspace.&nbsp;</p>
 <p>The programme provides opportunities for students to acquire 21st-century
-competencies and experience the joy of learning for life, extending beyond
+competencies and experience the joy of lifelong learning, extending beyond
 academic pursuits to become confident individuals, self-directed learners,
 active contributors, and concerned citizens.</p>
 <div class="isomer-image-wrapper">
@@ -35,13 +35,29 @@ what decisions to make.&nbsp;</p>
 with Ozobots and Quarky too. They apply block-based codes through an app
 to programme the movements of the Quarky to solve puzzles, navigate mazes
 and develop debugging skills.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1_Ozzo_bot_p1.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic4.jpg">
+</div>
+<p><strong>Primary 2 Quarky</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5.jpg">
+</div>
+<p></p>
+<p><strong>Primary 2 Robotic Appreciation Day</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture6.jpg">
 </div>
 <p><strong>Aspiring Inventors</strong>
 </p>
@@ -53,36 +69,58 @@ various problems presented to them after going through the process of FIDS
 thinking.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic7.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic8.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic10.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic11.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Makerspace.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture7.jpg">
 </div>
 <p>Students are able to take items apart, put things together, and dream
 of imaginative creations. The notion of multiple attempts, refining designs,
 and failure are all inherent with engaging students to take risks. This
 is aligned to the school direction towards having a growth mindset.&nbsp;</p>
-<p><strong>Smart Thinkers</strong>
+<p>&nbsp;<strong>Smart Thinkers</strong>
 </p>
 <p>In the Smart Thinkers programme, the application of “FEEL, IMAGINE, DO,
 SHARE” is designed to prime Anthonians to think about problem solving in
 an empathetic way; recognising them as capable young change makers. Primary
-3 and 4 Anthonians learn block coding with a Microbit, which is a pocket-sized,
+3 and 4 Anthonians learn block coding with a Micro:bit, which is a pocket-sized,
 codeable computer. They also learnt about biodiversity, identified some
 issues that they feel are problems, brainstormed solutions and built their
 prototypes using Micro:bits. Likewise, Primary 5 Anthonians delve in CoSpaces
 where they build digital interactive content. These projects help students
 to consolidate their learning of the various coding skills and apply them
 to a real-life situation.</p>
-<p></p>
+<p><strong>Primary 3 Micro:bit</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture8.jpg">
 </div>
-<p>Students are able to take items apart, put things together, and dream
-of imaginative creations. The notion of multiple attempts, refining designs,
-and failure are all inherent with engaging students to take risks. This
-is aligned to the school direction towards having a growth mindset.&nbsp;</p>
-<p></p>
+<p><strong>P4 Learning Day xCode@SAPS Day</strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Makerspace.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture9.jpg">
 </div>
+<p><strong>Primary 5 CoSpaces (Sharing prototype with P2 students)</strong>
+</p>
+<p>At Primary 6, the students go through Coding classes as part of their
+post PSLE+ activities, where they consolidate their learning and programme
+Sphero bots to interact with each other via bluetooth and coding. They
+are also introduced to what is Artificial Intelligence (AI) and how we
+teach an AI system such that it becomes more reliable.</p>
+<p><strong>Primary 6 Code for Fun</strong>
+</p>
 <p>At Primary 6, the students go through Coding classes as part of their
 post PSLE+ activities, where they consolidate their learning and programme
 Sphero bots to interact with each other via bluetooth and coding. They
@@ -90,6 +128,10 @@ are also introduced to what is Artificial Intelligence (AI) and how we
 teach an AI system such that it becomes more reliable.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Code_for_fun_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Code_for_fun_2.jpg">
 </div>
 <p></p>
