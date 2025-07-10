@@ -35,20 +35,17 @@ what decisions to make.&nbsp;</p>
 with Ozobots and Quarky too. They apply block-based codes through an app
 to programme the movements of the Quarky to solve puzzles, navigate mazes
 and develop debugging skills.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1_Ozzo_bot_p1.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture_2.jpg">
 </div>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic4.jpg">
 </div>
-<p>Primary 2 Quarky</p>
+<p><strong>Primary 2 Quarky</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP_pic6.jpg">
 </div>
@@ -57,7 +54,8 @@ and develop debugging skills.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5.jpg">
 </div>
 <p></p>
-<p>Primary 2 Robotic Appreciation Day</p>
+<p><strong>Primary 2 Robotic Appreciation Day</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture6.jpg">
 </div>
@@ -104,21 +102,28 @@ prototypes using Micro:bits. Likewise, Primary 5 Anthonians delve in CoSpaces
 where they build digital interactive content. These projects help students
 to consolidate their learning of the various coding skills and apply them
 to a real-life situation.</p>
-<p>Primary 3 Micro:bit</p>
+<p><strong>Primary 3 Micro:bit</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture8.jpg">
 </div>
-<p>Primary 4 Micro:bot</p>
-<p>P4 Learning Day xCode@SAPS Day</p>
+<p><strong>P4 Learning Day xCode@SAPS Day</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture9.jpg">
 </div>
-<p>Primary 5 CoSpaces (Sharing prototype with P2 students)</p>
+<p><strong>Primary 5 CoSpaces (Sharing prototype with P2 students)</strong>
+</p>
 <p>At Primary 6, the students go through Coding classes as part of their
 post PSLE+ activities, where they consolidate their learning and programme
 Sphero bots to interact with each other via bluetooth and coding. They
 are also introduced to what is Artificial Intelligence (AI) and how we
 teach an AI system such that it becomes more reliable.</p>
-<p></p>
-<p></p>
+<p><strong>Primary 6 Code for Fun</strong>
+</p>
+<p>At Primary 6, the students go through Coding classes as part of their
+post PSLE+ activities, where they consolidate their learning and programme
+Sphero bots to interact with each other via bluetooth and coding. They
+are also introduced to what is Artificial Intelligence (AI) and how we
+teach an AI system such that it becomes more reliable.</p>
 <p></p>
