@@ -66,7 +66,7 @@ student learns to dance with heart, purpose, and pride.</p>
 </p>
 <p>Mdm Huang Kun <a rel="noopener noreferrer nofollow" target="_blank">huang_kun@moe.edu.sg</a>
 </p>
-<p>Ms Foo&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">foo_yingting@moe.edu.sg</a>
+<p>Ms Foo Ying Ting&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">foo_yingting@moe.edu.sg</a>
 </p>
 <p>&nbsp;<strong>Day(s)/Time:</strong>
 </p>
