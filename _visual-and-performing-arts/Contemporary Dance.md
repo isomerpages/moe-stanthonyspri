@@ -43,7 +43,7 @@ and camaraderie among members</p>
 for aesthetic experiences through practices and (school and external) performances</p>
 <p><strong>Teacher in charge:</strong>
 </p>
-<p>Zhang Peiqi <a href="mailto:zhang_peiqi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_peiqi@moe.edu.sg</a>
+<p>Mdm Zhang Peiqi <a href="mailto:zhang_peiqi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_peiqi@moe.edu.sg</a>
 </p>
 <p><strong>Day(s)/Time:</strong>
 </p>
