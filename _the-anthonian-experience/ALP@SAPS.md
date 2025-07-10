@@ -127,3 +127,11 @@ Sphero bots to interact with each other via bluetooth and coding. They
 are also introduced to what is Artificial Intelligence (AI) and how we
 teach an AI system such that it becomes more reliable.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Code_for_fun_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Code_for_fun_2.jpg">
+</div>
+<p></p>
