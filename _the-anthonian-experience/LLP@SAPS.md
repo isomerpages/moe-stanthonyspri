@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p><strong>LEARN, GROW, SERVE @ SAPS</strong>
 </p>
-<p>Learning for Life Programme (Visual Arts Programme)</p>
+<p>Learning for Life Programme (Visual Arts)</p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/LLP.png">
 </div>
