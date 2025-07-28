@@ -22,7 +22,7 @@ instructions on how to activate the student's account.</p>
 </p>
 <p><strong>Q1: I have forgotten my password or my account has been locked. What should I do?</strong>
 </p>
-<p>Please use the [Forgot Password] function or fill up the <a href="https://form.gov.sg/64ff51bb4c6a3c00126a6420" rel="noopener noreferrer nofollow" target="_blank">online form</a> to
+<p>Please use the [Forgot Password] function or fill up the <a href="https://form.gov.sg/688036f6b192420741f6ce7d" rel="noopener noreferrer nofollow" target="_blank">online form</a> to
 request for a password reset. You may also contact the school SLS helpdesk
 during 0700-1500hrs at Telephone:&nbsp;&nbsp;65690822, Email: &nbsp;
 <a href="mailto:lim_suan_chu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_suan_chu@moe.edu.sg</a>
