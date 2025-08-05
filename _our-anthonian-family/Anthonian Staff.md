@@ -782,10 +782,10 @@ variant: tiptap
 <p>1 RESPONSIBILITY (RY)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Jia Xuan</p>
+<p>Mdm Asmidarwaty</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_jia_xuan@moe.edu.sg" rel="noopener nofollow" target="_blank">goh_jia_xuan@moe.edu.sg</a>
+<p><a href="mailto:Asmidarwaty_abu_bakar@moe.edu.sg" rel="noopener nofollow" target="_blank">Asmidarwaty_abu_bakar@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1207,10 +1207,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Asmidarwaty</p>
+<p>Mr Ahmad Taufik</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Asmidarwaty_abu_bakar@moe.edu.sg" rel="noopener nofollow" target="_blank">Asmidarwaty_abu_bakar@moe.edu.sg</a>
+<p><a href="mailto:ahmad_taufik_ahmad@moe.edu.sg" rel="noopener nofollow" target="_blank">ahmad_taufik_ahmad@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1279,7 +1279,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Foo YingTing</p>
+<p>Ms Foo Ying Ting</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:foo_yingting@moe.edu.sg" rel="noopener nofollow" target="_blank">foo_yingting@moe.edu.sg</a>
@@ -1620,18 +1620,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:liza_ahmad@moe.edu.sg" rel="noopener nofollow" target="_blank">liza_ahmad@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ahmad Taufik</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ahmad_taufik_ahmad@moe.edu.sg" rel="noopener nofollow" target="_blank">ahmad_taufik_ahmad@moe.edu.sg</a>
 </p>
 </td>
 </tr>
