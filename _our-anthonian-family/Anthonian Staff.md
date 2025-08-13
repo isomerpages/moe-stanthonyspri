@@ -428,18 +428,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administration Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ong Tian Nah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ong_tian_nah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_tian_nah@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
