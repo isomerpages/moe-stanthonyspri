@@ -26,5 +26,9 @@ sections:
           description: ""
           linktext: Click here to view the latest updates
           url: https://www.stanthonyspri.moe.edu.sg/saps/announcements/
+        - title: Announcements
+          description: ""
+          linktext: School Bus Advertisement
+          url: ""
       subtitle: Crescit  Eundo
 ---
