@@ -43,7 +43,7 @@ the School’s General Office.</p>
 <p>Contact No: 65690822</p>
 </li>
 <li>
-<p>Email: <a href="https://www.xinminpri.moe.edu.sg/school-bus-advertisement-xinmin-primary-school/xinmin_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>saps@moe.edu.sg</u></a>
+<p>Email: <a href="saps@moe.edu.sg" rel="noopener nofollow" target="_blank">SAPS@moe.edu.sg</a>
 </p>
 </li>
 <li>
