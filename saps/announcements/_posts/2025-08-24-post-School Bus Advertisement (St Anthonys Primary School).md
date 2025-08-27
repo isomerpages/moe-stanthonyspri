@@ -48,7 +48,7 @@ the School’s General Office.</p>
 </p>
 </li>
 <li>
-<p>Contact person: ??</p>
+<p>Contact person: Mdm Harianti Abdullah</p>
 </li>
 </ul>
 <p></p>
