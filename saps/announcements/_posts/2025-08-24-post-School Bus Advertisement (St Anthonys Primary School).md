@@ -33,7 +33,7 @@ the Application Procedure below.</p>
 <p></p>
 <h4><u>Application Procedure</u></h4>
 <p>Complete the Call for Proposal - Annex A</p>
-<p>Submit the completed Call for Proposal – Annex A&nbsp;by the closing date&nbsp;<u>5 Sep 2025</u>&nbsp;to
+<p>Submit the completed Call for Proposal – Annex A&nbsp;by the closing date&nbsp;<strong><u>5 Sep 2025</u></strong>&nbsp;to
 the School’s General Office.</p>
 <ul data-tight="true" class="tight">
 <li>
