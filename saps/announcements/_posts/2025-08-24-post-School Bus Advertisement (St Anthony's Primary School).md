@@ -1,5 +1,5 @@
 ---
-title: School Bus Advertisement (St Anthonys Primary School)
+title: School Bus Advertisement (St Anthony's Primary School)
 permalink: /school-bus-advertisement-st-anthonys-primary-school/
 date: 2025-08-24
 layout: post

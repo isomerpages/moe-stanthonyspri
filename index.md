@@ -29,6 +29,6 @@ sections:
         - title: Announcements (New)
           description: ""
           linktext: School Bus Advertisement
-          url: https://cms.isomer.gov.sg/sites/moe-stanthonyspri/resourceRoom/saps/resourceCategory/announcements/editPage/2025-08-24-post-School%20Bus%20Advertisement%20(St%20Anthonys%20Primary%20School).md
+          url: https://cms.isomer.gov.sg/sites/moe-stanthonyspri/resourceRoom/saps/resourceCategory/announcements/editPage/2025-08-24-post-School%20Bus%20Advertisement%20(St%20Anthony's%20Primary%20School).md
       subtitle: Crescit  Eundo
 ---
