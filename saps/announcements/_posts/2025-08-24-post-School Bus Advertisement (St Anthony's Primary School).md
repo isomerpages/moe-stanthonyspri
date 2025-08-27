@@ -44,6 +44,7 @@ the School’s General Office.</p>
 </li>
 <li>
 <p>Email: <a href="saps@moe.edu.sg" rel="noopener nofollow" target="_blank">SAPS@moe.edu.sg</a>
+<a href="mailto:saps@moe.edu.sg" rel="noopener nofollow" target="_blank">SAPS@moe.edu.sg</a>
 </p>
 </li>
 <li>
