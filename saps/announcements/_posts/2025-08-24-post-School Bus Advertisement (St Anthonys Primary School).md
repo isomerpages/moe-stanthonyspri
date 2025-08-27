@@ -14,11 +14,11 @@ the Application Procedure below.</p>
 <h4><u>Service Requirements</u></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/1__Call_for_Proposals__For_Single_Bus_Service__SAPS_final.pdf" rel="noopener nofollow" target="_blank">Call For Proposal</a>
+<p><a href="/files/1__Call_for_Proposals__For_Single_Bus_Service__SAPS_final_Scanned.pdf" rel="noopener nofollow" target="_blank">Call For Proposal</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2__Information_from_Vendor__For_Single_Bus_Service__SAPS_final.pdf" rel="noopener nofollow" target="_blank">Information from Vendor</a>
+<p><a href="/files/2__Information_from_Vendor__For_Single_Bus_Service__SAPS_final_Scanned.pdf" rel="noopener nofollow" target="_blank">Information from Vendor</a>
 </p>
 </li>
 <li>
@@ -26,7 +26,7 @@ the Application Procedure below.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/4__Request_for_School_Bus_Service_and_TC_Governing_the_Requests_for_Services___For_Single_Bus_Service__SAPS_final.pdf" rel="noopener nofollow" target="_blank">Request for School Bus Service and TC Governing the Requests for Services</a>
+<p><a href="/files/4__Request_for_School_Bus_Service_and_TC_Governing_the_Requests_for_Services___For_Single_Bus_Service__SAPS_final_Scanned.pdf" rel="noopener nofollow" target="_blank">Request for School Bus Service and TC Governing the Requests for Services</a>
 </p>
 </li>
 </ol>
