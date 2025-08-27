@@ -43,7 +43,7 @@ the School’s General Office.</p>
 <p>Contact No: 65690822</p>
 </li>
 <li>
-<p>Email: <a href="mailto:saps@moe.edu.sg" rel="noopener nofollow" target="_blank">SAPS@moe.edu.sg</a>
+<p>Email: <a href="mailto:saps@moe.edu.sg" rel="noopener nofollow" target="_blank">saps@moe.edu.sg</a>
 </p>
 </li>
 <li>
