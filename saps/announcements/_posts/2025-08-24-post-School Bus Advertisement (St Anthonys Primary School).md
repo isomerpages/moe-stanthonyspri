@@ -18,19 +18,18 @@ the Application Procedure below.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/2__Information_from_Vendor__For_Single_Bus_Service__SAPS_final_Scanned.pdf" rel="noopener nofollow" target="_blank">Information from Vendor</a>
+<p><a href="https://for.edu.sg/informationfromvendor" rel="noopener nofollow" target="_blank">Information From Vendor</a>
 </p>
 </li>
 <li>
-<p><a href="/files/3__TC_for_School_Bus_Operator_to_Provide_School_Bus_Services__For_Single_Bus_Service__SAPS_final.pdf" rel="noopener nofollow" target="_blank">Term and Condition for School Bus Operator</a>
+<p><a href="https://for.edu.sg/tcforoperator" rel="noopener nofollow" target="_blank">Term and Condition for School Bus Operator</a>
 </p>
 </li>
 <li>
-<p><a href="/files/4__Request_for_School_Bus_Service_and_TC_Governing_the_Requests_for_Services___For_Single_Bus_Service__SAPS_final_Scanned.pdf" rel="noopener nofollow" target="_blank">Request for School Bus Service and TC Governing the Requests for Services</a>
+<p><a href="https://for.edu.sg/tcgoverning" rel="noopener nofollow" target="_blank">Request for School Bus Service and TC Governing the Requests for Services</a>
 </p>
 </li>
 </ol>
-<p></p>
 <h4><u>Application Procedure</u></h4>
 <p>Complete the Call for Proposal - Annex A</p>
 <p>Submit the completed Call for Proposal – Annex A&nbsp;by the closing date&nbsp;<strong><u>5 Sep 2025</u></strong>&nbsp;to
