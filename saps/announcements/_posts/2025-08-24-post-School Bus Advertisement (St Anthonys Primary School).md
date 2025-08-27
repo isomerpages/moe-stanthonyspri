@@ -14,7 +14,7 @@ the Application Procedure below.</p>
 <h4><u>Service Requirements</u></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/1__Call_for_Proposals__For_Single_Bus_Service__SAPS_final___Copy.pdf" rel="noopener nofollow" target="_blank">Call For Proposal</a>
+<p><a href="https://for.edu.sg/schbusfile1" rel="noopener nofollow" target="_blank">Call for Proposals</a>
 </p>
 </li>
 <li>
