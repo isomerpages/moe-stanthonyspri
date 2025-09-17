@@ -1088,18 +1088,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Nur Azura Bte Azmi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nur_azura_azmi@moe.edu.sg" rel="noopener nofollow" target="_blank">nur_azura_azmi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>2 COMMUNITY (CY)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1295,6 +1283,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lek_li_ping@moe.edu.sg" rel="noopener nofollow" target="_blank">lek_li_ping@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Joanne Sam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sam_choi_yoke_a@moe.edu.sg" rel="noopener nofollow" target="_blank">sam_choi_yoke_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
