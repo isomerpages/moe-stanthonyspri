@@ -959,10 +959,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zaleha Bte Tosimia</p>
+<p>Mdm Nur Azura Bte Azmi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zaleha_tosirmia@moe.edu.sg" rel="noopener nofollow" target="_blank">zaleha_tosirmia@moe.edu.sg</a>
+<p><a href="mailto:nur_azura_azmi@moe.edu.sg" rel="noopener nofollow" target="_blank">nur_azura_azmi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
