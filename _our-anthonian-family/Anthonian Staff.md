@@ -1392,6 +1392,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Cheryl Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chong_chun_sheun@moe.edu.sg" rel="noopener nofollow" target="_blank">chong_chun_sheun@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>4 RESPONSIBILITY (RY)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1568,7 +1580,7 @@ variant: tiptap
 <p>5 RESPONSIBILITY (RY)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Xing Li Ying</p>
+<p>Mrs Lee Li Ying</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_li_ying_a@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_li_ying_a@moe.edu.sg</a>
