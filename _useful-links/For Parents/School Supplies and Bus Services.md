@@ -40,4 +40,4 @@ Click [here](/files/textbooks%20and%20uniform%20purchase%20guide%20in%20saps%20w
     ·             Contact Number: 9476 6639 
 		
 
-*   Bus Fares for 2024 [Click Here](/files/2024%20bus%20info%20and%20nte%20prices%20for%20saps%20website%20(28%20sep%202023).pdf)
+*   Bus Fares for 2026 - 2027 [Click Here](/files/Bus_Fares_for_2026_2027.pdf)
