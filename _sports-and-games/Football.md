@@ -73,8 +73,7 @@ and cardiovascular exercises.</p>
 </td>
 <td rowspan="2" colspan="2">
 <p><strong>2 p.m. to 4 p.m.</strong>
-<br>(P4, P5, P6 Recreational Team)
-<br>2 p.m. to 4 p.m.
+<br><strong>(P2 &amp; P3 Recreational Team) <br>2 p.m. to 4 p.m. </strong>
 <br><strong>(Competitive Team)</strong>
 </p>
 </td>
