@@ -60,7 +60,4 @@ others preparing them to thrive in a digitally connected world.</p>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023/infocomm.png">
-</div>
 <p></p>

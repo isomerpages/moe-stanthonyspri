@@ -1,6 +1,6 @@
 ---
 title: Visual Arts
-permalink: /visual-arts/
+permalink: /the-anthonian-experience/visual-and-performing-arts/visual-arts/
 variant: tiptap
 description: ""
 ---
