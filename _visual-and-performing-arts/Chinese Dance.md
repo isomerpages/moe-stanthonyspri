@@ -72,4 +72,5 @@ student learns to dance with heart, purpose, and pride.</p>
 </p>
 <p>Tuesday 2 p.m. to 4 p.m. at Dance Studio</p>
 <p>Friday 2 p.m. to 5 p.m. at PAL Room</p>
+<p><strong>All new members</strong> will join the Tuesday Session.</p>
 <p></p>
