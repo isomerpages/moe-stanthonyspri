@@ -69,7 +69,7 @@ teamwork, and integrity as proud representatives of the Anthonian community.</p>
 <br>(Recreational team)</p>
 <p>2 to 5 pm
 <br>(Competitive team)</p>
-<p><strong>Alternate Friday:</strong>
+<p><strong>Selected Friday:</strong>
 </p>
 <p>2 pm to 4 pm
 <br>(Competitive team)</p>
