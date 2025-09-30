@@ -59,11 +59,8 @@ and cardiovascular exercises.</p>
 <p>Tuesday</p>
 </th>
 <th rowspan="1" colspan="2">
-<p>2 p.m. to 5 p.m.
-<br>(P4, P5, P6 Recreational Team)
-<br>2 p.m. to 5 p.m.
-<br><strong>(Competitive Team)</strong>
-</p>
+<p>2 p.m. to 5 p.m. (P4, P5, P6 Recreational Team)</p>
+<p>2 p.m. to 5 p.m. (Competitive Team)</p>
 </th>
 </tr>
 <tr>
@@ -72,9 +69,9 @@ and cardiovascular exercises.</p>
 </p>
 </td>
 <td rowspan="2" colspan="2">
-<p><strong>2 p.m. to 4 p.m.</strong>
-<br><strong>(P2 &amp; P3 Recreational Team) <br>2 p.m. to 4 p.m. </strong>
-<br><strong>(Competitive Team)</strong>
+<p><strong>2 p.m. to 4 p.m. (P2 &amp; P3 Recreational Team)</strong>
+</p>
+<p><strong>2 p.m. to 4 p.m. (Competitive Team)</strong>
 </p>
 </td>
 </tr>
