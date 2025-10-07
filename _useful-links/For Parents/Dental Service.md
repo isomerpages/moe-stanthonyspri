@@ -20,7 +20,7 @@ third_nav_title: For Parents
 </li>
 </ul>
 <p><strong>Contact Number:</strong>&nbsp;9115 7437</p>
-<p><strong>Staff in Charge: </strong>
+<p><strong>Staff in Charge:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
