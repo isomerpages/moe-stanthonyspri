@@ -5,7 +5,18 @@ description: ""
 third_nav_title: For Parents
 variant: tiptap
 ---
-<h3>School - Uniform, Books, Nametag and Bus Information</h3>
+<h3><strong>School Vendors</strong></h3>
+<h4><strong>School Bookshop</strong></h4>
+<p><strong>PACIFIC BOOKSTORES PTE LTD</strong>
+<br><strong>Tel: 6559 2269</strong>
+<br><strong>Mondays to Fridays: 9am to 3pm</strong>
+</p>
+<p><strong>Online Store</strong>
+<br><strong>Hotline: 6929 8012</strong>
+<br><strong>Email: </strong><a href="mailto:sales@pacificbookstores.com" rel="noopener nofollow" target="_blank">sales@pacificbookstores.com</a>
+<br>Website: <a href="http://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a>
+</p>
+<p></p>
 <p>Both textbooks and uniforms can be purchased online or directly from the
 retail outlet.
 <br><strong>Note:</strong> If parents opt for home delivery, additional delivery
@@ -13,13 +24,7 @@ charges will apply.
 <br><em>Please check with the respective vendors below for their home delivery charges.</em>
 <br><strong>Click <a href="/files/textbooks%20and%20uniform%20purchase%20guide%20in%20saps%20website%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for textbooks and the uniform purchase guide. </strong>
 <br>
-<br>· <strong>Pacific Bookstores Pte Ltd - School Books Supplier</strong>
-<br>· Website:&nbsp;<a href="http://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a>
-<br>· Contact Number: &nbsp;6559 2269
-<br>· Operating Hours: Mondays - Fridays&nbsp;(9:00 a.m. - 3:00 p.m.)
-<br>
-</p>
-<p><strong>School Nametag</strong>
+<br><strong>School Nametag</strong>
 <br><em>Please visit the school bookstore to obtain the school nametag order form. </em>
 <br>
 <br>· <strong>KH Uniform Pte Ltd - School Uniform Supplier</strong>
