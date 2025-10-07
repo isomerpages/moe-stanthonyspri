@@ -28,7 +28,7 @@ charges will apply.
 <br>. Email: <strong><a href="mailto:sales@khuniform.com" rel="noopener noreferrer nofollow" target="_blank">sales@khuniform.com</a></strong>
 <br>
 </p>
-<p><strong> Chen Num Sing Department Store - Retail Store</strong>
+<p><strong>Chen Num Sing Department Store - Retail Store</strong>
 <br>· Address: 413 Bukit Batok West Ave. 4, #01-206, (S)650413
 <br>· Contact Number: 6565 8961
 <br>· Operating Hours: Tuesdays – Sundays (10.00 a.m. – 7.00 p.m.)
