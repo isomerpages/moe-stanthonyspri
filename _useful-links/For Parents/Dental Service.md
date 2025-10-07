@@ -8,7 +8,7 @@ third_nav_title: For Parents
 <h2>Dental Service</h2>
 <p><strong>Operating hours:</strong>
 </p>
-<p><strong>Clinic is open every alternate week.</strong>
+<p><strong>The clinic is open every alternate week.</strong>
 </p>
 <p></p>
 <ul data-tight="true" class="tight">
