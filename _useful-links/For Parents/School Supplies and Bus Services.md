@@ -6,7 +6,7 @@ third_nav_title: For Parents
 variant: tiptap
 ---
 <h3><strong>School Vendors</strong></h3>
-<h4><strong>School Bookshop</strong></h4>
+<h4>School Bookshop</h4>
 <p></p>
 <p><strong>PACIFIC BOOKSTORES PTE LTD</strong>
 <br><strong>Tel: 6559 2269</strong>
@@ -22,8 +22,8 @@ variant: tiptap
 <p><strong>School Nametag</strong>
 <br><em>Please visit the school bookstore to obtain the school nametag order form. </em>
 <br>
-<br><strong>School Uniform</strong>
 </p>
+<h4><br><strong>School Uniform</strong></h4>
 <p><strong>KH Uniform Pte Ltd - School Uniform Supplier</strong>
 <br>· Website (online store) :&nbsp;<a href="https://khuniform.com/" rel="noopener noreferrer nofollow" target="_blank">www.khuniform.com</a>
 <br>· Contact Number: 6479 6811
@@ -40,8 +40,8 @@ variant: tiptap
 <br>Purchase of uniform (P1) <a href="https://for.edu.sg/uniformp1" rel="noopener nofollow" target="_blank">Click Here</a>
 <br>
 </p>
-<p><strong>School Bus</strong>
-<br><strong>Annway Transport Services (Mr Kelvin Wong)</strong>
+<h4>School Bus</h4>
+<p>Annway Transport Services (Mr Kelvin Wong)
 <br>· Contact Number: 9476 6639</p>
 <ul>
 <li>
