@@ -7,6 +7,7 @@ variant: tiptap
 ---
 <h3><strong>School Vendors</strong></h3>
 <h4><strong>School Bookshop</strong></h4>
+<p></p>
 <p><strong>PACIFIC BOOKSTORES PTE LTD</strong>
 <br><strong>Tel: 6559 2269</strong>
 <br><strong>Mondays to Fridays: 9am to 3pm</strong>
@@ -33,7 +34,7 @@ variant: tiptap
 <br>· Address: 413 Bukit Batok West Ave. 4, #01-206, (S)650413
 <br>· Contact Number: 6565 8961
 <br>· Operating Hours: Tuesdays – Sundays (10.00 a.m. – 7.00 p.m.)
-<br><em>School uniforms are available for sale through school bookshop during school term time </em>
+<br><em>School uniforms are available for sale through school bookshop during school term time</em>
 </p>
 <p>Purchase of uniform (P2 - P6) <a href="https://for.edu.sg/uniforminfo" rel="noopener nofollow" target="_blank">Click Here</a>
 <br>Purchase of uniform (P1) <a href="https://for.edu.sg/uniformp1" rel="noopener nofollow" target="_blank">Click Here</a>
