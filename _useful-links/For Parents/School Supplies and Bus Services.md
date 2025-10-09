@@ -5,39 +5,47 @@ description: ""
 third_nav_title: For Parents
 variant: tiptap
 ---
-<h3>School - Uniform, Books, Nametag and Bus Information</h3>
-<p>Both textbooks and uniforms can be purchased online or directly from the
-retail outlet.
-<br><strong>Note:</strong> If parents opt for home delivery, additional delivery
-charges will apply.
-<br><em>Please check with the respective vendors below for their home delivery charges.</em>
-<br>Click <a href="/files/textbooks%20and%20uniform%20purchase%20guide%20in%20saps%20website%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-textbooks and the uniform purchase guide.
-<br><strong>Book Supplier</strong>
-<br>· <strong>Pacific Bookstores Pte Ltd</strong>
-<br>· Website:&nbsp;<a href="http://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a>
-<br>· Contact Number: &nbsp;6559 2269
-<br>· Operating Hours: Mondays - Fridays&nbsp;(9:00 a.m. - 3:00 p.m.)
-<br><strong>School Nametag</strong>
-<br>· Please approach the school bookstore for the school nametag order form.
-<br><strong>Uniform Supplier</strong>
-<br>· <strong>KH Uniform Pte Ltd</strong>
-<br>· Website (online store) :&nbsp;<a href="https://khuniform.com/" rel="noopener noreferrer nofollow" target="_blank">www.khuniform.com</a>
-<br>· Contact Number: 6479 6811
-<br>. Email: <strong><a href="mailto:sales@khuniform.com" rel="noopener noreferrer nofollow" target="_blank">sales@khuniform.com</a></strong>
-<br><strong>Retail Outlet: Chen Num Sing Department Store</strong>
-<br>· Address: 413 Bukit Batok West Ave. 4, #01-206, (S)650413
-<br>· Contact Number: 6565 8961
-<br>· Operating Hours: Tuesdays – Sundays (10.00 a.m. – 7.00 p.m.)
-<br>. Uniforms are available for sale through school bookshop during school
-term time
-<br><strong>School Bus</strong>
-<br>· <strong>Annway Transport Services (Mr Kelvin Wong)</strong>
-<br>· Contact Number: 9476 6639</p>
-<ul>
-<li>
-<p>Bus Fares for 2026 - 2027 <a href="/files/Bus_Fares_for_2026_2027.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
+<h3><strong>School Vendors</strong></h3>
+<h4>School Bookshop</h4>
+<p></p>
+<p><strong>PACIFIC BOOKSTORES PTE LTD</strong>
+<br><strong>Tel: 6559 2269</strong>
+<br><strong>Mondays to Fridays: 9am to 3pm</strong>
 </p>
-</li>
-</ul>
+<p><strong>Online Store</strong>
+<br><strong>Hotline: 6929 8012</strong>
+<br><strong>Email: </strong><a href="mailto:sales@pacificbookstores.com" rel="noopener nofollow" target="_blank">sales@pacificbookstores.com</a>
+<br>Website: <a href="http://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a>
+</p>
+<p>Pacific Bookstores Purchase Guide <a href="https://for.edu.sg/bookstorepurchaseguide" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
+<p><strong>Name Tags for primary 1 (2026)</strong>
+<br>Please approach the school bookstore for the school nametag order form.
+<br>
+</p>
+<h4><br><strong>School Uniform</strong></h4>
+<p><strong>Retail Store</strong>
+<br><strong>CHEN NUM SING DEPARTMENT STORE</strong>
+<br>413 Bukit Batok West Ave 4 #01-206 Singapore 650413
+<br>Tel: 6565 8961
+<br>Tuesdays to Fridays: 10am to 7pm
+<br>Weekends: 10am to 6pm</p>
+<p><strong>Online Store</strong>
+<br><strong>KH Uniform Pte Ltd </strong>
+<br>Tel: 6479 6811
+<br>Website:&nbsp;<a href="https://khuniform.com/" rel="noopener noreferrer nofollow" target="_blank">www.khuniform.com</a>
+<br>Email: <strong><a href="mailto:sales@khuniform.com" rel="noopener noreferrer nofollow" target="_blank">sales@khuniform.com</a></strong>
+<br>
+</p>
+<p><strong>Uniform Infosheets</strong>
+<br>Purchase of uniform (P2 - P6) <a href="https://for.edu.sg/uniforminfo" rel="noopener nofollow" target="_blank">Click Here</a>
+<br>Purchase of uniform (P1) <a href="https://for.edu.sg/uniformp1" rel="noopener nofollow" target="_blank">Click Here</a>
+<br>
+</p>
+<h4>School Bus</h4>
+<p><strong>Annway Transport Services</strong>
+<br><strong>Tel: 9476 6639 (Mr Kelvin Wong)</strong>
+</p>
+<p><strong>Bus Fares for 2026 - 2027 </strong><a href="https://for.edu.sg/busfare" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
 <p></p>
