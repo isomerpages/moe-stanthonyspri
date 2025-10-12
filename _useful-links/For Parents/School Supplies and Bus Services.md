@@ -38,7 +38,7 @@ variant: tiptap
 <br>
 </p>
 <p><strong>Uniform Infosheets</strong>
-<br>Purchase of uniform (P2 - P6) <a href="https://for.edu.sg/uniforminfo" rel="noopener nofollow" target="_blank">Click Here</a>
+<br>Purchase of uniform (P2 - P6) <a href="https://for.edu.sg/uniformp2to6" rel="noopener nofollow" target="_blank">Click Here</a>
 <br>Purchase of uniform (P1) <a href="https://for.edu.sg/uniformp1" rel="noopener nofollow" target="_blank">Click Here</a>
 <br>
 </p>
