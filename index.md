@@ -23,8 +23,8 @@ sections:
           linktext: Click here
           url: https://www.instagram.com/saps_sg
         - title: Announcements
-          description: School Bus Advertisement
+          description: School Canteen Advertisement
           linktext: Click here to view the latest updates
-          url: https://www.stanthonyspri.moe.edu.sg/saps/announcements/
+          url: https://cms.isomer.gov.sg/sites/moe-stanthonyspri/resourceRoom/saps/resourceCategory/announcements/editPage/2025-10-24-post-School%20Canteen%20Advertisement.md
       subtitle: Crescit  Eundo
 ---
