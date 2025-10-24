@@ -54,7 +54,7 @@ variant: tiptap
 </p>
 <p>1.&nbsp;&nbsp; Download and complete the application form. You may also
 request a hard copy from the School’s General Office.</p>
-<p><a href="https://for.edu.sg/schcanteenappform" rel="noopener nofollow" target="_blank">Application Form</a> 
+<p><a href="https://for.edu.sg/schcanteenappform" rel="noopener nofollow" target="_blank">Application Form</a>
 </p>
 <p>2.&nbsp;&nbsp; Attached the following documents together with the application
 form:</p>
