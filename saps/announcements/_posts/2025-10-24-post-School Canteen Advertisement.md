@@ -39,7 +39,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vagetarian</p>
+<p>Vegetarian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Any form of Vegetarian Cuisine</p>
@@ -52,8 +52,9 @@ variant: tiptap
 </table>
 <p><strong>Application Procedure</strong>
 </p>
-<p>1.&nbsp;&nbsp; Download and complete the application form. You may also
-request a hard copy from the School’s General Office.</p>
+<p>1.&nbsp;&nbsp; Download and complete the Application Form (click on the
+link below). You may also request a hardcopy of the Application Form from
+the School’s General Office.</p>
 <p><a href="https://for.edu.sg/schcanteenappform" rel="noopener nofollow" target="_blank">Application Form</a>
 </p>
 <p>2.&nbsp;&nbsp; Attached the following documents together with the application
@@ -70,9 +71,8 @@ form:</p>
 etc.</p>
 </li>
 </ul>
-<p>&nbsp;3.&nbsp;&nbsp; Submit the completed application form and documents
-by closing date via email OR to the School’s General Office by the closing
-date.</p>
+<p>&nbsp;3.&nbsp;&nbsp; Submit the completed Application Form and documents
+via email OR to the School’s General Office by the closing date.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Address:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -96,7 +96,7 @@ Ms Aw San San (Administration Manager)
 </ul>
 <p><strong>How to get there?</strong>
 </p>
-<p>Nearest MRT: Bukit Gombak MRT station</p>
+<p>Nearest MRT: Bukit Gombak MRT</p>
 <p>Bus number:&nbsp; 187,188, 188E, 945, 985
 <br>
 </p>
@@ -104,7 +104,7 @@ Ms Aw San San (Administration Manager)
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder.</p>
+<p>Singapore Citizen or Singapore Permanent Resident (SPR) for stallholder.</p>
 </li>
 <li>
 <p>Stall assistant(s) may be a SC, SPR or a Long-Term Visit Pass (LTVP) or
@@ -120,14 +120,14 @@ set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools
 Programme (HMSP)” guidelines (see link <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener nofollow" target="_blank">Healthy Meals In School Programme</a> ).</p>
 </li>
 <li>
-<p>Able to maintain a high standard of food safety and personal hygiene.
-This includes complying with relevant authorities’ requirements and guidelines.</p>
+<p>Able to maintain high standard of food safety and personal hygiene. This
+includes complying with relevant authorities’ requirements and guidelines.</p>
 </li>
 <li>
 <p>Healthy and fit to operate the stall.</p>
 </li>
 <li>
-<p>Must be in person attendance at the stall.</p>
+<p>Must be in personal attendance at the stall.</p>
 </li>
 <li>
 <p>Preferably possess catering experience or experience operating in a school
