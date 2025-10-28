@@ -45,7 +45,7 @@ variant: tiptap
 <p>Any form of Vegetarian Cuisine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 Noc 2025</p>
+<p>15 Nov 2025</p>
 </td>
 </tr>
 </tbody>
