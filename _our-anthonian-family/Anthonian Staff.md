@@ -875,10 +875,10 @@ variant: tiptap
 <p>1 COMMUNITY (CY)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Farahiya Bte Sulaiman</p>
+<p>Mrs Chang Li Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_farahiya_sulaiman@moe.edu.sg" rel="noopener nofollow" target="_blank">nur_farahiya_sulaiman@moe.edu.sg</a>
+<p><a href="mailto:lek_li_ping@moe.edu.sg" rel="noopener nofollow" target="_blank">lek_li_ping@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -887,10 +887,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Gowthami</p>
+<p>Mdm Maryam Bte Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gowthami_kanakasabai@moe.edu.sg" rel="noopener nofollow" target="_blank">gowthami_kanakasabai@moe.edu.sg</a>
+<p><a href="mailto:maryam_ismail@moe.edu.sg" rel="noopener nofollow" target="_blank">maryam_ismail@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1015,7 +1015,7 @@ variant: tiptap
 <p>2 INTEGRITY (IY)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Maryam Bte Ismail</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:maryam_ismail@moe.edu.sg" rel="noopener nofollow" target="_blank">maryam_ismail@moe.edu.sg</a>
