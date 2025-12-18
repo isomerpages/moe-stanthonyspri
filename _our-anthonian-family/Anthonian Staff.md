@@ -754,10 +754,10 @@ variant: tiptap
 <p>1 RESILIENCE (RE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Huang Zhengqiang</p>
+<p>Kader Meerah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:huang_zhengqiang@moe.edu.sg" rel="noopener nofollow" target="_blank">huang_zhengqiang@moe.edu.sg</a>
+<p><a href="mailto:kader_meerah_mohd_maideen@moe.edu.sg" rel="noopener nofollow" target="_blank">kader_meerah_mohd_maideen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
