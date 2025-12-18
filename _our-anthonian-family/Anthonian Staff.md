@@ -706,10 +706,10 @@ variant: tiptap
 <p>1 GRATITUDE (GE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Daphne Chia (Sim Hwee)</p>
+<p>Mdm Zhang Huili</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sim_hwee@moe.edu.sg" rel="noopener nofollow" target="_blank">sim_hwee@moe.edu.sg</a>
+<p><a href="mailto:zhang_huili@moe.edu.sg" rel="noopener nofollow" target="_blank">zhang_huili@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -718,10 +718,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yvonne Tan Lian Zhi</p>
+<p>Ms Kothai d/o Sellathurai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yvonne_tan_lian_zhi@moe.edu.sg" rel="noopener nofollow" target="_blank">yvonne_tan_lian_zhi@moe.edu.sg</a>
+<p><a href="mailto:kothai_sellathurai@moe.edu.sg" rel="noopener nofollow" target="_blank">kothai_sellathurai@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -730,10 +730,10 @@ variant: tiptap
 <p>1 RESPECT (RT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Cherlyn Pang</p>
+<p>Ms Lim Jiaqi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koh_may_luang_cherlyn@moe.edu.sg" rel="noopener nofollow" target="_blank">koh_may_luang_cherlyn@moe.edu.sg</a>
+<p><a href="mailto:lim_jia_qi_a@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_jia_qi_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -742,10 +742,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zhang Huili</p>
+<p>Mrs Ruth Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zhang_huili@moe.edu.sg" rel="noopener nofollow" target="_blank">zhang_huili@moe.edu.sg</a>
+<p><a href="mailto:ruth_lim@moe.edu.sg" rel="noopener nofollow" target="_blank">ruth_lim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
