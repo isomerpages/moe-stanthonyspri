@@ -40,10 +40,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Anna Mathew</p>
+<p>Ms Lim Peiwen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mathew_anna@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mathew_anna@schools.gov.sg</a>
+<p><a href="mailto:lim_peiwen@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_peiwen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
