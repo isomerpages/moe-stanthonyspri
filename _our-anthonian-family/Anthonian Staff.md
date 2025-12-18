@@ -106,10 +106,10 @@ variant: tiptap
 <p>HOD (Citizenship &amp; Character Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Peiwen</p>
+<p>Mr Aaron Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_peiwen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_peiwen@moe.edu.sg</a>
+<p><a href="mailto:goh_ji_en_aaron@moe.edu.sg" rel="noopener nofollow" target="_blank">goh_ji_en_aaron@moe.edu.sg</a>
 </p>
 </td>
 </tr>
