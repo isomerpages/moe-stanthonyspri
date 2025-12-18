@@ -139,6 +139,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>School Staff Developer (SSD)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lau Kai Yen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lau_kai_yen@moe.edu.sg" rel="noopener nofollow" target="_blank">lau_kai_yen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD (Citizenship &amp; Character Education)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -151,24 +163,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>HOD (ED Tech)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Sarina Bte Md Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>School Staff Developer (SSD)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lau Kai Yen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lau_kai_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau_kai_yen@moe.edu.sg</a>
+<p><a href="mailto:sarina_md_ismail@moe.edu.sg" rel="noopener nofollow" target="_blank">sarina_md_ismail@moe.edu.sg</a>
 </p>
 </td>
 </tr>
