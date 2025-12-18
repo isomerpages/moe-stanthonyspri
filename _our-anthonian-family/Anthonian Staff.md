@@ -766,10 +766,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Noelle Sim</p>
+<p>Ms Yvonne Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:noelle_tan_ying_xiu@moe.edu.sg" rel="noopener nofollow" target="_blank">noelle_tan_ying_xiu@moe.edu.sg</a>
+<p><a href="mailto:yvonne_tan_lian_zhi@moe.edu.sg" rel="noopener nofollow" target="_blank">yvonne_tan_lian_zhi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
