@@ -199,8 +199,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (Upper Primary)
-<br>(Covering)</p>
+<p>Year Head (Upper Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Christopher Sagaram</p>
@@ -320,21 +319,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Ed Tech)
-<br>(Internal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Angela Chia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chia_angela@moe.edu.sg" rel="noopener nofollow" target="_blank">chia_angela@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subject Head (Mathematics)
-<br>(Internal)</p>
+<p>Subject Head (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Rifa'ie (Nur Rezeki Bte Marzoki)</p>
@@ -346,8 +331,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Tamil &amp; Malay)
-<br>(Internal)</p>
+<p>Subject Head (Tamil &amp; Malay)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Ramesh (Gowri d/o Raman Jathu)</p>
