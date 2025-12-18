@@ -103,13 +103,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD (Citizenship &amp; Character Education)</p>
+<p>HOD (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Aaron Goh</p>
+<p>Ms Loh Yang Keng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_ji_en_aaron@moe.edu.sg" rel="noopener nofollow" target="_blank">goh_ji_en_aaron@moe.edu.sg</a>
+<p><a href="mailto:loh_yang_keng@moe.edu.sg" rel="noopener nofollow" target="_blank">loh_yang_keng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD (Science)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Wong Lai Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_lai_lin@moe.edu.sg" rel="noopener nofollow" target="_blank">wong_lai_lin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -127,14 +139,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD (Mathematics)</p>
+<p>HOD (Citizenship &amp; Character Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Loh Yang Keng</p>
+<p>Mr Aaron Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:loh_yang_keng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_yang_keng@moe.edu.sg</a>
+<p><a href="mailto:goh_ji_en_aaron@moe.edu.sg" rel="noopener nofollow" target="_blank">goh_ji_en_aaron@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
