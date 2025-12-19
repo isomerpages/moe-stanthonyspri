@@ -1823,24 +1823,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Betty Kang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Kang_Peh_Fang_Betty@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Kang_Peh_Fang_Betty@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Charissa&nbsp;Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:charissa_tan_lay_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">charissa_tan_lay_shan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Chelvan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1863,24 +1845,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sam_choi_yoke_a@moe.edu.sg" rel="noopener nofollow" target="_blank">sam_choi_yoke_a@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Ho Poh Tip</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:loh_poh_tip@moe.edu.sg" rel="noopener nofollow" target="_blank">loh_poh_tip@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Kathleen Koh&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kathleen_ong_hsiuli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kathleen_ong_hsiuli@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1944,15 +1908,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:joey_lee_jiaying@moe.edu.sg" rel="noopener nofollow" target="_blank">joey_lee_jiaying@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Noraini</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:noraini_mohamed_yusope@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noraini_mohamed_yusope@moe.edu.sg</a>
 </p>
 </td>
 </tr>
