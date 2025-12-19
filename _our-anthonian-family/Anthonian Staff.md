@@ -919,10 +919,10 @@ variant: tiptap
 <p>2 GRATITUDE (GE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Betsy Wong</p>
+<p>Mrs Daphne Chia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_lai_fun_betsy@moe.edu.sg" rel="noopener nofollow" target="_blank">wong_lai_fun_betsy@moe.edu.sg</a>
+<p><a href="mailto:sim_hwee@moe.edu.sg" rel="noopener nofollow" target="_blank">sim_hwee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -931,10 +931,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wang Fang Fang</p>
+<p>Ms Lorshenni D/O Jaya Sanger</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wang_fangfang_a@moe.edu.sg" rel="noopener nofollow" target="_blank">wang_fangfang_a@moe.edu.sg</a>
+<p><a href="mailto:Lorshenni_Jaya_Sanger@schools.gov.sg" rel="noopener nofollow" target="_blank">Lorshenni_Jaya_Sanger@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -943,10 +943,10 @@ variant: tiptap
 <p>2 RESPECT (RT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Toh Li Shan</p>
+<p>Mrs Cherlyn Pang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chong_li_shan@moe.edu.sg" rel="noopener nofollow" target="_blank">chong_li_shan@moe.edu.sg</a>
+<p><a href="mailto:koh_may_luang_cherlyn@moe.edu.sg" rel="noopener nofollow" target="_blank">koh_may_luang_cherlyn@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -955,10 +955,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Azura Bte Azmi</p>
+<p>Mr Lim Lai Huat David</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_azura_azmi@moe.edu.sg" rel="noopener nofollow" target="_blank">nur_azura_azmi@moe.edu.sg</a>
+<p><a href="mailto:lim_lai_huat@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_lai_huat@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -967,10 +967,10 @@ variant: tiptap
 <p>2 RESILIENCE (RE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Aw Yong Xin Xin</p>
+<p>Mrs Noelle Sim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:aw_yong_xin_xin@moe.edu.sg" rel="noopener nofollow" target="_blank">aw_yong_xin_xin@moe.edu.sg</a>
+<p><a href="mailto:noelle_tan_ying_xiu@moe.edu.sg" rel="noopener nofollow" target="_blank">noelle_tan_ying_xiu@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -979,10 +979,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Rajkumar (Usharani)</p>
+<p>Mr Huang Zhengqiang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:usharani_rajkumar@moe.edu.sg" rel="noopener nofollow" target="_blank">usharani_rajkumar@moe.edu.sg</a>
+<p><a href="mailto:huang_zhengqiang@moe.edu.sg" rel="noopener nofollow" target="_blank">huang_zhengqiang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -991,10 +991,10 @@ variant: tiptap
 <p>2 RESPONSIBILITY (RY)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Razifah Abdul Rahim</p>
+<p>Mdm Asmidarwaty Abu Bakar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:razifah_abdul_rahim@moe.edu.sg" rel="noopener nofollow" target="_blank">razifah_abdul_rahim@moe.edu.sg</a>
+<p><a href="mailto:asmidarwaty_abu_bakar@moe.edu.sg" rel="noopener nofollow" target="_blank">asmidarwaty_abu_bakar@moe.edu.sg</a>
 </p>
 </td>
 </tr>
