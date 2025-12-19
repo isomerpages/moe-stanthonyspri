@@ -1215,10 +1215,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Yuan Fan</p>
+<p>Ms Lee Suan Khim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_yuan_fan@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_yuan_fan@moe.edu.sg</a>
+<p><a href="mailto:lee_suan_khim@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_suan_khim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1251,10 +1251,10 @@ variant: tiptap
 <p>3 FAITH (FH)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Tay Hwee Bin Jareen</p>
+<p>Mrs Toh Li Shan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tay_hwee_bin_jareen@moe.edu.sg" rel="noopener nofollow" target="_blank">tay_hwee_bin_jareen@moe.edu.sg</a>
+<p><a href="mailto:chong_li_shan@moe.edu.sg" rel="noopener nofollow" target="_blank">chong_li_shan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1263,22 +1263,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Chang Li Ping</p>
+<p>Mdm Nurhuda Bte Mohamed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lek_li_ping@moe.edu.sg" rel="noopener nofollow" target="_blank">lek_li_ping@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Joanne Sam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sam_choi_yoke_a@moe.edu.sg" rel="noopener nofollow" target="_blank">sam_choi_yoke_a@moe.edu.sg</a>
+<p><a href="mailto:nurhuda_mohamed@moe.edu.sg" rel="noopener nofollow" target="_blank">nurhuda_mohamed@moe.edu.sg</a>
 </p>
 </td>
 </tr>
