@@ -1087,10 +1087,10 @@ variant: tiptap
 <p>2 COMMUNITY (CY)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kothai d/o Sellathurai</p>
+<p>Mdm Nur Farahiya Sulaiman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kothai_sellathurai@moe.edu.sg" rel="noopener nofollow" target="_blank">kothai_sellathurai@moe.edu.sg</a>
+<p><a href="mailto:nur_farahiya_sulaiman@moe.edu.sg" rel="noopener nofollow" target="_blank">nur_farahiya_sulaiman@moe.edu.sg</a>
 </p>
 </td>
 </tr>
