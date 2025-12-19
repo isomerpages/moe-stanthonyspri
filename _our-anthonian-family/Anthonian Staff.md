@@ -1456,10 +1456,10 @@ variant: tiptap
 <p>5 GRATITUDE (GE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sarina Sahari</p>
+<p>Ms Sarina Bte Md Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sarina_sahari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarina_sahari@moe.edu.sg</a>
+<p><a href="mailto:sarina_md_ismail@moe.edu.sg" rel="noopener nofollow" target="_blank">sarina_md_ismail@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1588,10 +1588,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Liza Bte Ahmad</p>
+<p>Ms Vanitha d/o Maniam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:liza_ahmad@moe.edu.sg" rel="noopener nofollow" target="_blank">liza_ahmad@moe.edu.sg</a>
+<p><a href="mailto:vanitha_maniam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vanitha_maniam@moe.edu.sg</a>
 </p>
 </td>
 </tr>
