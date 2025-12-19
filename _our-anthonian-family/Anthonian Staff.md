@@ -1552,10 +1552,10 @@ variant: tiptap
 <p>5 RESPONSIBILITY (RY)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lee Li Ying</p>
+<p>Mr Muhammad Hairil Iskandar Bin Rajis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_li_ying_a@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_li_ying_a@moe.edu.sg</a>
+<p><a href="mailto:muhammad_hairil_iskandar_rajis@moe.edu.sg" rel="noopener nofollow" target="_blank">muhammad_hairil_iskandar_rajis@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1564,10 +1564,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Michelle Yim</p>
+<p>Mdm Perminder Kaur Randhawa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:au_lei_san_michelle@moe.edu.sg" rel="noopener nofollow" target="_blank">au_lei_san_michelle@moe.edu.sg</a>
+<p><a href="mailto:perminder_kaur_randhawa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">perminder_kaur_randhawa@moe.edu.sg</a>
 </p>
 </td>
 </tr>
