@@ -1340,6 +1340,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Simon Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_kee_khiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_kee_khiang@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>4 RESILIENCE (RE)</p>
 </td>
 <td rowspan="1" colspan="1">
