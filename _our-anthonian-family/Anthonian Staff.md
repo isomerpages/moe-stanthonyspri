@@ -1456,10 +1456,10 @@ variant: tiptap
 <p>5 GRATITUDE (GE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Khoo Hwei Fang</p>
+<p>Ms Sarina Sahari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:song_hwei_fang@moe.edu.sg" rel="noopener nofollow" target="_blank">song_hwei_fang@moe.edu.sg</a>
+<p><a href="mailto:sarina_sahari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarina_sahari@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1468,10 +1468,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Elamaran</p>
+<p>Mdm Wang Fang Fang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sumathi_kiresnasamy@moe.edu.sg" rel="noopener nofollow" target="_blank">sumathi_kiresnasamy@moe.edu.sg</a>
+<p><a href="mailto:wang_fangfang_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_fangfang_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1480,10 +1480,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Nurhamizah</p>
+<p>Mrs Lina Liow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_nurhamizah_mohd_ebrahim@moe.edu.sg" rel="noopener nofollow" target="_blank">siti_nurhamizah_mohd_ebrahim@moe.edu.sg</a>
+<p><a href="mailto:sim_lu_ping_lina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_lu_ping_lina@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1588,10 +1588,10 @@ variant: tiptap
 <p>5 FAITH (FH)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ang Ben Yong</p>
+<p>Ms Sam Poh Fong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_ben_yong@moe.edu.sg" rel="noopener nofollow" target="_blank">ang_ben_yong@moe.edu.sg</a>
+<p><a href="mailto:sam_poh_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sam_poh_fong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1600,10 +1600,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nancy Tan</p>
+<p>Mr Koh Yen Chieh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_lam_yen@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_lam_yen@moe.edu.sg</a>
+<p><a href="mailto:koh_yen_chieh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_yen_chieh@moe.edu.sg</a>
 </p>
 </td>
 </tr>
