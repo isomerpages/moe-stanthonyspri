@@ -1492,10 +1492,10 @@ variant: tiptap
 <p>5 RESPECT (RT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Edwin Ong</p>
+<p>Mr Aaron Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_shaoxian_edwin@moe.edu.sg" rel="noopener nofollow" target="_blank">ong_shaoxian_edwin@moe.edu.sg</a>
+<p><a href="mailto:goh_ji_en_aaron@moe.edu.sg" rel="noopener nofollow" target="_blank">goh_ji_en_aaron@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1504,10 +1504,22 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ana (Nordiyanah)</p>
+<p>Mdm Aw Yong Xin Xin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nordiyanah_mohamed_hassan@moe.edu.sg" rel="noopener nofollow" target="_blank">nordiyanah_mohamed_hassan@moe.edu.sg</a>
+<p><a href="mailto:aw_yong_xin_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aw_yong_xin_xin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Loh Yang Keng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:loh_yang_keng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_yang_keng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
