@@ -1516,10 +1516,10 @@ variant: tiptap
 <p>5 RESILIENCE (RE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Peter Goh Aik Seng</p>
+<p>Mrs Karen Yip</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_aik_seng_peter@moe.edu.sg" rel="noopener nofollow" target="_blank">goh_aik_seng_peter@moe.edu.sg</a>
+<p><a href="mailto:teh_may_ching_karen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teh_may_ching_karen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1528,10 +1528,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sarina Sahari</p>
+<p>Mdm Wong Lai Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sarina_sahari@moe.edu.sg" rel="noopener nofollow" target="_blank">sarina_sahari@moe.edu.sg</a>
+<p><a href="mailto:wong_lai_lin@moe.edu.sg" rel="noopener nofollow" target="_blank">wong_lai_lin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
