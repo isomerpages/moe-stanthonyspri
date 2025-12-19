@@ -1099,10 +1099,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Yip Jia Ying</p>
+<p>Mrs Ramesh (Gowri d/o Raman Jathu)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeap_jia_ying@moe.edu.sg" rel="noopener nofollow" target="_blank">yeap_jia_ying@moe.edu.sg</a>
+<p><a href="mailto:gowri_raman_jathu@moe.edu.sg" rel="noopener nofollow" target="_blank">gowri_raman_jathu@moe.edu.sg</a>
 </p>
 </td>
 </tr>
