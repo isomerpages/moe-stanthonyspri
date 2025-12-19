@@ -1576,10 +1576,10 @@ variant: tiptap
 <p>5 INTEGRITY (IY)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Kai Ling</p>
+<p>Mdm Zhang Peiqi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_kai_ling_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_kai_ling_a@moe.edu.sg</a>
+<p><a href="mailto:zhang_peiqi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_peiqi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
