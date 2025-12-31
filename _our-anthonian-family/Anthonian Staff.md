@@ -343,6 +343,32 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Subject Head (Internal)
+<br>(PE &amp; CCA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ang Ben Yong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ang_ben_yong@moe.edu.sg" rel="noopener nofollow" target="_blank">ang_ben_yong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Internal)
+<br>(Citizenship &amp; Character Education)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Wang Fang Fang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wang_fangfang_a@moe.edu.sg" rel="noopener nofollow" target="_blank">wang_fangfang_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Senior Teachers</strong>
 </p>
 </td>
@@ -398,6 +424,42 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chan_pei_cheng_jasmine@moe.edu.sg" rel="noopener nofollow" target="_blank">chan_pei_cheng_jasmine@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Zhang Huili</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zhang_huili@moe.edu.sg" rel="noopener nofollow" target="_blank">zhang_huili@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Physical Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Zoom Zakariah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zoom_zakariah@moe.edu.sg" rel="noopener nofollow" target="_blank">zoom_zakariah@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Perminder Kaur Randhawa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:perminder_kaur_randhawa@moe.edu.sg" rel="noopener nofollow" target="_blank">perminder_kaur_randhawa@moe.edu.sg</a>
 </p>
 </td>
 </tr>
