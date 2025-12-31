@@ -754,7 +754,7 @@ variant: tiptap
 <p>1 RESILIENCE (RE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kader Meerah</p>
+<p>Mdm Kader Meerah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kader_meerah_mohd_maideen@moe.edu.sg" rel="noopener nofollow" target="_blank">kader_meerah_mohd_maideen@moe.edu.sg</a>
@@ -790,7 +790,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wong Shyh Jiun</p>
+<p>Mrs Tan Shyh Jiun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_shyh_jiun@moe.edu.sg" rel="noopener nofollow" target="_blank">wong_shyh_jiun@moe.edu.sg</a>
@@ -1552,7 +1552,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wong Lai Lin</p>
+<p>Ms Wong Lai Lin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_lai_lin@moe.edu.sg" rel="noopener nofollow" target="_blank">wong_lai_lin@moe.edu.sg</a>
@@ -1736,7 +1736,7 @@ variant: tiptap
 <p>6 RESPONSIBILITY (RY)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lee Li Ying</p>
+<p>Mrs Xing Li Ying</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_li_ying_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_li_ying_a@moe.edu.sg</a>
@@ -1751,7 +1751,7 @@ variant: tiptap
 <p>Mrs Michelle Yim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sam_poh_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sam_poh_fong@moe.edu.sg</a>
+<p><a href="mailto:au_lei_san_michelle@moe.edu.sg" rel="noopener nofollow" target="_blank">au_lei_san_michelle@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1763,7 +1763,7 @@ variant: tiptap
 <p>Mrs Jasmine Foo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:au_lei_san_michelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">au_lei_san_michelle@moe.edu.sg</a>
+<p><a href="mailto:chan_pei_cheng_jasmine@moe.edu.sg" rel="noopener nofollow" target="_blank">chan_pei_cheng_jasmine@moe.edu.sg</a>
 </p>
 </td>
 </tr>
