@@ -80,10 +80,10 @@ This leadership model promotes responsibility, cooperation, and peer learning.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MR AHMAD TAUFIK BIN AHMAD</p>
+<p>MR HAIRIL ISKANDAR RAJIS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ahmad_taufik_ahmad@moe.edu.sg</a>
+<p><a href="mailto:muhammad_hairil_iskandar_rajis@moe.edu.sg" rel="noopener nofollow" target="_blank">muhammad_hairil_iskandar_rajis@moe.edu.sg</a>
 </p>
 </td>
 </tr>
