@@ -45,6 +45,10 @@ for aesthetic experiences through practices and (school and external) performanc
 </p>
 <p>Mdm Zhang Peiqi <a href="mailto:zhang_peiqi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_peiqi@moe.edu.sg</a>
 </p>
+<p>Ms Yvonne Tan Lian Zhu <a href="mailto:yvonne_tan_lian_zhi@moe.edu.sg" rel="noopener nofollow" target="_blank">yvonne_tan_lian_zhi@moe.edu.sg</a>
+</p>
+<p>Mrs Noelle Sim <a href="mailto:noelle_tan_ying_xiu@moe.edu.sg" rel="noopener nofollow" target="_blank">noelle_tan_ying_xiu@moe.edu.sg</a>
+</p>
 <p><strong>Day(s)/Time:</strong>
 </p>
 <p>Tuesdays (PAL Room) – 2 pm to 4 pm</p>
