@@ -84,13 +84,18 @@ performances and Band Camps.</p>
 </div>
 <p><strong>CCA teachers-in-charge and emails:</strong>
 </p>
-<p>Mdm Lee Kai Ling</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">lee_kai_ling_a@moe.edu.sg</a>
+<p>Ms Nicolette Ho
+<br><a rel="noopener noreferrer nofollow" target="_blank">nicolette_ho_yi_ting@moe.edu.sg</a>
 </p>
-<p>Ms Nicolette Ho</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">nicolette_ho_yi_ting@moe.edu.sg</a>
+<p>Mdm Ong Wen Shin<a rel="noopener noreferrer nofollow" target="_blank"><br></a>
+<a href="mailto:ong_wen_shin@moe.edu.sg" rel="noopener nofollow" target="_blank">ong_wen_shin@moe.edu.sg</a>
 </p>
-<p>Ms Liu Fen<a rel="noopener noreferrer nofollow" target="_blank"><br>liu_fen@moe.edu.sg</a><u><br></u>
+<p>Mdm Nurhuda Bte Mohamed
+<br><a href="mailto:nurhuda_mohamed@moe.edu.sg" rel="noopener nofollow" target="_blank">nurhuda_mohamed@moe.edu.sg</a>
+</p>
+<p>Ms Joey Lee
+<br><a href="mailto:joey_lee_jiaying@moe.edu.sg" rel="noopener nofollow" target="_blank">joey_lee_jiaying@moe.edu.sg</a>
+<br><u><br></u>
 </p>
 <p><strong><em>Venue(s)</em></strong>:
 <br>Band Room</p>
