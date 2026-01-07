@@ -37,8 +37,8 @@ others preparing them to thrive in a digitally connected world.</p>
 <p>Mdm Maryam Ismail</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">maryam_ismail@moe.edu.sg</a>
 </p>
-<p>Ms Loo Ling Ling</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">loo_ling_ling@moe.edu.sg</a>
+<p>Mdm Huang Kun</p>
+<p><a href="mailto:huang_kun@moe.edu.sg" rel="noopener nofollow" target="_blank">huang_kun@moe.edu.sg</a>
 </p>
 <p><strong><em>Day &amp; Time of Training Session</em></strong>:
 <br>
