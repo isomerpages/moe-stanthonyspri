@@ -37,13 +37,17 @@ in the school.</p>
 </div>
 <p><strong>&nbsp;CCA teachers-in-charge and emails:</strong>
 </p>
-<p>Mdm Perminder Kaur Randhawa</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">perminder_kaur_randhawa@moe.edu.sg</a>
+<p>Ms Lee Yuan Fan
+<br><a rel="noopener noreferrer nofollow" target="_blank">lee_yuan_fan@moe.edu.sg</a>
 </p>
-<p>Ms Lee Yuan Fan</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">lee_yuan_fan@moe.edu.sg</a>
+<p>Ms Chan Liea Sun May
+<br><a href="mailto:chan_liea_sun@moe.edu.sg" rel="noopener nofollow" target="_blank">chan_liea_sun@moe.edu.sg</a>
 </p>
-<p>Mdm Nancy <a rel="noopener noreferrer nofollow" target="_blank">Tan<br>tan_lam_yen@moe.edu.sg</a>
+<p>Mdm Perminder Kaur Randhawa
+<br><a href="mailto:perminder_kaur_randhawa@moe.edu.sg" rel="noopener nofollow" target="_blank">perminder_kaur_randhawa@moe.edu.sg</a>
+</p>
+<p>Mdm Asmiddarwaty Binte Abu Bakar
+<br><a href="mailto:asmidarwaty_abu_bakar@moe.edu.sg" rel="noopener nofollow" target="_blank">asmidarwaty_abu_bakar@moe.edu.sg</a>
 </p>
 <p>&nbsp;<strong><em>Day &amp; Time </em></strong>:</p>
 <table style="minWidth: 50px">
