@@ -47,13 +47,17 @@ and character. Our objectives are to -
 </div>
 <p><strong>CCA teachers-in-charge and emails:</strong>
 </p>
-<p><u>Mrs. Ruth Lim</u>
-</p>
+<p>Mrs. Ruth Lim</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">ruth_lim@moe.edu.sg</a>
 </p>
-<p><u>Ms. Mandy </u><a rel="noopener noreferrer nofollow" target="_blank"><u>Chan</u><br>chan_min_yi_mandy@moe.edu.sg</a>
+<p>Mdm Teresa Heo
+<br><a href="mailto:heo_mee_yoon_teresa@moe.edu.sg" rel="noopener nofollow" target="_blank">heo_mee_yoon_teresa@moe.edu.sg</a>
 </p>
-<p><u>Mrs. Josephine </u><a rel="noopener noreferrer nofollow" target="_blank"><u>Lai</u><br>tan_tzy_huey_josephine@moe.edu.sg</a>
+<p>Mrs. Josephine Lai
+<br><a rel="noopener noreferrer nofollow" target="_blank">tan_tzy_huey_josephine@moe.edu.sg</a>
+</p>
+<p>Mrs Yip Jia Ying
+<br><a href="mailto:yeap_jia_ying@moe.edu.sg" rel="noopener nofollow" target="_blank">yeap_jia_ying@moe.edu.sg</a>
 </p>
 <p>&nbsp;<strong><em><u>Venue(s)</u></em></strong>:
 <br>Library&nbsp;</p>
