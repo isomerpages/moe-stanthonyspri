@@ -82,15 +82,18 @@ and cardiovascular exercises.</p>
 </ul>
 <p>&nbsp;<strong>CCA teachers-in-charge and emails:</strong>
 </p>
-<p>Mdm Meerah</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">kader_meerah_mohd_maideen@moe.edu.sg</a>
+<p>Mdm Meerah
+<br><a rel="noopener noreferrer nofollow" target="_blank">kader_meerah_mohd_maideen@moe.edu.sg</a>
 </p>
-<p>Mr Simon Lee</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">lee_kee_khiang@moe.edu.sg</a>
+<p>Mr Simon Lee
+<br><a rel="noopener noreferrer nofollow" target="_blank">lee_kee_khiang@moe.edu.sg</a>
 </p>
-<p>&nbsp;Mrs Jareen Tay</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">tay_hwee_bin_jareen@moe.edu.sg</a>
+<p>&nbsp;Mrs Jareen Tay
+<br><a rel="noopener noreferrer nofollow" target="_blank">tay_hwee_bin_jareen@moe.edu.sg</a>
 </p>
-<p>&nbsp;Mrs Ramesh</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">gowri_raman_jathu@moe.edu.sg</a>
+<p>&nbsp;Mdm Mary Ang
+<br><a href="mailto:ang_mary@moe.edu.sg" rel="noopener nofollow" target="_blank">ang_mary@moe.edu.sg</a>
+</p>
+<p>Mdm Kashmeena Parwyn
+<br><a href="mailto:kashmeena_parwyn@moe.edu.sg" rel="noopener nofollow" target="_blank">kashmeena_parwyn@moe.edu.sg</a>
 </p>
