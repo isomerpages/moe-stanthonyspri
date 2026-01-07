@@ -39,8 +39,17 @@ programme, where they explore the use of sensors and other LEGO components
 to tackle more complex challenges. Some of the competitions that our pupils
 participate in are the First Lego League Series and the IDE Series.</p>
 <p>CCA teacher-in-charge and email:</p>
-<p>Mdm Nur Farahiya</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">nur_farahiya_sulaiman@moe.edu.sg</a>
+<p>Mdm Nur Farahiya
+<br><a rel="noopener noreferrer nofollow" target="_blank">nur_farahiya_sulaiman@moe.edu.sg</a>
+</p>
+<p>Ms Nordiyanah Bte Mohd Hassan
+<br><a href="mailto:nordiyanah_mohamed_hassan@moe.edu.sg" rel="noopener nofollow" target="_blank">nordiyanah_mohamed_hassan@moe.edu.sg</a>
+</p>
+<p>Mrs Jasmine Foo
+<br><a href="mailto:chan_pei_cheng_jasmine@moe.edu.sg" rel="noopener nofollow" target="_blank">chan_pei_cheng_jasmine@moe.edu.sg</a>
+</p>
+<p>Ms Lee Suan Khim
+<br><a href="mailto:lee_suan_khim@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_suan_khim@moe.edu.sg</a>
 </p>
 <p><strong><em>Venue(s)</em></strong>:
 <br>Computer Labs</p>
