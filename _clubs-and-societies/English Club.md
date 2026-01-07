@@ -61,8 +61,8 @@ a scene or</p>
 <p>Mdm Vanitha Maniam</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">vanitha_maniam@moe.edu.sg</a>
 </p>
-<p>Mrs Karen Yip</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">teh_may_ching_karen@moe.edu.sg</a>
+<p>Ms Josephine Tang</p>
+<p><a href="mailto:josephine_limtang@moe.edu.sg" rel="noopener nofollow" target="_blank">josephine_limtang@moe.edu.sg</a>
 </p>
 <p><strong><em>Venue(s):</em></strong>
 <br>Music Room</p>
