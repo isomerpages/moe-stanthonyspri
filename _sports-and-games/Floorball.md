@@ -54,11 +54,17 @@ teamwork, and integrity as proud representatives of the Anthonian community.</p>
 </div>
 <p><strong>CCA teachers-in-charge and emails:</strong>
 </p>
-<p>Mr Andi Iryadi Said</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank"><u>Andi_iryadi_said@moe.edu.sg</u></a>
+<p>Mr Andi Iryadi Said
+<br><a rel="noopener noreferrer nofollow" target="_blank"><u>Andi_iryadi_said@moe.edu.sg</u></a>
 </p>
-<p>Mdm Wang Fangfang</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">Wang_fangfang_a@moe.edu.sg</a>
+<p>Mdm Wang Fangfang
+<br><a rel="noopener noreferrer nofollow" target="_blank">Wang_fangfang_a@moe.edu.sg</a>
+</p>
+<p>Mdm Tan Lam Yen
+<br><a href="mailto:tan_lam_yen@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_lam_yen@moe.edu.sg</a>
+</p>
+<p>Mrs Jammie Chua
+<br><a href="mailto:chuang_jammie@moe.edu.sg" rel="noopener nofollow" target="_blank">chuang_jammie@moe.edu.sg</a>
 </p>
 <p><strong>CCA schedule for 2025:</strong>
 </p>
