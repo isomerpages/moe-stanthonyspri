@@ -62,12 +62,13 @@ It is a celebration of tradition, creativity, and community, where every
 student learns to dance with heart, purpose, and pride.</p>
 <p>&nbsp;<strong>CCA teachers-in-charge and emails:</strong>
 </p>
-<p>Mdm Zhang Huili&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">zhang_huili@moe.edu.sg</a>
+<p>Mrs Michelle Yim <a href="mailto:au_lei_san_michelle@moe.edu.sg" rel="noopener nofollow" target="_blank">au_lei_san_michelle@moe.edu.sg</a>
 </p>
-<p>Mdm Huang Kun <a rel="noopener noreferrer nofollow" target="_blank">huang_kun@moe.edu.sg</a>
+<p>Mdm Zhang Huili&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">zhang_huili@moe.edu.sg</a>
 </p>
 <p>Ms Foo Ying Ting&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">foo_yingting@moe.edu.sg</a>
 </p>
+<p>Mrs Cheryl Tan</p>
 <p>&nbsp;<strong>Day(s)/Time:</strong>
 </p>
 <p>Tuesday 2 p.m. to 4 p.m. at Dance Studio</p>
