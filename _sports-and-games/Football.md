@@ -78,4 +78,17 @@ and cardiovascular exercises.</p>
 <tr></tr>
 </tbody>
 </table>
-<p></p>
+<p>CCA Teachers-in-charge and emails:</p>
+<p>Mr Huang Zhengqiang
+<br><a href="mailto:huang_zhengqiang@moe.edu.sg" rel="noopener nofollow" target="_blank">huang_zhengqiang@moe.edu.sg</a>
+</p>
+<p>Mr Amirul Salihin Bin Said
+<br><a href="mailto:amirul_salihin@moe.edu.sg" rel="noopener nofollow" target="_blank">amirul_salihin@moe.edu.sg</a>
+</p>
+<p>Mr Chan Zhen Yi Benjamin
+<br><a href="mailto:chan_zhen_yi@moe.edu.sg" rel="noopener nofollow" target="_blank">chan_zhen_yi@moe.edu.sg</a>
+</p>
+<p>Mr David Lim Lai Huat
+<br><a href="mailto:lim_lai_huat@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_lai_huat@moe.edu.sg</a>
+<br>
+</p>
