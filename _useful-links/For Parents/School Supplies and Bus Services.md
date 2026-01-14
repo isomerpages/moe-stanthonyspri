@@ -46,6 +46,5 @@ variant: tiptap
 <p><strong>Annway Transport Services</strong>
 <br><strong>Tel: 9476 6639 (Mr Kelvin Wong)</strong>
 </p>
-<p><strong>Bus Fares for 2026 - 2027 </strong><a href="https://for.edu.sg/busfare" rel="noopener nofollow" target="_blank">Click Here</a>
-</p>
+<p></p>
 <p></p>
