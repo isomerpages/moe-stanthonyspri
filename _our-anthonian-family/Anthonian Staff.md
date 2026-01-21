@@ -1900,7 +1900,7 @@ variant: tiptap
 <p>Mrs Chelvan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tamilchelvan_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tamilchelvan_a@moe.edu.sg</a>
+<p><a href="mailto:tamilchelvan_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">k_manimeakelai@moe.edu.sg</a>
 </p>
 </td>
 </tr>
