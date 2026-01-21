@@ -51,6 +51,9 @@ for aesthetic experiences through practices and (school and external) performanc
 </p>
 <p><strong>Day(s)/Time:</strong>
 </p>
-<p>Tuesdays (PAL Room) – 2 pm to 4 pm</p>
-<p>Fridays (Dance Studio) – 2 pm to 4:30 pm</p>
+<p>Prep Team: (recommended for new members)
+<br>Tuesdays (PAL Room) – 2 pm to 4 pm</p>
+<p>SYF Team:
+<br>Tuesdays (SCSS Dance Studio) – 2 pm to 4 pm
+<br>Fridays (SAPS Dance Studio) – 2 pm to 4 pm</p>
 <p></p>

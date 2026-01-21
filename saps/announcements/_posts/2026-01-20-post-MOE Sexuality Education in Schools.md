@@ -1,7 +1,7 @@
 ---
 title: MOE Sexuality Education in Schools
 permalink: /saps/announcements/moe-sexuality-education-in-schools/
-date: 2025-01-22
+date: 2026-01-20
 layout: post
 description: ""
 image: ""
