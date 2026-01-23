@@ -25,6 +25,6 @@ sections:
         - title: Announcements
           description: Moe Sexuality Education in Schools
           linktext: Click here to view the latest updates
-          url: https://cms.isomer.gov.sg/sites/moe-stanthonyspri/resourceRoom/saps/resourceCategory/announcements/editPage/2026-01-20-post-MOE%20Sexuality%20Education%20in%20Schools.md
+          url: /saps/announcements/moe-sexuality-education-in-schools/
       subtitle: Crescit  Eundo
 ---
