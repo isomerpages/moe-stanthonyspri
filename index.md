@@ -23,7 +23,7 @@ sections:
           linktext: Click here
           url: https://www.instagram.com/saps_sg
         - title: Announcements
-          description: ""
+          description: Moe Sexuality Education in Schools
           linktext: Click here to view the latest updates
           url: https://cms.isomer.gov.sg/sites/moe-stanthonyspri/resourceRoom/saps/resourceCategory/announcements
       subtitle: Crescit  Eundo
