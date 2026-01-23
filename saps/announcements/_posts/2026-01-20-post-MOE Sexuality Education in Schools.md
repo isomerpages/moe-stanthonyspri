@@ -58,9 +58,9 @@ Society and Law.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener nofollow" target="_blank">here</a> for
 more information on the scope of Sexuality Education in the school curriculum.</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate topics
-on sexuality include:</p>
-<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science</p>
-<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education
+on sexuality include:
+<br>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science
+<br>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education
 (CCE)</p>
 <p>
 <br><strong><u>Sexuality Education Lessons</u></strong>:
