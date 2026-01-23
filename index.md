@@ -23,8 +23,8 @@ sections:
           linktext: Click here
           url: https://www.instagram.com/saps_sg
         - title: Announcements
-          description: School Canteen Advertisement
+          description: Moe Sexuality Education in Schools
           linktext: Click here to view the latest updates
-          url: https://cms.isomer.gov.sg/sites/moe-stanthonyspri/resourceRoom/saps/resourceCategory/announcements/editPage/2025-10-24-post-School%20Canteen%20Advertisement.md
+          url: https://cms.isomer.gov.sg/sites/moe-stanthonyspri/resourceRoom/saps/resourceCategory/announcements/editPage/2026-01-20-post-MOE%20Sexuality%20Education%20in%20Schools.md
       subtitle: Crescit  Eundo
 ---
