@@ -84,17 +84,17 @@ rewarding relationships with others, including those with members of the
 opposite sex. Students are also guided to make wise, informed and responsible
 decisions to keep themselves safe from sexuality-related risks.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_P5a.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/MOE Sexuality Education/MOE_Sexuality_Image_1.png">
 </div>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE Sexuality Education/MOE_Sexuality_Image_2.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_P6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE Sexuality Education/MOE_Sexuality_Image_3.png">
 </div>
 <p><strong>Information for Parents</strong>
 <br>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their
@@ -102,9 +102,9 @@ children out of Sexuality Education lessons, and/or supplementary Sexuality
 Education programmes by MOE-approved external providers.
 <br>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
 opt their children out of the Sexuality Education lessons need to complete
-an opt-out form. This form will be communicated &nbsp;to parents at the
-start of the year and is also downloadable <a href="https://form.gov.sg/67852c0f12c478fcec4bd9e9" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
-opt-out form is to be submitted by 10/02/2025.
+an opt-out form. This form will be communicated to parents at the start
+of the year and is also available <a href="https://form.gov.sg/696b3d33a61086ee490dbe96" rel="noopener nofollow" target="_blank">here</a> . The completed
+opt-out form is to be submitted by 06/02/2026.
 <br>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact Mrs Karen
 Yip at <a href="mailto:teh_may_ching_karen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teh_may_ching_karen@moe.edu.sg</a> or
 65690822 for discussion or to seek clarification about the school’s Sexuality
