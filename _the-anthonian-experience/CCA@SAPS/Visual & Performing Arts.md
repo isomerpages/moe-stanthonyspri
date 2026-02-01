@@ -14,7 +14,7 @@ variant: tiptap
 </p>
 <p><a href="https://staging.d1z3a7hqoofu2f.amplifyapp.com/the-anthonian-experience/Visual-and-Performing-Arts/Contemporary-Dance/" rel="noopener noreferrer nofollow" target="_blank">Contemporary Dance</a>
 </p>
-<p><a href="https://www.stanthonyspri.moe.edu.sg/the-anthonian-experience/visual-and-performing-arts/visual-arts/" rel="noopener nofollow" target="_blank">Visual Arts</a>
+<p><a href="https://staging.d1z3a7hqoofu2f.amplifyapp.com/the-anthonian-experience/Visual-and-Performing-Arts/visual-arts/" rel="noopener nofollow" target="_blank">Visual Arts</a>
 </p>
 <p><a href="https://staging.d1z3a7hqoofu2f.amplifyapp.com/the-anthonian-experience/Visual-and-Performing-Arts/Visual-Arts/" rel="noopener noreferrer nofollow" target="_blank">Visual Arts</a>
 </p>
