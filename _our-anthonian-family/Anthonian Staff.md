@@ -546,6 +546,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Hayati Mohd yusop</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hayati_mohd_yusop@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hayati_mohd_yusop@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Librarian</p>
 </td>
 <td rowspan="1" colspan="1">
