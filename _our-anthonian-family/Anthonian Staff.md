@@ -1011,7 +1011,7 @@ variant: tiptap
 <p>Ms Lorshenni D/O Jaya Sanger</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Lorshenni_Jaya_Sanger@moe.edu.sg" rel="noopener nofollow" target="_blank">Lorshenni_Jaya_Sanger@moe.edu.sg</a>
+<p><a href="mailto:lorshenni_jaya_sanger_a@moe.edu.sg" rel="noopener nofollow" target="_blank">Lorshenni_Jaya_Sanger@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -2002,10 +2002,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Helen Yeo</p>
+<p>Ms Helen Yeo Seok Suan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:yeo_seok_suan@moe.edu.sg" rel="noopener nofollow" target="_blank">yeo_seok_suan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
