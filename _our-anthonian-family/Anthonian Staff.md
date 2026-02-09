@@ -2009,6 +2009,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Kai Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_kai_ling_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_kai_ling_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>School Counsellors</h4>
