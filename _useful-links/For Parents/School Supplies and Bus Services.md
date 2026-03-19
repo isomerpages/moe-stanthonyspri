@@ -19,6 +19,18 @@ variant: tiptap
 </p>
 <p>Pacific Bookstores Purchase Guide <a href="https://for.edu.sg/bookstorepurchaseguide" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
+<p><a href="https://go.gov.sg/p1-booklist" rel="noopener nofollow" target="_blank">P1 Booklist 2026</a>
+</p>
+<p><a href="https://go.gov.sg/p2-booklist" rel="noopener nofollow" target="_blank">P2 Booklist 2026</a>
+</p>
+<p><a href="https://go.gov.sg/p3-booklist" rel="noopener nofollow" target="_blank">P3 Booklist 2026</a>
+</p>
+<p><a href="https://go.gov.sg/p4-booklist" rel="noopener nofollow" target="_blank">P4 Booklist 2026</a>
+</p>
+<p><a href="https://go.gov.sg/p5-booklist" rel="noopener nofollow" target="_blank">P5 Booklist 2026</a>
+</p>
+<p><a href="https://go.gov.sg/p6-booklist" rel="noopener nofollow" target="_blank">P6 Booklist 2026</a>
+</p>
 <p><strong>Name Tags for primary 1 (2026)</strong>
 <br>Please approach the school bookstore for the school nametag order form.
 <br>
