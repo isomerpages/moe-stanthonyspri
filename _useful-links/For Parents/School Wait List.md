@@ -3,7 +3,7 @@ title: School Wait List
 permalink: /useful-links/permalink/waitlist/
 variant: markdown
 description: ""
-third_nav_title: Others
+third_nav_title: For Parents
 ---
 **Wait List Application Form**
 
