@@ -145,9 +145,9 @@ which students can use to log in.</p>
 <p>Please use the [Forgot Password] function or fill up the <a href="https://form.gov.sg/688036f6b192420741f6ce7d" rel="noopener noreferrer nofollow" target="_blank">online form</a> to
 request for a password reset.</p>
 <p>You are encouraged to perform the Self-service Password Reset provided
-you remember the answers to yourSecurerity Questions. If you don’t remember
-the answers to your security questions, please proceed to fill up the online
-form to request for a password reset.
+you remember the answers to your Security Questions. If you don’t remember
+the answers, please proceed to fill up the online form to request for a
+password reset.
 <br>
 </p>
 <p>Please follow instruction below for Self-Service Password reset:
