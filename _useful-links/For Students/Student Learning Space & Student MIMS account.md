@@ -123,7 +123,7 @@ system and resources. The recommended operating systems and browsers are:</p>
 </table>
 <h4>Tips to create a strong password</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT7ig-oU28rrSEKZENklXgInyF8Ut1z9l2CWBl2ICAVY1b_qmuHJryHoh_8FrEU_k_yvLikw-PQgmwX/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT7ig-oU28rrSEKZENklXgInyF8Ut1z9l2CWBl2ICAVY1b_qmuHJryHoh_8FrEU_k_yvLikw-PQgmwX/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h4>Google Icon</h4>
 <p><strong>FREQUENTLY ASKED QUESTIONS</strong>
@@ -140,7 +140,21 @@ which students can use to log in.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/operating%20systems%20or%20browers.jpg">
 </div>
-<p><strong>Q3. What is the password requirement?</strong> &nbsp;</p>
+<p><strong>Q3: I have forgotten my MIMS password. What should I do?</strong>
+</p>
+<p>Please use the [Forgot Password] function or fill up the <a href="https://form.gov.sg/688036f6b192420741f6ce7d" rel="noopener noreferrer nofollow" target="_blank">online form</a> to
+request for a password reset.</p>
+<p>You are encouraged to perform the Self-service Password Reset provided
+you remember the answers to yourSecurerity Questions. If you don’t remember
+the answers to your security questions, please proceed to fill up the online
+form to request for a password reset.
+<br>
+</p>
+<p>Please follow instruction below for Self-Service Password reset:
+<br><a href="https://go.gov.sg/mims-selfservice-passwordreset" rel="noopener nofollow" target="_blank">MIMS Self-Service Password Reset</a>
+<br>
+</p>
+<p><strong>Q4. What is the password requirement?</strong> &nbsp;</p>
 <p>All new passwords must meet the following criteria:</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -163,7 +177,7 @@ which students can use to log in.</p>
 <br>* Symbols (!, #,$, etc.)</p>
 </li>
 </ol>
-<p><strong>Q4. I have encountered one of the following problems:</strong>
+<p><strong>Q5. I have encountered one of the following problems:</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -195,7 +209,7 @@ repeat the logging in procedure.</p>
 your browser to login.&nbsp;Upon activating Incognito mode, proceed to&nbsp;
 <a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/dashboard</a>&nbsp;and repeat the logging
 in procedure.</p>
-<p><strong>Q5. I receive the following message:&nbsp;Your account is temporarily locked to prevent unauthorized use. What should I do?</strong>
+<p><strong>Q6. I receive the following message:&nbsp;Your account is temporarily locked to prevent unauthorized use. What should I do?</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
