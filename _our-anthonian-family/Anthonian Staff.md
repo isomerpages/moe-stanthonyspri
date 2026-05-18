@@ -1191,7 +1191,8 @@ variant: tiptap
 <p>Mrs Thiru (Sumathi d/o Shanmugasundaram)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Sumathi_Thirunaukrarasu@moe.edu.sg" rel="noopener nofollow" target="_blank">Sumathi_Thirunaukrarasu@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
