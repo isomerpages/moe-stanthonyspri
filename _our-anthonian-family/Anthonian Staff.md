@@ -2039,7 +2039,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Lee Le Xin</p>
+<p>Miss Lexi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_le_xin_a@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_le_xin_a@moe.edu.sg</a>
