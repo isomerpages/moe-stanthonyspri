@@ -43,7 +43,7 @@ variant: tiptap
 <p>Ms Lim Peiwen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_peiwen@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_peiwen@moe.edu.sg</a>
+<p><a href="mailto:lim_peiwen@schools.gov.sg" rel="noopener nofollow" target="_blank">lim_peiwen@schools.gov.sg</a>
 </p>
 </td>
 </tr>
