@@ -56,6 +56,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Kok Boon Siang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tee_leng_teck@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kok_boon_siang@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>Key Personnel and Teacher Leaders</h4>
