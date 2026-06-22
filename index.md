@@ -29,6 +29,6 @@ sections:
         - title: Announcement (New!)
           description: School Tour 2026
           linktext: Click Here for more details
-          url: ""
+          url: https://go.gov.sg/schooltour2026
       subtitle: Crescit  Eundo
 ---
