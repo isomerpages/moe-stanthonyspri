@@ -534,18 +534,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Harianti Abdullah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:harianti_abdullah@moe.edu.sg" rel="noopener nofollow" target="_blank">harianti_abdullah@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Allied Educator (Admin)</p>
 </td>
 <td rowspan="1" colspan="1">

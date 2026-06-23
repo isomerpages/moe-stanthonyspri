@@ -26,5 +26,9 @@ sections:
           description: Moe Sexuality Education in Schools
           linktext: Click here to view the latest updates
           url: /saps/announcements/moe-sexuality-education-in-schools/
+        - title: Announcement (New!)
+          description: School Tour 2026
+          linktext: Click Here for more details
+          url: /saps/announcements/permalink
       subtitle: Crescit  Eundo
 ---
