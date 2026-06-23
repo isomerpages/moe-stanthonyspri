@@ -56,6 +56,24 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Vice- Principal (Admin)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Kok Boon Siang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kok_boon_siang@moe.edu.sg" rel="noopener nofollow" target="_blank">kok_boon_siang@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>Key Personnel and Teacher Leaders</h4>
@@ -94,11 +112,10 @@ variant: tiptap
 <p>HOD (Mother Tongue)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Peter Goh</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_aik_seng_peter@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_aik_seng_peter@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -178,10 +195,10 @@ variant: tiptap
 <p>Year Head (Lower Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kok Boon Siang</p>
+<p>Mr Peter Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kok_boon_siang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kok_boon_siang@moe.edu.sg</a>
+<p><a href="mailto:goh_aik_seng_peter@moe.edu.sg" rel="noopener nofollow" target="_blank">goh_aik_seng_peter@moe.edu.sg</a>
 </p>
 </td>
 </tr>
