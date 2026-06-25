@@ -34,9 +34,7 @@ the community, nurturing both their artistic abilities and sense of social
 responsibility.</p>
 <p><strong>CCA teachers-in-charge and emails:</strong>
 </p>
-<p>Mrs Chang Li Ping
-<br><a href="mailto:lek_li_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lek_li_ping@moe.edu.sg</a>
-</p>
+<p></p>
 <p>Mdm Noorfizah Bte Hasim
 <br><a href="mailto:noorfizah_hasim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noorfizah_hasim@moe.edu.sg</a>
 </p>
