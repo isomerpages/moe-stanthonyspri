@@ -68,7 +68,8 @@ student learns to dance with heart, purpose, and pride.</p>
 </p>
 <p>Ms Foo Ying Ting&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">foo_yingting@moe.edu.sg</a>
 </p>
-<p>Mrs Cheryl Tan</p>
+<p>Mrs Cheryl Tan <a href="mailto:chong_chun_sheun@moe.edu.sg" rel="noopener nofollow" target="_blank">chong_chun_sheun@moe.edu.sg</a>
+</p>
 <p>&nbsp;<strong>Day(s)/Time:</strong>
 </p>
 <p>Tuesday 2 p.m. to 4 p.m. at Dance Studio</p>
