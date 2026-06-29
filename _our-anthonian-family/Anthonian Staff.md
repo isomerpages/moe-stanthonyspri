@@ -70,7 +70,7 @@ variant: tiptap
 <p>Mr Kok Boon Siang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kok_boon_siang@moe.edu.sg" rel="noopener nofollow" target="_blank">kok_boon_siang@moe.edu.sg</a>
+<p><a href="mailto:kok_boon_siang@schools.gov.sg" rel="noopener nofollow" target="_blank">kok_boon_siang@schools.gov.sg</a>
 </p>
 </td>
 </tr>
