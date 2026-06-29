@@ -1250,10 +1250,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lau Kai Yen</p>
+<p>Mrs Thiru (Sumathi d/o Shanmugasundaram)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lau_kai_yen@moe.edu.sg" rel="noopener nofollow" target="_blank">lau_kai_yen@moe.edu.sg</a>
+<p><a href="mailto:Sumathi_Thirunaukrarasu@schools.gov.sg" rel="noopener nofollow" target="_blank">Sumathi_Thirunaukrarasu@schools.gov.sg</a>
 </p>
 </td>
 </tr>
