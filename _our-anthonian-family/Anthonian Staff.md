@@ -1059,6 +1059,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Pamela Gordon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:gordon_pamela_caroline@moe.edu.sg" rel="noopener nofollow" target="_blank">gordon_pamela_caroline@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2 RESPONSIBILITY (RY)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1182,10 +1194,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Thiru (Sumathi d/o Shanmugasundaram)</p>
+<p>Mdm Miao Xiao Dong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Sumathi_Thirunaukrarasu@moe.edu.sg" rel="noopener nofollow" target="_blank">Sumathi_Thirunaukrarasu@moe.edu.sg</a>
+<p><a href="mailto:miao_xiaodong@moe.edu.sg" rel="noopener nofollow" target="_blank">miao_xiaodong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1230,6 +1242,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:santha_suppiah@moe.edu.sg" rel="noopener nofollow" target="_blank">santha_suppiah@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Dylan Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_lai_cheng_dylan@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_lai_cheng_dylan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1302,6 +1326,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lau_kai_yen@moe.edu.sg" rel="noopener nofollow" target="_blank">lau_kai_yen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Vanessa Antoniette</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:vanessa_antoniette_simon@moe.edu.sg" rel="noopener nofollow" target="_blank">vanessa_antoniette_simon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1740,18 +1776,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:song_hwei_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">song_hwei_fang@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Teresa Heo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:heo_mee_yoon_teresa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heo_mee_yoon_teresa@moe.edu.sg</a>
 </p>
 </td>
 </tr>
